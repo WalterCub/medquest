@@ -1,0 +1,492 @@
+{
+  "version": 1,
+  "nota": "Cada pregunta cita textualmente la norma. node tools/validate.mjs comprueba que la cita exista en esa pagina del PDF. Estado BORRADOR hasta que una persona del area confirme que la cita respalda la opcion correcta; entonces VERIFICADA.",
+  "preguntas": [
+    {
+      "id": "MI-AS-01", "area": "MI", "tema": "Asma bronquial",
+      "enunciado": "En la espirometría con prueba broncodilatadora, ¿qué resultado considera la norma como respuesta positiva?",
+      "opciones": ["Aumento del FEV1 de 12% o más y de 200 ml o más respecto al basal", "Aumento del FEV1 de 20% o más y de 400 ml o más respecto al basal", "Aumento del FEV1 de 10% o más, sin importar el volumen", "Caída del FEV1 de 20% o más tras el broncodilatador"],
+      "correcta": 0,
+      "explicacion": "La prueba es positiva si el FEV1 sube al menos 12% y al menos 200 ml. La caída de 20% corresponde a la prueba de broncoconstricción con metacolina.",
+      "fuente": { "id": "nnac-mi", "pagina": 45, "cita": "Es considerada como respuesta positiva un aumento del FEC1 ≥12% y ≥ 200 ml respecto al valor basal tras la administración de broncodilatadores" },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-AS-02", "area": "MI", "tema": "Asma bronquial",
+      "enunciado": "¿Qué resultado de la prueba de broncoconstricción con metacolina apoya el diagnóstico de asma?",
+      "opciones": ["Aumento del FEV1 de 12%", "Caída del FEV1 de 20% o más", "Caída del FEV1 de 5%", "Variabilidad del PEF menor a 10%"],
+      "correcta": 1,
+      "explicacion": "Con metacolina se busca una caída del FEV1 de 20% o más (15% o más si se usa hiperventilación).",
+      "fuente": { "id": "nnac-mi", "pagina": 45, "cita": "Prueba broncoconstricción: Caída del FEV1 ≥ 20% tras administrar metacolina o ≥ 15% si se utiliza hiperventilación" },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-AS-03", "area": "MI", "tema": "Asma bronquial",
+      "enunciado": "En la crisis asmática leve, ¿cómo indica la norma el salbutamol?",
+      "opciones": ["2 inhalaciones con cámara espaciadora cada 20 minutos durante una hora", "Nebulización continua por 4 horas", "2 inhalaciones cada 8 horas por 7 días", "Salbutamol intravenoso en infusión"],
+      "correcta": 0,
+      "explicacion": "Crisis leve (II y III nivel): salbutamol 2 inhalaciones en cámara espaciadora cada 20 minutos durante una hora; si no responde, se sigue el esquema de crisis moderada.",
+      "fuente": { "id": "nnac-mi", "pagina": 49, "cita": "Salbutamol 2 inhalaciones en cámara espaciadora cada 20 minutos durante una hora" },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-AS-04", "area": "MI", "tema": "Asma bronquial",
+      "enunciado": "¿En qué situación indica la norma sulfato de magnesio en el asma?",
+      "opciones": ["En toda crisis moderada, desde el primer nivel", "En la crisis grave, solo en exacerbación severa sin respuesta a la terapia previa", "Como tratamiento de mantenimiento del escalón 3", "Antes del salbutamol, en toda crisis"],
+      "correcta": 1,
+      "explicacion": "Crisis grave, tercer nivel: 2 g IV en 20 minutos, solo en exacerbación severa si no hubo respuesta a la terapia previa.",
+      "fuente": { "id": "nnac-mi", "pagina": 50, "cita": "Sulfato de Magnesio 2 g en Infusión intravenoso en 20 minutos, este sólo en exacerbación severa si no hubo respuesta a terapia previa" },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-AS-05", "area": "MI", "tema": "Asma bronquial",
+      "enunciado": "Una paciente asmática está en tratamiento del escalón 3. Según los criterios de referencia, ¿a dónde se refiere?",
+      "opciones": ["A tercer nivel", "No se refiere: se maneja en primer nivel", "A segundo nivel", "A terapia intensiva"],
+      "correcta": 2,
+      "explicacion": "Escalón 3: referir a II nivel. Escalones 4, 5 o 6: referir a III nivel.",
+      "fuente": { "id": "nnac-mi", "pagina": 51, "cita": "Paciente con tratamiento en escalón 3 referir a II nivel de atención. En escalón 4 o 5 o 6 referir a III nivel" },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-AS-06", "area": "MI", "tema": "Asma bronquial",
+      "enunciado": "Una paciente asmática está embarazada. ¿Qué dice la norma sobre su referencia?",
+      "opciones": ["Referir a III nivel", "Referir a II nivel", "Solo referir si tiene crisis grave", "Manejo en primer nivel con control mensual"],
+      "correcta": 0,
+      "explicacion": "El embarazo figura entre los criterios de referencia del asma: referir a III nivel.",
+      "fuente": { "id": "nnac-mi", "pagina": 51, "cita": "Crisis asmática. Estatus asmático. Embarazo referir a III nivel" },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-AS-07", "area": "MI", "tema": "Asma bronquial",
+      "enunciado": "¿Qué valor de función pulmonar usa la norma como criterio de alta médica en el asma?",
+      "opciones": ["PEF o VEF1 mayor a 50%", "PEF o VEF1 mayor a 70% o normal", "PEF o VEF1 mayor a 90%", "No usa función pulmonar, solo la clínica"],
+      "correcta": 1,
+      "explicacion": "Criterios de alta: resolución o mejoría significativa de los síntomas, PEF o VEF1 mayor a 70% o normal, y ausencia de disnea significativa.",
+      "fuente": { "id": "nnac-mi", "pagina": 51, "cita": "Resolución o mejoría significativa de los síntomas de exacerbación. PEF o VEF1 > 70% o normal" },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-AS-08", "area": "MI", "tema": "Asma bronquial",
+      "enunciado": "¿Cuál es la primera medida de prevención que lista la norma para el asma?",
+      "opciones": ["Vacuna antineumocócica", "Plan educativo mínimo que incluya comprobación de la técnica de inhalación", "Espirometría anual", "Corticoide oral en temporada de frío"],
+      "correcta": 1,
+      "explicacion": "La primera medida es un plan educativo mínimo con comprobación de la técnica de inhalación; después, dejar de fumar y controlar las exposiciones ambientales.",
+      "fuente": { "id": "nnac-mi", "pagina": 51, "cita": "Plan educativo mínimo que incluya comprobación de la técnica de inhalación" },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-NA-01", "area": "MI", "tema": "Neumonía adquirida en la comunidad",
+      "enunciado": "Según la norma, ¿con qué puede confirmarse el diagnóstico de neumonía?",
+      "opciones": ["Con hemograma con leucocitosis", "Con una radiografía de tórax que muestra una nueva sombra que no se debe a ninguna otra causa", "Con procalcitonina elevada", "Con cultivo de esputo positivo"],
+      "correcta": 1,
+      "explicacion": "El diagnóstico se basa en síntomas y signos de infección respiratoria baja aguda y puede confirmarse con una radiografía de tórax con una sombra nueva sin otra causa.",
+      "fuente": { "id": "nnac-mi", "pagina": 201, "cita": "puede confirmarse mediante una radiografía de tórax que muestra una nueva sombra que no se debe a ninguna otra causa" },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-NA-02", "area": "MI", "tema": "Neumonía adquirida en la comunidad",
+      "enunciado": "Un paciente con neumonía tiene CURB-65 de 2. ¿Qué indica la norma?",
+      "opciones": ["Bajo riesgo: tratamiento ambulatorio", "Riesgo intermedio: considerar la posibilidad de ingreso hospitalario", "Alto riesgo: terapia intensiva obligatoria", "Repetir el puntaje en 72 horas antes de decidir"],
+      "correcta": 1,
+      "explicacion": "Grupo 1 (0-1): ambulatorio. Grupo 2 (2): riesgo intermedio, considerar ingreso. Grupo 3 (3 o más): ingreso y posible cuidado intensivo.",
+      "fuente": { "id": "nnac-mi", "pagina": 203, "cita": "Grupo 2 (CURB-65 de 2). Riesgo Intermedio y se debería considerar la posibilidad de ingreso hospitalario" },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-NA-03", "area": "MI", "tema": "Neumonía adquirida en la comunidad",
+      "enunciado": "En el CURB-65, ¿qué valor de urea suma un punto?",
+      "opciones": ["Mayor de 20 mg/dl", "Mayor de 44 mg/dl (o BUN mayor de 19 mg/dl)", "Mayor de 100 mg/dl", "Cualquier valor fuera del rango normal del laboratorio"],
+      "correcta": 1,
+      "explicacion": "U: urea mayor de 44 mg/dl o BUN mayor de 19 mg/dl. La norma advierte no confundir BUN con urea: urea = BUN x 2.146.",
+      "fuente": { "id": "nnac-mi", "pagina": 203, "cita": "U: Urea (mayor de 44 mg/dl o BUN mayor 19 mg / dl)" },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-NA-04", "area": "MI", "tema": "Neumonía adquirida en la comunidad",
+      "enunciado": "Neumonía en paciente ambulatorio sin comorbilidad. ¿Cuál es el antibiótico de elección en la norma?",
+      "opciones": ["Ceftriaxona IV 1 g cada 24 horas", "Amoxicilina VO 1 g cada ocho horas por siete días", "Ciprofloxacina VO 500 mg cada 12 horas", "Levofloxacina VO por 14 días"],
+      "correcta": 1,
+      "explicacion": "Ambulatorio sin comorbilidad: amoxicilina VO 1 g cada 8 horas por 7 días. Alternativa: azitromicina o claritromicina.",
+      "fuente": { "id": "nnac-mi", "pagina": 205, "cita": "Amoxicilina VO 1 g cada ocho horas por siete días" },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-NA-05", "area": "MI", "tema": "Neumonía adquirida en la comunidad",
+      "enunciado": "¿Cuál de estos es un criterio de referencia de la neumonía adquirida en la comunidad según la norma?",
+      "opciones": ["Fiebre mayor a 38 °C", "Saturación de O2 baja", "Tos productiva", "Edad mayor de 40 años"],
+      "correcta": 1,
+      "explicacion": "Criterios de referencia: alteraciones hemodinámicas, saturación de O2 baja y sintomatología persistente al tratamiento ambulatorio.",
+      "fuente": { "id": "nnac-mi", "pagina": 206, "cita": "Alteraciones hemodinámicas. Saturación de O2 baja. Sintomatología persistente al tratamiento ambulatorio" },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-NA-06", "area": "MI", "tema": "Neumonía adquirida en la comunidad",
+      "enunciado": "¿A quién recomienda la norma la vacuna antineumocócica como prevención de la neumonía?",
+      "opciones": ["A todos los adultos sanos", "A mayores de 65 años y personas con comorbilidades", "Solo a menores de 5 años", "Solo a pacientes con VIH"],
+      "correcta": 1,
+      "explicacion": "Se recomienda vacunación antigripal, contra COVID 19 y antineumocócica en mayores de 65 años y con comorbilidades.",
+      "fuente": { "id": "nnac-mi", "pagina": 206, "cita": "Vacunación antigripal para Influenza, COVID 19 y vacuna antineumocócica en mayores de 65 años y con comorbilidades" },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-HT-01", "area": "MI", "tema": "Hipertensión arterial",
+      "enunciado": "¿Cómo define la norma la hipertensión arterial?",
+      "opciones": ["PA mayor o igual a 130/80 mmHg en una sola toma", "PA sistólica mayor o igual a 140 mmHg o diastólica mayor o igual a 90 mmHg, sin causa reversible", "PA sistólica mayor o igual a 160 mmHg", "PA mayor o igual a 120/80 mmHg"],
+      "correcta": 1,
+      "explicacion": "HTA: PAS mayor o igual a 140 o PAD mayor o igual a 90 mmHg en ausencia de una causa reversible, como dolor o consumo de sustancias.",
+      "fuente": { "id": "nnac-mi", "pagina": 143, "cita": "presión arterial (PA) de la sangre es mayor o igual a 140 mmHg (PA Sistólica) o mayor o igual a 90 mmHg (PA diastólica)" },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-HT-02", "area": "MI", "tema": "Hipertensión arterial",
+      "enunciado": "Para confirmar el diagnóstico de hipertensión, ¿cuánto deben estar separados los dos registros de PA?",
+      "opciones": ["Al menos 24 horas", "Al menos siete días", "Al menos tres meses", "No hace falta un segundo registro"],
+      "correcta": 1,
+      "explicacion": "El diagnóstico se establece con dos registros separados por al menos siete días. Si la PAS supera 160 mmHg, se trata sin esperar la segunda medición.",
+      "fuente": { "id": "nnac-mi", "pagina": 146, "cita": "El diagnóstico se establece si en dos registros de PA separados por al menos siete días" },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-HT-03", "area": "MI", "tema": "Hipertensión arterial",
+      "enunciado": "Paciente hipertenso con diabetes (alto riesgo). ¿A partir de qué PA sistólica se inicia la medicación antihipertensiva?",
+      "opciones": ["PAS 130 mmHg o más", "PAS 140 mmHg o más", "PAS 160 mmHg o más", "PAS 120 mmHg o más"],
+      "correcta": 0,
+      "explicacion": "Alto riesgo (ECV establecida, diabetes o ERC): iniciar si la PAS es de 130 mmHg o más, con objetivo menor a 130.",
+      "fuente": { "id": "nnac-mi", "pagina": 148, "cita": "Inicie medicación antihipertensiva si la PAS ≥ 130 mmHg" },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-HT-04", "area": "MI", "tema": "Hipertensión arterial",
+      "enunciado": "En el esquema 1 de la vía clínica de hipertensión, ¿cuál es la dosis inicial?",
+      "opciones": ["Enalapril 10 mg/día", "Losartán 50 mg/día + hidroclorotiazida 12,5 mg/día por 1 mes y reevaluar", "Amlodipina 10 mg/día", "Losartán 100 mg/día + amlodipina 10 mg/día"],
+      "correcta": 1,
+      "explicacion": "Esquema 1: iniciar con losartán 50 mg + hidroclorotiazida 12,5 mg y subir por pasos mensuales. Si sigue fuera de meta, se remite a especialidad.",
+      "fuente": { "id": "nnac-mi", "pagina": 148, "cita": "Dosis inicial: Losartán 50mg/día + hidroclorotiazida 12,5 mg/día por 1 mes y reevaluar" },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-HT-05", "area": "MI", "tema": "Hipertensión arterial",
+      "enunciado": "¿Cuánta sal al día recomienda la norma a un paciente hipertenso?",
+      "opciones": ["Menos de 5 g al día", "Menos de 10 g al día", "Nada de sal", "Menos de 2 g de sodio por comida"],
+      "correcta": 0,
+      "explicacion": "Menos de 5 g de sal al día (aproximadamente una cucharadita rasa), incluida la de los alimentos procesados.",
+      "fuente": { "id": "nnac-mi", "pagina": 148, "cita": "Consumo menor de 5 g de sal al día (aproximadamente una cucharadita rasa)" },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-HT-06", "area": "MI", "tema": "Hipertensión arterial",
+      "enunciado": "Midió la PA en ambos brazos y son distintas. ¿Cuál usa para las evaluaciones siguientes?",
+      "opciones": ["El promedio de ambos", "El brazo derecho, siempre", "El que presente la lectura más elevada", "El que presente la lectura más baja"],
+      "correcta": 2,
+      "explicacion": "Se usa el brazo con la lectura más elevada y se registra en la historia clínica cuál fue.",
+      "fuente": { "id": "nnac-mi", "pagina": 146, "cita": "utilizando para las evaluaciones posteriores aquel que presente la lectura más elevada" },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "CX-RD-01", "area": "CX", "tema": "Fractura distal del radio",
+      "enunciado": "¿Qué mecanismo produce la fractura de Colles, la más frecuente del radio distal?",
+      "opciones": ["Caída con la muñeca en flexión", "Caída con la muñeca en extensión", "Compresión axial del semilunar", "Avulsión ligamentosa por torsión"],
+      "correcta": 1,
+      "explicacion": "Colles: caída con la muñeca en extensión. Smith (Colles invertido): con la muñeca en flexión.",
+      "fuente": { "id": "nnac-tra", "pagina": 59, "cita": "Fractura de Colles: Es la más frecuente. Se produce por una caída con la muñeca en extensión" },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "CX-RD-02", "area": "CX", "tema": "Fractura distal del radio",
+      "enunciado": "¿Qué es la fractura de Smith?",
+      "opciones": ["Intraarticular por cizallamiento", "Extraarticular, por caída con la muñeca en flexión (Colles invertido)", "Fractura de la estiloides radial", "Fractura por compresión axial del semilunar"],
+      "correcta": 1,
+      "explicacion": "Smith o Colles invertido: extraarticular, por caída con la muñeca en flexión.",
+      "fuente": { "id": "nnac-tra", "pagina": 59, "cita": "Smith (Colles invertido): Extraarticular que se produce como consecuencia de una caída con la muñeca en flexión" },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "CX-RD-03", "area": "CX", "tema": "Fractura distal del radio",
+      "enunciado": "¿Cuál es la prueba de imagen inicial de elección para diagnosticar una fractura distal del radio?",
+      "opciones": ["Tomografía computarizada", "Resonancia magnética", "Radiografía simple", "Ecografía"],
+      "correcta": 2,
+      "explicacion": "La radiografía simple (AP y lateral de muñeca) es la de elección. La tomografía ayuda en fracturas intraarticulares y para planificar la cirugía.",
+      "fuente": { "id": "nnac-tra", "pagina": 59, "cita": "la radiografía simple sigue siendo la prueba de imagen inicial de elección para el diagnóstico" },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "CX-RD-04", "area": "CX", "tema": "Fractura distal del radio",
+      "enunciado": "En primer nivel, ante una fractura distal del radio cerrada, ¿qué indica la norma?",
+      "opciones": ["Reducción cerrada y yeso por 6 semanas", "Inmovilización y referencia a II o III nivel", "Antibiótico en dosis única y referencia", "Vendaje y control en 1 semana"],
+      "correcta": 1,
+      "explicacion": "Fractura cerrada en primer nivel: inmovilización y referencia. El antibiótico previo a la referencia es solo para la fractura expuesta.",
+      "fuente": { "id": "nnac-tra", "pagina": 60, "cita": "En fractura cerrada, Inmovilización y referencia a nivel II ó III" },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "CX-RD-05", "area": "CX", "tema": "Fractura distal del radio",
+      "enunciado": "Fractura distal de radio no desplazada, tratada con yeso. ¿Cuánto tiempo indica la norma?",
+      "opciones": ["2 a 3 semanas", "6 a 8 semanas", "12 semanas", "Hasta que no duela"],
+      "correcta": 1,
+      "explicacion": "Yeso o férula durante 6 a 8 semanas y después fisioterapia.",
+      "fuente": { "id": "nnac-tra", "pagina": 60, "cita": "El yeso o la férula deberán usarse durante 6 a 8 semanas y posteriormente el paciente necesitará fisioterapia" },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "CX-RD-06", "area": "CX", "tema": "Fractura distal del radio",
+      "enunciado": "¿Cuál de estos NO figura entre los criterios de referencia de la fractura distal del radio?",
+      "opciones": ["Fractura expuesta", "Fractura desplazada", "Lesiones neurovasculares asociadas", "Paciente mayor de 50 años"],
+      "correcta": 3,
+      "explicacion": "Criterios de referencia: tratamiento quirúrgico, fractura expuesta, inestable, desplazada o con lesiones neurovasculares asociadas. La edad no figura.",
+      "fuente": { "id": "nnac-tra", "pagina": 61, "cita": "Para tratamiento quirúrgico, en fractura expuesta, inestable, desplazada o acompañada de lesiones asociadas neurovasculares" },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "CX-RD-07", "area": "CX", "tema": "Fractura distal del radio",
+      "enunciado": "En la clasificación Müller-AO de la fractura distal del radio, ¿qué es el tipo B?",
+      "opciones": ["Extraarticular", "Intraarticular parcial", "Intraarticular completa", "Fractura expuesta"],
+      "correcta": 1,
+      "explicacion": "Tipo A: extraarticular. Tipo B: intraarticular parcial. Tipo C: intraarticular completa.",
+      "fuente": { "id": "nnac-tra", "pagina": 58, "cita": "tipo A extraarticulares, tipo B intraarticulares parciales y tipo C intraarticulares completas" },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-OF-01", "area": "MI", "tema": "Intoxicación por organofosforados",
+      "enunciado": "Durante la atropinización por intoxicación con organofosforados, ¿cuáles son las metas para dejar de subir la dosis?",
+      "opciones": ["FC mayor o igual a 60, pulmones limpios y SatO2 mayor o igual a 94%", "Midriasis y piel seca", "FC mayor a 120 lpm", "Desaparición de las fasciculaciones"],
+      "correcta": 0,
+      "explicacion": "Se duplica la dosis cada 5 a 10 minutos hasta FC de 60 o más, pulmones limpios y SatO2 de 94% o más. Las fasciculaciones son nicotínicas: la atropina no las revierte.",
+      "fuente": { "id": "nnac-urg", "pagina": 151, "cita": "hasta conseguir que la FC sea mayor igual a 60 latidos por minuto, pulmones limpios y SatO2 mayor igual a 94%" },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-OF-02", "area": "MI", "tema": "Intoxicación por organofosforados",
+      "enunciado": "¿Sobre qué síntomas actúan principalmente las oximas (pralidoxima)?",
+      "opciones": ["Muscarínicos", "Nicotínicos", "Solo sobre el sistema nervioso central", "Sobre ninguno: solo evitan el envejecimiento"],
+      "correcta": 1,
+      "explicacion": "Las oximas actúan principalmente sobre los síntomas nicotínicos; los muscarínicos se controlan con atropina.",
+      "fuente": { "id": "nnac-urg", "pagina": 145, "cita": "Las oximas, tienen un efecto principalmente sobre los síntomas nicotínicos" },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-OF-03", "area": "MI", "tema": "Intoxicación por organofosforados",
+      "enunciado": "En primer nivel, ¿con qué solución se canaliza la vía venosa en la intoxicación por organofosforados?",
+      "opciones": ["Ringer lactato 1000 ml cada 8 horas", "Solución salina isotónica 1000 ml cada ocho horas", "Dextrosa al 5%", "Solución glucosalina"],
+      "correcta": 1,
+      "explicacion": "Solución salina isotónica 1000 ml cada 8 horas. La norma dice expresamente no usar Ringer lactato.",
+      "fuente": { "id": "nnac-urg", "pagina": 150, "cita": "inicialmente solución salina isotónica 1000 ml cada ocho horas; no usar Ringer lactato" },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-OF-04", "area": "MI", "tema": "Intoxicación por organofosforados",
+      "enunciado": "Intoxicación por organofosforado en un intento de suicidio. ¿Qué exige la norma además del tratamiento?",
+      "opciones": ["Denuncia a instancias judiciales", "Interconsulta con psiquiatría o psicología", "Alta con cita en 30 días", "Solo informar a la familia"],
+      "correcta": 1,
+      "explicacion": "Todo caso requiere interconsulta con psiquiatría o psicología si es intento de suicidio. La denuncia judicial corresponde al intento de homicidio.",
+      "fuente": { "id": "nnac-urg", "pagina": 152, "cita": "Todo caso diagnosticado requiere interconsulta con psiquiatría o psicología (intento de suicidio)" },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-OF-05", "area": "MI", "tema": "Intoxicación por organofosforados",
+      "enunciado": "¿Qué inhibición de la colinesterasa eritrocitaria es compatible con intoxicación grave?",
+      "opciones": ["Mayor al 25%", "Mayor al 50%", "Mayor al 75%", "Cualquier inhibición"],
+      "correcta": 2,
+      "explicacion": "Inhibición mayor del 50%: intoxicación aguda moderada. Mayor al 75%: intoxicación grave.",
+      "fuente": { "id": "nnac-urg", "pagina": 149, "cita": "una inhibición mayor al 75% es compatible con una intoxicación grave" },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-OF-06", "area": "MI", "tema": "Intoxicación por organofosforados",
+      "enunciado": "En la prueba de la atropina (1 mg IM y esperar 20 minutos), ¿cuándo se considera positiva para intoxicación por inhibidores de colinesterasa?",
+      "opciones": ["Si la FC sube 50% del valor basal", "Si la FC no cambia respecto al valor basal", "Si aparece midriasis", "Si baja la PA"],
+      "correcta": 1,
+      "explicacion": "Si la FC no cambia, es positiva. Si sube 50%, es negativa. No se hace en pacientes asintomáticos.",
+      "fuente": { "id": "nnac-urg", "pagina": 148, "cita": "Si la FC no cambia con respecto al valor basal registrado con antelación a la prueba, se considera la respuesta POSITIVA" },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-OF-07", "area": "MI", "tema": "Intoxicación por organofosforados",
+      "enunciado": "¿Qué dosis de carbón activado indica la norma para disminuir la absorción del tóxico?",
+      "opciones": ["1 g/kg VO diluido en 100 ml de agua", "10 g/kg VO", "50 g en dosis única en todos los casos", "0,1 g/kg VO"],
+      "correcta": 0,
+      "explicacion": "Carbón activado VO 1 g/kg diluido en 100 ml de agua.",
+      "fuente": { "id": "nnac-urg", "pagina": 151, "cita": "Adsorción del tóxico con carbón activado VO 1 g/Kg. diluido en 100 ml de agua" },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-AN-01", "area": "MI", "tema": "Choque anafiláctico",
+      "enunciado": "¿Cuál es la droga de elección en el choque anafiláctico?",
+      "opciones": ["Hidrocortisona", "Clorfeniramina", "Adrenalina", "Salbutamol"],
+      "correcta": 2,
+      "explicacion": "La adrenalina es la droga de elección y la más eficaz; retrasarla empeora el pronóstico. Antihistamínicos y corticoides son de segunda línea.",
+      "fuente": { "id": "nnac-urg", "pagina": 52, "cita": "Es la droga de elección y la más eficaz en el tratamiento, retardar su administración influye negativamente el pronóstico" },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-AN-02", "area": "MI", "tema": "Choque anafiláctico",
+      "enunciado": "Si no hay compromiso vascular grave, ¿dónde se aplica la adrenalina intramuscular y cuántas veces se puede repetir?",
+      "opciones": ["En el deltoides, una sola dosis", "En la cara anterolateral del muslo, cada 10-15 minutos hasta un máximo de 3 dosis", "En el glúteo, cada hora", "Subcutánea en el abdomen, cada 4 horas"],
+      "correcta": 1,
+      "explicacion": "IM en la cara anterolateral del muslo (la vía IM es más rápida y efectiva), repetible cada 10-15 minutos hasta 3 dosis.",
+      "fuente": { "id": "nnac-urg", "pagina": 51, "cita": "Adrenalina por vía SC o IMen la cara anterolateral del muslo" },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-AN-03", "area": "MI", "tema": "Choque anafiláctico",
+      "enunciado": "¿Por qué la norma considera a los antihistamínicos H1 tratamiento de segunda línea en la anafilaxia?",
+      "opciones": ["Porque están contraindicados", "Porque actúan lentamente y alivian sobre todo los síntomas cutáneos, no los hemodinámicos ni respiratorios", "Porque solo existen por vía oral", "Porque potencian la hipotensión"],
+      "correcta": 1,
+      "explicacion": "Los bloqueadores H1 actúan lento y alivian sobre todo la piel; lo que amenaza la vida es lo hemodinámico y respiratorio.",
+      "fuente": { "id": "nnac-urg", "pagina": 53, "cita": "por lo que se consideran como parte del tratamiento de segunda línea para anafilaxia" },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-AN-04", "area": "MI", "tema": "Choque anafiláctico",
+      "enunciado": "¿Qué dice la norma sobre los corticoides en la anafilaxia?",
+      "opciones": ["Son el tratamiento de primera línea", "No tienen efecto inmediato; buscan disminuir la segunda fase y no deben demorar la adrenalina", "Reemplazan a la adrenalina si el paciente es hipertenso", "Están contraindicados"],
+      "correcta": 1,
+      "explicacion": "Los corticoides no tienen efecto inmediato: buscan disminuir la fase tardía. Nunca deben retrasar la adrenalina.",
+      "fuente": { "id": "nnac-urg", "pagina": 53, "cita": "Corticoides No tienen efecto inmediato. Su objetivo es disminuir la segunda fase de la anafilaxia" },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-AN-05", "area": "MI", "tema": "Choque anafiláctico",
+      "enunciado": "¿En qué posición indica la norma mantener al paciente con choque anafiláctico?",
+      "opciones": ["Sentado a 90°", "Horizontal con las piernas elevadas", "Decúbito prono", "De pie para favorecer la respiración"],
+      "correcta": 1,
+      "explicacion": "Posición horizontal con las piernas elevadas, para aumentar el flujo de sangre al corazón y al cerebro.",
+      "fuente": { "id": "nnac-urg", "pagina": 51, "cita": "Mantener a la persona en posición horizontal y elevar sus piernas para aumentar el flujo de sangre al corazón y al cerebro" },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "PED-DI-01", "area": "PED", "tema": "Diarrea persistente",
+      "enunciado": "¿Qué duración define a la diarrea persistente según la norma?",
+      "opciones": ["3 días o más", "7 días o más", "14 días o más", "30 días o más"],
+      "correcta": 2,
+      "explicacion": "Disminución de la consistencia de las deposiciones con aumento de la frecuencia y duración de 14 días o más.",
+      "fuente": { "id": "nnac-ped", "pagina": 59, "cita": "Disminución de la consistencia de las deposiciones con aumento de su frecuencia y duración de 14 días o más" },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "PED-DI-02", "area": "PED", "tema": "Diarrea persistente",
+      "enunciado": "Diarrea persistente sin deshidratación. ¿Por cuánto tiempo se indica zinc?",
+      "opciones": ["3 días", "7 días", "10 días", "14 días"],
+      "correcta": 3,
+      "explicacion": "Dar vitamina A y zinc por 14 días, además de consejería de alimentación, lactancia y seguimiento.",
+      "fuente": { "id": "nnac-ped", "pagina": 60, "cita": "Dar vitamina A. Dar zinc por 14 días" },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "PED-DI-03", "area": "PED", "tema": "Diarrea persistente",
+      "enunciado": "Niño con diarrea persistente sin deshidratación. ¿Cuándo debe volver a control, aunque esté bien?",
+      "opciones": ["En 48 horas", "Cinco días después", "En un mes", "Solo si empeora"],
+      "correcta": 1,
+      "explicacion": "Seguimiento a los cinco días; antes, si aparecen signos de alarma.",
+      "fuente": { "id": "nnac-ped", "pagina": 60, "cita": "Hacer seguimiento cinco días después" },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "PED-DI-04", "area": "PED", "tema": "Diarrea persistente",
+      "enunciado": "¿Qué dice la norma sobre los antibióticos en la diarrea persistente?",
+      "opciones": ["Dar amoxicilina empírica 5 días", "Evitar dar antibióticos sin resultados de cultivos positivos", "Dar cotrimoxazol si dura más de 14 días", "Dar metronidazol a todos"],
+      "correcta": 1,
+      "explicacion": "Entre las medidas generales: evitar antibióticos sin cultivos positivos.",
+      "fuente": { "id": "nnac-ped", "pagina": 60, "cita": "Evitar dar antibióticos sin resultados de cultivos positivos" },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "PED-DI-05", "area": "PED", "tema": "Diarrea persistente",
+      "enunciado": "¿Cuáles son los criterios de hospitalización de la diarrea persistente?",
+      "opciones": ["Cualquier grado de deshidratación", "Deshidratación moderada a grave y desnutrición moderada a grave", "Más de 5 deposiciones al día", "Fiebre de más de 3 días"],
+      "correcta": 1,
+      "explicacion": "Se hospitaliza con deshidratación moderada a grave o desnutrición moderada a grave.",
+      "fuente": { "id": "nnac-ped", "pagina": 61, "cita": "CRITERIOS DE HOSPITALIZACIÓN Deshidratación moderada a grave. Desnutrición moderada a grave" },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "PED-NE-01", "area": "PED", "tema": "Neumonía grave en menores de 5 años",
+      "enunciado": "Niño con neumonía grave en una ciudad a más de 2.500 msnm. ¿Con qué saturación se indica oxígeno?",
+      "opciones": ["Menor a 95%", "Menor a 90%", "85% o menos", "80% o menos"],
+      "correcta": 2,
+      "explicacion": "A 2.500 msnm o más: oxígeno si la saturación es de 85% o menos. Por debajo de 2.500 msnm: si es menor a 90%.",
+      "fuente": { "id": "nnac-ped", "pagina": 101, "cita": "Ciudades a 2.500 msnm y más de altura, cuando la saturación sea de 85% o menos" },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "PED-NE-02", "area": "PED", "tema": "Neumonía grave en menores de 5 años",
+      "enunciado": "Niño de 2 meses a 5 años con neumonía grave que puede beber. ¿Qué antibiótico indica la norma?",
+      "opciones": ["Amoxicilina VO 90 mg/kg/día cada 12 horas, 10 días", "Ceftriaxona IV 100 mg/kg/día", "Azitromicina VO 5 días", "Penicilina benzatínica IM dosis única"],
+      "correcta": 0,
+      "explicacion": "Si puede beber: amoxicilina VO 90 mg/kg/día cada 12 horas, 10 días. Si no puede beber: penicilina sódica IV.",
+      "fuente": { "id": "nnac-ped", "pagina": 102, "cita": "Si el niño puede beber inicie amoxicilina VO 90 mg/Kg./día fraccionada cada 12 horas, complete 10 días de tratamiento" },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "PED-NE-03", "area": "PED", "tema": "Neumonía grave en menores de 5 años",
+      "enunciado": "En primer nivel va a referir a un niño con neumonía. ¿Qué indica la norma antes de la referencia?",
+      "opciones": ["No dar nada para no enmascarar el cuadro", "Administrar al menos la primera dosis de antibiótico VO", "Nebulizar con salbutamol siempre", "Tomar radiografía antes de referir"],
+      "correcta": 1,
+      "explicacion": "Estabilizar, referir y administrar al menos la primera dosis de antibiótico VO antes de la referencia.",
+      "fuente": { "id": "nnac-ped", "pagina": 101, "cita": "Administre al menos la primera dosis de antibiótico VO previo a la referencia" },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "PED-NE-04", "area": "PED", "tema": "Neumonía grave en menores de 5 años",
+      "enunciado": "¿Qué criterio de referencia da la norma para la neumonía grave en menores de 5 años?",
+      "opciones": ["Fiebre mayor de 39 °C", "Falla de tratamiento evaluada a las 48 horas", "Tos de más de 3 días", "Hemograma con leucocitosis"],
+      "correcta": 1,
+      "explicacion": "Criterio de referencia: falla de tratamiento evaluada a las 48 horas.",
+      "fuente": { "id": "nnac-ped", "pagina": 103, "cita": "CRITERIOS DE REFERENCIA Falla de tratamiento evaluada a las 48 horas" },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "SP-CA-01", "area": "SP", "tema": "Caracterización de establecimientos",
+      "enunciado": "¿Quién atiende un puesto de salud según la norma de caracterización de primer nivel?",
+      "opciones": ["Un médico general", "Personal auxiliar o técnico en enfermería", "Un médico especialista itinerante", "Un bioquímico"],
+      "correcta": 1,
+      "explicacion": "El puesto de salud es atendido por personal auxiliar o técnico en enfermería y depende del centro de salud de influencia.",
+      "fuente": { "id": "carac-1", "pagina": 33, "cita": "Es el establecimiento de salud atendido por personal auxiliar o técnico en enfermería" },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "SP-CA-02", "area": "SP", "tema": "Caracterización de establecimientos",
+      "enunciado": "¿Para qué población aproximada está pensado un puesto de salud?",
+      "opciones": ["500 a 1.000 habitantes", "10.000 a 20.000 habitantes", "20.000 a 50.000 habitantes", "Más de 100.000 habitantes"],
+      "correcta": 0,
+      "explicacion": "Puesto de salud: 500 a 1.000 habitantes. Centro de salud ambulatorio: 10.000 a 20.000.",
+      "fuente": { "id": "carac-1", "pagina": 33, "cita": "Con una población aproximada de 500 a 1000" },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "SP-CA-03", "area": "SP", "tema": "Caracterización de establecimientos",
+      "enunciado": "¿Qué accesibilidad geográfica exige la norma entre un establecimiento de primer nivel y su establecimiento de referencia?",
+      "opciones": ["No mayor a 30 minutos", "No mayor a 2 horas en movilidad", "No mayor a 6 horas", "No fija un límite"],
+      "correcta": 1,
+      "explicacion": "Para todos los tipos de primer nivel: no mayor a 2 horas en movilidad al establecimiento de referencia.",
+      "fuente": { "id": "carac-1", "pagina": 35, "cita": "No mayor a 2 horas en movilidad del Establecimiento de Salud de menor capacidad resolutiva al de mayor referencia" },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "SP-CA-04", "area": "SP", "tema": "Caracterización de establecimientos",
+      "enunciado": "¿Qué servicios complementarios de diagnóstico tiene un puesto de salud?",
+      "opciones": ["Laboratorio básico", "Laboratorio completo e imagenología", "Pruebas rápidas de diagnóstico, por ejemplo la gota gruesa", "Ecografía"],
+      "correcta": 2,
+      "explicacion": "Puesto: pruebas rápidas según perfil epidemiológico (gota gruesa). C.S. con internación: laboratorio básico. C.S. integral: laboratorio completo e imagenología.",
+      "fuente": { "id": "carac-1", "pagina": 37, "cita": "Pruebas rápidas de diagnóstico, ej: examen de la Gota Gruesa" },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "SP-CA-05", "area": "SP", "tema": "Caracterización de establecimientos",
+      "enunciado": "¿Cuál de estos equipos figura en el laboratorio básico de un centro de salud con internación?",
+      "opciones": ["Analizador hematológico", "Tomógrafo", "Espirómetro", "Gasómetro"],
+      "correcta": 0,
+      "explicacion": "El laboratorio básico lista centrífuga, microscopio, analizador hematológico, contador diferencial y lector para hematocrito, entre otros.",
+      "fuente": { "id": "carac-1", "pagina": 121, "cita": "Centrífuga Microscopio Analizador hematológico Contador diferencial Lector para hematocrito" },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "SP-CA-06", "area": "SP", "tema": "Caracterización de establecimientos",
+      "enunciado": "¿Qué tipo de centro de salud cuenta con laboratorio básico según su definición?",
+      "opciones": ["El puesto de salud", "El centro de salud, según sus prestaciones", "Ninguno de primer nivel", "Solo el hospital de segundo nivel"],
+      "correcta": 1,
+      "explicacion": "La definición de centro de salud dice que, según sus prestaciones, atiende partos, internación de tránsito, odontología y cuenta con laboratorio básico.",
+      "fuente": { "id": "carac-1", "pagina": 33, "cita": "atención odontológica y cuenta con laboratorio básico" },
+      "estado": "BORRADOR"
+    }
+  ]
+}

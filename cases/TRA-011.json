@@ -1,0 +1,351 @@
+{
+  "id": "TRA-011",
+  "titulo": "Caida sobre la mano en mujer de 67 anos",
+  "area": "CX",
+  "subarea": "Traumatologia: fractura distal del radio",
+  "dificultad": 1,
+  "estado": "BORRADOR",
+  "tipo": "medico",
+  "nivelesDisponibles": [1, 2, 3],
+  "tiempoSugeridoSeg": 1200,
+  "notaDeAutoria": "La vineta clinica y los resultados de estudios los redacto el autor del caso para que apliquen los criterios de la fuente; NO provienen de un paciente real ni de un caso publicado. Todo el contenido evaluable (definicion, clasificacion, mecanismos, diagnostico, tratamiento por nivel, criterios de referencia, alta y prevencion) proviene del capitulo 11 'Fractura Distal del Radio' de la Norma Nacional de Atencion Clinica de Traumatologia (fuente 0), con la pagina indicada en cada item. El capitulo no trae una seccion de diagnostico diferencial: los diferenciales de la rubrica son los otros tipos de fractura distal de radio que describe la misma fuente. El nivelMinimo de la radiografia se ancla a las normas de caracterizacion de primer nivel (fuente 1) y segundo nivel (fuente 2); en el juego, nivel 1 es el Centro de Salud con Internacion. No se uso un dato del capitulo con error de edicion: la cefazolina indicada 'via oral' en la fractura expuesta (p. 60). Estado BORRADOR: falta verificar cada pagina contra el PDF y la revision por una segunda persona del area.",
+  "presentacionInicial": {
+    "texto": "Mujer de 67 anos llega al establecimiento sosteniendo su antebrazo derecho con la otra mano. Hace una hora se resbalo en la acera mojada y cayo de su propia altura. Tiene mucho dolor en la muneca y no puede moverla. Su nieta la acompana.",
+    "signosVitales": {
+      "Presion arterial": "138/84 mmHg",
+      "Frecuencia cardiaca": "92 lpm",
+      "Frecuencia respiratoria": "18 por minuto",
+      "Temperatura": "36.5 C"
+    },
+    "contexto": "Puedes jugar este caso en primer, segundo o tercer nivel de atencion. El nivel cambia que estudios estan disponibles y cual es la conducta que la norma espera de ti."
+  },
+  "descubrimiento": {
+    "anamnesis": {
+      "etiqueta": "Interrogar a la paciente",
+      "exigeDeclaracionPrevia": true,
+      "items": [
+        { "clave": "mecanismo", "texto": "Al resbalar puso la mano derecha para no golpearse la cara. Cayo con la palma apoyada en el suelo y la muneca doblada hacia atras.", "critico": true },
+        { "clave": "sintomas", "texto": "Dolor intenso en la muneca desde la caida, que se hincho rapido. No puede mover la muneca ni agarrar nada con esa mano.", "critico": true },
+        { "clave": "parestesias", "texto": "No siente hormigueo ni adormecimiento en los dedos. Siente bien cuando se los tocan.", "critico": true },
+        { "clave": "otras_lesiones", "texto": "No se golpeo la cabeza ni perdio el conocimiento. No le duele la cadera ni otra parte del cuerpo." },
+        { "clave": "dominancia", "texto": "Es diestra. Trabaja vendiendo en un puesto del mercado." }
+      ]
+    },
+    "antecedentes": {
+      "etiqueta": "Antecedentes",
+      "exigeDeclaracionPrevia": true,
+      "items": [
+        { "clave": "osteoporosis", "texto": "Menopausia a los 49 anos. Nunca le hicieron estudio de los huesos. No toma calcio ni vitamina D. Hace dos anos se fracturo un dedo del pie con un golpe leve.", "critico": true },
+        { "clave": "caidas", "texto": "Es la segunda vez que se cae este ano. Su casa tiene gradas sin pasamanos." },
+        { "clave": "comorbilidad", "texto": "Hipertension en tratamiento con enalapril. Sin diabetes. No toma anticoagulantes." },
+        { "clave": "muneca_previa", "texto": "Nunca se lesiono esa muneca." }
+      ]
+    },
+    "examenFisico": {
+      "etiqueta": "Examinar a la paciente",
+      "exigeDeclaracionPrevia": true,
+      "items": [
+        { "clave": "deformidad", "texto": "Aumento de volumen y deformidad de la muneca derecha, con el fragmento distal desviado hacia dorsal (aspecto en dorso de tenedor). Dolor intenso a la palpacion del radio distal.", "critico": true },
+        { "clave": "piel", "texto": "Piel integra, sin heridas ni exposicion osea. Equimosis en la cara palmar.", "critico": true },
+        { "clave": "neurovascular", "texto": "Pulso radial presente y simetrico. Llenado capilar de los dedos menor a 2 segundos. Sensibilidad conservada en el territorio del nervio mediano, cubital y radial. Mueve los dedos, con dolor.", "critico": true },
+        { "clave": "codo_hombro", "texto": "Codo y hombro derechos sin dolor ni limitacion." }
+      ]
+    },
+    "gabinete": {
+      "etiqueta": "Gabinete",
+      "items": [
+        {
+          "clave": "rx_muneca",
+          "nombre": "Radiografia de muneca anteroposterior y lateral",
+          "resultado": "Fractura extraarticular de la metafisis distal del radio, a unos 2 cm de la superficie articular, con desplazamiento y angulacion dorsal del fragmento distal. Sin conminucion. Superficie articular respetada. Estiloides cubital sin fractura.",
+          "nivelMinimo": 2,
+          "fuente": 0,
+          "nivelFuente": 2,
+          "nivelPagina": "77, 102",
+          "nivelNota": "En primer nivel solo el Centro de Salud Integral tiene radiologia e imagenologia (norma de primer nivel, Cuadro No 5, p. 37); el hospital de segundo nivel cuenta con imagenologia y ambiente de radiologia (norma de segundo nivel, pp. 77 y 102).",
+          "nivelAnclaje": "COMPLETO"
+        }
+      ]
+    }
+  },
+  "estudiosPlausiblesNoIncluidos": [
+    {
+      "nombre": "Tomografia computarizada de muneca",
+      "preguntaTribunal": "Pidio tomografia. En que tipo de fractura distal de radio la considera util la fuente, y era el caso de esta paciente?",
+      "comentarioFuente": "La fuente la considera de mucha ayuda en las fracturas intraarticulares y para planificar la cirugia (p. 60); esta fractura es extraarticular y el caso no contempla su resultado.",
+      "fuente": 0
+    },
+    {
+      "nombre": "Resonancia magnetica de muneca",
+      "preguntaTribunal": "Pidio resonancia magnetica. Que informacion esperaba que no le diera la radiografia?",
+      "comentarioFuente": "La fuente la menciona como prueba complementaria en algunos casos (p. 59), pero el caso no contempla su resultado.",
+      "fuente": 0
+    },
+    {
+      "nombre": "Densitometria osea",
+      "preguntaTribunal": "Pidio densitometria. Es parte del manejo agudo de la fractura o de otra cosa? Explique.",
+      "comentarioFuente": "La fuente recomienda que las personas mayores de 65 anos con factores de riesgo de osteoporosis hablen con su medico sobre la evaluacion de su salud osea (p. 61), sin detallar el estudio; el caso no contempla su resultado.",
+      "fuente": 0
+    }
+  ],
+  "rubrica": {
+    "diagnosticosEsperados": [
+      {
+        "clave": "dx_fractura",
+        "texto": "Fractura distal del radio (CIE-10 S52.5, fractura de la epifisis inferior del radio): solucion de continuidad osea de la metafisis y la epifisis distal del radio",
+        "valoracion": "ESPERADO",
+        "fuente": 0,
+        "pagina": "58",
+        "sinonimos": ["fractura distal de radio", "fractura distal del radio", "fractura de radio distal", "fractura de muneca", "fractura de radio"],
+        "conceptoLigado": "c_definicion"
+      },
+      {
+        "clave": "dx_colles",
+        "texto": "Fractura de Colles: la mas frecuente, producida por caida con la muneca en extension",
+        "valoracion": "ESPERADO",
+        "fuente": 0,
+        "pagina": "59",
+        "sinonimos": ["colles", "fractura de colles"],
+        "conceptoLigado": "c_mecanismos"
+      },
+      {
+        "clave": "dx_cerrada",
+        "texto": "Fractura cerrada, sin exposicion osea: la fuente diferencia la conducta de primer nivel entre fractura cerrada y expuesta",
+        "valoracion": "ESPERADO",
+        "fuente": 0,
+        "pagina": "60",
+        "sinonimos": ["cerrada", "fractura cerrada", "no expuesta"],
+        "conceptoLigado": "c_primer_nivel"
+      },
+      {
+        "clave": "dx_ao_a",
+        "texto": "Tipo A de la clasificacion Muller-AO: extraarticular",
+        "valoracion": "ACEPTABLE",
+        "fuente": 0,
+        "pagina": "58",
+        "sinonimos": ["ao tipo a", "tipo a", "extraarticular", "extra articular"],
+        "conceptoLigado": "c_clasificacion"
+      },
+      {
+        "clave": "dx_desplazada",
+        "texto": "Fractura desplazada: la fuente la incluye entre los criterios de referencia",
+        "valoracion": "ACEPTABLE",
+        "fuente": 0,
+        "pagina": "61",
+        "sinonimos": ["desplazada", "fractura desplazada", "angulacion dorsal"],
+        "conceptoLigado": "c_referencia"
+      }
+    ],
+    "diagnosticosDiferenciales": [
+      { "clave": "dd_smith", "texto": "Fractura de Smith (Colles invertido): extraarticular, por caida con la muneca en flexion", "valoracion": "ESPERADO", "fuente": 0, "pagina": "59", "sinonimos": ["smith", "fractura de smith", "colles invertido"], "conceptoLigado": "c_mecanismos" },
+      { "clave": "dd_barton", "texto": "Fractura de Rhea-Barton: intraarticular por cizallamiento", "valoracion": "ACEPTABLE", "fuente": 0, "pagina": "59", "sinonimos": ["barton", "rhea barton"], "conceptoLigado": "c_mecanismos" },
+      { "clave": "dd_hutchinson", "texto": "Fractura de Hutchinson: intraarticular por cizallamiento que afecta la estiloides radial", "valoracion": "ACEPTABLE", "fuente": 0, "pagina": "59", "sinonimos": ["hutchinson", "fractura del chofer", "estiloides radial"], "conceptoLigado": "c_mecanismos" },
+      { "clave": "dd_diepunch", "texto": "Fractura die-punch: intraarticular por compresion axial del semilunar", "valoracion": "OPCIONAL", "fuente": 0, "pagina": "59", "sinonimos": ["die punch", "die-punch"], "conceptoLigado": "c_mecanismos" }
+    ],
+    "estudios": [
+      { "clave": "rx_muneca", "texto": "Radiografia anteroposterior y lateral de muneca: la fuente la llama la prueba de imagen inicial de eleccion, que confirma la fractura y determina su ubicacion y gravedad", "valoracion": "ESPERADO", "fuente": 0, "pagina": "59-60", "conceptoLigado": "c_diagnostico" }
+    ],
+    "conductas": [
+      { "clave": "cx_inmovilizacion_prov", "texto": "Inmovilizacion provisional de la extremidad, medida especifica de primer nivel de la fuente", "valoracion": "ESPERADO", "fuente": 0, "pagina": "60", "nivel": [1], "sinonimos": ["inmovilizacion", "inmovilizar", "ferula", "entablillar", "ferulizar", "cabestrillo"], "conceptoLigado": "c_primer_nivel" },
+      { "clave": "cx_analgesia", "texto": "Analgesia. En primer nivel la fuente indica paracetamol 1 g via oral dosis unica; en segundo y tercer nivel, ketorolaco 30-60 mg intravenoso cada 8 horas mientras esta hospitalizada", "valoracion": "ESPERADO", "fuente": 0, "pagina": "60", "nivel": [1, 2, 3], "sinonimos": ["analgesia", "analgesico", "paracetamol", "ketorolaco", "aine", "calmar el dolor"], "conceptoLigado": "c_primer_nivel" },
+      { "clave": "cx_referir", "texto": "Referencia a segundo o tercer nivel: en fractura cerrada la fuente indica inmovilizacion y referencia, y la fractura desplazada es criterio de referencia", "valoracion": "ESPERADO", "fuente": 0, "pagina": "60-61", "nivel": [1], "sinonimos": ["referir", "referencia", "transferir", "derivar", "trasladar", "enviar a segundo nivel", "traumatologia"], "conceptoLigado": "c_referencia" },
+      { "clave": "cx_reduccion_cerrada", "texto": "Reduccion cerrada (incruenta) de la fractura extraarticular desplazada, y luego inmovilizacion con yeso o ferula", "valoracion": "ESPERADO", "fuente": 0, "pagina": "60-61", "nivel": [2, 3], "sinonimos": ["reduccion cerrada", "reduccion incruenta", "reducir", "reduccion y yeso", "reduccion e inmovilizacion", "reduccion bajo anestesia local", "manipulacion"], "conceptoLigado": "c_tratamiento" },
+      { "clave": "cx_yeso", "texto": "Inmovilizacion con aparato de yeso o ferula. La fuente indica usarlo durante 6 a 8 semanas en la fractura no desplazada, seguido de fisioterapia", "valoracion": "ESPERADO", "fuente": 0, "pagina": "60-61", "nivel": [2, 3], "sinonimos": ["yeso", "aparato de yeso", "ferula", "inmovilizacion con yeso", "bota de yeso", "valva"], "conceptoLigado": "c_tratamiento" },
+      { "clave": "cx_fisioterapia", "texto": "Terapia fisica despues de la inmovilizacion para restaurar fuerza y movilidad", "valoracion": "ACEPTABLE", "fuente": 0, "pagina": "60", "nivel": [2, 3], "sinonimos": ["fisioterapia", "terapia fisica", "rehabilitacion"], "conceptoLigado": "c_tratamiento" },
+      { "clave": "cx_informar", "texto": "Informar a la paciente sobre su condicion, la gravedad, el tiempo de tratamiento, los procedimientos con sus riesgos y beneficios, y la necesidad de referir si corresponde", "valoracion": "ACEPTABLE", "fuente": 0, "pagina": "61", "nivel": [1, 2, 3], "sinonimos": ["informar", "explicar", "consentimiento", "orientacion"] },
+      { "clave": "cx_prevencion", "texto": "Prevencion: dieta rica en calcio y vitamina D, ejercicio, prevencion de caidas (iluminacion, pasamanos, calzado antideslizante) y evaluacion de la salud osea en mayores de 65 anos con factores de riesgo de osteoporosis", "valoracion": "ACEPTABLE", "fuente": 0, "pagina": "61", "nivel": [1, 2, 3], "sinonimos": ["calcio", "vitamina d", "prevencion de caidas", "pasamanos", "osteoporosis", "salud osea"], "conceptoLigado": "c_prevencion" },
+      { "clave": "cx_cirugia", "texto": "Reduccion abierta y fijacion con osteosintesis. La fuente la reserva para fracturas intraarticulares, extraarticulares con criterios de inestabilidad y fracturas expuestas; esta fractura es extraarticular, cerrada y sin conminucion", "valoracion": "NO_CONTEMPLADO_POR_LA_FUENTE", "fuente": 0, "pagina": "60-61", "nivel": [2, 3], "sinonimos": ["cirugia", "reduccion abierta", "osteosintesis", "placa", "fijacion interna", "fijador externo", "operar"], "conceptoLigado": "c_tratamiento" },
+      { "clave": "cx_antibiotico", "texto": "Antibiotico profilactico en primer nivel. La fuente indica antibiotico en dosis unica antes de referir solo en la fractura expuesta; esta fractura es cerrada", "valoracion": "NO_CONTEMPLADO_POR_LA_FUENTE", "fuente": 0, "pagina": "60", "nivel": [1], "sinonimos": ["antibiotico", "cefazolina", "cefotaxima", "profilaxis antibiotica"], "conceptoLigado": "c_primer_nivel" }
+    ],
+    "informacionCritica": [
+      { "clave": "mecanismo", "texto": "Mecanismo: caida con la mano extendida y la muneca en extension, la causa mas comun y la que produce la fractura de Colles", "valoracion": "ESPERADO", "fuente": 0, "pagina": "59", "conceptoLigado": "c_mecanismos" },
+      { "clave": "sintomas", "texto": "Dolor, aumento de volumen e impotencia funcional", "valoracion": "ESPERADO", "fuente": 0, "pagina": "59", "conceptoLigado": "c_diagnostico" },
+      { "clave": "parestesias", "texto": "Sintomas neurologicos distales: las lesiones neurovasculares asociadas son criterio de referencia", "valoracion": "ESPERADO", "fuente": 0, "pagina": "61", "conceptoLigado": "c_referencia" },
+      { "clave": "osteoporosis", "texto": "Factores de riesgo de osteoporosis, que la fuente lista como causa de fractura distal de radio por lesiones menores", "valoracion": "ESPERADO", "fuente": 0, "pagina": "59, 61", "conceptoLigado": "c_prevencion" },
+      { "clave": "deformidad", "texto": "Deformidad, inestabilidad y sensibilidad en la zona afectada al examen fisico", "valoracion": "ESPERADO", "fuente": 0, "pagina": "59", "conceptoLigado": "c_diagnostico" },
+      { "clave": "piel", "texto": "Integridad de la piel: define si la fractura es cerrada o expuesta, que cambia la conducta de primer nivel", "valoracion": "ESPERADO", "fuente": 0, "pagina": "60", "conceptoLigado": "c_primer_nivel" },
+      { "clave": "neurovascular", "texto": "Estado neurovascular distal: las lesiones neurovasculares asociadas son criterio de referencia", "valoracion": "ESPERADO", "fuente": 0, "pagina": "61", "conceptoLigado": "c_referencia" }
+    ],
+    "conceptosClave": [
+      { "id": "c_definicion", "enunciado": "La fractura distal del radio (S52.5) es una solucion de continuidad osea de la metafisis y la epifisis distal del radio; incluye las fracturas de Colles y de Smith.", "fuente": 0, "pagina": "58" },
+      { "id": "c_mecanismos", "enunciado": "Colles: la mas frecuente, caida con la muneca en extension. Smith (Colles invertido): extraarticular, caida con la muneca en flexion. Rhea-Barton: intraarticular por cizallamiento. Hutchinson: intraarticular por cizallamiento de la estiloides radial. Die-punch: intraarticular por compresion axial del semilunar.", "fuente": 0, "pagina": "59" },
+      { "id": "c_clasificacion", "enunciado": "Clasificacion Muller-AO: tipo A extraarticular, tipo B intraarticular parcial, tipo C intraarticular completa. La fuente tambien describe Frykman (8 grupos) y Fernandez (5 grupos por mecanismo).", "fuente": 0, "pagina": "58-59" },
+      { "id": "c_diagnostico", "enunciado": "El diagnostico se hace con la evaluacion clinica y la radiografia simple, que es la prueba de imagen inicial de eleccion: anteroposterior y lateral de muneca. La tomografia ayuda en las fracturas intraarticulares y para planificar la cirugia.", "fuente": 0, "pagina": "59-60" },
+      { "id": "c_primer_nivel", "enunciado": "Primer nivel: fractura cerrada, inmovilizacion y referencia a segundo o tercer nivel. Fractura expuesta: cubrir con aposito esteril, inmovilizacion provisional, paracetamol 1 g VO y antibiotico en dosis unica antes de referir.", "fuente": 0, "pagina": "60" },
+      { "id": "c_tratamiento", "enunciado": "Segundo y tercer nivel: fractura estable, reduccion incruenta e inmovilizacion con yeso; fractura inestable o expuesta, reduccion abierta y osteosintesis o fijacion externa. Despues, fisioterapia.", "fuente": 0, "pagina": "60-61" },
+      { "id": "c_referencia", "enunciado": "Criterios de referencia: tratamiento quirurgico, fractura expuesta, inestable, desplazada o con lesiones neurovasculares asociadas. Alta: ausencia de complicaciones. Contrarreferencia: alta de traumatologia para seguimiento y rehabilitacion.", "fuente": 0, "pagina": "61" },
+      { "id": "c_prevencion", "enunciado": "La fuente advierte riesgo futuro de artrosis postraumatica y recomienda dieta con calcio y vitamina D, ejercicio, prevencion de caidas y evaluacion de la salud osea en mayores de 65 anos con factores de riesgo de osteoporosis.", "fuente": 0, "pagina": "61" }
+    ]
+  },
+  "tribunal": [
+    {
+      "id": "t01",
+      "pregunta": "Diga su diagnostico y con que datos de la anamnesis y el examen lo sostiene.",
+      "disparador": { "tipo": "siempre" },
+      "loQueSeEsperaOir": ["Fractura distal del radio, probable Colles", "Caida con la mano extendida y la muneca en extension", "Dolor, aumento de volumen e impotencia funcional", "Deformidad con desviacion dorsal", "Fractura cerrada, sin compromiso neurovascular"],
+      "conceptoLigado": "c_definicion",
+      "fuente": 0
+    },
+    {
+      "id": "t02",
+      "pregunta": "Como distingue por el mecanismo una fractura de Colles de una de Smith? Nombre las otras variantes que describe la fuente.",
+      "disparador": { "tipo": "siempre" },
+      "loQueSeEsperaOir": ["Colles: caida con la muneca en extension, la mas frecuente", "Smith: caida con la muneca en flexion, Colles invertido", "Rhea-Barton, Hutchinson, die-punch y avulsiones"],
+      "conceptoLigado": "c_mecanismos",
+      "fuente": 0
+    },
+    {
+      "id": "t03",
+      "pregunta": "Esta en un Centro de Salud con Internacion, sin rayos X. Que hace con esta paciente, en que orden, y a donde la envia?",
+      "disparador": { "tipo": "siempre" },
+      "loQueSeEsperaOir": ["Inmovilizacion provisional", "Analgesico: paracetamol 1 g via oral dosis unica", "Referencia a segundo o tercer nivel", "Fractura cerrada: no requiere antibiotico"],
+      "conceptoLigado": "c_primer_nivel",
+      "fuente": 0
+    },
+    {
+      "id": "t04",
+      "pregunta": "Suponga que el hueso asomaba por una herida. Que cambia en su conducta de primer nivel?",
+      "disparador": { "tipo": "siempre" },
+      "loQueSeEsperaOir": ["Cubrir con aposito esteril", "Inmovilizacion provisional", "Paracetamol 1 g", "Antibiotico en dosis unica: cefazolina, o cefotaxima 1 g IV si esta canalizada", "Referencia a segundo o tercer nivel"],
+      "conceptoLigado": "c_primer_nivel",
+      "fuente": 0
+    },
+    {
+      "id": "t05",
+      "pregunta": "Pidio radiografia. Que proyecciones, y que le tiene que decir la placa para decidir el tratamiento?",
+      "disparador": { "tipo": "siPidio", "clave": "rx_muneca" },
+      "loQueSeEsperaOir": ["Anteroposterior y lateral de muneca", "Confirma la fractura, su ubicacion y gravedad", "Si es intra o extraarticular", "Si esta desplazada o es inestable"],
+      "conceptoLigado": "c_diagnostico",
+      "fuente": 0
+    },
+    {
+      "id": "t06",
+      "pregunta": "No pidio radiografia. Como decide entre yeso, reduccion cerrada o cirugia sin ella?",
+      "disparador": { "tipo": "siNoPidio", "clave": "rx_muneca" },
+      "loQueSeEsperaOir": ["No se puede: la radiografia simple es la prueba inicial de eleccion", "Define si es intra o extraarticular, desplazada o inestable"],
+      "conceptoLigado": "c_diagnostico",
+      "fuente": 0
+    },
+    {
+      "id": "t07",
+      "pregunta": "Clasifique esta fractura con la clasificacion AO y diga que significa cada tipo.",
+      "disparador": { "tipo": "siempre" },
+      "loQueSeEsperaOir": ["Tipo A: extraarticular (esta paciente)", "Tipo B: intraarticular parcial", "Tipo C: intraarticular completa"],
+      "conceptoLigado": "c_clasificacion",
+      "fuente": 0
+    },
+    {
+      "id": "t08",
+      "pregunta": "Propuso cirugia con osteosintesis. En que fracturas la reserva la fuente, y esta paciente cumple esos criterios?",
+      "disparador": { "tipo": "siConducta", "clave": "cx_cirugia" },
+      "loQueSeEsperaOir": ["Intraarticulares", "Extraarticulares con criterios de inestabilidad", "Expuestas", "Esta fractura es extraarticular, cerrada y sin conminucion: reduccion cerrada y yeso"],
+      "conceptoLigado": "c_tratamiento",
+      "fuente": 0
+    },
+    {
+      "id": "t09",
+      "pregunta": "La fractura esta desplazada y usted no propuso reducirla. Justifique.",
+      "disparador": { "tipo": "siNoConducta", "clave": "cx_reduccion_cerrada" },
+      "loQueSeEsperaOir": ["Extraarticular desplazada: reduccion cerrada y luego yeso o ferula", "Fractura estable: tratamiento conservador con reduccion incruenta"],
+      "conceptoLigado": "c_tratamiento",
+      "fuente": 0
+    },
+    {
+      "id": "t10",
+      "pregunta": "Indico antibiotico en primer nivel. En que situacion lo indica la fuente antes de referir?",
+      "disparador": { "tipo": "siConducta", "clave": "cx_antibiotico" },
+      "loQueSeEsperaOir": ["Solo en fractura expuesta", "Esta fractura es cerrada"],
+      "conceptoLigado": "c_primer_nivel",
+      "fuente": 0
+    },
+    {
+      "id": "t11",
+      "pregunta": "Estando en primer nivel no propuso referir. Justifique frente a la fuente.",
+      "disparador": { "tipo": "siNoConducta", "clave": "cx_referir" },
+      "loQueSeEsperaOir": ["Fractura cerrada en primer nivel: inmovilizacion y referencia a II o III nivel", "La fractura desplazada es criterio de referencia"],
+      "conceptoLigado": "c_referencia",
+      "fuente": 0
+    },
+    {
+      "id": "t12",
+      "pregunta": "No evaluo pulso, llenado capilar ni sensibilidad de la mano. Por que era obligatorio?",
+      "disparador": { "tipo": "siOmitioInfo", "clave": "neurovascular" },
+      "loQueSeEsperaOir": ["Las lesiones neurovasculares asociadas son criterio de referencia", "Cambian la urgencia y el tratamiento"],
+      "conceptoLigado": "c_referencia",
+      "fuente": 0
+    },
+    {
+      "id": "t13",
+      "pregunta": "No reviso la piel sobre la fractura. Que dato perdio?",
+      "disparador": { "tipo": "siOmitioInfo", "clave": "piel" },
+      "loQueSeEsperaOir": ["Si la fractura es cerrada o expuesta", "La expuesta cambia la conducta de primer nivel: aposito esteril y antibiotico en dosis unica"],
+      "conceptoLigado": "c_primer_nivel",
+      "fuente": 0
+    },
+    {
+      "id": "t14",
+      "pregunta": "No pregunto por antecedentes que sugieran huesos fragiles. Por que importa en esta paciente?",
+      "disparador": { "tipo": "siOmitioInfo", "clave": "osteoporosis" },
+      "loQueSeEsperaOir": ["La osteoporosis es causa de fractura distal de radio por lesiones menores", "Mayor de 65 anos con factores de riesgo: evaluar la salud osea"],
+      "conceptoLigado": "c_prevencion",
+      "fuente": 0
+    },
+    {
+      "id": "t15",
+      "pregunta": "Enumere los criterios de referencia de la fractura distal del radio segun la fuente.",
+      "disparador": { "tipo": "siempre" },
+      "loQueSeEsperaOir": ["Para tratamiento quirurgico", "Fractura expuesta", "Inestable", "Desplazada", "Con lesiones neurovasculares asociadas"],
+      "conceptoLigado": "c_referencia",
+      "fuente": 0
+    },
+    {
+      "id": "t16",
+      "pregunta": "La paciente pregunta cuanto tiempo va a tener el yeso y que viene despues. Que le responde?",
+      "disparador": { "tipo": "siempre" },
+      "loQueSeEsperaOir": ["Yeso o ferula durante 6 a 8 semanas", "Despues fisioterapia para recuperar fuerza y movilidad", "Riesgo futuro de artrosis postraumatica"],
+      "conceptoLigado": "c_tratamiento",
+      "fuente": 0
+    },
+    {
+      "id": "t17",
+      "pregunta": "Es su segunda caida del ano y tiene gradas sin pasamanos. Que le indica para prevenir otra fractura?",
+      "disparador": { "tipo": "siempre" },
+      "loQueSeEsperaOir": ["Dieta con calcio y vitamina D", "Ejercicio de fuerza y equilibrio", "Prevencion de caidas: iluminacion, pasamanos, calzado antideslizante", "Evaluacion de la salud osea por ser mayor de 65 con factores de riesgo"],
+      "conceptoLigado": "c_prevencion",
+      "fuente": 0
+    }
+  ],
+  "fuentes": [
+    {
+      "institucion": "Estado Plurinacional de Bolivia. Ministerio de Salud y Deportes. Direccion General de Redes de Servicios de Salud, Unidad de Redes de Servicios de Salud y Calidad, Area del Continuo",
+      "documento": "Norma Nacional de Atencion Clinica de Traumatologia. Serie: Documentos Tecnico Normativos No. 542. La Paz: Industrias Graficas Platinium. 108 p. Deposito legal 4-1-744-2025 P.O.",
+      "anio": "2025",
+      "publicacion": "542",
+      "resolucion": "RM 0456 de 30 de septiembre de 2025",
+      "capitulo": "11. Fractura Distal del Radio (CIE-10 S52.5). Nivel de atencion I - II - III",
+      "pagina": "58-61",
+      "url": "https://www.minsalud.gob.bo/8850-norma-nacional-de-atencion-clinica-nnac",
+      "consultado": "2026-09-22"
+    },
+    {
+      "institucion": "Estado Plurinacional de Bolivia. Ministerio de Salud y Deportes. Direccion General de Servicios de Salud, Unidad de Redes de Servicios de Salud y Calidad",
+      "documento": "Norma Nacional de Caracterizacion de Establecimientos de Salud de Primer Nivel. 2da edicion. Serie: Documentos Tecnico Normativos No. 284. La Paz: Talleres Graficos Tupac Katari. 240 p.",
+      "anio": "2013",
+      "publicacion": "284",
+      "capitulo": "Cap. II, Cuadro No 5 Caracteristicas generales",
+      "pagina": "35-40",
+      "url": "https://www.minsalud.gob.bo/images/Documentacion/redes_salud/Inivelseguro.pdf",
+      "consultado": "2026-09-22"
+    },
+    {
+      "institucion": "Estado Plurinacional de Bolivia. Ministerio de Salud y Deportes. Unidad de Redes de Servicios de Salud y Calidad",
+      "documento": "Norma Nacional de Caracterizacion de Hospitales de Segundo Nivel. Serie: Documentos Tecnico Normativos No. 285. La Paz.",
+      "anio": "2014",
+      "publicacion": "285",
+      "capitulo": "Cap. IV Caracterizacion General del Hospital de Segundo Nivel",
+      "pagina": "77, 102",
+      "url": "https://www.minsalud.gob.bo/images/Documentacion/redes_salud/CAP-4.pdf",
+      "consultado": "2026-09-22"
+    }
+  ]
+}

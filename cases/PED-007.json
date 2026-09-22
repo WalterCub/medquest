@@ -1,0 +1,371 @@
+{
+  "id": "PED-007",
+  "titulo": "Nina de 18 meses con diarrea que no se corta",
+  "area": "PED",
+  "subarea": "Diarrea persistente",
+  "dificultad": 2,
+  "estado": "BORRADOR",
+  "tipo": "medico",
+  "nivelesDisponibles": [1, 2, 3],
+  "tiempoSugeridoSeg": 1500,
+  "notaDeAutoria": "La vineta clinica y los resultados de estudios los redacto el autor del caso para que apliquen los criterios de la fuente; NO provienen de un paciente real ni de un caso publicado. Todo el contenido evaluable (definicion, clasificacion con o sin deshidratacion, tratamiento, examenes, criterios de hospitalizacion, referencia y alta, prevencion) proviene del capitulo 7 'Diarrea, Gastroenteritis de presunto Origen Infeccioso' de la Norma Nacional de Atencion Clinica de Pediatria (fuente 0), que a su vez adapta el cuadro de procedimientos AIEPI (pub. 240, 2013). El capitulo solo desarrolla la diarrea persistente y remite los planes de rehidratacion B y C al cuadro AIEPI sin describirlos; por eso el caso no evalua signos de deshidratacion uno por uno ni planes de rehidratacion, solo la clasificacion. La seccion de definicion del capitulo mezcla criterios de diarrea funcional (p. 59); no se usaron como rubrica. Los nivelMinimo de los estudios se anclan a las normas de caracterizacion de primer nivel (fuente 1) y segundo nivel (fuente 2); en el juego, nivel 1 es el Centro de Salud con Internacion. Estado BORRADOR: falta verificar cada pagina contra el PDF y la revision por una segunda persona del area.",
+  "presentacionInicial": {
+    "texto": "Nina de 18 meses traida por su madre porque 'la diarrea no se le corta'. Tiene deposiciones liquidas desde hace mas de dos semanas. La madre esta preocupada porque en la farmacia le dieron un jarabe antibiotico y no mejoro. La nina esta en brazos, despierta, y juega con las llaves de la madre.",
+    "signosVitales": {
+      "Frecuencia cardiaca": "118 lpm",
+      "Frecuencia respiratoria": "28 por minuto",
+      "Temperatura": "36.7 C",
+      "Peso": "10.4 kg",
+      "Talla": "80 cm"
+    },
+    "contexto": "Puedes jugar este caso en primer, segundo o tercer nivel de atencion. El nivel cambia que estudios estan disponibles y cual es la conducta que la norma espera de ti."
+  },
+  "descubrimiento": {
+    "anamnesis": {
+      "etiqueta": "Interrogar a la madre",
+      "exigeDeclaracionPrevia": true,
+      "items": [
+        { "clave": "duracion", "texto": "Empezo hace 16 dias. Nunca paso un dia entero sin diarrea desde entonces.", "critico": true },
+        { "clave": "caracteristicas", "texto": "Hace 4 a 5 deposiciones al dia, liquidas o muy blandas, amarillentas, sin sangre ni moco. No vomita.", "critico": true },
+        { "clave": "fiebre", "texto": "No tuvo fiebre en ningun momento." },
+        { "clave": "alimentacion", "texto": "Desde que empezo la diarrea le quito la leche y la comida de la olla familiar, y le da solo mates, agua de arroz y galletas. Come menos que antes.", "critico": true },
+        { "clave": "lactancia", "texto": "Todavia le da pecho, pero menos veces porque le dijeron que la leche empeoraba la diarrea.", "critico": true },
+        { "clave": "antibiotico", "texto": "Hace una semana en la farmacia le vendieron un jarabe de amoxicilina, se lo dio tres dias y lo dejo porque no veia mejoria. No le hicieron ningun examen.", "critico": true },
+        { "clave": "sed_orina", "texto": "Toma liquidos con normalidad, no con desesperacion. Moja panales como siempre." }
+      ]
+    },
+    "antecedentes": {
+      "etiqueta": "Antecedentes",
+      "exigeDeclaracionPrevia": true,
+      "items": [
+        { "clave": "agua", "texto": "En la casa toman agua de un tanque comunitario, sin hervir. Guardan el agua en un balde destapado.", "critico": true },
+        { "clave": "crecimiento", "texto": "En el carnet de salud infantil su peso venia en el canal normal hasta el mes pasado." },
+        { "clave": "vitaminas", "texto": "Su ultima dosis de vitamina A fue hace mas de seis meses. Nunca recibio zinc." },
+        { "clave": "vacunas", "texto": "Vacunas completas para la edad, incluida rotavirus." }
+      ]
+    },
+    "examenFisico": {
+      "etiqueta": "Examinar a la nina",
+      "exigeDeclaracionPrevia": true,
+      "items": [
+        { "clave": "deshidratacion", "texto": "Alerta y reactiva. Ojos no hundidos, llora con lagrimas, boca humeda. Bebe con normalidad cuando se le ofrece agua. El pliegue cutaneo del abdomen regresa de inmediato.", "critico": true },
+        { "clave": "nutricion", "texto": "Peso para la talla dentro de lo normal, sin emaciacion visible ni edemas en los pies.", "critico": true },
+        { "clave": "abdomen", "texto": "Abdomen blando, depresible, ruidos hidroaereos aumentados, sin masas ni dolor a la palpacion." },
+        { "clave": "perianal", "texto": "Leve eritema perianal." }
+      ]
+    },
+    "laboratorio": {
+      "etiqueta": "Laboratorio",
+      "items": [
+        {
+          "clave": "coproparasitologico",
+          "nombre": "Coproparasitologico",
+          "resultado": "No se observan quistes ni trofozoitos de parasitos en la muestra.",
+          "nivelMinimo": 1,
+          "fuente": 0,
+          "nivelFuente": 1,
+          "nivelPagina": "115, 121",
+          "nivelNota": "La norma de primer nivel preve en el Centro de Salud con Internacion toma de muestras con microscopia (p. 115) y microscopio en el laboratorio basico (p. 121).",
+          "nivelAnclaje": "COMPLETO"
+        },
+        {
+          "clave": "hemograma",
+          "nombre": "Hemograma y VES",
+          "resultado": "Hemoglobina 11.2 g/dl. Leucocitos 9.100/mm3 con formula normal. VES 12 mm/h.",
+          "nivelMinimo": 1,
+          "fuente": 0,
+          "nivelFuente": 1,
+          "nivelPagina": "37, 121",
+          "nivelNota": "La norma de primer nivel asigna laboratorio basico al Centro de Salud con Internacion, con analizador hematologico, contador diferencial, lector de hematocrito y gradilla para sedimentacion globular.",
+          "nivelAnclaje": "COMPLETO"
+        },
+        {
+          "clave": "coprocultivo",
+          "nombre": "Coprocultivo",
+          "resultado": "Sin desarrollo de bacterias enteropatogenas.",
+          "nivelMinimo": 2,
+          "fuente": 0,
+          "nivelFuente": 1,
+          "nivelPagina": "121, 204",
+          "nivelNota": "La microbiologia figura en el laboratorio completo del Centro de Salud Integral (norma de primer nivel, p. 204), no en el laboratorio basico del Centro de Salud con Internacion (p. 121). Falta confirmar el detalle en la norma de segundo nivel (cap. XIII).",
+          "nivelAnclaje": "PARCIAL"
+        },
+        {
+          "clave": "urocultivo",
+          "nombre": "Urocultivo",
+          "resultado": "Sin desarrollo bacteriano.",
+          "nivelMinimo": 2,
+          "fuente": 0,
+          "nivelFuente": 1,
+          "nivelPagina": "121, 204",
+          "nivelNota": "La microbiologia figura en el laboratorio completo del Centro de Salud Integral (norma de primer nivel, p. 204), no en el laboratorio basico del Centro de Salud con Internacion (p. 121). Falta confirmar el detalle en la norma de segundo nivel (cap. XIII).",
+          "nivelAnclaje": "PARCIAL"
+        },
+        {
+          "clave": "proteinas",
+          "nombre": "Proteinas totales y albumina",
+          "resultado": "Proteinas totales 6.3 g/dl. Albumina 3.8 g/dl.",
+          "nivelMinimo": 2,
+          "fuente": 0,
+          "nivelFuente": 1,
+          "nivelPagina": "121, 204",
+          "nivelNota": "El laboratorio basico del Centro de Salud con Internacion no lista equipo de bioquimica (norma de primer nivel, p. 121); la bioquimica aparece en el laboratorio completo del Centro de Salud Integral (p. 204). Falta confirmar el detalle en la norma de segundo nivel (cap. XIII).",
+          "nivelAnclaje": "PARCIAL"
+        }
+      ]
+    }
+  },
+  "estudiosPlausiblesNoIncluidos": [
+    {
+      "nombre": "pH y sustancias reductoras en heces",
+      "preguntaTribunal": "Pidio pH y sustancias reductoras en heces. Que buscaba y como cambiaria la alimentacion segun el resultado?",
+      "comentarioFuente": "La fuente los lista entre los examenes complementarios (p. 60) y en el tratamiento indica retirar alimentos con exceso de lactosa (p. 61); el caso no contempla su resultado.",
+      "fuente": 0
+    },
+    {
+      "nombre": "Identificacion de virus en heces",
+      "preguntaTribunal": "Pidio identificacion de virus en heces. Que decision habria cambiado con el resultado?",
+      "comentarioFuente": "La fuente lo lista segun disponibilidad (p. 60); el caso no contempla su resultado.",
+      "fuente": 0
+    },
+    {
+      "nombre": "Test de aliento de hidrogeno",
+      "preguntaTribunal": "Pidio test de aliento de hidrogeno. Es un estudio de primera linea en esta nina? Justifique.",
+      "comentarioFuente": "La fuente lo lista entre los examenes complementarios (p. 60); el caso no contempla su resultado.",
+      "fuente": 0
+    },
+    {
+      "nombre": "Electrolitos sericos",
+      "preguntaTribunal": "Pidio electrolitos. Con que dato del examen fisico justifica pedirlos en una nina sin deshidratacion?",
+      "comentarioFuente": "El capitulo no los lista entre los examenes complementarios; el caso no contempla su resultado.",
+      "fuente": 0
+    }
+  ],
+  "rubrica": {
+    "diagnosticosEsperados": [
+      {
+        "clave": "dx_persistente",
+        "texto": "Diarrea persistente: disminucion de la consistencia de las deposiciones con aumento de su frecuencia y duracion de 14 dias o mas (CIE-10 A09, diarrea y gastroenteritis de presunto origen infeccioso)",
+        "valoracion": "ESPERADO",
+        "fuente": 0,
+        "pagina": "59",
+        "sinonimos": ["diarrea persistente", "diarrea cronica", "diarrea prolongada", "enfermedad diarreica persistente"],
+        "conceptoLigado": "c_definicion"
+      },
+      {
+        "clave": "dx_sin_deshidratacion",
+        "texto": "Clasificacion AIEPI: diarrea persistente sin deshidratacion",
+        "valoracion": "ESPERADO",
+        "fuente": 0,
+        "pagina": "60",
+        "sinonimos": ["sin deshidratacion", "no deshidratada", "sin signos de deshidratacion", "diarrea persistente sin deshidratacion"],
+        "conceptoLigado": "c_clasificacion"
+      }
+    ],
+    "diagnosticosDiferenciales": [
+      { "clave": "dd_funcional", "texto": "Diarrea funcional: la fuente la describe cuando los sintomas llevan al menos 6 meses y en mas del 75% de las deposiciones en los ultimos 3 meses", "valoracion": "ACEPTABLE", "fuente": 0, "pagina": "59", "sinonimos": ["diarrea funcional"], "conceptoLigado": "c_definicion" },
+      { "clave": "dd_no_infecciosa", "texto": "Diarrea no infecciosa (K52.9), que la fuente excluye del codigo A09", "valoracion": "ACEPTABLE", "fuente": 0, "pagina": "59", "sinonimos": ["diarrea no infecciosa", "no infecciosa"], "conceptoLigado": "c_definicion" }
+    ],
+    "estudios": [
+      { "clave": "coproparasitologico", "texto": "Coproparasitologico", "valoracion": "ACEPTABLE", "fuente": 0, "pagina": "60" },
+      { "clave": "coprocultivo", "texto": "Coprocultivo: la fuente condiciona el antibiotico a un cultivo positivo", "valoracion": "ACEPTABLE", "fuente": 0, "pagina": "60", "conceptoLigado": "c_antibiotico" },
+      { "clave": "hemograma", "texto": "Hemograma, VES y frotis periferico", "valoracion": "OPCIONAL", "fuente": 0, "pagina": "60" },
+      { "clave": "urocultivo", "texto": "Urocultivo", "valoracion": "OPCIONAL", "fuente": 0, "pagina": "60" },
+      { "clave": "proteinas", "texto": "Proteinas totales, electroforesis de proteinas y prealbumina", "valoracion": "OPCIONAL", "fuente": 0, "pagina": "60" }
+    ],
+    "conductas": [
+      { "clave": "cx_vitamina_a", "texto": "Dar vitamina A", "valoracion": "ESPERADO", "fuente": 0, "pagina": "60", "nivel": [1, 2, 3], "sinonimos": ["vitamina a", "vit a", "retinol"], "conceptoLigado": "c_clasificacion" },
+      { "clave": "cx_zinc", "texto": "Dar zinc por 14 dias", "valoracion": "ESPERADO", "fuente": 0, "pagina": "60", "nivel": [1, 2, 3], "sinonimos": ["zinc", "sulfato de zinc"], "conceptoLigado": "c_clasificacion" },
+      { "clave": "cx_alimentacion", "texto": "Explicar a la madre como alimentar a la nina: continuar la alimentacion con alimentos blandos, evitar comidas de dificil digestion, condimentadas, procesadas o ultraprocesadas, y no agregar alimentos nuevos mientras dure la diarrea", "valoracion": "ESPERADO", "fuente": 0, "pagina": "60-61", "nivel": [1, 2, 3], "sinonimos": ["alimentacion", "continuar alimentacion", "no suspender la alimentacion", "dieta blanda", "alimentos blandos", "consejeria nutricional"], "conceptoLigado": "c_alimentacion" },
+      { "clave": "cx_lactancia", "texto": "Recomendar a la madre que continue dandole el pecho; lactancia complementaria hasta los 2 anos", "valoracion": "ESPERADO", "fuente": 0, "pagina": "60-61", "nivel": [1, 2, 3], "sinonimos": ["lactancia", "pecho", "leche materna", "seno materno", "amamantar"], "conceptoLigado": "c_alimentacion" },
+      { "clave": "cx_seguimiento", "texto": "Hacer seguimiento cinco dias despues", "valoracion": "ESPERADO", "fuente": 0, "pagina": "60", "nivel": [1, 2, 3], "sinonimos": ["seguimiento", "control en 5 dias", "control en cinco dias", "cita de control", "reevaluar"], "conceptoLigado": "c_clasificacion" },
+      { "clave": "cx_signos_alarma", "texto": "Indicar a la madre los signos de alarma por los que debe volver de inmediato", "valoracion": "ESPERADO", "fuente": 0, "pagina": "60", "nivel": [1, 2, 3], "sinonimos": ["signos de alarma", "signos de peligro", "cuando volver", "volver de inmediato"], "conceptoLigado": "c_clasificacion" },
+      { "clave": "cx_lactosa", "texto": "Retirar alimentos con exceso de lactosa o dar los de bajo contenido, como el yogurt", "valoracion": "ACEPTABLE", "fuente": 0, "pagina": "61", "nivel": [1, 2, 3], "sinonimos": ["lactosa", "yogurt", "sin lactosa", "deslactosada"], "conceptoLigado": "c_alimentacion" },
+      { "clave": "cx_prevencion", "texto": "Prevencion: agua hervida o clorada, envases limpios de abertura pequena y cubiertos, lavado de manos con agua y jabon antes de preparar o servir alimentos y despues de ir al bano", "valoracion": "ACEPTABLE", "fuente": 0, "pagina": "61", "nivel": [1, 2, 3], "sinonimos": ["agua hervida", "hervir el agua", "clorar el agua", "lavado de manos", "higiene", "prevencion"], "conceptoLigado": "c_prevencion" },
+      { "clave": "cx_antibiotico", "texto": "Antibiotico empirico. La fuente indica evitar dar antibioticos sin resultados de cultivos positivos", "valoracion": "NO_CONTEMPLADO_POR_LA_FUENTE", "fuente": 0, "pagina": "60", "nivel": [1, 2, 3], "sinonimos": ["antibiotico", "amoxicilina", "cotrimoxazol", "ciprofloxacina", "azitromicina", "antibioticoterapia"], "conceptoLigado": "c_antibiotico" },
+      { "clave": "cx_referir", "texto": "Referencia urgente al hospital. La fuente la indica en la diarrea persistente con deshidratacion y ante signos de alarma como deshidratacion o desnutricion; esta nina no tiene ninguno", "valoracion": "NO_CONTEMPLADO_POR_LA_FUENTE", "fuente": 0, "pagina": "60-61", "nivel": [1], "sinonimos": ["referir", "referencia", "transferir", "derivar", "trasladar"], "conceptoLigado": "c_referencia" },
+      { "clave": "cx_hospitalizar", "texto": "Hospitalizacion. La fuente la reserva para deshidratacion moderada a grave o desnutricion moderada a grave; esta nina no tiene ninguna", "valoracion": "NO_CONTEMPLADO_POR_LA_FUENTE", "fuente": 0, "pagina": "61", "nivel": [2, 3], "sinonimos": ["hospitalizar", "hospitalizacion", "internar", "internacion"], "conceptoLigado": "c_referencia" }
+    ],
+    "informacionCritica": [
+      { "clave": "duracion", "texto": "Duracion de la diarrea: 14 dias o mas define la diarrea persistente", "valoracion": "ESPERADO", "fuente": 0, "pagina": "59", "conceptoLigado": "c_definicion" },
+      { "clave": "caracteristicas", "texto": "Consistencia y frecuencia de las deposiciones", "valoracion": "ESPERADO", "fuente": 0, "pagina": "59", "conceptoLigado": "c_definicion" },
+      { "clave": "alimentacion", "texto": "Como se esta alimentando: la fuente indica continuar la alimentacion y explicar a la madre como alimentar a la nina", "valoracion": "ESPERADO", "fuente": 0, "pagina": "60-61", "conceptoLigado": "c_alimentacion" },
+      { "clave": "lactancia", "texto": "Lactancia materna: la fuente indica continuarla", "valoracion": "ESPERADO", "fuente": 0, "pagina": "60-61", "conceptoLigado": "c_alimentacion" },
+      { "clave": "antibiotico", "texto": "Antibiotico previo sin cultivo, que la fuente indica evitar", "valoracion": "ESPERADO", "fuente": 0, "pagina": "60", "conceptoLigado": "c_antibiotico" },
+      { "clave": "agua", "texto": "Fuente y almacenamiento del agua, base de las medidas preventivas", "valoracion": "ACEPTABLE", "fuente": 0, "pagina": "61", "conceptoLigado": "c_prevencion" },
+      { "clave": "deshidratacion", "texto": "Signos de deshidratacion: definen si es diarrea persistente con o sin deshidratacion, y con ello la referencia urgente", "valoracion": "ESPERADO", "fuente": 0, "pagina": "60", "conceptoLigado": "c_clasificacion" },
+      { "clave": "nutricion", "texto": "Estado nutricional: la desnutricion moderada a grave es criterio de hospitalizacion y la desnutricion es signo de alarma para referir", "valoracion": "ESPERADO", "fuente": 0, "pagina": "61", "conceptoLigado": "c_referencia" }
+    ],
+    "conceptosClave": [
+      { "id": "c_definicion", "enunciado": "La fuente define la diarrea persistente por la disminucion de la consistencia de las deposiciones con aumento de la frecuencia y duracion de 14 dias o mas; sus criterios AIEPI aplican a ninos de 2 meses a 5 anos.", "fuente": 0, "pagina": "59" },
+      { "id": "c_clasificacion", "enunciado": "Sin signos de deshidratacion: diarrea persistente sin deshidratacion, con vitamina A, zinc por 14 dias, explicar la alimentacion, continuar el pecho, seguimiento a los 5 dias y signos de alarma. Con signos de deshidratacion: tratar la deshidratacion segun plan B o C y referir urgentemente al hospital.", "fuente": 0, "pagina": "60" },
+      { "id": "c_alimentacion", "enunciado": "La fuente indica lactancia materna a libre demanda y exclusiva en menores de 6 meses y complementaria hasta los 2 anos, alimentacion continua con alimentos blandos, retirar alimentos con exceso de lactosa y no agregar alimentos nuevos durante la diarrea.", "fuente": 0, "pagina": "61" },
+      { "id": "c_antibiotico", "enunciado": "Entre las medidas generales la fuente indica evitar dar antibioticos sin resultados de cultivos positivos.", "fuente": 0, "pagina": "60" },
+      { "id": "c_referencia", "enunciado": "Criterios de hospitalizacion: deshidratacion moderada a grave y desnutricion moderada a grave. Criterio de referencia: signos de alarma como deshidratacion o desnutricion. Contrarreferencia: seguimiento y tratamiento nutricional. Alta: remision del cuadro clinico.", "fuente": 0, "pagina": "61" },
+      { "id": "c_prevencion", "enunciado": "Prevencion: agua hervida o clorada, agua potable para preparar alimentos, lavado de manos con agua y jabon, envases limpios cubiertos de abertura pequena, no comer alimentos crudos ni cultivados con aguas residuales.", "fuente": 0, "pagina": "61" }
+    ]
+  },
+  "tribunal": [
+    {
+      "id": "t01",
+      "pregunta": "Diga su diagnostico y clasifiquelo segun el cuadro AIEPI que adopta la fuente. Que datos usa?",
+      "disparador": { "tipo": "siempre" },
+      "loQueSeEsperaOir": ["Diarrea persistente: 16 dias, 14 o mas", "Deposiciones liquidas frecuentes", "Sin signos de deshidratacion: alerta, ojos normales, lagrimas, bebe normal, pliegue regresa inmediato", "Clasificacion: diarrea persistente sin deshidratacion"],
+      "conceptoLigado": "c_clasificacion",
+      "fuente": 0
+    },
+    {
+      "id": "t02",
+      "pregunta": "Enumere todo lo que la fuente indica para una diarrea persistente sin deshidratacion. Sin olvidar ninguno.",
+      "disparador": { "tipo": "siempre" },
+      "loQueSeEsperaOir": ["Vitamina A", "Zinc por 14 dias", "Explicar a la madre como alimentarla", "Continuar el pecho", "Seguimiento a los 5 dias", "Signos de alarma para volver de inmediato"],
+      "conceptoLigado": "c_clasificacion",
+      "fuente": 0
+    },
+    {
+      "id": "t03",
+      "pregunta": "La madre le quito la comida y redujo el pecho porque 'la leche empeora la diarrea'. Que le dice, en concreto?",
+      "disparador": { "tipo": "siempre" },
+      "loQueSeEsperaOir": ["Continuar el pecho, complementario hasta los 2 anos", "No suspender la alimentacion: alimentos blandos, faciles de digerir", "Evitar condimentados, procesados y ultraprocesados", "No agregar alimentos nuevos mientras dure la diarrea", "Reducir alimentos con exceso de lactosa; el yogurt se puede dar"],
+      "conceptoLigado": "c_alimentacion",
+      "fuente": 0
+    },
+    {
+      "id": "t04",
+      "pregunta": "Si esta misma nina tuviera signos de deshidratacion, que cambiaria en su conducta y en que orden?",
+      "disparador": { "tipo": "siempre" },
+      "loQueSeEsperaOir": ["Clasificaria diarrea persistente con deshidratacion", "Tratar la deshidratacion segun plan B o C antes de referir", "Referir urgentemente al hospital con las recomendaciones de transporte", "Continuar el pecho"],
+      "conceptoLigado": "c_clasificacion",
+      "fuente": 0
+    },
+    {
+      "id": "t05",
+      "pregunta": "Indico antibiotico. Que dice la fuente sobre antibioticos en la diarrea persistente?",
+      "disparador": { "tipo": "siConducta", "clave": "cx_antibiotico" },
+      "loQueSeEsperaOir": ["Evitar antibioticos sin resultados de cultivos positivos"],
+      "conceptoLigado": "c_antibiotico",
+      "fuente": 0
+    },
+    {
+      "id": "t06",
+      "pregunta": "No pregunto si ya habia recibido medicamentos. Que dato importante se perdio?",
+      "disparador": { "tipo": "siOmitioInfo", "clave": "antibiotico" },
+      "loQueSeEsperaOir": ["Recibio amoxicilina de farmacia sin cultivo", "La fuente indica evitar antibioticos sin cultivo positivo", "Hay que explicarlo a la madre"],
+      "conceptoLigado": "c_antibiotico",
+      "fuente": 0
+    },
+    {
+      "id": "t07",
+      "pregunta": "Refirio a la nina al hospital. Que criterio de referencia de la fuente cumple?",
+      "disparador": { "tipo": "siConducta", "clave": "cx_referir" },
+      "loQueSeEsperaOir": ["Ninguno: no tiene deshidratacion ni desnutricion", "La diarrea persistente sin deshidratacion se maneja con vitamina A, zinc, alimentacion y seguimiento"],
+      "conceptoLigado": "c_referencia",
+      "fuente": 0
+    },
+    {
+      "id": "t08",
+      "pregunta": "Propuso hospitalizarla. Cuales son los criterios de hospitalizacion de la fuente y cual cumple ella?",
+      "disparador": { "tipo": "siConducta", "clave": "cx_hospitalizar" },
+      "loQueSeEsperaOir": ["Deshidratacion moderada a grave", "Desnutricion moderada a grave", "Esta nina no cumple ninguno"],
+      "conceptoLigado": "c_referencia",
+      "fuente": 0
+    },
+    {
+      "id": "t09",
+      "pregunta": "No indico zinc. Por cuanto tiempo lo indica la fuente en la diarrea persistente?",
+      "disparador": { "tipo": "siNoConducta", "clave": "cx_zinc" },
+      "loQueSeEsperaOir": ["Zinc por 14 dias"],
+      "conceptoLigado": "c_clasificacion",
+      "fuente": 0
+    },
+    {
+      "id": "t10",
+      "pregunta": "No indico vitamina A. Donde aparece en el tratamiento de la fuente?",
+      "disparador": { "tipo": "siNoConducta", "clave": "cx_vitamina_a" },
+      "loQueSeEsperaOir": ["Es la primera indicacion en la diarrea persistente sin deshidratacion"],
+      "conceptoLigado": "c_clasificacion",
+      "fuente": 0
+    },
+    {
+      "id": "t11",
+      "pregunta": "No fijo una fecha de control. Cuando debe volver esta nina segun la fuente, aunque este bien?",
+      "disparador": { "tipo": "siNoConducta", "clave": "cx_seguimiento" },
+      "loQueSeEsperaOir": ["Seguimiento cinco dias despues", "Antes si aparecen signos de alarma"],
+      "conceptoLigado": "c_clasificacion",
+      "fuente": 0
+    },
+    {
+      "id": "t12",
+      "pregunta": "No busco signos de deshidratacion. Sin ese dato, puede clasificar la diarrea y decidir si refiere?",
+      "disparador": { "tipo": "siOmitioInfo", "clave": "deshidratacion" },
+      "loQueSeEsperaOir": ["No: la clasificacion depende de si hay o no signos de deshidratacion", "Con deshidratacion se trata segun plan B o C y se refiere urgente"],
+      "conceptoLigado": "c_clasificacion",
+      "fuente": 0
+    },
+    {
+      "id": "t13",
+      "pregunta": "No evaluo el estado nutricional. Por que era obligatorio en una diarrea de 16 dias?",
+      "disparador": { "tipo": "siOmitioInfo", "clave": "nutricion" },
+      "loQueSeEsperaOir": ["La desnutricion moderada a grave es criterio de hospitalizacion", "La desnutricion es signo de alarma para referir", "La contrarreferencia es para seguimiento y tratamiento nutricional"],
+      "conceptoLigado": "c_referencia",
+      "fuente": 0
+    },
+    {
+      "id": "t14",
+      "pregunta": "Pidio coprocultivo. Que decision depende de su resultado?",
+      "disparador": { "tipo": "siPidio", "clave": "coprocultivo" },
+      "loQueSeEsperaOir": ["Solo con cultivo positivo se justifica el antibiotico"],
+      "conceptoLigado": "c_antibiotico",
+      "fuente": 0
+    },
+    {
+      "id": "t15",
+      "pregunta": "En la casa toman agua del tanque sin hervir, guardada en un balde destapado. Que le recomienda a la familia?",
+      "disparador": { "tipo": "siempre" },
+      "loQueSeEsperaOir": ["Hervir o clorar el agua", "Guardarla en envases limpios, de abertura pequena y cubiertos", "Lavado de manos con agua y jabon antes de preparar o servir alimentos y despues del bano", "Usar agua potable para preparar los alimentos"],
+      "conceptoLigado": "c_prevencion",
+      "fuente": 0
+    },
+    {
+      "id": "t16",
+      "pregunta": "Cuales son los criterios de alta y de contrarreferencia de la diarrea persistente segun la fuente?",
+      "disparador": { "tipo": "siempre" },
+      "loQueSeEsperaOir": ["Alta: remision del cuadro clinico", "Contrarreferencia: seguimiento y continuar tratamiento nutricional"],
+      "conceptoLigado": "c_referencia",
+      "fuente": 0
+    }
+  ],
+  "fuentes": [
+    {
+      "institucion": "Estado Plurinacional de Bolivia. Ministerio de Salud y Deportes. Direccion General de Redes de Servicios de Salud, Unidad de Redes de Servicios de Salud y Calidad, Area del Continuo",
+      "documento": "Norma Nacional de Atencion Clinica de Pediatria. Serie: Documentos Tecnico Normativos No. 541. La Paz: Industrias Graficas Platinium. 166 p. Deposito legal 4-1-745-2025 P.O.",
+      "anio": "2025",
+      "publicacion": "541",
+      "resolucion": "RM 0456 de 30 de septiembre de 2025",
+      "capitulo": "7. Diarrea, Gastroenteritis de presunto Origen Infeccioso (CIE-10 A09). Nivel de atencion I - II - III",
+      "pagina": "59-61",
+      "url": "https://www.minsalud.gob.bo/8850-norma-nacional-de-atencion-clinica-nnac",
+      "consultado": "2026-09-22"
+    },
+    {
+      "institucion": "Estado Plurinacional de Bolivia. Ministerio de Salud y Deportes. Direccion General de Servicios de Salud, Unidad de Redes de Servicios de Salud y Calidad",
+      "documento": "Norma Nacional de Caracterizacion de Establecimientos de Salud de Primer Nivel. 2da edicion. Serie: Documentos Tecnico Normativos No. 284. La Paz: Talleres Graficos Tupac Katari. 240 p.",
+      "anio": "2013",
+      "publicacion": "284",
+      "capitulo": "Cap. II, Cuadro No 5 Caracteristicas generales (pp. 35-40); Cap. IV Centro de Salud con Internacion (pp. 115-121); Cap. VI Centro de Salud Integral (p. 204)",
+      "pagina": "35-40, 115-121, 204",
+      "url": "https://www.minsalud.gob.bo/images/Documentacion/redes_salud/Inivelseguro.pdf",
+      "consultado": "2026-09-22"
+    },
+    {
+      "institucion": "Estado Plurinacional de Bolivia. Ministerio de Salud y Deportes. Unidad de Redes de Servicios de Salud y Calidad",
+      "documento": "Norma Nacional de Caracterizacion de Hospitales de Segundo Nivel. Serie: Documentos Tecnico Normativos No. 285. La Paz.",
+      "anio": "2014",
+      "publicacion": "285",
+      "capitulo": "Cap. IV Caracterizacion General del Hospital de Segundo Nivel",
+      "pagina": "77",
+      "url": "https://www.minsalud.gob.bo/images/Documentacion/redes_salud/CAP-4.pdf",
+      "consultado": "2026-09-22"
+    }
+  ]
+}

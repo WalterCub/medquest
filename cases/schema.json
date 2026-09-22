@@ -1,0 +1,221 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "medquest/case",
+  "title": "Caso MedQuest",
+  "description": "Estructura comun de todo caso. Todo contenido evaluable debe ser trazable a una entrada de 'fuentes' mediante el campo 'fuente'. El motor nunca genera informacion clinica: si no esta aqui, no existe.",
+  "type": "object",
+  "required": ["id", "titulo", "area", "dificultad", "estado", "tipo", "presentacionInicial", "descubrimiento", "rubrica", "tribunal", "fuentes"],
+  "additionalProperties": false,
+  "properties": {
+    "id": { "type": "string", "pattern": "^[A-Z]{2,4}-[0-9]{3}$" },
+    "titulo": { "type": "string", "minLength": 4 },
+    "area": { "enum": ["MI", "CX", "GO", "PED", "SP", "DEMO"] },
+    "subarea": { "type": "string" },
+    "dificultad": { "type": "integer", "minimum": 1, "maximum": 5 },
+    "estado": { "enum": ["BORRADOR", "BIBLIOGRAFIA_VERIFICADA", "VALIDADO"] },
+    "tipo": { "enum": ["medico", "prueba"] },
+    "nivelesDisponibles": {
+      "description": "Niveles de atencion en los que este caso puede jugarse. Filtra estudios y cambia la rubrica de conducta.",
+      "type": "array",
+      "items": { "enum": [1, 2, 3] }
+    },
+    "tiempoSugeridoSeg": { "type": "integer", "minimum": 60 },
+    "notaDeAutoria": {
+      "description": "Declara explicitamente que parte del caso redacto el autor y que parte proviene de la fuente.",
+      "type": "string"
+    },
+
+    "presentacionInicial": {
+      "type": "object",
+      "required": ["texto"],
+      "additionalProperties": false,
+      "properties": {
+        "texto": { "type": "string", "minLength": 20 },
+        "signosVitales": { "type": "object", "additionalProperties": { "type": "string" } },
+        "contexto": { "type": "string" }
+      }
+    },
+
+    "descubrimiento": {
+      "description": "Informacion que el caso puede revelar. Nada fuera de aqui existe.",
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "anamnesis": { "$ref": "#/definitions/grupoRevelable" },
+        "antecedentes": { "$ref": "#/definitions/grupoRevelable" },
+        "examenFisico": { "$ref": "#/definitions/grupoRevelable" },
+        "laboratorio": { "$ref": "#/definitions/grupoEstudios" },
+        "gabinete": { "$ref": "#/definitions/grupoEstudios" },
+        "otrosEstudios": { "$ref": "#/definitions/grupoEstudios" }
+      }
+    },
+
+    "estudiosPlausiblesNoIncluidos": {
+      "description": "Estudios que la jugadora puede pedir con sentido y que el caso no contempla. No se evaluan como error: generan pregunta de tribunal.",
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["nombre", "preguntaTribunal"],
+        "additionalProperties": false,
+        "properties": {
+          "nombre": { "type": "string" },
+          "preguntaTribunal": { "type": "string" },
+          "comentarioFuente": { "type": "string" },
+          "fuente": { "type": "integer" }
+        }
+      }
+    },
+
+    "rubrica": {
+      "type": "object",
+      "required": ["diagnosticosEsperados", "diagnosticosDiferenciales", "estudios", "conductas", "conceptosClave"],
+      "additionalProperties": false,
+      "properties": {
+        "diagnosticosEsperados": { "type": "array", "minItems": 1, "items": { "$ref": "#/definitions/itemRubrica" } },
+        "diagnosticosDiferenciales": { "type": "array", "items": { "$ref": "#/definitions/itemRubrica" } },
+        "estudios": { "type": "array", "items": { "$ref": "#/definitions/itemRubrica" } },
+        "conductas": { "type": "array", "items": { "$ref": "#/definitions/itemRubrica" } },
+        "informacionCritica": {
+          "description": "Datos de anamnesis o examen sin los cuales el caso no se sostiene. Su omision genera pregunta de tribunal.",
+          "type": "array",
+          "items": { "$ref": "#/definitions/itemRubrica" }
+        },
+        "conceptosClave": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "object",
+            "required": ["id", "enunciado", "fuente"],
+            "additionalProperties": false,
+            "properties": {
+              "id": { "type": "string" },
+              "enunciado": { "type": "string" },
+              "fuente": { "type": "integer" },
+              "pagina": { "type": "string" }
+            }
+          }
+        }
+      }
+    },
+
+    "tribunal": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["id", "pregunta", "disparador"],
+        "additionalProperties": false,
+        "properties": {
+          "id": { "type": "string" },
+          "pregunta": { "type": "string" },
+          "disparador": {
+            "type": "object",
+            "required": ["tipo"],
+            "additionalProperties": false,
+            "properties": {
+              "tipo": { "enum": ["siempre", "siPidio", "siNoPidio", "siDiagnostico", "siNoDiagnostico", "siConducta", "siNoConducta", "siOmitioInfo"] },
+              "clave": { "type": "string" }
+            }
+          },
+          "loQueSeEsperaOir": { "type": "array", "items": { "type": "string" } },
+          "conceptoLigado": { "type": "string" },
+          "fuente": { "type": "integer" }
+        }
+      }
+    },
+
+    "fuentes": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["institucion", "documento", "anio"],
+        "additionalProperties": false,
+        "properties": {
+          "institucion": { "type": "string" },
+          "documento": { "type": "string" },
+          "anio": { "type": "string" },
+          "publicacion": { "type": "string" },
+          "resolucion": { "type": "string" },
+          "capitulo": { "type": "string" },
+          "pagina": { "type": "string" },
+          "url": { "type": "string" },
+          "consultado": { "type": "string" }
+        }
+      }
+    }
+  },
+
+  "definitions": {
+    "grupoRevelable": {
+      "description": "Se revela despues de que la jugadora declare por escrito que iba a buscar. El motor registra su declaracion en el DecisionLog.",
+      "type": "object",
+      "required": ["items"],
+      "additionalProperties": false,
+      "properties": {
+        "etiqueta": { "type": "string" },
+        "exigeDeclaracionPrevia": { "type": "boolean" },
+        "items": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "object",
+            "required": ["clave", "texto"],
+            "additionalProperties": false,
+            "properties": {
+              "clave": { "type": "string" },
+              "texto": { "type": "string" },
+              "critico": { "type": "boolean" }
+            }
+          }
+        }
+      }
+    },
+    "grupoEstudios": {
+      "type": "object",
+      "required": ["items"],
+      "additionalProperties": false,
+      "properties": {
+        "etiqueta": { "type": "string" },
+        "items": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["clave", "nombre", "resultado"],
+            "additionalProperties": false,
+            "properties": {
+              "clave": { "type": "string" },
+              "nombre": { "type": "string" },
+              "resultado": { "type": "string" },
+              "nivelMinimo": { "description": "Nivel de atencion desde el cual el estudio esta disponible.", "enum": [1, 2, 3] },
+              "fuente": { "type": "integer" },
+              "nivelFuente": { "description": "Indice en 'fuentes' de la norma de caracterizacion que respalda nivelMinimo. Sin esto, el nivel es criterio del autor.", "type": "integer" },
+              "nivelPagina": { "type": "string" },
+              "nivelNota": { "description": "Que dice la norma: el equipo o servicio que existe (o falta) en ese nivel. Se muestra a la jugadora cuando el estudio esta bloqueado.", "type": "string" },
+              "nivelAnclaje": { "description": "COMPLETO si la norma confirma que el estudio no esta en el nivel inferior y si esta en nivelMinimo; PARCIAL si solo confirma una de las dos cosas.", "enum": ["COMPLETO", "PARCIAL"] }
+            }
+          }
+        }
+      }
+    },
+    "itemRubrica": {
+      "type": "object",
+      "required": ["clave", "texto", "valoracion", "fuente"],
+      "additionalProperties": false,
+      "properties": {
+        "clave": { "type": "string" },
+        "texto": { "type": "string" },
+        "valoracion": { "enum": ["ESPERADO", "ACEPTABLE", "OPCIONAL", "NO_CONTEMPLADO_POR_LA_FUENTE"] },
+        "fuente": { "type": "integer" },
+        "pagina": { "type": "string" },
+        "nivel": {
+          "description": "Solo si la fuente diferencia la conducta por nivel de atencion.",
+          "type": "array",
+          "items": { "enum": [1, 2, 3] }
+        },
+        "sinonimos": { "type": "array", "items": { "type": "string" } },
+        "conceptoLigado": { "type": "string" }
+      }
+    }
+  }
+}

@@ -1,0 +1,440 @@
+{
+  "id": "MI-021",
+  "titulo": "Fiebre, tos y dolor de costado en hombre de 68 anos",
+  "area": "MI",
+  "subarea": "Neumonia adquirida en la comunidad",
+  "dificultad": 2,
+  "estado": "BORRADOR",
+  "tipo": "medico",
+  "nivelesDisponibles": [1, 2, 3],
+  "tiempoSugeridoSeg": 1800,
+  "notaDeAutoria": "La vineta clinica y los resultados de estudios los redacto el autor del caso para que apliquen los criterios de la fuente; NO provienen de un paciente real ni de un caso publicado. Todo el contenido evaluable (manifestaciones, examenes, CURB-65, diferenciales, tratamiento por nivel, criterios de referencia y alta, prevencion) proviene del capitulo 21 'Neumonia Adquirida en la Comunidad NAC en Adultos' de la Norma Nacional de Atencion Clinica de Medicina Interna (fuente 0), con la pagina indicada en cada item. Los nivelMinimo de los estudios se anclan a las normas de caracterizacion de primer nivel (fuente 1) y segundo nivel (fuente 2); en el juego, nivel 1 es el Centro de Salud con Internacion. No se usaron dos datos del capitulo que contienen errores de edicion: la clasificacion de Streptococcus pneumoniae como gramnegativo (p. 200) y el umbral de frecuencia respiratoria sin numero en la tabla PSI (p. 203). Estado BORRADOR: falta verificar cada pagina contra el PDF y la revision por una segunda persona del area.",
+  "presentacionInicial": {
+    "texto": "Hombre de 68 anos, agricultor, llega al establecimiento traido por su hijo. Hace tres dias empezo con fiebre alta y escalofrios, y despues tos con flema. Desde ayer le duele el costado derecho cuando respira hondo o tose. Esta cansado, pero contesta bien a todo lo que se le pregunta.",
+    "signosVitales": {
+      "Presion arterial": "124/78 mmHg",
+      "Frecuencia cardiaca": "108 lpm",
+      "Frecuencia respiratoria": "32 por minuto",
+      "Temperatura": "39.2 C",
+      "Saturacion de oxigeno": "89% (aire ambiente)"
+    },
+    "contexto": "Puedes jugar este caso en primer, segundo o tercer nivel de atencion. El nivel cambia que estudios estan disponibles y cual es la conducta que la norma espera de ti."
+  },
+  "descubrimiento": {
+    "anamnesis": {
+      "etiqueta": "Interrogar al paciente",
+      "exigeDeclaracionPrevia": true,
+      "items": [
+        { "clave": "inicio", "texto": "Todo empezo de golpe hace tres dias: fiebre alta con escalofrios que lo hacian temblar. Antes estaba bien.", "critico": true },
+        { "clave": "tos_esputo", "texto": "Tose con flema espesa, amarillo verdosa, a veces con un tinte oxidado.", "critico": true },
+        { "clave": "dolor_pleuritico", "texto": "Le duele el costado derecho como una punzada cuando respira hondo o cuando tose. No le duele en reposo si respira despacio.", "critico": true },
+        { "clave": "disnea", "texto": "Se agita al caminar desde ayer. No tiene ortopnea ni se despierta ahogado de noche." },
+        { "clave": "tos_cronica", "texto": "No tosia antes de este cuadro. No ha bajado de peso ni tiene sudores nocturnos en los ultimos meses.", "critico": true },
+        { "clave": "atb_previo", "texto": "No tomo ningun antibiotico. Solo paracetamol en casa." },
+        { "clave": "conciencia_anam", "texto": "El hijo dice que su padre esta lucido, reconoce a todos y no ha dicho cosas raras." }
+      ]
+    },
+    "antecedentes": {
+      "etiqueta": "Antecedentes",
+      "exigeDeclaracionPrevia": true,
+      "items": [
+        { "clave": "comorbilidad", "texto": "Diabetes tipo 2 desde hace 9 anos, en tratamiento con metformina. No tiene enfermedad del corazon, del rinon ni del higado conocidas.", "critico": true },
+        { "clave": "tabaco_alcohol", "texto": "Fumo de joven, lo dejo hace 20 anos. Toma alcohol solo en fiestas.", "critico": true },
+        { "clave": "inmuno", "texto": "No toma corticoides ni otros medicamentos que bajen las defensas. No tiene diagnostico de VIH ni de cancer." },
+        { "clave": "neumonia_previa", "texto": "Nunca tuvo neumonia. No se interno en los ultimos meses." },
+        { "clave": "vacunas", "texto": "No recuerda haber recibido vacuna contra la gripe ni contra el neumococo." },
+        { "clave": "deglucion", "texto": "Come y traga sin atorarse." }
+      ]
+    },
+    "examenFisico": {
+      "etiqueta": "Examinar al paciente",
+      "exigeDeclaracionPrevia": true,
+      "items": [
+        { "clave": "conciencia", "texto": "Despierto, orientado en tiempo, espacio y persona. Responde con coherencia.", "critico": true },
+        { "clave": "auscultacion", "texto": "Crepitantes en la base derecha, con soplo tubarico y egofonia en esa zona. Hemitorax izquierdo con murmullo vesicular normal.", "critico": true },
+        { "clave": "percusion", "texto": "Matidez en la base del hemitorax derecho." },
+        { "clave": "hemodinamia", "texto": "Pulsos perifericos llenos, llenado capilar menor a 2 segundos, extremidades tibias.", "critico": true },
+        { "clave": "cardio_ex", "texto": "Taquicardia regular sin soplos. Sin ingurgitacion yugular. Sin edema de miembros inferiores." },
+        { "clave": "hidratacion", "texto": "Mucosa oral seca." }
+      ]
+    },
+    "laboratorio": {
+      "etiqueta": "Laboratorio",
+      "items": [
+        {
+          "clave": "hemograma",
+          "nombre": "Hemograma completo",
+          "resultado": "Leucocitos 16.800/mm3 con 86% de neutrofilos. Hematocrito 41%.",
+          "nivelMinimo": 1,
+          "fuente": 0,
+          "nivelFuente": 1,
+          "nivelPagina": "37, 121",
+          "nivelNota": "La norma de primer nivel asigna laboratorio basico al Centro de Salud con Internacion, con analizador hematologico, contador diferencial y lector de hematocrito.",
+          "nivelAnclaje": "COMPLETO"
+        },
+        {
+          "clave": "baciloscopia",
+          "nombre": "Baciloscopia de esputo",
+          "resultado": "Negativa (una muestra).",
+          "nivelMinimo": 1,
+          "fuente": 0,
+          "nivelFuente": 1,
+          "nivelPagina": "115, 121",
+          "nivelNota": "La norma de primer nivel preve en el Centro de Salud con Internacion un area para analisis de baciloscopia (programa de tuberculosis) y microscopio en el laboratorio basico.",
+          "nivelAnclaje": "COMPLETO"
+        },
+        {
+          "clave": "urea",
+          "nombre": "Urea y glucemia",
+          "resultado": "Urea 38 mg/dl. Glucemia 212 mg/dl.",
+          "nivelMinimo": 2,
+          "fuente": 0,
+          "nivelFuente": 1,
+          "nivelPagina": "121, 204",
+          "nivelNota": "El laboratorio basico del Centro de Salud con Internacion no lista equipo de bioquimica (norma de primer nivel, p. 121); la bioquimica aparece en el laboratorio completo del Centro de Salud Integral (p. 204). Falta confirmar el detalle en la norma de segundo nivel (cap. XIII, aun no descargado).",
+          "nivelAnclaje": "PARCIAL"
+        },
+        {
+          "clave": "gram_cultivo",
+          "nombre": "Tincion de Gram y cultivo de esputo",
+          "resultado": "Gram: abundantes polimorfonucleares y diplococos grampositivos lanceolados. Cultivo en proceso.",
+          "nivelMinimo": 2,
+          "fuente": 0,
+          "nivelFuente": 1,
+          "nivelPagina": "121, 204",
+          "nivelNota": "La microbiologia figura en el laboratorio completo del Centro de Salud Integral (norma de primer nivel, p. 204), no en el laboratorio basico del Centro de Salud con Internacion (p. 121). Falta confirmar el detalle en la norma de segundo nivel (cap. XIII).",
+          "nivelAnclaje": "PARCIAL"
+        },
+        {
+          "clave": "hemocultivos",
+          "nombre": "Hemocultivos",
+          "resultado": "Dos muestras tomadas antes del antibiotico. Resultado disponible en 48 a 72 horas.",
+          "nivelMinimo": 2,
+          "fuente": 0,
+          "nivelFuente": 1,
+          "nivelPagina": "121, 204",
+          "nivelNota": "La microbiologia figura en el laboratorio completo del Centro de Salud Integral (norma de primer nivel, p. 204), no en el laboratorio basico del Centro de Salud con Internacion (p. 121). Falta confirmar el detalle en la norma de segundo nivel (cap. XIII).",
+          "nivelAnclaje": "PARCIAL"
+        }
+      ]
+    },
+    "gabinete": {
+      "etiqueta": "Gabinete",
+      "items": [
+        {
+          "clave": "rxtorax",
+          "nombre": "Radiografia de torax posteroanterior",
+          "resultado": "Condensacion homogenea y bien delimitada en el lobulo inferior derecho, con broncograma aereo. Sin derrame pleural. Silueta cardiaca normal.",
+          "nivelMinimo": 2,
+          "fuente": 0,
+          "nivelFuente": 2,
+          "nivelPagina": "77, 102",
+          "nivelNota": "En primer nivel solo el Centro de Salud Integral tiene radiologia e imagenologia (norma de primer nivel, Cuadro No 5, p. 37); el hospital de segundo nivel cuenta con imagenologia y ambiente de radiologia (norma de segundo nivel, pp. 77 y 102).",
+          "nivelAnclaje": "COMPLETO"
+        }
+      ]
+    }
+  },
+  "estudiosPlausiblesNoIncluidos": [
+    {
+      "nombre": "Gasometria arterial",
+      "preguntaTribunal": "Pidio gasometria arterial. Diga que decision habria cambiado segun el resultado y con que dato de la cabecera ya estaba evaluando la oxigenacion.",
+      "comentarioFuente": "La fuente la lista entre los examenes complementarios (p. 202) y el pH y la PaO2 forman parte de la escala PSI (pp. 203-204), pero el caso no contempla su resultado.",
+      "fuente": 0
+    },
+    {
+      "nombre": "Proteina C reactiva o procalcitonina",
+      "preguntaTribunal": "Pidio biomarcadores de inflamacion. Diga como habria cambiado su conducta con el resultado en este paciente.",
+      "comentarioFuente": "La fuente los lista entre los examenes complementarios (p. 202), pero el caso no contempla su resultado.",
+      "fuente": 0
+    },
+    {
+      "nombre": "Tomografia computarizada de torax",
+      "preguntaTribunal": "Pidio tomografia de torax. Que esperaba ver que la radiografia no mostraba?",
+      "comentarioFuente": "La fuente la lista entre las imagenes (p. 202), pero el caso no contempla su resultado.",
+      "fuente": 0
+    },
+    {
+      "nombre": "PCR para deteccion de patogenos",
+      "preguntaTribunal": "Pidio PCR para patogenos respiratorios. Que agente sospechaba y por que?",
+      "comentarioFuente": "La fuente la lista entre los examenes complementarios (p. 202), pero el caso no contempla su resultado.",
+      "fuente": 0
+    }
+  ],
+  "rubrica": {
+    "diagnosticosEsperados": [
+      {
+        "clave": "dx_nac",
+        "texto": "Neumonia adquirida en la comunidad (CIE-10 J18). La fuente define la NAC como proceso inflamatorio del parenquima pulmonar de origen infeccioso adquirido en el medio comunitario",
+        "valoracion": "ESPERADO",
+        "fuente": 0,
+        "pagina": "199",
+        "sinonimos": ["neumonia", "neumonia adquirida en la comunidad", "nac", "neumonia comunitaria", "neumonia lobar", "neumonia bacteriana"],
+        "conceptoLigado": "c_definicion"
+      },
+      {
+        "clave": "dx_tipico",
+        "texto": "Sindrome tipico: cuadro agudo, fiebre alta, escalofrios, dolor toracico pleuritico, tos productiva con esputo purulento, crepitantes y condensacion con soplo tubarico o egofonia",
+        "valoracion": "ESPERADO",
+        "fuente": 0,
+        "pagina": "202",
+        "sinonimos": ["sindrome tipico", "neumonia tipica", "tipica"],
+        "conceptoLigado": "c_tipico_atipico"
+      },
+      {
+        "clave": "dx_curb2",
+        "texto": "CURB-65 de 2 puntos (edad mayor de 65 anos y frecuencia respiratoria mayor de 30): grupo 2, riesgo intermedio, se deberia considerar la posibilidad de ingreso hospitalario",
+        "valoracion": "ESPERADO",
+        "fuente": 0,
+        "pagina": "203",
+        "sinonimos": ["curb 65 de 2", "curb-65 2", "curb65 2", "riesgo intermedio", "grupo 2", "curb 2"],
+        "conceptoLigado": "c_curb65"
+      }
+    ],
+    "diagnosticosDiferenciales": [
+      { "clave": "dd_bronquitis", "texto": "Bronquitis aguda", "valoracion": "ESPERADO", "fuente": 0, "pagina": "204", "sinonimos": ["bronquitis aguda", "bronquitis"] },
+      { "clave": "dd_tb", "texto": "Tuberculosis", "valoracion": "ESPERADO", "fuente": 0, "pagina": "204", "sinonimos": ["tuberculosis", "tb", "tbc", "tuberculosis pulmonar"] },
+      { "clave": "dd_ic", "texto": "Insuficiencia cardiaca", "valoracion": "ESPERADO", "fuente": 0, "pagina": "204", "sinonimos": ["insuficiencia cardiaca", "ic", "falla cardiaca"] },
+      { "clave": "dd_tep", "texto": "Embolia o infarto pulmonar", "valoracion": "ESPERADO", "fuente": 0, "pagina": "204", "sinonimos": ["embolia pulmonar", "tromboembolismo", "tep", "infarto pulmonar"] },
+      { "clave": "dd_neoplasia", "texto": "Neoplasia pulmonar", "valoracion": "ESPERADO", "fuente": 0, "pagina": "204", "sinonimos": ["neoplasia pulmonar", "cancer de pulmon", "tumor pulmonar", "neoplasia"] },
+      { "clave": "dd_epoc", "texto": "Exacerbacion aguda de bronquitis cronica", "valoracion": "ACEPTABLE", "fuente": 0, "pagina": "204", "sinonimos": ["bronquitis cronica", "epoc", "exacerbacion de epoc"] },
+      { "clave": "dd_edema", "texto": "Edema de pulmon", "valoracion": "ACEPTABLE", "fuente": 0, "pagina": "204", "sinonimos": ["edema de pulmon", "edema pulmonar"] },
+      { "clave": "dd_otros", "texto": "Neumonitis por hipersensibilidad, neumonitis por radiacion, bronquiolitis y sarcoidosis, tambien listadas por la fuente", "valoracion": "OPCIONAL", "fuente": 0, "pagina": "204", "sinonimos": ["neumonitis", "sarcoidosis", "bronquiolitis"] }
+    ],
+    "estudios": [
+      { "clave": "rxtorax", "texto": "Radiografia PA de torax. La fuente indica que el diagnostico puede confirmarse con una radiografia que muestra una nueva sombra que no se debe a ninguna otra causa; en el sindrome tipico, condensacion homogenea bien delimitada en un lobulo", "valoracion": "ESPERADO", "fuente": 0, "pagina": "201-202", "conceptoLigado": "c_definicion" },
+      { "clave": "hemograma", "texto": "Hemograma completo. En el sindrome tipico la fuente describe leucocitos con neutrofilia", "valoracion": "ESPERADO", "fuente": 0, "pagina": "202" },
+      { "clave": "urea", "texto": "Urea: es la U de CURB-65 (mayor de 44 mg/dl o BUN mayor de 19 mg/dl; urea = BUN x 2.146)", "valoracion": "ESPERADO", "fuente": 0, "pagina": "203", "conceptoLigado": "c_curb65" },
+      { "clave": "hemocultivos", "texto": "Hemocultivos, de preferencia antes de la antibioticoterapia segun la fuente", "valoracion": "ACEPTABLE", "fuente": 0, "pagina": "202" },
+      { "clave": "gram_cultivo", "texto": "Tincion de Gram y cultivo de esputo", "valoracion": "ACEPTABLE", "fuente": 0, "pagina": "202" },
+      { "clave": "baciloscopia", "texto": "Baciloscopia de esputo. La fuente lista la tuberculosis entre los diferenciales, aunque el capitulo no incluye la baciloscopia entre sus examenes complementarios", "valoracion": "OPCIONAL", "fuente": 0, "pagina": "204" }
+    ],
+    "conductas": [
+      { "clave": "cx_oxigeno", "texto": "Oxigenoterapia si la saturacion de O2 esta baja, entre las medidas generales de la fuente", "valoracion": "ESPERADO", "fuente": 0, "pagina": "205", "nivel": [1, 2, 3], "sinonimos": ["oxigeno", "oxigenoterapia", "o2"], "conceptoLigado": "c_medidas" },
+      { "clave": "cx_medidas", "texto": "Medidas generales: hidratacion, antipireticos y analgesicos", "valoracion": "ACEPTABLE", "fuente": 0, "pagina": "204-205", "nivel": [1, 2, 3], "sinonimos": ["hidratacion", "antipiretico", "paracetamol", "analgesico", "liquidos", "soluciones"], "conceptoLigado": "c_medidas" },
+      { "clave": "cx_atb_temprano", "texto": "Iniciar el tratamiento antibiotico de manera temprana, como recomienda la fuente", "valoracion": "ESPERADO", "fuente": 0, "pagina": "206", "nivel": [1, 2, 3], "sinonimos": ["antibiotico", "antibioticoterapia", "iniciar antibiotico", "atb", "amoxicilina acido clavulanico", "amoxicilina clavulanico", "azitromicina", "claritromicina", "levofloxacina", "ceftriaxona", "cefotaxima"], "conceptoLigado": "c_tratamiento" },
+      { "clave": "cx_referir", "texto": "Referencia. La fuente lista entre los criterios de referencia la saturacion de O2 baja y las alteraciones hemodinamicas, y con CURB-65 de 2 indica considerar el ingreso hospitalario; el tratamiento hospitalario figura en segundo y tercer nivel", "valoracion": "ESPERADO", "fuente": 0, "pagina": "203, 205-206", "nivel": [1], "sinonimos": ["referir", "referencia", "transferir", "derivar", "trasladar", "enviar a segundo nivel"], "conceptoLigado": "c_referencia" },
+      { "clave": "cx_internar", "texto": "Hospitalizacion segun CURB-65 (grupo 2: considerar ingreso) y por saturacion de O2 baja", "valoracion": "ESPERADO", "fuente": 0, "pagina": "203, 206", "nivel": [2, 3], "sinonimos": ["internar", "internacion", "hospitalizar", "hospitalizacion", "ingreso hospitalario"], "conceptoLigado": "c_curb65" },
+      { "clave": "cx_esquema_hosp", "texto": "Tratamiento hospitalario con factores de riesgo (edad mayor de 65 anos y enfermedad metabolica): ceftriaxona IV 2 g cada 24 horas o cefotaxima 1 g cada ocho horas por siete dias, mas azitromicina VO 500 mg cada 24 horas por 5 dias o claritromicina VO 500 mg cada 12 horas por siete dias", "valoracion": "ESPERADO", "fuente": 0, "pagina": "199, 205", "nivel": [2, 3], "sinonimos": ["ceftriaxona", "cefotaxima", "ceftriaxona mas azitromicina", "ceftriaxona y claritromicina", "cefalosporina de tercera generacion"], "conceptoLigado": "c_tratamiento" },
+      { "clave": "cx_vacunas", "texto": "Vacunacion antigripal, contra COVID 19 y antineumococica en mayores de 65 anos y con comorbilidades", "valoracion": "ACEPTABLE", "fuente": 0, "pagina": "206", "nivel": [1, 2, 3], "sinonimos": ["vacuna", "vacunacion", "antineumococica", "influenza", "antigripal"], "conceptoLigado": "c_prevencion" },
+      { "clave": "cx_amoxi_ambulatorio", "texto": "Manejo ambulatorio con amoxicilina oral sola. La fuente reserva la amoxicilina sola para el tratamiento ambulatorio sin comorbilidad; este paciente tiene diabetes, CURB-65 de 2 y saturacion baja", "valoracion": "NO_CONTEMPLADO_POR_LA_FUENTE", "fuente": 0, "pagina": "203, 205", "nivel": [1, 2, 3], "sinonimos": ["amoxicilina sola", "solo amoxicilina", "amoxicilina oral ambulatoria", "tratamiento ambulatorio", "manejo ambulatorio", "alta con amoxicilina", "enviar a casa"], "conceptoLigado": "c_tratamiento" },
+      { "clave": "cx_corticoide", "texto": "Corticoide sistemico. El tratamiento de la NAC de la fuente no lo incluye", "valoracion": "NO_CONTEMPLADO_POR_LA_FUENTE", "fuente": 0, "pagina": "204-205", "nivel": [1, 2, 3], "sinonimos": ["corticoide", "dexametasona", "hidrocortisona", "prednisona", "metilprednisolona"] }
+    ],
+    "informacionCritica": [
+      { "clave": "inicio", "texto": "Cuadro agudo con fiebre alta y escalofrios, propio del sindrome tipico", "valoracion": "ESPERADO", "fuente": 0, "pagina": "202", "conceptoLigado": "c_tipico_atipico" },
+      { "clave": "tos_esputo", "texto": "Tos productiva con esputo purulento", "valoracion": "ESPERADO", "fuente": 0, "pagina": "202", "conceptoLigado": "c_tipico_atipico" },
+      { "clave": "dolor_pleuritico", "texto": "Dolor toracico de tipo pleuritico", "valoracion": "ESPERADO", "fuente": 0, "pagina": "202", "conceptoLigado": "c_tipico_atipico" },
+      { "clave": "tos_cronica", "texto": "Ausencia de tos cronica, perdida de peso y sudores: ayuda a alejar tuberculosis y neoplasia, que estan entre los diferenciales de la fuente", "valoracion": "ESPERADO", "fuente": 0, "pagina": "204" },
+      { "clave": "comorbilidad", "texto": "Enfermedad metabolica preexistente (diabetes), factor de riesgo que ademas cambia el esquema antibiotico", "valoracion": "ESPERADO", "fuente": 0, "pagina": "199, 205", "conceptoLigado": "c_tratamiento" },
+      { "clave": "tabaco_alcohol", "texto": "Tabaquismo y alcoholismo, factores de riesgo de estilo de vida", "valoracion": "ACEPTABLE", "fuente": 0, "pagina": "199" },
+      { "clave": "conciencia", "texto": "Estado de conciencia: la confusion es la C de CURB-65", "valoracion": "ESPERADO", "fuente": 0, "pagina": "203", "conceptoLigado": "c_curb65" },
+      { "clave": "auscultacion", "texto": "Crepitantes y condensacion con soplo tubarico o egofonia", "valoracion": "ESPERADO", "fuente": 0, "pagina": "202", "conceptoLigado": "c_tipico_atipico" },
+      { "clave": "hemodinamia", "texto": "Estado hemodinamico: las alteraciones hemodinamicas son criterio de referencia", "valoracion": "ESPERADO", "fuente": 0, "pagina": "206", "conceptoLigado": "c_referencia" }
+    ],
+    "conceptosClave": [
+      { "id": "c_definicion", "enunciado": "El diagnostico de neumonia se basa en los sintomas y signos de una infeccion aguda de las vias respiratorias inferiores y puede confirmarse con una radiografia de torax que muestra una nueva sombra que no se debe a ninguna otra causa.", "fuente": 0, "pagina": "201" },
+      { "id": "c_tipico_atipico", "enunciado": "Sindrome tipico: cuadro agudo, fiebre alta, escalofrios, dolor pleuritico, tos con esputo purulento, crepitantes y condensacion, radiografia con condensacion lobar y neutrofilia. Sindrome atipico: clinica subaguda, fiebre leve sin escalofrios, cefalea, mialgias, tos seca, auscultacion normal en la mitad de los casos e infiltrado intersticial.", "fuente": 0, "pagina": "202" },
+      { "id": "c_curb65", "enunciado": "CURB-65: Confusion; Urea mayor de 44 mg/dl (o BUN mayor de 19 mg/dl); frecuencia Respiratoria mayor de 30; presion (Blood pressure) sistolica menor de 90 o diastolica menor de 60 mmHg; edad mayor de 65. Un punto cada uno. 0-1: bajo riesgo, ambulatorio. 2: riesgo intermedio, considerar ingreso. 3 o mas: alto riesgo, ingreso y posible cuidado intensivo.", "fuente": 0, "pagina": "203" },
+      { "id": "c_tratamiento", "enunciado": "Ambulatorio sin comorbilidad: amoxicilina VO 1 g cada 8 horas por 7 dias. Ambulatorio con comorbilidad: amoxicilina/acido clavulanico o un macrolido. Hospitalario con factores de riesgo (segundo y tercer nivel): ceftriaxona o cefotaxima mas azitromicina o claritromicina.", "fuente": 0, "pagina": "205" },
+      { "id": "c_medidas", "enunciado": "Las medidas generales de primer nivel de la fuente son hidratacion, antipireticos, analgesicos y oxigenoterapia si la saturacion de O2 esta baja.", "fuente": 0, "pagina": "204-205" },
+      { "id": "c_referencia", "enunciado": "Criterios de referencia de la NAC: alteraciones hemodinamicas, saturacion de O2 baja y sintomatologia persistente al tratamiento ambulatorio. Criterios de hospitalizacion: segun CURB-65 y PSI.", "fuente": 0, "pagina": "206" },
+      { "id": "c_alta", "enunciado": "Alta medica: cuadro respiratorio y hemodinamico estabilizado y respuesta favorable al tratamiento. Contrarreferencia: paciente hemodinamicamente estable que continua el tratamiento de forma ambulatoria.", "fuente": 0, "pagina": "206" },
+      { "id": "c_prevencion", "enunciado": "La fuente recomienda iniciar el antibiotico de manera temprana y vacunacion antigripal, contra COVID 19 y antineumococica en mayores de 65 anos y con comorbilidades.", "fuente": 0, "pagina": "206" }
+    ]
+  },
+  "tribunal": [
+    {
+      "id": "t01",
+      "pregunta": "Diga su diagnostico principal y los datos concretos del caso que lo sostienen.",
+      "disparador": { "tipo": "siempre" },
+      "loQueSeEsperaOir": ["Neumonia adquirida en la comunidad", "Cuadro agudo con fiebre alta y escalofrios", "Tos con esputo purulento", "Dolor pleuritico", "Crepitantes, soplo tubarico y egofonia en base derecha"],
+      "conceptoLigado": "c_definicion",
+      "fuente": 0
+    },
+    {
+      "id": "t02",
+      "pregunta": "Calcule el CURB-65 de este paciente. Diga cada criterio con su valor de corte, cuantos puntos suma y que conducta le corresponde.",
+      "disparador": { "tipo": "siempre" },
+      "loQueSeEsperaOir": ["Confusion: no (0)", "Urea mayor de 44 mg/dl: no, 38 mg/dl (0); si no hay urea disponible, lo dice", "Frecuencia respiratoria mayor de 30: si, 32 (1)", "PAS menor de 90 o PAD menor de 60: no (0)", "Edad mayor de 65: si (1)", "Total 2: riesgo intermedio, considerar ingreso hospitalario"],
+      "conceptoLigado": "c_curb65",
+      "fuente": 0
+    },
+    {
+      "id": "t03",
+      "pregunta": "Que diagnosticos diferenciales considero y que dato del caso usa para alejar cada uno?",
+      "disparador": { "tipo": "siempre" },
+      "loQueSeEsperaOir": ["Tuberculosis: sin tos cronica, sin perdida de peso ni sudores", "Bronquitis aguda: hay condensacion, no solo tos", "Insuficiencia cardiaca y edema de pulmon: sin ortopnea, sin ingurgitacion ni edema", "Embolia pulmonar", "Neoplasia pulmonar"],
+      "conceptoLigado": "c_definicion",
+      "fuente": 0
+    },
+    {
+      "id": "t04",
+      "pregunta": "Esta en un Centro de Salud con Internacion, sin radiografia, a dos horas del hospital. Que hace, en que orden, y que criterio de la fuente escribe en la hoja de referencia?",
+      "disparador": { "tipo": "siempre" },
+      "loQueSeEsperaOir": ["Oxigenoterapia porque la saturacion esta baja", "Medidas generales: hidratacion, antipiretico", "Iniciar antibiotico de manera temprana", "Referir: saturacion de O2 baja es criterio de referencia", "CURB-65 de al menos 2 con los datos clinicos: considerar ingreso"],
+      "conceptoLigado": "c_referencia",
+      "fuente": 0
+    },
+    {
+      "id": "t05",
+      "pregunta": "Que diferencia un sindrome tipico de uno atipico? Clasifique el de este paciente.",
+      "disparador": { "tipo": "siempre" },
+      "loQueSeEsperaOir": ["Tipico: agudo, fiebre alta, escalofrios, dolor pleuritico, esputo purulento, condensacion, neutrofilia", "Atipico: subagudo, fiebre leve sin escalofrios, cefalea, mialgias, tos seca, auscultacion a menudo normal, infiltrado intersticial", "Este paciente: sindrome tipico"],
+      "conceptoLigado": "c_tipico_atipico",
+      "fuente": 0
+    },
+    {
+      "id": "t06",
+      "pregunta": "Pidio radiografia de torax. Que esperaba encontrar y que papel tiene en el diagnostico segun la fuente?",
+      "disparador": { "tipo": "siPidio", "clave": "rxtorax" },
+      "loQueSeEsperaOir": ["Confirma el diagnostico: nueva sombra que no se debe a otra causa", "En el sindrome tipico, condensacion homogenea bien delimitada en un lobulo"],
+      "conceptoLigado": "c_definicion",
+      "fuente": 0
+    },
+    {
+      "id": "t07",
+      "pregunta": "No pidio radiografia de torax. Con que confirma el diagnostico entonces, y que haria si no la tiene disponible?",
+      "disparador": { "tipo": "siNoPidio", "clave": "rxtorax" },
+      "loQueSeEsperaOir": ["La radiografia confirma la neumonia segun la fuente", "Si no esta disponible en el establecimiento, el diagnostico es clinico y se refiere"],
+      "conceptoLigado": "c_definicion",
+      "fuente": 0
+    },
+    {
+      "id": "t08",
+      "pregunta": "Pidio urea. Para que le sirve en este paciente y cual es el valor de corte? Cuidado con confundir urea y BUN.",
+      "disparador": { "tipo": "siPidio", "clave": "urea" },
+      "loQueSeEsperaOir": ["Es la U de CURB-65", "Urea mayor de 44 mg/dl o BUN mayor de 19 mg/dl", "Urea = BUN x 2.146"],
+      "conceptoLigado": "c_curb65",
+      "fuente": 0
+    },
+    {
+      "id": "t09",
+      "pregunta": "Pidio hemocultivos. En que momento deben tomarse segun la fuente?",
+      "disparador": { "tipo": "siPidio", "clave": "hemocultivos" },
+      "loQueSeEsperaOir": ["De preferencia antes de iniciar la antibioticoterapia"],
+      "conceptoLigado": "c_tratamiento",
+      "fuente": 0
+    },
+    {
+      "id": "t10",
+      "pregunta": "Indico ceftriaxona con un macrolido. Diga dosis, via y duracion de cada uno, y por que este paciente va al esquema con factores de riesgo.",
+      "disparador": { "tipo": "siConducta", "clave": "cx_esquema_hosp" },
+      "loQueSeEsperaOir": ["Ceftriaxona IV 2 g cada 24 horas o cefotaxima 1 g cada 8 horas, por siete dias", "Azitromicina VO 500 mg cada 24 horas por 5 dias o claritromicina 500 mg cada 12 horas por siete dias", "Factores de riesgo: mayor de 65 anos y diabetes"],
+      "conceptoLigado": "c_tratamiento",
+      "fuente": 0
+    },
+    {
+      "id": "t11",
+      "pregunta": "Esta en segundo nivel y no propuso un esquema antibiotico hospitalario. Que esquema le corresponde segun la fuente?",
+      "disparador": { "tipo": "siNoConducta", "clave": "cx_esquema_hosp" },
+      "loQueSeEsperaOir": ["Ceftriaxona o cefotaxima", "Mas azitromicina o claritromicina", "Porque tiene factores de riesgo"],
+      "conceptoLigado": "c_tratamiento",
+      "fuente": 0
+    },
+    {
+      "id": "t12",
+      "pregunta": "Propuso manejo ambulatorio con amoxicilina sola. Para que paciente reserva la fuente ese esquema, y cumple este paciente esas condiciones?",
+      "disparador": { "tipo": "siConducta", "clave": "cx_amoxi_ambulatorio" },
+      "loQueSeEsperaOir": ["Amoxicilina sola: ambulatorio sin comorbilidad", "Este paciente tiene diabetes", "CURB-65 de 2: considerar ingreso", "Saturacion baja: criterio de referencia"],
+      "conceptoLigado": "c_tratamiento",
+      "fuente": 0
+    },
+    {
+      "id": "t13",
+      "pregunta": "Indico corticoide sistemico. Con que respaldo de la fuente?",
+      "disparador": { "tipo": "siConducta", "clave": "cx_corticoide" },
+      "loQueSeEsperaOir": ["Reconocer que el tratamiento de la NAC de la fuente no incluye corticoide"],
+      "conceptoLigado": "c_tratamiento",
+      "fuente": 0
+    },
+    {
+      "id": "t14",
+      "pregunta": "El paciente satura 89% y no indico oxigeno. Justifique.",
+      "disparador": { "tipo": "siNoConducta", "clave": "cx_oxigeno" },
+      "loQueSeEsperaOir": ["La fuente indica oxigenoterapia si la saturacion esta baja", "La saturacion baja ademas es criterio de referencia"],
+      "conceptoLigado": "c_medidas",
+      "fuente": 0
+    },
+    {
+      "id": "t15",
+      "pregunta": "Estando en primer nivel no propuso referir. Justifique frente a los criterios de referencia de la fuente.",
+      "disparador": { "tipo": "siNoConducta", "clave": "cx_referir" },
+      "loQueSeEsperaOir": ["Saturacion de O2 baja es criterio de referencia", "CURB-65 de 2: considerar ingreso hospitalario", "El tratamiento hospitalario figura en segundo y tercer nivel"],
+      "conceptoLigado": "c_referencia",
+      "fuente": 0
+    },
+    {
+      "id": "t16",
+      "pregunta": "No pregunto por enfermedades previas. Que cambia en este paciente saber que es diabetico?",
+      "disparador": { "tipo": "siOmitioInfo", "clave": "comorbilidad" },
+      "loQueSeEsperaOir": ["La enfermedad metabolica es factor de riesgo de NAC", "Cambia el esquema: con comorbilidad no va amoxicilina sola", "En hospital pasa al esquema con factores de riesgo"],
+      "conceptoLigado": "c_tratamiento",
+      "fuente": 0
+    },
+    {
+      "id": "t17",
+      "pregunta": "No evaluo el estado de conciencia. Por que ese dato no es opcional en un paciente con neumonia?",
+      "disparador": { "tipo": "siOmitioInfo", "clave": "conciencia" },
+      "loQueSeEsperaOir": ["La confusion es la C de CURB-65", "Sumaria un punto y cambiaria el grupo de riesgo"],
+      "conceptoLigado": "c_curb65",
+      "fuente": 0
+    },
+    {
+      "id": "t18",
+      "pregunta": "No pregunto si tosia desde antes ni por perdida de peso. Que diferencial queda abierto sin ese dato?",
+      "disparador": { "tipo": "siOmitioInfo", "clave": "tos_cronica" },
+      "loQueSeEsperaOir": ["Tuberculosis", "Neoplasia pulmonar"],
+      "conceptoLigado": "c_definicion",
+      "fuente": 0
+    },
+    {
+      "id": "t19",
+      "pregunta": "Que criterios usa para dar el alta y para la contrarreferencia a primer nivel?",
+      "disparador": { "tipo": "siempre" },
+      "loQueSeEsperaOir": ["Cuadro respiratorio y hemodinamico estabilizado", "Respuesta favorable al tratamiento", "Contrarreferencia: hemodinamicamente estable, continuar tratamiento ambulatorio"],
+      "conceptoLigado": "c_alta",
+      "fuente": 0
+    },
+    {
+      "id": "t20",
+      "pregunta": "El paciente no tiene vacunas. Que le indica al alta, con que respaldo?",
+      "disparador": { "tipo": "siempre" },
+      "loQueSeEsperaOir": ["Vacuna antigripal", "Vacuna contra COVID 19", "Vacuna antineumococica: mayor de 65 anos y con comorbilidad"],
+      "conceptoLigado": "c_prevencion",
+      "fuente": 0
+    }
+  ],
+  "fuentes": [
+    {
+      "institucion": "Estado Plurinacional de Bolivia. Ministerio de Salud y Deportes. Direccion General de Redes de Servicios de Salud, Unidad de Redes de Servicios de Salud y Calidad, Area del Continuo; Servicios Departamentales de Salud; Sociedad Boliviana de Medicina Interna",
+      "documento": "Norma Nacional de Atencion Clinica de Medicina Interna. Serie: Documentos Tecnico Normativos No. 540. La Paz: Industrias Graficas Platinium. 286 p. Deposito legal 4-1-746-2025 P.O.",
+      "anio": "2025",
+      "publicacion": "540",
+      "resolucion": "RM 0456 de 30 de septiembre de 2025",
+      "capitulo": "21. Neumonia Adquirida en la Comunidad NAC en Adultos (CIE-10 J18). Nivel de atencion I - II - III",
+      "pagina": "199-206",
+      "url": "https://www.minsalud.gob.bo/8850-norma-nacional-de-atencion-clinica-nnac",
+      "consultado": "2026-09-22"
+    },
+    {
+      "institucion": "Estado Plurinacional de Bolivia. Ministerio de Salud y Deportes. Direccion General de Servicios de Salud, Unidad de Redes de Servicios de Salud y Calidad",
+      "documento": "Norma Nacional de Caracterizacion de Establecimientos de Salud de Primer Nivel. 2da edicion. Serie: Documentos Tecnico Normativos No. 284. La Paz: Talleres Graficos Tupac Katari. 240 p.",
+      "anio": "2013",
+      "publicacion": "284",
+      "capitulo": "Cap. II, Cuadro No 5 Caracteristicas generales (pp. 35-40); Cap. IV Centro de Salud con Internacion (pp. 115-121); Cap. VI Centro de Salud Integral (p. 204)",
+      "pagina": "35-40, 115-121, 204",
+      "url": "https://www.minsalud.gob.bo/images/Documentacion/redes_salud/Inivelseguro.pdf",
+      "consultado": "2026-09-22"
+    },
+    {
+      "institucion": "Estado Plurinacional de Bolivia. Ministerio de Salud y Deportes. Unidad de Redes de Servicios de Salud y Calidad",
+      "documento": "Norma Nacional de Caracterizacion de Hospitales de Segundo Nivel. Serie: Documentos Tecnico Normativos No. 285. La Paz.",
+      "anio": "2014",
+      "publicacion": "285",
+      "capitulo": "Cap. IV Caracterizacion General del Hospital de Segundo Nivel",
+      "pagina": "77, 102",
+      "url": "https://www.minsalud.gob.bo/images/Documentacion/redes_salud/CAP-4.pdf",
+      "consultado": "2026-09-22"
+    }
+  ]
+}
