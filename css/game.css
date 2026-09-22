@@ -289,6 +289,10 @@ label.campo { display: block; font-size: .9rem; font-weight: 800; color: var(--t
 .veredicto h3 { display: flex; align-items: center; gap: .5rem; font-size: 1.25rem; }
 .veredicto.bien h3 { color: var(--bien); } .veredicto.mal h3 { color: var(--mal); }
 .veredicto p { margin: .45rem 0 0; }
+.reporte { margin: .2rem 0 .9rem; }
+.reporte .reportar { background: transparent; box-shadow: none; border: 2px dashed var(--borde-fuerte); color: var(--tinta-2); width: 100%; }
+.rep-form { margin-top: .6rem; background: var(--panel); border: 1px solid var(--borde); border-radius: 16px; padding: .8rem; box-shadow: var(--sombra); }
+.motivos .btn { font-weight: 700; }
 .cita { font-family: var(--m); font-weight: 400; font-size: .98rem; line-height: 1.5; margin: .7rem 0 0; padding: .7rem .85rem;
   background: var(--panel); border-radius: 12px; border-left: 5px solid var(--sol); }
 .cita .de { display: block; font-family: var(--u); font-size: .78rem; font-weight: 800; color: var(--tinta-3); margin-top: .4rem; }
@@ -354,9 +358,12 @@ details .cuerpo li { margin: .22rem 0; }
 .areaf .n { font-family: var(--j); font-size: .95rem; color: var(--tinta-2); font-variant-numeric: tabular-nums; }
 
 /* ---------- tienda ---------- */
-.premio { display: flex; align-items: center; gap: .6rem; padding: .65rem 0; border-top: 1px dashed var(--borde); }
+.premio { display: flex; align-items: center; gap: .6rem; padding: .75rem 0 .45rem; }
 .premio:first-of-type { border-top: 0; }
 .premio .nm { flex: 1; font-size: .96rem; font-weight: 700; }
+.premio .nm small { display: block; font-size: .78rem; font-weight: 700; color: var(--tinta-3); }
+.premio .ico { font-size: 1.4rem; }
+.premio + .barra { margin: 0 0 .4rem; height: 8px; }
 .premio .co { font-family: var(--j); font-weight: 600; color: var(--sol-o); font-variant-numeric: tabular-nums; font-size: .95rem; }
 
 /* ---------- navegacion ---------- */

@@ -2,6 +2,7 @@
 import { esc, $, on, clase } from './dom.js';
 import { AREAS } from '../services/caseRepository.js';
 import { preguntaActual, resumenRonda, estadisticasBanco, PREGUNTAS_POR_RONDA } from '../engine/quizEngine.js';
+import { bloqueReporte, conectarReporte } from './reporteUI.js';
 
 const LETRAS = ['A', 'B', 'C', 'D', 'E'];
 
@@ -9,7 +10,7 @@ export function render(cont, { banco, perfil, ronda, recompensaRonda }, acc) {
   if (!banco) { cont.innerHTML = '<p class="vacio">Cargando preguntas...</p>'; return; }
   if (!ronda) return inicio(cont, banco, perfil, acc);
   if (!preguntaActual(ronda)) return resumen(cont, banco, ronda, recompensaRonda, acc);
-  return pregunta(cont, banco, ronda, acc);
+  return pregunta(cont, banco, ronda, perfil, acc);
 }
 
 function inicio(cont, banco, perfil, acc) {
@@ -58,7 +59,7 @@ function inicio(cont, banco, perfil, acc) {
   on(cont, '[data-area]', el => acc.empezarRonda({ area: el.dataset.area }));
 }
 
-function pregunta(cont, banco, ronda, acc) {
+function pregunta(cont, banco, ronda, perfil, acc) {
   const q = preguntaActual(ronda);
   const A = AREAS[q.area] || AREAS.DEMO;
   const respondida = ronda.elegida != null;
@@ -103,9 +104,9 @@ function pregunta(cont, banco, ronda, acc) {
       <span class="de">${esc(f.corto || q.fuente.id)}, página ${q.fuente.pagina}${f.anio ? ` · ${esc(f.anio)}` : ''}${f.url ? ` · <a href="${esc(f.url)}" target="_blank" rel="noopener">ver norma</a>` : ''}</span>
     </div>
   </div>
-  ${bloqueReporte('pregunta', q.id)}
   <button class="btn pri ancho" id="sig">${ronda.i + 1 < ronda.preguntas.length ? 'Siguiente' : 'Ver resultado'}</button>
-  ` : `<p class="nota" style="text-align:center">Elige una opción. Verás al instante si acertaste y lo que dice la norma.</p>`}`;
+  ` : `<p class="nota" style="text-align:center">Elige una opción. Verás al instante si acertaste y lo que dice la norma.</p>`}
+  ${bloqueReporte('pregunta', q.id, perfil)}`;
 
   on(cont, '[data-op]', el => acc.responderPregunta(+el.dataset.op));
   $('#sig', cont)?.addEventListener('click', () => acc.siguientePregunta());
@@ -171,23 +172,4 @@ export function decoPregunta() {
     <circle cx="40" cy="72" r="7" fill="#FFC23D"/><rect x="52" y="68" width="30" height="8" rx="4" fill="rgba(255,255,255,.75)"/>
     <circle cx="40" cy="90" r="7" fill="#fff"/><rect x="52" y="86" width="24" height="8" rx="4" fill="rgba(255,255,255,.75)"/>
   </svg>`;
-}
-
-/** Enlace "reportar un error" con su formulario plegado. Compartido con resultsUI. */
-export function bloqueReporte(tipo, ref) {
-  return `<details class="reporte" style="border:0;padding:.2rem 0 .8rem">
-    <summary>¿Ves un error en ${tipo === 'pregunta' ? 'esta pregunta' : 'este caso'}? Repórtalo</summary>
-    <div class="cuerpo">
-      <textarea data-rep-texto placeholder="Qué está mal: la respuesta, la cita, una opción ambigua..." style="min-height:4rem"></textarea>
-      <button class="btn sm uva" data-rep="${tipo}" data-ref="${esc(ref)}" style="margin-top:.5rem">Enviar reporte</button>
-    </div>
-  </details>`;
-}
-
-export function conectarReporte(cont, acc) {
-  cont.querySelectorAll('[data-rep]').forEach(b => b.addEventListener('click', () => {
-    const t = b.closest('details').querySelector('[data-rep-texto]');
-    acc.reportar(b.dataset.rep, b.dataset.ref, t.value);
-    b.closest('.cuerpo').innerHTML = '<p class="nota">Gracias: reporte guardado. Se revisa contra el PDF.</p>';
-  }));
 }

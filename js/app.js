@@ -164,16 +164,8 @@ const acc = {
     guardar(); pintar();
   },
 
-  agregarPremio(nombre, costo) {
-    S.perfil.premios.push({ id: 'p' + Date.now(), nombre, costo });
-    guardar(); pintar();
-  },
-  borrarPremio(id) {
-    S.perfil.premios = S.perfil.premios.filter(p => p.id !== id);
-    guardar(); pintar();
-  },
   canjear(id) {
-    const p = S.perfil.premios.find(x => x.id === id);
+    const p = RE.PREMIOS.find(x => x.id === id);
     if (!p || S.perfil.kamas < p.costo) return;
     S.perfil.kamas -= p.costo;
     S.perfil.canjes.push({ nombre: p.nombre, costo: p.costo, fecha: hoy(), estado: 'pendiente de entrega' });
@@ -258,11 +250,14 @@ const acc = {
     S.cuenta = { fase: 'inicio', email: '', mensaje: 'Sesión cerrada. El progreso sigue guardado en este dispositivo.', ocupado: false };
     pintar();
   },
-  reportar(tipo, ref, detalle) {
+  /** Devuelve 'enviado' si hay sesion (se envia en segundo plano) o 'cola' si queda guardado para despues. */
+  reportar(tipo, ref, motivo, detalle) {
     S.perfil.reportes ||= [];
-    S.perfil.reportes.push({ tipo, ref, detalle: (detalle || '').trim().slice(0, 2000), fecha: hoy(), enviado: false });
+    S.perfil.reportes.push({ tipo, ref, motivo, detalle: (detalle || '').trim().slice(0, 2000), fecha: hoy(), enviado: false });
     guardar();
-    if (Cuenta.estadoCuenta.usuario) Cuenta.enviarReportes(S.perfil).then(n => { if (n) guardar(); }).catch(() => {});
+    if (!Cuenta.estadoCuenta.usuario) return 'cola';
+    Cuenta.enviarReportes(S.perfil).then(n => { if (n) guardar(); }).catch(() => {});
+    return 'enviado';
   },
 
   otra() { acc.jugar({}); },
@@ -303,14 +298,6 @@ async function alCambiarUsuario(usuario) {
 async function iniciar() {
   S.perfil = await storage.cargar();
   if (S.perfil.ajustes.tema) document.documentElement.setAttribute('data-theme', S.perfil.ajustes.tema);
-  if (!S.perfil.premios.length) {
-    S.perfil.premios = [
-      { id: 'p1', nombre: 'Elegir que jugamos hoy', costo: 300 },
-      { id: 'p2', nombre: 'Kamas de Dofus', costo: 1200 },
-      { id: 'p3', nombre: 'Skin de League of Legends', costo: 5000 },
-      { id: 'p4', nombre: 'Cena', costo: 2500 }
-    ];
-  }
   S.casos = await cargarTodos();
   try { S.banco = await cargarBanco(); } catch { S.banco = { preguntas: [], fuentes: {} }; }
   S.misiones = RE.misionesDeHoy(S.perfil);

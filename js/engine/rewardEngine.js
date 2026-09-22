@@ -16,6 +16,19 @@
 
 import { hoy } from '../services/storage.js';
 
+/**
+ * Catalogo de recompensas. Fijo a proposito: si se pudieran agregar o abaratar
+ * desde la app, dejarian de ser una meta. Para cambiarlas se edita esta lista.
+ * Precios pensados para un ritmo de 400-600 Kamas por dia de estudio activo:
+ * la mas barata sale en unos dos dias; la mas cara, en alrededor de un mes.
+ */
+export const PREMIOS = [
+  { id: 'elegir', nombre: 'Elegir que jugamos hoy',     costo: 1000,  ico: '🎮' },
+  { id: 'dofus',  nombre: 'Kamas de Dofus',             costo: 4000,  ico: '🪙' },
+  { id: 'cena',   nombre: 'Cena',                       costo: 8000,  ico: '🍽️' },
+  { id: 'lol',    nombre: 'Skin de League of Legends',  costo: 15000, ico: '✨' }
+];
+
 export const GANANCIAS = {
   completarCaso: 40,
   diagnosticoEsperado: 25,

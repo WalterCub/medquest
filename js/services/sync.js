@@ -124,7 +124,7 @@ export async function enviarReportes(perfil) {
   const cola = (perfil.reportes || []).filter(r => !r.enviado);
   if (!cola.length || !estadoCuenta.usuario) return 0;
   const c = await sb();
-  const { error } = await c.from('reportes').insert(cola.map(r => ({ tipo: r.tipo, ref: r.ref, detalle: r.detalle || null })));
+  const { error } = await c.from('reportes').insert(cola.map(r => ({ tipo: r.tipo, ref: r.ref, motivo: r.motivo || null, detalle: r.detalle || null })));
   if (error) { estadoCuenta.error = error.message; return 0; }
   cola.forEach(r => { r.enviado = true; });
   return cola.length;

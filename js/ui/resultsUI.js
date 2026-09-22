@@ -1,9 +1,9 @@
 /** resultsUI.js — la pantalla que importa: que repasar. */
 import { esc, li, $, clase, mmss } from './dom.js';
 import { AREAS } from '../services/caseRepository.js';
-import { bloqueReporte, conectarReporte } from './quizUI.js';
+import { bloqueReporte, conectarReporte } from './reporteUI.js';
 
-export function render(cont, { caso, resultado, recompensa, misiones }, acc) {
+export function render(cont, { caso, resultado, recompensa, misiones, perfil }, acc) {
   const A = AREAS[caso.area];
   const d = resultado.detalle;
 
@@ -74,7 +74,7 @@ export function render(cont, { caso, resultado, recompensa, misiones }, acc) {
       ${resultado.fuentes.map(f => `<li style="margin-bottom:.5rem">${esc(f.institucion)}. <em>${esc(f.documento)}</em>, ${esc(f.anio)}${f.capitulo ? `. ${esc(f.capitulo)}` : ''}${f.pagina ? `, pp. ${esc(f.pagina)}` : ''}${f.resolucion ? `. ${esc(f.resolucion)}` : ''}${f.url ? `. <a href="${esc(f.url)}" target="_blank" rel="noopener">enlace</a>` : ''}</li>`).join('')}
     </ul>
     ${caso.notaDeAutoria ? `<p class="nota" style="margin-top:.7rem">${esc(caso.notaDeAutoria)}</p>` : ''}
-    ${bloqueReporte('caso', caso.id)}
+    ${bloqueReporte('caso', caso.id, perfil)}
   </div>
 
   <div class="panel">

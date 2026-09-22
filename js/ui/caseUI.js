@@ -2,6 +2,7 @@
 import { esc, $, $$, on } from './dom.js';
 import { AREAS } from '../services/caseRepository.js';
 import { estudiosDisponibles, puedeRevelar, GRUPOS_INFO } from '../engine/caseEngine.js';
+import { bloqueReporte, conectarReporte } from './reporteUI.js';
 
 const ET = { anamnesis: 'Interrogar', antecedentes: 'Antecedentes', examenFisico: 'Examen fisico' };
 const PISTA = {
@@ -10,7 +11,7 @@ const PISTA = {
   examenFisico: 'Que vas a examinar y que signos estas buscando.'
 };
 
-export function render(cont, { caso, partida }, acc) {
+export function render(cont, { caso, partida, perfil }, acc) {
   const A = AREAS[caso.area];
   const est = estudiosDisponibles(caso, partida.nivel);
   const porGrupo = {};
@@ -87,7 +88,9 @@ export function render(cont, { caso, partida }, acc) {
       <button class="btn" id="abandonar">Abandonar</button>
     </div>
     ${partida.diagnosticos.length ? '' : '<p class="nota" style="margin-top:.5rem">Necesitas al menos un diagnostico principal para cerrar.</p>'}
-  </div>`;
+  </div>
+
+  ${bloqueReporte('caso', caso.id, perfil)}`;
 
   // --- eventos ---
   $$('[data-decl]', cont).forEach(t => t.addEventListener('input', () => {
@@ -109,6 +112,7 @@ export function render(cont, { caso, partida }, acc) {
   });
   $('#cerrar', cont)?.addEventListener('click', () => acc.cerrar());
   $('#abandonar', cont)?.addEventListener('click', () => acc.abandonar());
+  conectarReporte(cont, acc);
 }
 
 function campo(id, etiqueta, valores, ph) {

@@ -137,10 +137,12 @@ si dos copias difieren, gana la guardada más recientemente.
   con un enlace y un código de 6 dígitos. En la computadora basta el enlace; en
   el iPhone, dentro de la app instalada, se escribe el código (la app instalada
   no comparte sesión con Safari, por eso existe el código).
-- **Reportar errores:** cada pregunta y cada resultado de caso tienen "¿Ves un
-  error? Repórtalo". El reporte queda en el dispositivo y se envía a la tabla
-  `reportes` al iniciar sesión. Para revisarlos: Supabase → Table Editor →
-  `reportes`.
+- **Reportar errores:** botón "⚠️ Reportar un error" en cada pregunta (antes y
+  después de responder), durante el caso y en sus resultados, con motivo
+  (respuesta incorrecta, la cita no respalda, ambigua, error de escritura, otro)
+  y detalle opcional. Queda en el dispositivo y se envía a la tabla `reportes`
+  al iniciar sesión. Para revisarlos: Supabase → Table Editor → `reportes`
+  (columnas `ref`, `motivo`, `detalle`).
 - **Seguridad:** las dos tablas tienen RLS; cada usuario solo lee y escribe lo
   suyo. La clave que está en `js/services/sync.js` es la *publishable*, hecha
   para ir en el navegador.
@@ -163,6 +165,13 @@ si dos copias difieren, gana la guardada más recientemente.
    cualquier correo, configurar un SMTP propio en *Project Settings →
    Authentication → SMTP Settings* (por ejemplo Gmail con una contraseña de
    aplicación: `smtp.gmail.com`, puerto 465).
+
+## Recompensas
+
+Catálogo fijo en `js/engine/rewardEngine.js` (`PREMIOS`); desde la app solo se
+reclaman, no se agregan ni se borran. Precios pensados para 400–600 Kamas por
+día de estudio activo: elegir qué jugar 1.000, Kamas de Dofus 4.000, cena 8.000
+y skin de League of Legends 15.000. Para cambiarlos se edita esa lista.
 
 ## Banco de preguntas
 

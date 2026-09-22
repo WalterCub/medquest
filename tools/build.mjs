@@ -31,6 +31,7 @@ const ORDEN = [
   'js/engine/rewardEngine.js',
   'js/engine/quizEngine.js',
   'js/ui/dom.js',
+  'js/ui/reporteUI.js',
   'js/ui/quizUI.js',
   'js/ui/screens.js',
   'js/ui/caseUI.js',
@@ -63,7 +64,7 @@ const casos = readdirSync(join(RAIZ, 'cases'))
 const NS = `
 const CE = { crearPartida, declarar, puedeRevelar, revelar, estudiosDisponibles, solicitarEstudio, solicitarEstudioLibre, proponer, quitar, cerrarCaso, normalizar, GRUPOS_INFO, GRUPOS_ESTUDIO };
 const TE = { construirInterrogatorio, responder, PESO_AUTOEVAL };
-const RE = { GANANCIAS, nivel, racha, recompensar, recompensarRonda, misionesDeHoy, avanzarMisiones, misionesCompletas, RECOMPENSA_MISIONES };
+const RE = { GANANCIAS, PREMIOS, nivel, racha, recompensar, recompensarRonda, misionesDeHoy, avanzarMisiones, misionesCompletas, RECOMPENSA_MISIONES };
 const QZ = { crearRonda, responderPregunta, siguientePregunta, resumenRonda, preguntaActual, estadisticasBanco, pesoPregunta, PREGUNTAS_POR_RONDA };
 const QuizUI = { render: renderPreguntas };
 const Cuenta = { iniciarCuenta, haySesionGuardada, enviarCodigo, verificarCodigo, cerrarSesion, sincronizar, subirLuego, enviarReportes, estadoCuenta };

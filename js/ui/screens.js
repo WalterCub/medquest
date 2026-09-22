@@ -1,7 +1,7 @@
 /** screens.js — inicio, perfil y tienda. */
 import { esc, $, $$, on, clase } from './dom.js';
 import { AREAS } from '../services/caseRepository.js';
-import { racha, nivel, misionesDeHoy, misionesCompletas, RECOMPENSA_MISIONES } from '../engine/rewardEngine.js';
+import { racha, nivel, misionesDeHoy, misionesCompletas, RECOMPENSA_MISIONES, PREMIOS } from '../engine/rewardEngine.js';
 import { conceptosPendientes } from '../engine/learningEngine.js';
 import { decoPregunta } from './quizUI.js';
 import { estadoCuenta } from '../services/sync.js';
@@ -163,44 +163,40 @@ export function renderPerfil(cont, { perfil, casos, cuenta }, acc) {
   $('#borrar', cont).addEventListener('click', () => acc.borrar());
 }
 
+const miles = n => String(n).replace(/\B(?=(\d{3})+(?!\d))/g, '.');
+
 export function renderTienda(cont, { perfil }, acc) {
   cont.innerHTML = `
   <div class="encabezado">
-    <h1>🪙 ${perfil.kamas} Kamas Clínicas</h1>
-    <p class="sutil" style="margin-top:.35rem">Tú eliges las recompensas y alguien de confianza las entrega. Por eso valen.</p>
+    <h1>🪙 ${miles(perfil.kamas)} Kamas Clínicas</h1>
+    <p class="sutil">Cada partida, ronda y misión suma. Cuando llegues al precio, reclama la recompensa y alguien de confianza te la entrega.</p>
   </div>
 
   <div class="panel">
     <h3>Recompensas</h3>
-    ${perfil.premios.length ? perfil.premios.map(p => `
+    ${PREMIOS.map(p => {
+      const pct = Math.min(100, Math.round(perfil.kamas / p.costo * 100));
+      const alcanza = perfil.kamas >= p.costo;
+      return `
       <div class="premio">
-        <span class="nm">${esc(p.nombre)}</span>
-        <span class="co">${p.costo}</span>
-        <button class="btn sm ${perfil.kamas >= p.costo ? 'pri' : ''}" data-canje="${esc(p.id)}" ${perfil.kamas >= p.costo ? '' : 'disabled'}>Reclamar</button>
-        <button class="btn sm" data-borrar="${esc(p.id)}" aria-label="Quitar">×</button>
-      </div>`).join('') : '<p class="vacio" style="margin-top:.5rem">Todavia no hay recompensas. Agrega una abajo.</p>'}
-    <hr class="hr">
-    <div class="fila">
-      <input type="text" id="pn" placeholder="Recompensa" style="flex:1 1 9rem">
-      <input type="text" id="pc" inputmode="numeric" placeholder="Kamas" style="width:6rem">
-      <button class="btn" id="pa">Agregar</button>
-    </div>
+        <span class="ico" aria-hidden="true">${p.ico}</span>
+        <span class="nm">${esc(p.nombre)}<small>${alcanza ? '¡Ya te alcanza!' : `Te faltan ${miles(p.costo - perfil.kamas)}`}</small></span>
+        <span class="co">${miles(p.costo)}</span>
+        <button class="btn sm ${alcanza ? 'pri' : ''}" data-canje="${esc(p.id)}" ${alcanza ? '' : 'disabled'}>Reclamar</button>
+      </div>
+      <div class="barra"><i class="${alcanza ? 'b' : 'm'}" style="width:${pct}%"></i></div>`;
+    }).join('')}
   </div>
 
   <div class="panel">
     <h3>Reclamadas</h3>
     ${perfil.canjes.length ? `<ul class="cuerpo" style="padding-left:1.15rem;margin:.5rem 0 0">
       ${perfil.canjes.slice().reverse().map(c => `<li>${esc(c.fecha)} · ${esc(c.nombre)} (${c.costo}) · ${esc(c.estado)}</li>`).join('')}
-    </ul>` : '<p class="vacio" style="margin-top:.5rem">Ninguna todavia.</p>'}
+    </ul>` : '<p class="vacio" style="margin-top:.5rem">Ninguna todavía.</p>'}
     <p class="nota" style="margin-top:.7rem">MedQuest solo registra el reclamo. La entrega ocurre fuera de la app.</p>
   </div>`;
 
   on(cont, '[data-canje]', el => acc.canjear(el.dataset.canje));
-  on(cont, '[data-borrar]', el => acc.borrarPremio(el.dataset.borrar));
-  $('#pa', cont).addEventListener('click', () => {
-    const n = $('#pn', cont).value.trim(), c = parseInt($('#pc', cont).value, 10);
-    if (n && c > 0) acc.agregarPremio(n, c);
-  });
 }
 
 function panelCuenta(perfil, cuenta) {
@@ -212,7 +208,7 @@ function panelCuenta(perfil, cuenta) {
       <h3>☁️ Tu cuenta</h3>
       <p class="sutil" style="margin:.35rem 0 .2rem">Sesión iniciada como <strong>${esc(u.email)}</strong>.</p>
       <p class="nota">${estadoCuenta.error ? `No se pudo sincronizar: ${esc(estadoCuenta.error)}` : hora ? `Progreso sincronizado a las ${hora}. Lo verás igual en cualquier dispositivo donde entres con este correo.` : 'Sincronizando...'}</p>
-      ${pendientes ? `<p class="nota">${pendientes} reporte(s) de error por enviar.</p>` : ''}
+      ${(perfil.reportes || []).length ? `<p class="nota">⚠️ Reportes de error: ${(perfil.reportes || []).length - pendientes} enviado(s)${pendientes ? `, ${pendientes} por enviar` : ''}.</p>` : ''}
       <div class="fila" style="margin-top:.6rem">
         <button class="btn sm verde" id="sync" ${cuenta.ocupado ? 'disabled' : ''}>Sincronizar ahora</button>
         <button class="btn sm" id="salir-cuenta">Cerrar sesión</button>
@@ -235,5 +231,6 @@ function panelCuenta(perfil, cuenta) {
         <button class="btn pri" id="enviar" ${cuenta.ocupado ? 'disabled' : ''}>${cuenta.ocupado ? 'Enviando...' : 'Enviarme el acceso'}</button>
       </div>`}
     ${cuenta.mensaje ? `<p class="aviso" style="margin:.7rem 0 0">${esc(cuenta.mensaje)}</p>` : ''}
+    ${pendientes ? `<p class="nota" style="margin-top:.7rem">⚠️ Tienes ${pendientes} reporte(s) de error guardado(s). Se envían al iniciar sesión.</p>` : ''}
   </div>`;
 }
