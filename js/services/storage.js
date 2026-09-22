@@ -25,6 +25,8 @@ const perfilVacio = () => ({
   premios: [],              // { id, nombre, costo }
   canjes: [],               // { nombre, costo, fecha, estado }
   preguntas: {},            // preguntaId -> { aciertos, fallos, racha, ultima } (banco)
+  reportes: [],             // { tipo, ref, detalle, fecha, enviado } errores reportados desde la app
+  actualizado: null,        // ISO; decide que copia gana al sincronizar con la nube
   ajustes: { nivelPreferido: null, tema: null }
 });
 
@@ -35,6 +37,10 @@ function migrar(p) {
 }
 
 let cache = null;
+const oyentes = [];
+
+/** Avisa cada vez que se guarda (lo usa sync.js para copiar a la nube). */
+export function alGuardar(fn) { oyentes.push(fn); }
 
 export const storage = {
   async cargar() {
@@ -47,8 +53,17 @@ export const storage = {
 
   async guardar(perfil) {
     cache = perfil;
+    perfil.actualizado = new Date().toISOString();
+    oyentes.forEach(fn => { try { fn(perfil); } catch {} });
     try { localStorage.setItem(CLAVE, JSON.stringify(perfil)); return true; }
     catch { return false; }   // cuota llena o almacenamiento bloqueado: la partida sigue en memoria
+  },
+
+  /** Reemplaza el perfil local por otro (el de la nube) sin marcarlo como recien modificado. */
+  async reemplazar(perfil) {
+    cache = migrar(perfil);
+    try { localStorage.setItem(CLAVE, JSON.stringify(cache)); } catch {}
+    return cache;
   },
 
   async borrarTodo() {

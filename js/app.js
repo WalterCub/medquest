@@ -7,7 +7,8 @@
  * la capa visual sin tocar la logica, y probar los motores sin DOM.
  */
 
-import { storage, hoy } from './services/storage.js';
+import { storage, hoy, alGuardar } from './services/storage.js';
+import * as Cuenta from './services/sync.js';
 import { cargarTodos, AREAS, porId } from './services/caseRepository.js';
 import * as CE from './engine/caseEngine.js';
 import * as TE from './engine/tribunalEngine.js';
@@ -29,7 +30,8 @@ const S = {
   resultado: null, recompensa: null, conceptosPrevios: [],
   pantalla: 'inicio', reloj: null,
   banco: null, ronda: null, recompensaRonda: null,
-  borradorTribunal: ''
+  borradorTribunal: '',
+  cuenta: { fase: 'inicio', email: '', mensaje: '', ocupado: false }
 };
 
 const guardar = () => storage.guardar(S.perfil);
@@ -225,9 +227,77 @@ const acc = {
   },
   salirRonda() { S.ronda = null; S.recompensaRonda = null; ir('preguntas'); },
 
+  // ---------- cuenta y sincronizacion ----------
+  async enviarCodigo(email) {
+    const c = S.cuenta;
+    if (!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(email || '')) { c.mensaje = 'Escribe un correo válido.'; return pintar(); }
+    c.email = email.trim(); c.ocupado = true; c.mensaje = ''; pintar();
+    try {
+      await Cuenta.enviarCodigo(c.email);
+      c.fase = 'codigo';
+      c.mensaje = 'Te llegó un correo con un enlace y un código. En la computadora toca el enlace; en la app del teléfono escribe el código aquí.';
+      Cuenta.iniciarCuenta(alCambiarUsuario).catch(() => {});
+    } catch (e) { c.mensaje = mensajeError(e); }
+    c.ocupado = false; pintar();
+  },
+  async verificarCodigo(codigo) {
+    const c = S.cuenta;
+    c.ocupado = true; c.mensaje = ''; pintar();
+    try { await Cuenta.verificarCodigo(c.email, codigo); await alCambiarUsuario(Cuenta.estadoCuenta.usuario); c.fase = 'inicio'; }
+    catch (e) { c.mensaje = mensajeError(e); }
+    c.ocupado = false; pintar();
+  },
+  volverACorreo() { S.cuenta.fase = 'inicio'; S.cuenta.mensaje = ''; pintar(); },
+  async sincronizarAhora() {
+    S.cuenta.ocupado = true; pintar();
+    await aplicarSincronizacion();
+    S.cuenta.ocupado = false; pintar();
+  },
+  async cerrarSesion() {
+    await Cuenta.cerrarSesion();
+    S.cuenta = { fase: 'inicio', email: '', mensaje: 'Sesión cerrada. El progreso sigue guardado en este dispositivo.', ocupado: false };
+    pintar();
+  },
+  reportar(tipo, ref, detalle) {
+    S.perfil.reportes ||= [];
+    S.perfil.reportes.push({ tipo, ref, detalle: (detalle || '').trim().slice(0, 2000), fecha: hoy(), enviado: false });
+    guardar();
+    if (Cuenta.estadoCuenta.usuario) Cuenta.enviarReportes(S.perfil).then(n => { if (n) guardar(); }).catch(() => {});
+  },
+
   otra() { acc.jugar({}); },
   inicio() { ir('inicio'); }
 };
+
+// ---------------- cuenta ----------------
+function mensajeError(e) {
+  const codigo = e?.code || '';
+  const m = String(e?.message || e || '');
+  const porCodigo = {
+    email_address_invalid: 'Ese correo no es válido. Revisa que esté bien escrito.',
+    email_address_not_authorized: 'Este correo todavía no está habilitado para recibir el acceso: falta configurar el envío de correos en Supabase (ver README).',
+    over_email_send_rate_limit: 'Se pidieron demasiados correos seguidos. Espera unos minutos y vuelve a intentar.',
+    over_request_rate_limit: 'Demasiados intentos seguidos. Espera un minuto.',
+    otp_expired: 'El código ya venció o no es correcto. Pide uno nuevo.'
+  };
+  if (porCodigo[codigo]) return porCodigo[codigo];
+  if (/not authorized/i.test(m)) return porCodigo.email_address_not_authorized;
+  if (/fetch|network|Failed to load|import/i.test(m)) return 'Sin conexión. Tu progreso sigue guardado en este dispositivo.';
+  return 'No se pudo completar: ' + m;
+}
+
+async function aplicarSincronizacion() {
+  try {
+    const elegido = await Cuenta.sincronizar(S.perfil);
+    if (elegido !== S.perfil) { S.perfil = await storage.reemplazar(elegido); }
+    else if ((S.perfil.reportes || []).some(r => r.enviado)) await storage.reemplazar(S.perfil);
+  } catch (e) { Cuenta.estadoCuenta.error = mensajeError(e); }
+}
+
+async function alCambiarUsuario(usuario) {
+  if (usuario) await aplicarSincronizacion();
+  pintar();
+}
 
 // ---------------- arranque ----------------
 async function iniciar() {
@@ -245,6 +315,10 @@ async function iniciar() {
   try { S.banco = await cargarBanco(); } catch { S.banco = { preguntas: [], fuentes: {} }; }
   S.misiones = RE.misionesDeHoy(S.perfil);
   await guardar();
+  alGuardar(p => Cuenta.subirLuego(p));
+  if (Cuenta.haySesionGuardada()) {
+    Cuenta.iniciarCuenta(alCambiarUsuario).then(u => u && alCambiarUsuario(u)).catch(() => {});
+  }
 
   $$('nav.tabs button').forEach(b => b.addEventListener('click', () => {
     if (S.partida && !S.partida.cerrado && b.dataset.ir !== 'partida') {

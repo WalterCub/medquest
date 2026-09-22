@@ -90,7 +90,8 @@ medquest/
 │   ├── services/
 │   │   ├── storage.js              única puerta de datos persistentes
 │   │   ├── caseRepository.js       de dónde salen los casos
-│   │   └── bancoRepository.js      de dónde salen las preguntas
+│   │   ├── bancoRepository.js      de dónde salen las preguntas
+│   │   └── sync.js                 cuenta (enlace o código por correo) y sincronización con Supabase
 │   └── ui/                         render puro: dom, screens, caseUI, tribunalUI, resultsUI, quizUI
 ├── cases/
 │   ├── schema.json
@@ -121,6 +122,44 @@ medquest/
 ```
 
 ---
+
+## Cuenta y sincronización (Supabase)
+
+Proyecto `medquest` en Supabase (región São Paulo, plan gratuito). Sin cuenta
+el juego funciona igual, guardando todo en el dispositivo. Con cuenta, el
+perfil se copia a la tabla `perfiles` y queda sincronizado entre dispositivos;
+si dos copias difieren, gana la guardada más recientemente.
+
+- **Entrar:** Mapa → "Guarda tu progreso en la nube" → correo. Llega un correo
+  con un enlace y un código de 6 dígitos. En la computadora basta el enlace; en
+  el iPhone, dentro de la app instalada, se escribe el código (la app instalada
+  no comparte sesión con Safari, por eso existe el código).
+- **Reportar errores:** cada pregunta y cada resultado de caso tienen "¿Ves un
+  error? Repórtalo". El reporte queda en el dispositivo y se envía a la tabla
+  `reportes` al iniciar sesión. Para revisarlos: Supabase → Table Editor →
+  `reportes`.
+- **Seguridad:** las dos tablas tienen RLS; cada usuario solo lee y escribe lo
+  suyo. La clave que está en `js/services/sync.js` es la *publishable*, hecha
+  para ir en el navegador.
+
+**Configuración que se hace una vez, en el panel de Supabase:**
+
+1. *Authentication → URL Configuration*: Site URL
+   `https://waltercub.github.io/medquest/`, y en Redirect URLs
+   `https://waltercub.github.io/medquest/**` y `http://localhost:8080/**`.
+2. *Authentication → Email Templates → Magic Link*: que el correo traiga el
+   código además del enlace, por ejemplo:
+
+   ```html
+   <h2>Tu acceso a MedQuest</h2>
+   <p>Tu código: <strong>{{ .Token }}</strong></p>
+   <p>O toca este enlace: <a href="{{ .ConfirmationURL }}">Entrar a MedQuest</a></p>
+   ```
+3. *Envío de correos*: el servicio incluido de Supabase solo envía a miembros
+   del equipo del proyecto y con un límite bajo por hora. Para enviar a
+   cualquier correo, configurar un SMTP propio en *Project Settings →
+   Authentication → SMTP Settings* (por ejemplo Gmail con una contraseña de
+   aplicación: `smtp.gmail.com`, puerto 465).
 
 ## Banco de preguntas
 

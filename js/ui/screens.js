@@ -4,6 +4,7 @@ import { AREAS } from '../services/caseRepository.js';
 import { racha, nivel, misionesDeHoy, misionesCompletas, RECOMPENSA_MISIONES } from '../engine/rewardEngine.js';
 import { conceptosPendientes } from '../engine/learningEngine.js';
 import { decoPregunta } from './quizUI.js';
+import { estadoCuenta } from '../services/sync.js';
 
 export function renderInicio(cont, { perfil, casos }, acc) {
   const ms = misionesDeHoy(perfil);
@@ -99,7 +100,7 @@ export function renderInicio(cont, { perfil, casos }, acc) {
   on(cont, '[data-nivel]', el => acc.fijarNivel(+el.dataset.nivel || null));
 }
 
-export function renderPerfil(cont, { perfil, casos }, acc) {
+export function renderPerfil(cont, { perfil, casos, cuenta }, acc) {
   const pend = conceptosPendientes(perfil);
   const areas = Object.entries(AREAS).filter(([k]) => k !== 'DEMO').map(([k, a]) => {
     const st = perfil.areas[k] || { partidas: 0, sumaPuntaje: 0 };
@@ -139,6 +140,8 @@ export function renderPerfil(cont, { perfil, casos }, acc) {
     </ul>` : '<p class="vacio" style="margin-top:.5rem">Todavia ninguna.</p>'}
   </div>
 
+  ${panelCuenta(perfil, cuenta)}
+
   <div class="panel">
     <h3>Tus datos</h3>
     <div class="fila" style="margin-top:.5rem">
@@ -146,10 +149,16 @@ export function renderPerfil(cont, { perfil, casos }, acc) {
       <button class="btn sm" id="tema">Cambiar tema</button>
       <button class="btn sm" id="borrar">Borrar todo</button>
     </div>
-    <p class="nota" style="margin-top:.6rem">El progreso se guarda en este navegador. Si cambias de telefono, exporta primero.</p>
   </div>`;
 
   $('#exportar', cont).addEventListener('click', () => acc.exportar());
+  $('#enviar', cont)?.addEventListener('click', () => acc.enviarCodigo($('#email', cont).value));
+  $('#email', cont)?.addEventListener('keydown', e => { if (e.key === 'Enter') acc.enviarCodigo(e.target.value); });
+  $('#verificar', cont)?.addEventListener('click', () => acc.verificarCodigo($('#codigo', cont).value));
+  $('#codigo', cont)?.addEventListener('keydown', e => { if (e.key === 'Enter') acc.verificarCodigo(e.target.value); });
+  $('#otro-correo', cont)?.addEventListener('click', () => acc.volverACorreo());
+  $('#sync', cont)?.addEventListener('click', () => acc.sincronizarAhora());
+  $('#salir-cuenta', cont)?.addEventListener('click', () => acc.cerrarSesion());
   $('#tema', cont).addEventListener('click', () => acc.tema());
   $('#borrar', cont).addEventListener('click', () => acc.borrar());
 }
@@ -192,4 +201,39 @@ export function renderTienda(cont, { perfil }, acc) {
     const n = $('#pn', cont).value.trim(), c = parseInt($('#pc', cont).value, 10);
     if (n && c > 0) acc.agregarPremio(n, c);
   });
+}
+
+function panelCuenta(perfil, cuenta) {
+  const u = estadoCuenta.usuario;
+  const pendientes = (perfil.reportes || []).filter(r => !r.enviado).length;
+  if (u) {
+    const hora = estadoCuenta.sincronizado ? estadoCuenta.sincronizado.toLocaleTimeString('es', { hour: '2-digit', minute: '2-digit' }) : null;
+    return `<div class="panel">
+      <h3>☁️ Tu cuenta</h3>
+      <p class="sutil" style="margin:.35rem 0 .2rem">Sesión iniciada como <strong>${esc(u.email)}</strong>.</p>
+      <p class="nota">${estadoCuenta.error ? `No se pudo sincronizar: ${esc(estadoCuenta.error)}` : hora ? `Progreso sincronizado a las ${hora}. Lo verás igual en cualquier dispositivo donde entres con este correo.` : 'Sincronizando...'}</p>
+      ${pendientes ? `<p class="nota">${pendientes} reporte(s) de error por enviar.</p>` : ''}
+      <div class="fila" style="margin-top:.6rem">
+        <button class="btn sm verde" id="sync" ${cuenta.ocupado ? 'disabled' : ''}>Sincronizar ahora</button>
+        <button class="btn sm" id="salir-cuenta">Cerrar sesión</button>
+      </div>
+    </div>`;
+  }
+  return `<div class="panel">
+    <h3>☁️ Guarda tu progreso en la nube</h3>
+    <p class="nota" style="margin:.35rem 0 .7rem">Sin contraseña: te llega un correo para entrar. Así tu progreso se sincroniza entre el teléfono y la computadora y no se pierde si el navegador borra los datos.</p>
+    ${cuenta.fase === 'codigo' ? `
+      <label class="campo" for="codigo">Código de 6 dígitos que llegó a ${esc(cuenta.email)}</label>
+      <div class="fila">
+        <input type="text" id="codigo" inputmode="numeric" autocomplete="one-time-code" maxlength="10" placeholder="123456" style="flex:1 1 8rem">
+        <button class="btn pri" id="verificar" ${cuenta.ocupado ? 'disabled' : ''}>Entrar</button>
+      </div>
+      <button class="btn sm" id="otro-correo" style="margin-top:.6rem">Usar otro correo</button>` : `
+      <label class="campo" for="email">Tu correo</label>
+      <div class="fila">
+        <input type="text" id="email" inputmode="email" autocomplete="email" placeholder="nombre@correo.com" value="${esc(cuenta.email)}" style="flex:1 1 11rem">
+        <button class="btn pri" id="enviar" ${cuenta.ocupado ? 'disabled' : ''}>${cuenta.ocupado ? 'Enviando...' : 'Enviarme el acceso'}</button>
+      </div>`}
+    ${cuenta.mensaje ? `<p class="aviso" style="margin:.7rem 0 0">${esc(cuenta.mensaje)}</p>` : ''}
+  </div>`;
 }

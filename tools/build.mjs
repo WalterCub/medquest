@@ -23,6 +23,7 @@ const ORDEN = [
   'js/services/storage.js',
   'js/services/caseRepository.js',
   'js/services/bancoRepository.js',
+  'js/services/sync.js',
   'js/engine/caseEngine.js',
   'js/engine/scoringEngine.js',
   'js/engine/tribunalEngine.js',
@@ -65,6 +66,7 @@ const TE = { construirInterrogatorio, responder, PESO_AUTOEVAL };
 const RE = { GANANCIAS, nivel, racha, recompensar, recompensarRonda, misionesDeHoy, avanzarMisiones, misionesCompletas, RECOMPENSA_MISIONES };
 const QZ = { crearRonda, responderPregunta, siguientePregunta, resumenRonda, preguntaActual, estadisticasBanco, pesoPregunta, PREGUNTAS_POR_RONDA };
 const QuizUI = { render: renderPreguntas };
+const Cuenta = { iniciarCuenta, haySesionGuardada, enviarCodigo, verificarCodigo, cerrarSesion, sincronizar, subirLuego, enviarReportes, estadoCuenta };
 const Screens = { renderInicio, renderPerfil, renderTienda };
 const CaseUI = { render: renderCaso };
 const TribunalUI = { render: renderTribunal };
