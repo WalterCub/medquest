@@ -125,7 +125,7 @@ function validarCaso(c, archivo) {
       if (it.conceptoLigado && !conceptos.has(it.conceptoLigado)) E(`${ref} (${it.clave}): conceptoLigado "${it.conceptoLigado}" no existe`);
       if (it.nivel && it.nivel.some(n => ![1, 2, 3].includes(n))) E(`${ref} (${it.clave}): nivel invalido`);
       if (opts.debeExistirEn && !opts.debeExistirEn.has(it.clave)) {
-        E(`${ref} (${it.clave}): la rubrica evalua una clave que no existe en descubrimiento. La jugadora no puede pedir lo que el caso no ofrece.`);
+        E(`${ref} (${it.clave}): la rubrica evalua una clave que no existe en descubrimiento. No se puede pedir lo que el caso no ofrece.`);
       }
     });
     clavesRubrica[nombre] = set;
@@ -178,7 +178,7 @@ function validarCaso(c, archivo) {
     if (q.conceptoLigado && !conceptos.has(q.conceptoLigado)) E(`${ref} (${q.id}): conceptoLigado "${q.conceptoLigado}" no existe`);
     if (q.fuente != null && (q.fuente < 0 || q.fuente >= nF)) E(`${ref} (${q.id}): fuente fuera de rango`);
     if (!Array.isArray(q.loQueSeEsperaOir) || !q.loQueSeEsperaOir.length) {
-      A(`${ref} (${q.id}): sin loQueSeEsperaOir. La jugadora se autoevalua a ciegas.`);
+      A(`${ref} (${q.id}): sin loQueSeEsperaOir. La autoevaluacion queda a ciegas.`);
     }
   });
   if (!hayIncondicional) E('el tribunal no tiene ninguna pregunta con disparador "siempre": puede quedar vacio');
@@ -188,7 +188,7 @@ function validarCaso(c, archivo) {
   [...(c.rubrica.conductas || []), ...(c.rubrica.estudios || [])]
     .filter(it => it.valoracion === 'NO_CONTEMPLADO_POR_LA_FUENTE')
     .forEach(it => {
-      if (!conPregunta.has(it.clave)) A(`"${it.clave}" esta NO_CONTEMPLADO_POR_LA_FUENTE pero no tiene pregunta de tribunal asociada: la jugadora lo elige y no pasa nada.`);
+      if (!conPregunta.has(it.clave)) A(`"${it.clave}" esta NO_CONTEMPLADO_POR_LA_FUENTE pero no tiene pregunta de tribunal asociada: si se elige, no pasa nada.`);
     });
 
   (c.estudiosPlausiblesNoIncluidos || []).forEach((e, i) => {

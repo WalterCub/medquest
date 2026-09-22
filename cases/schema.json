@@ -51,7 +51,7 @@
     },
 
     "estudiosPlausiblesNoIncluidos": {
-      "description": "Estudios que la jugadora puede pedir con sentido y que el caso no contempla. No se evaluan como error: generan pregunta de tribunal.",
+      "description": "Estudios que se pueden pedir con sentido y que el caso no contempla. No se evaluan como error: generan pregunta de tribunal.",
       "type": "array",
       "items": {
         "type": "object",
@@ -148,7 +148,7 @@
 
   "definitions": {
     "grupoRevelable": {
-      "description": "Se revela despues de que la jugadora declare por escrito que iba a buscar. El motor registra su declaracion en el DecisionLog.",
+      "description": "Se revela despues de declarar por escrito que iba a buscar. El motor registra su declaracion en el DecisionLog.",
       "type": "object",
       "required": ["items"],
       "additionalProperties": false,
@@ -191,7 +191,7 @@
               "fuente": { "type": "integer" },
               "nivelFuente": { "description": "Indice en 'fuentes' de la norma de caracterizacion que respalda nivelMinimo. Sin esto, el nivel es criterio del autor.", "type": "integer" },
               "nivelPagina": { "type": "string" },
-              "nivelNota": { "description": "Que dice la norma: el equipo o servicio que existe (o falta) en ese nivel. Se muestra a la jugadora cuando el estudio esta bloqueado.", "type": "string" },
+              "nivelNota": { "description": "Que dice la norma: el equipo o servicio que existe (o falta) en ese nivel. Se muestra en pantalla cuando el estudio esta bloqueado.", "type": "string" },
               "nivelAnclaje": { "description": "COMPLETO si la norma confirma que el estudio no esta en el nivel inferior y si esta en nivelMinimo; PARCIAL si solo confirma una de las dos cosas.", "enum": ["COMPLETO", "PARCIAL"] }
             }
           }

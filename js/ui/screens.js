@@ -158,7 +158,7 @@ export function renderTienda(cont, { perfil }, acc) {
   cont.innerHTML = `
   <div class="encabezado">
     <h1>🪙 ${perfil.kamas} Kamas Clínicas</h1>
-    <p class="sutil" style="margin-top:.35rem">Las recompensas las define ella y las paga alguien mas. Eso es lo que les da valor.</p>
+    <p class="sutil" style="margin-top:.35rem">Tú eliges las recompensas y alguien de confianza las entrega. Por eso valen.</p>
   </div>
 
   <div class="panel">
@@ -183,7 +183,7 @@ export function renderTienda(cont, { perfil }, acc) {
     ${perfil.canjes.length ? `<ul class="cuerpo" style="padding-left:1.15rem;margin:.5rem 0 0">
       ${perfil.canjes.slice().reverse().map(c => `<li>${esc(c.fecha)} · ${esc(c.nombre)} (${c.costo}) · ${esc(c.estado)}</li>`).join('')}
     </ul>` : '<p class="vacio" style="margin-top:.5rem">Ninguna todavia.</p>'}
-    <p class="nota" style="margin-top:.7rem">MedQuest solo registra el reclamo. La entrega ocurre afuera, entre ustedes.</p>
+    <p class="nota" style="margin-top:.7rem">MedQuest solo registra el reclamo. La entrega ocurre fuera de la app.</p>
   </div>`;
 
   on(cont, '[data-canje]', el => acc.canjear(el.dataset.canje));

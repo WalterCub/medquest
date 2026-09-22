@@ -2,7 +2,7 @@
  * learningEngine.js — que le conviene practicar ahora.
  *
  * DECISION ARQUITECTONICA
- * La seleccion se siente aleatoria para la jugadora pero esta sesgada hacia lo
+ * La seleccion se siente aleatoria para quien juega pero esta sesgada hacia lo
  * que le falta. Los pesos son los del documento de especificacion. Se calculan
  * sobre el perfil persistido, no sobre la sesion, para que el sesgo sobreviva
  * al cierre de la app.

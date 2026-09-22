@@ -3,10 +3,10 @@
  *
  * DECISION ARQUITECTONICA
  * Red primero, cache de respaldo. Con conexion siempre se sirve la version
- * recien desplegada (un caso corregido llega sin que ella haga nada); sin
+ * recien desplegada (un caso corregido llega sin hacer nada); sin
  * conexion se sirve la ultima copia guardada. Cache primero seria mas rapido,
- * pero obligaria a versionar a mano cada despliegue y un olvido dejaria a la
- * jugadora estudiando una rubrica vieja.
+ * pero obligaria a versionar a mano cada despliegue y un olvido dejaria a quien
+ * estudia con una rubrica vieja.
  */
 const CACHE = 'medquest-v1';
 

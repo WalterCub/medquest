@@ -7,7 +7,7 @@
  * puede comprobar a maquina: cada pregunta lleva una cita textual y el validador
  * la busca, normalizada, en el texto de esa pagina del PDF oficial. Si no esta,
  * es error. Lo primero (que la cita respalde de verdad la opcion correcta) sigue
- * siendo trabajo de la revisora, pero ahora solo tiene que leer una frase.
+ * siendo trabajo de quien revise, pero ahora solo tiene que leer una frase.
  */
 import { readFileSync, existsSync } from 'node:fs';
 import { join } from 'node:path';

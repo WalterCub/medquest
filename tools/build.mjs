@@ -4,7 +4,7 @@
  *
  * Por que existe: los ES Modules no cargan desde file://, asi que abrir
  * index.html con doble clic no funciona. Para desarrollar se sirve la carpeta
- * por http; para que ella lo use en el telefono se genera este archivo unico.
+ * por http; para mandarlo como un solo archivo se genera este.
  *
  * Inlinea css, los modulos js (resolviendo el orden de importacion) y los
  * casos JSON en window.MEDQUEST_CASOS.

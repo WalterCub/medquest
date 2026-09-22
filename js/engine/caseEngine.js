@@ -13,13 +13,13 @@
  *    especificacion, y esta anotada en el README. El documento decia que al
  *    pulsar "Interrogar" aparecen los antecedentes. Eso entrena reconocimiento
  *    (elegir de un menu) cuando el examen evalua evocacion (generar las
- *    preguntas). Aqui la jugadora escribe primero que iba a preguntar o buscar,
+ *    preguntas). Aqui quien juega escribe primero que iba a preguntar o buscar,
  *    su texto queda en el DecisionLog, y recien entonces se revela el grupo.
  *    Los estudios si son menu, porque pedir un estudio de una lista sí es lo
  *    que se hace en la realidad.
  *
  * 3. El DecisionLog es append-only y es la fuente de verdad de lo que hizo la
- *    jugadora. El tribunal y la evaluacion no leen la UI: leen el log.
+ *    persona que juega. El tribunal y la evaluacion no leen la UI: leen el log.
  */
 
 export const GRUPOS_INFO = ['anamnesis', 'antecedentes', 'examenFisico'];
@@ -54,7 +54,7 @@ function registrar(p, tipo, accion, extra = {}) {
   });
 }
 
-/** Guarda lo que la jugadora dice que va a buscar. Sin esto no se revela nada. */
+/** Guarda lo que quien juega dice que va a buscar. Sin esto no se revela nada. */
 export function declarar(p, grupo, texto) {
   p.declaraciones[grupo] = (texto || '').trim();
   registrar(p, 'declaracion', grupo, { texto: p.declaraciones[grupo] });

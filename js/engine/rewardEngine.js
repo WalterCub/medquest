@@ -4,7 +4,7 @@
  * DECISIONES ARQUITECTONICAS
  *
  * 1. UNA SOLA MONEDA. El documento proponia XP no gastable ademas de Kamas.
- *    Para una jugadora con examen en fecha fija, dos economias son complejidad
+ *    Para alguien con examen en fecha fija, dos economias son complejidad
  *    sin funcion. El nivel se deriva de las Kamas ganadas acumuladas.
  *
  * 2. La recompensa NO refleja la nota medica. Se premia haber jugado, haber

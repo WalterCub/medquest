@@ -147,7 +147,7 @@ hay un botón para repetir solo las falladas.
 validador busca la cita, sin importar tildes, mayúsculas ni puntuación, en el
 texto de esa página del PDF oficial. Si la cita no aparece o está en otra
 página, es error. Lo que la máquina no puede comprobar (que la cita respalde de
-verdad la opción marcada como correcta) queda para la revisora, que solo
+verdad la opción marcada como correcta) queda para quien revise, que solo
 tiene que leer una frase. Las 54 preguntas actuales están en `BORRADOR` hasta esa
 revisión.
 
@@ -170,7 +170,7 @@ este motor solo decide cuáles se disparan. Dos partidas idénticas producen el
 mismo examen oral. Cuando entre IA (v0.4) será capa de repregunta **no
 puntuada**: la nota siempre sale de la rúbrica.
 
-**La autoevaluación del tribunal la hace ella, no un matcher.** Después de
+**La autoevaluación del tribunal la hace quien juega, no un matcher.** Después de
 responder en voz alta ve `loQueSeEsperaOir` y se califica completa / a medias /
 no supe. Un comparador de texto no puede juzgar una respuesta oral, y fingir
 que sí sería peor que pedir honestidad.
@@ -188,13 +188,13 @@ Las tres, explicadas como pide la regla 1 del documento.
 **1. Declarar antes de revelar** (`caseEngine.js`). El documento decía que al
 pulsar "Interrogar" aparecen los antecedentes. Eso entrena reconocimiento
 —elegir de un menú— cuando el examen evalúa evocación: generar las preguntas.
-Aquí ella escribe primero qué iba a preguntar o buscar, su texto queda en el
+Aquí primero se escribe qué iba a preguntar o buscar, su texto queda en el
 DecisionLog, y recién entonces se revela el grupo. Los estudios sí son menú,
 porque pedir un estudio de una lista sí es lo que se hace en la realidad.
 Se puede desactivar por grupo con `exigeDeclaracionPrevia: false`.
 
 **2. Una sola moneda.** El documento proponía XP no gastable además de Kamas.
-Para una jugadora con examen en fecha fija, dos economías son complejidad sin
+Para alguien con examen en fecha fija, dos economías son complejidad sin
 función. El nivel se deriva de las Kamas ganadas acumuladas.
 
 **3. Seis dimensiones de puntaje, no nueve.** Nadie lee nueve barras. El
@@ -226,7 +226,7 @@ encontraron en la norma y que **no** se usaron en la rúbrica.
 
 **Niveles de atención anclados.** Desde esta versión el `nivelMinimo` de cada
 estudio cita la norma de caracterización que lo respalda (ver AUTORIA.md, paso
-3b). En el juego, nivel 1 es el Centro de Salud con Internación. Si la jugadora
+3b). En el juego, nivel 1 es el Centro de Salud con Internación. Si se
 pide un estudio que no existe en su nivel, el juego le muestra qué dice la norma
 y ese estudio no le resta puntaje. `node tools/validate.mjs` lista los anclajes
 que siguen pendientes.
@@ -268,11 +268,11 @@ queda sin respaldo.
 El motor ya está probado. **El cuello de botella ahora es la autoría, no el
 código.** El orden que rinde:
 
-1. Que ella juegue MI-003 y DEMO-001 esta semana y diga qué le sobra y qué le
+1. Jugar MI-003 y DEMO-001 esta semana y anotar qué le sobra y qué le
    falta. Ocho casos alcanzan para saber si el ciclo engancha; ese feedback
    vale más que cuatro semanas de código a ciegas.
 2. Escribir 8 a 10 casos siguiendo `AUTORIA.md`, repartidos entre las cinco
-   áreas. **Que los escriba ella siempre que se pueda**: convertir un capítulo
+   áreas. **Escribirlos uno mismo siempre que se pueda**: convertir un capítulo
    en caso es mejor estudio que releerlo, y resuelve la validación.
 3. Recién entonces, si sobra tiempo: banco de preguntas como modo aparte, que
    es el contenido más barato de producir en volumen.
@@ -292,7 +292,7 @@ desarrollo.** Solo simulacros orales con alguien haciendo de tribunal.
 - El matcher compara por subcadena en los dos sentidos: un sinónimo que
   contiene la palabra de otra conducta (p. ej. "prueba de la atropina" frente a
   "atropina") hace que escribir solo esa palabra active las dos. Al escribir
-  sinónimos de una conducta NO_CONTEMPLADO, evitar palabras que la jugadora usa
+  sinónimos de una conducta NO_CONTEMPLADO, evitar palabras que se usan
   para la conducta correcta.
 - El repositorio es público: cualquiera puede leer los casos y sus rúbricas.
   `revision/` (la clave de respuestas) y los PDFs están en `.gitignore`.

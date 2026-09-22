@@ -81,7 +81,7 @@ export function construirInterrogatorio(caso, p) {
 /**
  * Registra la autoevaluacion de una respuesta.
  * valor: 'completa' | 'parcial' | 'no_supe'
- * La jugadora se califica despues de ver loQueSeEsperaOir. Es deliberado:
+ * Quien juega se califica despues de ver loQueSeEsperaOir. Es deliberado:
  * un matcher de texto no puede juzgar una respuesta oral, y fingir que si
  * puede seria peor que pedirle honestidad.
  */

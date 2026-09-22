@@ -88,7 +88,7 @@ Cada estudio lleva, además de `nivelMinimo`:
 ```json
 "nivelFuente": 1,
 "nivelPagina": "37, 121",
-"nivelNota": "Lo que dice la norma, en una frase. La jugadora la ve si pide el estudio en un nivel donde no existe.",
+"nivelNota": "Lo que dice la norma, en una frase. Se muestra si se pide el estudio en un nivel donde no existe.",
 "nivelAnclaje": "COMPLETO"
 ```
 
@@ -125,7 +125,7 @@ imprescindible y la norma no lo trae, o buscas otra fuente y la agregas a
 `fuentes`, o lo dejas fuera.
 
 ### 5. Los `sinonimos` son lo que hace funcionar la evaluación
-La jugadora escribe en texto libre. El matcher compara contra `clave` y
+Quien juega escribe en texto libre. El matcher compara contra `clave` y
 `sinonimos`. Pon todas las formas en que alguien escribiría eso: abreviatura,
 nombre completo, nombre coloquial, con y sin tilde. Si un caso puntúa mal sin
 razón, casi siempre faltan sinónimos.
@@ -139,11 +139,11 @@ Apunta a entre 15 y 25 preguntas. La mezcla que funciona:
 - **`siPidio` / `siNoPidio`** para cada estudio ESPERADO y para los que quieras
   que justifique.
 - **`siConducta`** para cada conducta `NO_CONTEMPLADO_POR_LA_FUENTE`. Si no le
-  pones pregunta, la jugadora la elige y no pasa nada; el validador te avisa.
+  pones pregunta, se elige y no pasa nada; el validador te avisa.
 - **`siNoConducta`** para las conductas ESPERADO que más se olvidan.
 - **`siOmitioInfo`** para cada ítem de `informacionCritica`.
 
-`loQueSeEsperaOir` no es opcional en la práctica: es lo que la jugadora lee
+`loQueSeEsperaOir` no es opcional en la práctica: es lo que se lee
 para autoevaluarse. Sin eso se califica a ciegas.
 
 ### 7. Llena `estudiosPlausiblesNoIncluidos`

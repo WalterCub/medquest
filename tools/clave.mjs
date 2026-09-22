@@ -5,7 +5,7 @@
  * Uso: node tools/clave.mjs   ->  revision/clave-de-respuestas.md
  *
  * Es material para quien revisa los casos (la segunda persona del area), no para
- * la jugadora: con la clave en la mano el juego deja de entrenar evocacion.
+ * quien juega: con la clave en la mano el juego deja de entrenar evocacion.
  * Por eso se escribe en revision/ y no en dist/, que es lo que se publica.
  */
 import { readFileSync, writeFileSync, mkdirSync, readdirSync } from 'node:fs';
@@ -31,7 +31,7 @@ out.push('## Como se saca 100', '');
 out.push('1. **Informacion:** declarar y revelar los tres grupos (interrogar, antecedentes, examinar). Cada grupo revela todos sus datos de una vez.');
 out.push('2. **Estudios:** pedir todos los ESPERADO que existan en el nivel. Los que no existen en ese nivel no restan.');
 out.push('3. **Diagnostico, diferenciales y conducta:** escribir lo de cada lista. Basta con que el texto contenga la palabra en negrita (sin importar tildes ni mayusculas).');
-out.push('4. **Tribunal:** decir en voz alta lo que figura en "se espera oir" y marcar "Lo dije completo". Es la unica dimension que depende de la honestidad de la jugadora.');
+out.push('4. **Tribunal:** decir en voz alta lo que figura en "se espera oir" y marcar "Lo dije completo". Es la unica dimension que depende de la honestidad de quien juega.');
 out.push('5. Lo marcado "Evitar" no baja la nota, pero dispara una pregunta de tribunal que hay que defender.', '');
 
 for (const c of casos) {

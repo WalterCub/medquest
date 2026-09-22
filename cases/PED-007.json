@@ -264,7 +264,7 @@
     },
     {
       "id": "t08",
-      "pregunta": "Propuso hospitalizarla. Cuales son los criterios de hospitalizacion de la fuente y cual cumple ella?",
+      "pregunta": "Propuso hospitalizarla. Cuales son los criterios de hospitalizacion de la fuente y cual cumple esta nina?",
       "disparador": { "tipo": "siConducta", "clave": "cx_hospitalizar" },
       "loQueSeEsperaOir": ["Deshidratacion moderada a grave", "Desnutricion moderada a grave", "Esta nina no cumple ninguno"],
       "conceptoLigado": "c_referencia",
