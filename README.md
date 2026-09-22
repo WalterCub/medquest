@@ -24,27 +24,14 @@ python3 -m http.server 8080
 
 **Publicado en GitHub Pages:** https://waltercub.github.io/medquest/
 
-**Para publicar un cambio**, desde esta carpeta:
+**Para publicar un cambio**: `git commit` y `git push` a `main`. GitHub Actions
+corre la validación de casos y citas, el smoke test y el build; si todo pasa,
+publica en uno o dos minutos. Si algo falla, queda en línea la versión anterior
+y el error aparece en la pestaña *Actions* del repositorio.
 
-```bash
-node tools/publicar.mjs
-```
-
-Corre la validación de casos y citas, el smoke test y el build; si todo pasa,
-sube el sitio a la rama `gh-pages` y GitHub Pages lo publica en uno o dos
-minutos. Si algo falla, no publica nada y queda en línea la versión anterior.
-Aparte, hacer `git commit` y `git push` para guardar el código en `main`.
-
-*Publicación automática (pendiente).* Existe `.github/workflows/pages.yml`, que
-hace lo mismo en cada `git push`, pero GitHub Actions está bloqueado en la
-cuenta por un problema de facturación y el workflow quedó desactivado. Cuando
-se resuelva (GitHub → Settings → Billing and plans):
-
-```bash
-gh workflow enable pages.yml
-```
-
-y en el repositorio, Settings → Pages → Source: *GitHub Actions*.
+*Respaldo:* si Actions no estuviera disponible, `node tools/publicar.mjs` hace
+lo mismo desde la PC y sube el sitio a la rama `gh-pages` (en ese caso,
+Settings → Pages → Source: *Deploy from a branch*, `gh-pages`).
 
 **Instalarlo en el iPhone:** abrir el enlace en Safari → Compartir → *Agregar a
 pantalla de inicio*. Queda como app, funciona sin conexión y es menos probable
