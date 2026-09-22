@@ -1,0 +1,1239 @@
+{
+  "id": "MI-003",
+  "titulo": "Crisis asmatica en mujer de 26 anos",
+  "area": "MI",
+  "subarea": "Asma bronquial",
+  "dificultad": 2,
+  "estado": "BIBLIOGRAFIA_VERIFICADA",
+  "tipo": "medico",
+  "nivelesDisponibles": [
+    1,
+    2,
+    3
+  ],
+  "tiempoSugeridoSeg": 1800,
+  "notaDeAutoria": "La vineta clinica y los resultados de estudios los redacto el autor del caso para que apliquen los criterios de la fuente; NO provienen de un paciente real ni de un caso publicado. Todo el contenido evaluable (clasificacion, criterios diagnosticos, diferenciales, conducta por nivel de atencion, criterios de referencia y conceptos clave) proviene del capitulo 3 'Asma Bronquial' de la Norma Nacional de Atencion Clinica de Medicina Interna, con la pagina indicada en cada item. Estado BIBLIOGRAFIA_VERIFICADA y no VALIDADO: falta la revision por segunda persona del area antes de usarlo en modo examen. Los nivelMinimo de los estudios se anclan a las normas de caracterizacion de primer nivel (pub. 284, 2013) y de segundo nivel (pub. 285, 2014), en los campos nivelFuente y nivelPagina. En el juego, nivel 1 es el Centro de Salud con Internacion (rural), que segun la norma de primer nivel cuenta con laboratorio basico y sin imagenologia. Oximetria, PEF, prick y metacolina quedan sin anclar: la norma de primer nivel no lista oximetro ni flujometro, y no hay norma de caracterizacion de tercer nivel publicada.",
+  "presentacionInicial": {
+    "texto": "Mujer de 26 anos llega caminando al establecimiento de salud, acompanada por su hermana. Desde anoche tiene dificultad para respirar que fue empeorando, tos seca y sensacion de opresion en el pecho. Habla en frases cortas y prefiere quedarse sentada. Su hermana dice que 'le silba el pecho' desde la madrugada.",
+    "signosVitales": {
+      "Presion arterial": "118/74 mmHg",
+      "Frecuencia cardiaca": "112 lpm",
+      "Frecuencia respiratoria": "26 por minuto",
+      "Temperatura": "36.8 C",
+      "Saturacion de oxigeno": "92% (aire ambiente)"
+    },
+    "contexto": "Puedes jugar este caso en primer, segundo o tercer nivel de atencion. El nivel cambia que estudios estan disponibles y cual es la conducta que la norma espera de ti."
+  },
+  "descubrimiento": {
+    "anamnesis": {
+      "etiqueta": "Interrogar a la paciente",
+      "exigeDeclaracionPrevia": true,
+      "items": [
+        {
+          "clave": "sibilancias",
+          "texto": "Refiere silbido en el pecho, disnea, tos y opresion toracica. Dice que le pasa 'por temporadas' y que casi siempre empieza de noche o de madrugada.",
+          "critico": true
+        },
+        {
+          "clave": "variabilidad",
+          "texto": "Los sintomas van y vienen: hay semanas en que no siente nada y otras en que se despierta dos o tres noches ahogada.",
+          "critico": true
+        },
+        {
+          "clave": "frecuencia",
+          "texto": "En el ultimo mes tuvo sintomas casi todos los dias y se despierta de noche unas dos veces por semana. Ha dejado de subir las gradas rapido porque se agita.",
+          "critico": true
+        },
+        {
+          "clave": "desencadenante",
+          "texto": "Esta vez empezo despues de limpiar un cuarto cerrado lleno de polvo. Otras veces le pasa con el humo y cuando corre.",
+          "critico": true
+        },
+        {
+          "clave": "tratamiento",
+          "texto": "Tiene un inhalador de salbutamol que usa 'cuando le falta el aire', unas cuatro o cinco veces al dia en las malas semanas. Nunca uso inhalador de mantenimiento.",
+          "critico": true
+        },
+        {
+          "clave": "rescates_hoy",
+          "texto": "Desde anoche se aplico el salbutamol seis veces y cada vez le alivia menos."
+        },
+        {
+          "clave": "hospitalizaciones",
+          "texto": "Nunca estuvo internada ni intubada por esto. Ha ido dos veces a emergencias en el ultimo ano."
+        },
+        {
+          "clave": "fiebre_expec",
+          "texto": "No tiene fiebre, escalofrios ni expectoracion purulenta."
+        },
+        {
+          "clave": "embarazo",
+          "texto": "Ultima menstruacion hace dos semanas. No esta embarazada ni sospecha estarlo."
+        },
+        {
+          "clave": "cardio",
+          "texto": "No tiene ortopnea previa, no tiene edema de piernas, no ha tenido dolor toracico ni palpitaciones fuera de las crisis."
+        }
+      ]
+    },
+    "antecedentes": {
+      "etiqueta": "Antecedentes",
+      "exigeDeclaracionPrevia": true,
+      "items": [
+        {
+          "clave": "atopia",
+          "texto": "Rinitis alergica desde la adolescencia y eczema en la infancia. La madre tambien es asmatica.",
+          "critico": true
+        },
+        {
+          "clave": "tabaco",
+          "texto": "No fuma. En su casa se cocina con gas y no hay fumadores.",
+          "critico": true
+        },
+        {
+          "clave": "aines",
+          "texto": "No refiere reacciones a antiinflamatorios ni a aspirina."
+        },
+        {
+          "clave": "ocupacion",
+          "texto": "Trabaja en una tienda. En su cuarto hay alfombra y tiene dos gatos."
+        },
+        {
+          "clave": "comorbilidad",
+          "texto": "Sin diabetes, sin hipertension, sin cardiopatia conocida. Indice de masa corporal 24."
+        }
+      ]
+    },
+    "examenFisico": {
+      "etiqueta": "Examinar a la paciente",
+      "exigeDeclaracionPrevia": true,
+      "items": [
+        {
+          "clave": "general",
+          "texto": "Consciente, orientada, ansiosa. Prefiere estar sentada. Habla en frases cortas, no en palabras aisladas."
+        },
+        {
+          "clave": "auscultacion",
+          "texto": "Roncus y sibilancias audibles en ambas fases de la respiracion, difusos en ambos campos. Espiracion prolongada.",
+          "critico": true
+        },
+        {
+          "clave": "accesorios",
+          "texto": "Usa musculos accesorios del cuello. Aleteo nasal leve. No hay tiraje intercostal marcado.",
+          "critico": true
+        },
+        {
+          "clave": "percusion",
+          "texto": "Percusion con hiperresonancia difusa, sin matidez localizada."
+        },
+        {
+          "clave": "cardio_ex",
+          "texto": "Taquicardia regular sin soplos. No hay ingurgitacion yugular ni reflujo hepatoyugular. Sin edema de miembros inferiores.",
+          "critico": true
+        },
+        {
+          "clave": "cuello",
+          "texto": "Traquea centrada. No hay estridor inspiratorio ni disfonia."
+        },
+        {
+          "clave": "piel",
+          "texto": "Sin cianosis. Llenado capilar normal. Piel tibia."
+        },
+        {
+          "clave": "conciencia",
+          "texto": "Escala de conciencia normal, sin somnolencia ni confusion."
+        }
+      ]
+    },
+    "laboratorio": {
+      "etiqueta": "Laboratorio",
+      "items": [
+        {
+          "clave": "hemograma",
+          "nombre": "Hemograma completo",
+          "resultado": "Leucocitos 8.900 con eosinofilia leve. Sin desviacion izquierda.",
+          "nivelMinimo": 1,
+          "fuente": 0,
+          "nivelFuente": 1,
+          "nivelPagina": "37, 121",
+          "nivelNota": "La norma de primer nivel asigna laboratorio basico al Centro de Salud con Internacion, con analizador hematologico, contador diferencial y lector de hematocrito.",
+          "nivelAnclaje": "COMPLETO"
+        },
+        {
+          "clave": "ige",
+          "nombre": "IgE serica",
+          "resultado": "Elevada.",
+          "nivelMinimo": 2,
+          "fuente": 0,
+          "nivelFuente": 2,
+          "nivelPagina": "77",
+          "nivelNota": "El laboratorio basico de primer nivel no lista equipo para determinar IgE (norma de primer nivel, p. 121). El hospital de segundo nivel tiene servicio de laboratorio (p. 77), pero el detalle de pruebas esta en el cap. XIII, aun no descargado.",
+          "nivelAnclaje": "PARCIAL"
+        },
+        {
+          "clave": "esputo",
+          "nombre": "Examen de esputo",
+          "resultado": "Escaso, con eosinofilos. No se observan bacterias en el Gram.",
+          "nivelMinimo": 2,
+          "fuente": 0,
+          "nivelFuente": 2,
+          "nivelPagina": "77",
+          "nivelNota": "El laboratorio basico de primer nivel tiene microscopio (p. 121) pero la norma no detalla tinciones como el Gram; se mantiene en segundo nivel por prudencia hasta revisar el cap. XIII de la norma de segundo nivel.",
+          "nivelAnclaje": "PARCIAL"
+        }
+      ]
+    },
+    "gabinete": {
+      "etiqueta": "Gabinete",
+      "items": [
+        {
+          "clave": "sato2",
+          "nombre": "Saturacion de oxigeno por oximetria de pulso",
+          "resultado": "92% en aire ambiente, sube a 96% con oxigeno humidificado.",
+          "nivelMinimo": 1,
+          "fuente": 0
+        },
+        {
+          "clave": "pef",
+          "nombre": "Flujo espiratorio maximo (PEF) junto a la cama",
+          "resultado": "PEF al ingreso 62% del valor previsto. Variabilidad registrada en su casa del 24%.",
+          "nivelMinimo": 1,
+          "fuente": 0
+        },
+        {
+          "clave": "espirometria",
+          "nombre": "Espirometria con prueba broncodilatadora",
+          "resultado": "Patron obstructivo. Tras el broncodilatador el FEV1 aumenta 340 ml y 18% respecto al basal.",
+          "nivelMinimo": 2,
+          "fuente": 0,
+          "nivelFuente": 1,
+          "nivelPagina": "119-121",
+          "nivelNota": "El espirometro no figura en el equipamiento del Centro de Salud con Internacion (norma de primer nivel, pp. 119-121). Falta confirmar que este en segundo nivel (cap. IX de esa norma, aun no descargado).",
+          "nivelAnclaje": "PARCIAL"
+        },
+        {
+          "clave": "rxtorax",
+          "nombre": "Radiografia de torax posteroanterior",
+          "resultado": "Hiperinsuflacion pulmonar. Sin condensacion, sin cardiomegalia, sin neumotorax.",
+          "nivelMinimo": 2,
+          "fuente": 0,
+          "nivelFuente": 2,
+          "nivelPagina": "77, 102",
+          "nivelNota": "En primer nivel solo el Centro de Salud Integral tiene radiologia e imagenologia (norma de primer nivel, Cuadro No 5, p. 37); el hospital de segundo nivel cuenta con imagenologia y ambiente de radiologia (norma de segundo nivel, pp. 77 y 102).",
+          "nivelAnclaje": "COMPLETO"
+        }
+      ]
+    },
+    "otrosEstudios": {
+      "etiqueta": "Estudios especializados",
+      "items": [
+        {
+          "clave": "prick",
+          "nombre": "Pruebas cutaneas de puncion intraepidermica (prick)",
+          "resultado": "Positivas para acaros del polvo domestico y para epitelio de gato.",
+          "nivelMinimo": 3,
+          "fuente": 0
+        },
+        {
+          "clave": "metacolina",
+          "nombre": "Prueba de broncoconstriccion con metacolina",
+          "resultado": "No se realiza: esta contraindicada durante la crisis y ademas la espirometria ya mostro obstruccion reversible.",
+          "nivelMinimo": 3,
+          "fuente": 0
+        }
+      ]
+    }
+  },
+  "estudiosPlausiblesNoIncluidos": [
+    {
+      "nombre": "Dimero D o angiotomografia de torax por sospecha de tromboembolismo pulmonar",
+      "preguntaTribunal": "Solicito estudios por sospecha de tromboembolismo pulmonar. El tromboembolismo esta en el diagnostico diferencial de la fuente para este grupo de edad. Diga que datos del caso lo hicieron sospecharlo y que datos lo alejan.",
+      "comentarioFuente": "La fuente incluye el tromboembolismo pulmonar entre los diferenciales a sospechar entre los 15 y 40 anos, pero el caso no contempla resultados para estos estudios.",
+      "fuente": 0
+    },
+    {
+      "nombre": "Gasometria arterial",
+      "preguntaTribunal": "Pidio gasometria arterial. Explique que decision clinica habria cambiado segun el resultado, y con que datos de la cabecera estaba evaluando la gravedad mientras esperaba.",
+      "comentarioFuente": "El capitulo de asma de la fuente no la lista entre los examenes complementarios del diagnostico de asma; el caso no contempla su resultado.",
+      "fuente": 0
+    },
+    {
+      "nombre": "Electrocardiograma",
+      "preguntaTribunal": "Solicito electrocardiograma. Justifique la indicacion en esta paciente y diga que estaba descartando.",
+      "comentarioFuente": "El caso no contempla su resultado.",
+      "fuente": 0
+    },
+    {
+      "nombre": "Hemocultivos",
+      "preguntaTribunal": "Pidio hemocultivos. Diga que cuadro estaba considerando y si los datos del caso lo sostienen.",
+      "comentarioFuente": "El caso no contempla su resultado.",
+      "fuente": 0
+    }
+  ],
+  "rubrica": {
+    "diagnosticosEsperados": [
+      {
+        "clave": "dx_crisis",
+        "texto": "Crisis asmatica (exacerbacion de asma bronquial). La fuente clasifica el tratamiento de la crisis en leve, moderada y grave, y ubica la crisis moderada y la leve en segundo y tercer nivel de atencion",
+        "valoracion": "ESPERADO",
+        "fuente": 0,
+        "pagina": "49-50",
+        "sinonimos": [
+          "crisis asmatica",
+          "exacerbacion asmatica",
+          "crisis de asma",
+          "asma agudizada",
+          "exacerbacion de asma"
+        ],
+        "conceptoLigado": "c_crisis"
+      },
+      {
+        "clave": "dx_asma_persistente",
+        "texto": "Asma bronquial de base, que por sintomas diarios, despertares nocturnos mas de una vez por semana y PEF entre 60 y 80% corresponde a asma moderado persistente en la clasificacion de la fuente",
+        "valoracion": "ESPERADO",
+        "fuente": 0,
+        "pagina": "41",
+        "sinonimos": [
+          "asma moderado persistente",
+          "asma moderada persistente",
+          "asma persistente moderada",
+          "asma bronquial"
+        ],
+        "conceptoLigado": "c_clasificacion"
+      },
+      {
+        "clave": "dx_atopia",
+        "texto": "Asma predominantemente alergica, con rinitis alergica y antecedente familiar y personal de atopia (CIE-10 J45.0)",
+        "valoracion": "ACEPTABLE",
+        "fuente": 0,
+        "pagina": "40",
+        "sinonimos": [
+          "asma alergica",
+          "asma atopica",
+          "asma extrinseca"
+        ],
+        "conceptoLigado": "c_atopia"
+      }
+    ],
+    "diagnosticosDiferenciales": [
+      {
+        "clave": "dd_epoc",
+        "texto": "EPOC. La fuente la diferencia por edad de inicio despues de los 40 anos, tabaquismo practicamente siempre presente, atopia infrecuente, sintomas no variables y reversibilidad de la obstruccion menos significativa",
+        "valoracion": "ESPERADO",
+        "fuente": 0,
+        "pagina": "46",
+        "sinonimos": [
+          "epoc",
+          "enfermedad pulmonar obstructiva cronica"
+        ],
+        "conceptoLigado": "c_epoc"
+      },
+      {
+        "clave": "dd_laringea",
+        "texto": "Obstruccion laringea inducible",
+        "valoracion": "ESPERADO",
+        "fuente": 0,
+        "pagina": "46",
+        "sinonimos": [
+          "obstruccion laringea",
+          "disfuncion de cuerdas vocales",
+          "obstruccion laringea inducible"
+        ]
+      },
+      {
+        "clave": "dd_hiperventilacion",
+        "texto": "Hiperventilacion",
+        "valoracion": "ESPERADO",
+        "fuente": 0,
+        "pagina": "46",
+        "sinonimos": [
+          "hiperventilacion",
+          "sindrome de hiperventilacion",
+          "crisis de ansiedad"
+        ]
+      },
+      {
+        "clave": "dd_cuerpo",
+        "texto": "Cuerpo extrano inhalado",
+        "valoracion": "ESPERADO",
+        "fuente": 0,
+        "pagina": "46",
+        "sinonimos": [
+          "cuerpo extrano",
+          "aspiracion de cuerpo extrano"
+        ]
+      },
+      {
+        "clave": "dd_tep",
+        "texto": "Tromboembolismo pulmonar",
+        "valoracion": "ESPERADO",
+        "fuente": 0,
+        "pagina": "46",
+        "sinonimos": [
+          "tromboembolismo",
+          "tep",
+          "embolia pulmonar"
+        ]
+      },
+      {
+        "clave": "dd_bronquiectasias",
+        "texto": "Bronquiectasias",
+        "valoracion": "ACEPTABLE",
+        "fuente": 0,
+        "pagina": "46",
+        "sinonimos": [
+          "bronquiectasias"
+        ]
+      },
+      {
+        "clave": "dd_fibrosis",
+        "texto": "Fibrosis quistica",
+        "valoracion": "ACEPTABLE",
+        "fuente": 0,
+        "pagina": "46",
+        "sinonimos": [
+          "fibrosis quistica"
+        ]
+      },
+      {
+        "clave": "dd_cardiaca",
+        "texto": "Enfermedad cardiaca congenita. En el grupo de mayores de 40 anos la fuente lista en cambio insuficiencia cardiaca",
+        "valoracion": "ACEPTABLE",
+        "fuente": 0,
+        "pagina": "46-47",
+        "sinonimos": [
+          "cardiopatia congenita",
+          "insuficiencia cardiaca",
+          "enfermedad cardiaca"
+        ]
+      },
+      {
+        "clave": "dd_neumonia",
+        "texto": "Neumonia u otra infeccion respiratoria como desencadenante o como diagnostico alternativo",
+        "valoracion": "OPCIONAL",
+        "fuente": 0,
+        "pagina": "46",
+        "sinonimos": [
+          "neumonia",
+          "infeccion respiratoria",
+          "bronquitis"
+        ]
+      }
+    ],
+    "estudios": [
+      {
+        "clave": "sato2",
+        "texto": "Oximetria de pulso. La saturacion de oxihemoglobina figura entre los parametros del manejo de la crisis en la fuente",
+        "valoracion": "ESPERADO",
+        "fuente": 0,
+        "pagina": "50"
+      },
+      {
+        "clave": "pef",
+        "texto": "Flujo espiratorio maximo (PEF). La fuente lo usa para clasificar el asma, para el seguimiento del curso y como criterio de alta (PEF o VEF1 mayor a 70% o normal)",
+        "valoracion": "ESPERADO",
+        "fuente": 0,
+        "pagina": "41, 45, 51"
+      },
+      {
+        "clave": "espirometria",
+        "texto": "Espirometria con prueba broncodilatadora. La fuente considera respuesta positiva un aumento del FEV1 mayor o igual a 12% y mayor o igual a 200 ml respecto al basal tras el broncodilatador",
+        "valoracion": "ESPERADO",
+        "fuente": 0,
+        "pagina": "45"
+      },
+      {
+        "clave": "rxtorax",
+        "texto": "Radiografia de torax. Muestra hiperinsuflacion, pero la fuente aclara que no es diagnostica de asma; sirve para descartar otras causas",
+        "valoracion": "ACEPTABLE",
+        "fuente": 0,
+        "pagina": "45"
+      },
+      {
+        "clave": "hemograma",
+        "texto": "Hemograma con eosinofilia. La fuente senala que la eosinofilia en esputo y sangre es util pero no especifica de asma",
+        "valoracion": "ACEPTABLE",
+        "fuente": 0,
+        "pagina": "45"
+      },
+      {
+        "clave": "ige",
+        "texto": "IgE serica. Util pero no especifica de asma segun la fuente",
+        "valoracion": "ACEPTABLE",
+        "fuente": 0,
+        "pagina": "45"
+      },
+      {
+        "clave": "esputo",
+        "texto": "Examen de esputo. La fuente describe que al final de un episodio el esputo espeso muestra eosinofilos y cristales de Charcot-Leyden",
+        "valoracion": "OPCIONAL",
+        "fuente": 0,
+        "pagina": "45"
+      },
+      {
+        "clave": "prick",
+        "texto": "Pruebas cutaneas de puncion intraepidermica con la bateria estandar de aeroalergenos. Corresponden al estudio de la atopia, no al manejo de la crisis",
+        "valoracion": "OPCIONAL",
+        "fuente": 0,
+        "pagina": "47"
+      },
+      {
+        "clave": "metacolina",
+        "texto": "Prueba de broncoconstriccion con metacolina. La fuente la reserva para cuando la espirometria inicial es normal; aqui la espirometria ya demostro obstruccion reversible",
+        "valoracion": "NO_CONTEMPLADO_POR_LA_FUENTE",
+        "fuente": 0,
+        "pagina": "44-45"
+      }
+    ],
+    "conductas": [
+      {
+        "clave": "cx_oxigeno",
+        "texto": "Oxigeno humidificado. La fuente lo indica en crisis leve si lo requiere, y sin condicion en crisis moderada y grave",
+        "valoracion": "ESPERADO",
+        "fuente": 0,
+        "pagina": "49-50",
+        "nivel": [
+          1,
+          2,
+          3
+        ],
+        "sinonimos": [
+          "oxigeno",
+          "oxigenoterapia",
+          "oxigeno humidificado"
+        ]
+      },
+      {
+        "clave": "cx_salbutamol",
+        "texto": "Salbutamol inhalado con camara espaciadora. En crisis moderada la fuente indica 2 a 4 inhalaciones cada 20 minutos durante dos horas",
+        "valoracion": "ESPERADO",
+        "fuente": 0,
+        "pagina": "49-50",
+        "nivel": [
+          1,
+          2,
+          3
+        ],
+        "sinonimos": [
+          "salbutamol",
+          "broncodilatador",
+          "saba",
+          "beta2 de accion corta",
+          "agonista beta 2"
+        ]
+      },
+      {
+        "clave": "cx_espaciadora",
+        "texto": "Uso de camara espaciadora para el aerosol, tal como lo especifica la fuente en el manejo de la crisis",
+        "valoracion": "ESPERADO",
+        "fuente": 0,
+        "pagina": "49-50",
+        "nivel": [
+          1,
+          2,
+          3
+        ],
+        "sinonimos": [
+          "camara espaciadora",
+          "espaciador",
+          "aerocamara"
+        ]
+      },
+      {
+        "clave": "cx_corticoide",
+        "texto": "Corticoide sistemico. En crisis moderada la fuente indica prednisona 1 a 2 mg/kg/dia por via oral e hidrocortisona 4 a 6 mg/kg por via intravenosa",
+        "valoracion": "ESPERADO",
+        "fuente": 0,
+        "pagina": "50",
+        "nivel": [
+          1,
+          2,
+          3
+        ],
+        "sinonimos": [
+          "corticoide",
+          "prednisona",
+          "hidrocortisona",
+          "corticoesteroide",
+          "esteroide sistemico",
+          "metilprednisolona"
+        ]
+      },
+      {
+        "clave": "cx_referir",
+        "texto": "Referencia. La fuente incluye entre los criterios de referencia la crisis asmatica, las crisis reiteradas que precisan atencion en emergencias y el estatus asmatico; y ubica el manejo de la crisis moderada en segundo y tercer nivel",
+        "valoracion": "ESPERADO",
+        "fuente": 0,
+        "pagina": "50-51",
+        "nivel": [
+          1
+        ],
+        "sinonimos": [
+          "referir",
+          "referencia",
+          "transferir",
+          "derivar",
+          "enviar a segundo nivel",
+          "trasladar"
+        ]
+      },
+      {
+        "clave": "cx_internacion",
+        "texto": "Si la respuesta no es favorable, internacion hasta mejorar la funcion pulmonar y adecuar el tratamiento preventivo, segun la fuente",
+        "valoracion": "ESPERADO",
+        "fuente": 0,
+        "pagina": "50",
+        "nivel": [
+          2,
+          3
+        ],
+        "sinonimos": [
+          "internar",
+          "internacion",
+          "hospitalizar",
+          "hospitalizacion",
+          "observacion"
+        ]
+      },
+      {
+        "clave": "cx_mantenimiento",
+        "texto": "Iniciar tratamiento de mantenimiento con corticoide inhalado. La fuente advierte que esta paciente usaba solo rescate, y en su esquema los escalones de mantenimiento parten de dosis bajas de corticoide inhalado",
+        "valoracion": "ESPERADO",
+        "fuente": 0,
+        "pagina": "47-49",
+        "nivel": [
+          1,
+          2,
+          3
+        ],
+        "sinonimos": [
+          "corticoide inhalado",
+          "mantenimiento",
+          "beclometasona",
+          "budesonida",
+          "controlador",
+          "preventivo",
+          "gci"
+        ]
+      },
+      {
+        "clave": "cx_tecnica",
+        "texto": "Plan educativo minimo que incluya la comprobacion de la tecnica de inhalacion, que la fuente lista como primera medida de prevencion",
+        "valoracion": "ESPERADO",
+        "fuente": 0,
+        "pagina": "51",
+        "nivel": [
+          1,
+          2,
+          3
+        ],
+        "sinonimos": [
+          "tecnica de inhalacion",
+          "educacion",
+          "plan educativo",
+          "ensenar a usar el inhalador"
+        ]
+      },
+      {
+        "clave": "cx_desencadenantes",
+        "texto": "Control de exposiciones ambientales: evitar acaros, liberarse de mascotas con pelo, evitar mohos, reducir humedad y limpiar de forma regular, segun la seccion de prevencion de la fuente",
+        "valoracion": "ESPERADO",
+        "fuente": 0,
+        "pagina": "51",
+        "nivel": [
+          1,
+          2,
+          3
+        ],
+        "sinonimos": [
+          "evitar alergenos",
+          "acaros",
+          "gatos",
+          "mascotas",
+          "control ambiental",
+          "polvo",
+          "alfombra"
+        ]
+      },
+      {
+        "clave": "cx_vacunas",
+        "texto": "Vacunacion en grupos de riesgo contra influenza y antineumococica, segun la seccion de prevencion de la fuente",
+        "valoracion": "ACEPTABLE",
+        "fuente": 0,
+        "pagina": "51",
+        "nivel": [
+          1,
+          2,
+          3
+        ],
+        "sinonimos": [
+          "vacuna",
+          "vacunacion",
+          "influenza",
+          "antineumococica",
+          "neumococo"
+        ]
+      },
+      {
+        "clave": "cx_control48",
+        "texto": "Si responde al tratamiento, alta con control. La fuente indica en la crisis leve alta con control en 48 horas, y en la moderada alta con broncodilatador y corticoide por via oral",
+        "valoracion": "ACEPTABLE",
+        "fuente": 0,
+        "pagina": "49-50",
+        "nivel": [
+          1,
+          2,
+          3
+        ],
+        "sinonimos": [
+          "control en 48 horas",
+          "cita de control",
+          "reevaluacion",
+          "seguimiento"
+        ]
+      },
+      {
+        "clave": "cx_magnesio",
+        "texto": "Sulfato de magnesio 2 g en infusion intravenosa en 20 minutos. La fuente lo reserva para la crisis grave en tercer nivel, y solo en exacerbacion severa sin respuesta a la terapia previa",
+        "valoracion": "NO_CONTEMPLADO_POR_LA_FUENTE",
+        "fuente": 0,
+        "pagina": "50",
+        "nivel": [
+          1,
+          2,
+          3
+        ],
+        "sinonimos": [
+          "sulfato de magnesio",
+          "magnesio"
+        ]
+      },
+      {
+        "clave": "cx_antibiotico",
+        "texto": "Antibiotico. El manejo de la crisis asmatica de la fuente no lo incluye, y esta paciente no tiene fiebre ni expectoracion purulenta",
+        "valoracion": "NO_CONTEMPLADO_POR_LA_FUENTE",
+        "fuente": 0,
+        "pagina": "49-50",
+        "nivel": [
+          1,
+          2,
+          3
+        ],
+        "sinonimos": [
+          "antibiotico",
+          "amoxicilina",
+          "azitromicina",
+          "ceftriaxona",
+          "antibioticoterapia"
+        ]
+      }
+    ],
+    "informacionCritica": [
+      {
+        "clave": "sibilancias",
+        "texto": "Sibilancias, disnea, tos y opresion toracica: la fuente los llama sintomas guia y senala la sibilancia como el mas caracteristico",
+        "valoracion": "ESPERADO",
+        "fuente": 0,
+        "pagina": "45"
+      },
+      {
+        "clave": "variabilidad",
+        "texto": "Variabilidad de los sintomas en tiempo e intensidad, con predominio nocturno o de madrugada",
+        "valoracion": "ESPERADO",
+        "fuente": 0,
+        "pagina": "45"
+      },
+      {
+        "clave": "frecuencia",
+        "texto": "Frecuencia de sintomas diurnos y nocturnos: es lo que permite clasificar el asma segun la tabla de la fuente",
+        "valoracion": "ESPERADO",
+        "fuente": 0,
+        "pagina": "41"
+      },
+      {
+        "clave": "desencadenante",
+        "texto": "Desencadenante del episodio: la fuente lista alergenos, humo de tabaco, ejercicio, infecciones viricas y emociones",
+        "valoracion": "ESPERADO",
+        "fuente": 0,
+        "pagina": "45"
+      },
+      {
+        "clave": "tratamiento",
+        "texto": "Tratamiento previo y adherencia: la paciente usaba solo rescate y nunca mantenimiento",
+        "valoracion": "ESPERADO",
+        "fuente": 0,
+        "pagina": "47-49"
+      },
+      {
+        "clave": "atopia",
+        "texto": "Atopia personal y familiar: la fuente senala la atopia como el unico gran factor de riesgo para el desarrollo del asma",
+        "valoracion": "ESPERADO",
+        "fuente": 0,
+        "pagina": "41"
+      },
+      {
+        "clave": "tabaco",
+        "texto": "Tabaquismo: la fuente lo usa para diferenciar asma de EPOC, donde esta presente practicamente siempre",
+        "valoracion": "ESPERADO",
+        "fuente": 0,
+        "pagina": "46"
+      },
+      {
+        "clave": "auscultacion",
+        "texto": "Roncus y sibilancias en ambas fases de la respiracion con espiracion prolongada, tal como lo describe la fuente en el examen fisico",
+        "valoracion": "ESPERADO",
+        "fuente": 0,
+        "pagina": "45"
+      },
+      {
+        "clave": "accesorios",
+        "texto": "Uso de musculos accesorios de la respiracion, que la fuente incluye en el examen fisico del asma",
+        "valoracion": "ESPERADO",
+        "fuente": 0,
+        "pagina": "45"
+      },
+      {
+        "clave": "cardio_ex",
+        "texto": "Ausencia de signos de insuficiencia cardiaca, que la fuente lista entre los diferenciales",
+        "valoracion": "ACEPTABLE",
+        "fuente": 0,
+        "pagina": "46-47"
+      },
+      {
+        "clave": "embarazo",
+        "texto": "Estado de embarazo: la fuente indica referir a tercer nivel a la paciente embarazada",
+        "valoracion": "ESPERADO",
+        "fuente": 0,
+        "pagina": "51"
+      }
+    ],
+    "conceptosClave": [
+      {
+        "id": "c_crisis",
+        "enunciado": "La fuente separa el manejo de la crisis asmatica en leve, moderada y grave, con medidas y nivel de atencion distintos para cada una.",
+        "fuente": 0,
+        "pagina": "49-50"
+      },
+      {
+        "id": "c_clasificacion",
+        "enunciado": "El asma se clasifica en intermitente, leve persistente, moderado persistente y severo persistente segun sintomas diurnos, sintomas nocturnos, PEF o VEF1 y variabilidad del PEF.",
+        "fuente": 0,
+        "pagina": "41"
+      },
+      {
+        "id": "c_reversibilidad",
+        "enunciado": "El diagnostico de asma se establece con el cuadro clinico mas la demostracion de obstruccion reversible. En la prueba broncodilatadora la fuente considera positiva un aumento del FEV1 mayor o igual a 12% y mayor o igual a 200 ml respecto al basal.",
+        "fuente": 0,
+        "pagina": "44-45"
+      },
+      {
+        "id": "c_epoc",
+        "enunciado": "Los criterios que la fuente usa para diferenciar asma de EPOC son edad de inicio, tabaquismo, presencia de atopia, antecedentes familiares, variabilidad de los sintomas, reversibilidad de la obstruccion y respuesta a glucocorticoides.",
+        "fuente": 0,
+        "pagina": "46"
+      },
+      {
+        "id": "c_referencia",
+        "enunciado": "La fuente incluye entre los criterios de referencia del asma: paciente en escalon 3 al segundo nivel; en escalon 4, 5 o 6 al tercer nivel; exacerbacion de comorbilidad; crisis reiteradas que precisan emergencias; crisis asmatica; estatus asmatico; y embarazo al tercer nivel.",
+        "fuente": 0,
+        "pagina": "51"
+      },
+      {
+        "id": "c_alta",
+        "enunciado": "Los criterios de alta medica que da la fuente son resolucion o mejoria significativa de los sintomas de exacerbacion, PEF o VEF1 mayor a 70% o normal, uso de LABA menos de 3 veces por dia y ausencia de disnea significativa.",
+        "fuente": 0,
+        "pagina": "51"
+      },
+      {
+        "id": "c_mantenimiento",
+        "enunciado": "En el esquema de la fuente el tratamiento de mantenimiento se organiza en escalones que parten de dosis bajas de corticoide inhalado; el rescate con beta 2 de accion corta no es tratamiento de mantenimiento.",
+        "fuente": 0,
+        "pagina": "47-49"
+      },
+      {
+        "id": "c_atopia",
+        "enunciado": "La fuente afirma que la atopia es el unico gran factor de riesgo para el desarrollo del asma, y clasifica el asma predominantemente alergica como J45.0.",
+        "fuente": 0,
+        "pagina": "40-41"
+      },
+      {
+        "id": "c_tecnica",
+        "enunciado": "La primera medida de prevencion que lista la fuente es un plan educativo minimo que incluya la comprobacion de la tecnica de inhalacion.",
+        "fuente": 0,
+        "pagina": "51"
+      }
+    ]
+  },
+  "tribunal": [
+    {
+      "id": "t01",
+      "pregunta": "Diga su diagnostico principal y los datos concretos del caso que lo sostienen.",
+      "disparador": {
+        "tipo": "siempre"
+      },
+      "loQueSeEsperaOir": [
+        "Crisis asmatica sobre asma bronquial de base",
+        "Sibilancias, disnea, tos y opresion toracica",
+        "Variabilidad de los sintomas con predominio nocturno",
+        "Desencadenante identificado",
+        "Atopia personal y familiar"
+      ],
+      "conceptoLigado": "c_crisis",
+      "fuente": 0
+    },
+    {
+      "id": "t02",
+      "pregunta": "Clasifique el asma de base de esta paciente y diga exactamente en que parametros se apoya.",
+      "disparador": {
+        "tipo": "siempre"
+      },
+      "loQueSeEsperaOir": [
+        "Asma moderado persistente",
+        "Sintomas diurnos diarios",
+        "Sintomas nocturnos mas de una vez por semana",
+        "PEF entre 60 y 80% del previsto",
+        "Variabilidad del PEF mayor al 30% o cercana"
+      ],
+      "conceptoLigado": "c_clasificacion",
+      "fuente": 0
+    },
+    {
+      "id": "t03",
+      "pregunta": "Que diagnosticos diferenciales considero y como descarto cada uno con lo que tiene en la mano?",
+      "disparador": {
+        "tipo": "siempre"
+      },
+      "loQueSeEsperaOir": [
+        "EPOC",
+        "Obstruccion laringea inducible",
+        "Hiperventilacion",
+        "Cuerpo extrano inhalado",
+        "Tromboembolismo pulmonar",
+        "Insuficiencia cardiaca"
+      ],
+      "conceptoLigado": "c_epoc",
+      "fuente": 0
+    },
+    {
+      "id": "t04",
+      "pregunta": "Esta paciente tiene 26 anos y no fuma. Como diferencia asma de EPOC? Enumere los criterios.",
+      "disparador": {
+        "tipo": "siempre"
+      },
+      "loQueSeEsperaOir": [
+        "Edad de inicio: a cualquier edad en asma, despues de los 40 en EPOC",
+        "Tabaquismo practicamente siempre en EPOC",
+        "Atopia frecuente en asma e infrecuente en EPOC",
+        "Variabilidad de los sintomas presente en asma y ausente en EPOC",
+        "Reversibilidad significativa en asma",
+        "Respuesta a glucocorticoides muy buena en asma"
+      ],
+      "conceptoLigado": "c_epoc",
+      "fuente": 0
+    },
+    {
+      "id": "t05",
+      "pregunta": "Solicito espirometria con prueba broncodilatadora. Que valor esperaba y a partir de que cifra la considera positiva?",
+      "disparador": {
+        "tipo": "siPidio",
+        "clave": "espirometria"
+      },
+      "loQueSeEsperaOir": [
+        "Aumento del FEV1 mayor o igual a 12% y mayor o igual a 200 ml respecto al basal"
+      ],
+      "conceptoLigado": "c_reversibilidad",
+      "fuente": 0
+    },
+    {
+      "id": "t06",
+      "pregunta": "No midio el flujo espiratorio maximo. Considera que era necesario? Justifique.",
+      "disparador": {
+        "tipo": "siNoPidio",
+        "clave": "pef"
+      },
+      "loQueSeEsperaOir": [
+        "Sirve para clasificar el asma",
+        "Sirve para seguir el curso y la respuesta al tratamiento",
+        "Es criterio de alta: PEF o VEF1 mayor a 70% o normal"
+      ],
+      "conceptoLigado": "c_alta",
+      "fuente": 0
+    },
+    {
+      "id": "t07",
+      "pregunta": "Pidio radiografia de torax. Diga que esperaba encontrar y si la radiografia le sirve para diagnosticar asma.",
+      "disparador": {
+        "tipo": "siPidio",
+        "clave": "rxtorax"
+      },
+      "loQueSeEsperaOir": [
+        "Muestra hiperinsuflacion pero no es diagnostica de asma",
+        "Sirve para descartar otras causas como condensacion o neumotorax"
+      ],
+      "conceptoLigado": "c_reversibilidad",
+      "fuente": 0
+    },
+    {
+      "id": "t08",
+      "pregunta": "Pidio prueba de broncoconstriccion con metacolina. En que situacion la reserva la fuente, y era el caso de esta paciente?",
+      "disparador": {
+        "tipo": "siPidio",
+        "clave": "metacolina"
+      },
+      "loQueSeEsperaOir": [
+        "Se usa cuando la espirometria inicial es normal",
+        "Aqui la espirometria ya mostro obstruccion reversible",
+        "Reconocer que no correspondia durante la crisis"
+      ],
+      "conceptoLigado": "c_reversibilidad",
+      "fuente": 0
+    },
+    {
+      "id": "t09",
+      "pregunta": "Indico salbutamol. Diga con que dispositivo, con que frecuencia y por cuanto tiempo, segun el manejo de la crisis de la fuente.",
+      "disparador": {
+        "tipo": "siConducta",
+        "clave": "cx_salbutamol"
+      },
+      "loQueSeEsperaOir": [
+        "Aerosol con camara espaciadora",
+        "2 a 4 inhalaciones cada 20 minutos durante dos horas en la crisis moderada"
+      ],
+      "conceptoLigado": "c_crisis",
+      "fuente": 0
+    },
+    {
+      "id": "t10",
+      "pregunta": "No indico corticoide sistemico. Considera que era necesario en esta paciente? Justifique.",
+      "disparador": {
+        "tipo": "siNoConducta",
+        "clave": "cx_corticoide"
+      },
+      "loQueSeEsperaOir": [
+        "La fuente lo indica en la crisis moderada",
+        "Prednisona 1 a 2 mg/kg/dia por via oral o hidrocortisona 4 a 6 mg/kg por via intravenosa"
+      ],
+      "conceptoLigado": "c_crisis",
+      "fuente": 0
+    },
+    {
+      "id": "t11",
+      "pregunta": "Indico sulfato de magnesio. En que crisis y en que nivel de atencion lo reserva la fuente, y con que condicion?",
+      "disparador": {
+        "tipo": "siConducta",
+        "clave": "cx_magnesio"
+      },
+      "loQueSeEsperaOir": [
+        "Crisis grave, tercer nivel",
+        "Solo en exacerbacion severa si no hubo respuesta a la terapia previa",
+        "2 g en infusion intravenosa en 20 minutos"
+      ],
+      "conceptoLigado": "c_crisis",
+      "fuente": 0
+    },
+    {
+      "id": "t12",
+      "pregunta": "Indico antibiotico. Justifique la indicacion con los datos de esta paciente.",
+      "disparador": {
+        "tipo": "siConducta",
+        "clave": "cx_antibiotico"
+      },
+      "loQueSeEsperaOir": [
+        "Reconocer que no tiene fiebre ni expectoracion purulenta",
+        "El manejo de la crisis asmatica de la fuente no incluye antibiotico"
+      ],
+      "conceptoLigado": "c_crisis",
+      "fuente": 0
+    },
+    {
+      "id": "t13",
+      "pregunta": "Esta paciente usa salbutamol cuatro o cinco veces al dia en las malas semanas y nunca uso un inhalador de mantenimiento. Que le dice eso y que cambia en su conducta?",
+      "disparador": {
+        "tipo": "siempre"
+      },
+      "loQueSeEsperaOir": [
+        "Asma no controlada",
+        "El rescate no es tratamiento de mantenimiento",
+        "Hay que iniciar corticoide inhalado segun los escalones de la fuente"
+      ],
+      "conceptoLigado": "c_mantenimiento",
+      "fuente": 0
+    },
+    {
+      "id": "t14",
+      "pregunta": "No propuso iniciar tratamiento de mantenimiento. Considera que era necesario? Justifique.",
+      "disparador": {
+        "tipo": "siNoConducta",
+        "clave": "cx_mantenimiento"
+      },
+      "loQueSeEsperaOir": [
+        "Tiene asma moderado persistente y solo usa rescate",
+        "Los escalones de mantenimiento de la fuente parten de corticoide inhalado"
+      ],
+      "conceptoLigado": "c_mantenimiento",
+      "fuente": 0
+    },
+    {
+      "id": "t15",
+      "pregunta": "Que criterios usa para dar el alta a esta paciente? Diga cifras, no impresiones.",
+      "disparador": {
+        "tipo": "siempre"
+      },
+      "loQueSeEsperaOir": [
+        "Resolucion o mejoria significativa de los sintomas de exacerbacion",
+        "PEF o VEF1 mayor a 70% o normal",
+        "Uso de LABA menos de 3 veces por dia",
+        "Ausencia de disnea significativa"
+      ],
+      "conceptoLigado": "c_alta",
+      "fuente": 0
+    },
+    {
+      "id": "t16",
+      "pregunta": "Esta en un establecimiento de primer nivel, a dos horas del hospital. La fuente ubica el manejo de la crisis moderada en segundo y tercer nivel e incluye la crisis asmatica entre los criterios de referencia. Que hace usted, en que orden, y que escribe en la hoja de referencia?",
+      "disparador": {
+        "tipo": "siempre"
+      },
+      "loQueSeEsperaOir": [
+        "Iniciar oxigeno y salbutamol con camara espaciadora antes de trasladar",
+        "Corticoide sistemico",
+        "Referir segun los criterios de la fuente",
+        "Registrar lo administrado, la hora y la respuesta"
+      ],
+      "conceptoLigado": "c_referencia",
+      "fuente": 0
+    },
+    {
+      "id": "t17",
+      "pregunta": "No propuso referir a esta paciente estando en primer nivel. Justifique su decision frente a los criterios de referencia de la fuente.",
+      "disparador": {
+        "tipo": "siNoConducta",
+        "clave": "cx_referir"
+      },
+      "loQueSeEsperaOir": [
+        "La fuente incluye la crisis asmatica entre los criterios de referencia",
+        "El manejo de la crisis moderada corresponde a segundo y tercer nivel"
+      ],
+      "conceptoLigado": "c_referencia",
+      "fuente": 0
+    },
+    {
+      "id": "t18",
+      "pregunta": "No pregunto por atopia ni por antecedentes familiares. Que valor tenia ese dato en esta paciente?",
+      "disparador": {
+        "tipo": "siOmitioInfo",
+        "clave": "atopia"
+      },
+      "loQueSeEsperaOir": [
+        "La atopia es el unico gran factor de riesgo para el desarrollo del asma segun la fuente",
+        "Diferencia asma de EPOC",
+        "Orienta a asma predominantemente alergica"
+      ],
+      "conceptoLigado": "c_atopia",
+      "fuente": 0
+    },
+    {
+      "id": "t19",
+      "pregunta": "No pregunto si fuma. Por que importa en esta paciente?",
+      "disparador": {
+        "tipo": "siOmitioInfo",
+        "clave": "tabaco"
+      },
+      "loQueSeEsperaOir": [
+        "Es uno de los criterios que la fuente usa para diferenciar asma de EPOC",
+        "En EPOC el tabaquismo esta practicamente siempre presente"
+      ],
+      "conceptoLigado": "c_epoc",
+      "fuente": 0
+    },
+    {
+      "id": "t20",
+      "pregunta": "No pregunto por la frecuencia de sintomas diurnos y nocturnos. Sin ese dato, puede clasificar el asma de esta paciente?",
+      "disparador": {
+        "tipo": "siOmitioInfo",
+        "clave": "frecuencia"
+      },
+      "loQueSeEsperaOir": [
+        "No: la clasificacion de la fuente se basa en sintomas diurnos, nocturnos, PEF o VEF1 y variabilidad",
+        "Sin clasificar no se puede elegir el escalon de tratamiento"
+      ],
+      "conceptoLigado": "c_clasificacion",
+      "fuente": 0
+    },
+    {
+      "id": "t21",
+      "pregunta": "No pregunto si esta embarazada. Que habria cambiado en su conducta?",
+      "disparador": {
+        "tipo": "siOmitioInfo",
+        "clave": "embarazo"
+      },
+      "loQueSeEsperaOir": [
+        "La fuente indica referir al tercer nivel a la paciente embarazada"
+      ],
+      "conceptoLigado": "c_referencia",
+      "fuente": 0
+    },
+    {
+      "id": "t22",
+      "pregunta": "Le va a entregar un inhalador. Que hace antes de que la paciente salga del consultorio, y por que la fuente lo pone como primera medida de prevencion?",
+      "disparador": {
+        "tipo": "siempre"
+      },
+      "loQueSeEsperaOir": [
+        "Comprobar la tecnica de inhalacion",
+        "Plan educativo minimo",
+        "Sin tecnica correcta el tratamiento falla aunque este bien indicado"
+      ],
+      "conceptoLigado": "c_tecnica",
+      "fuente": 0
+    },
+    {
+      "id": "t23",
+      "pregunta": "En el cuarto de la paciente hay alfombra y dos gatos, y el episodio empezo limpiando polvo. Que le indica al respecto y con que respaldo?",
+      "disparador": {
+        "tipo": "siempre"
+      },
+      "loQueSeEsperaOir": [
+        "Evitar contacto con acaros",
+        "Liberarse de mascotas con pelo",
+        "Reducir humedad y limpiar de forma regular",
+        "Son medidas de la seccion de prevencion de la fuente"
+      ],
+      "conceptoLigado": "c_tecnica",
+      "fuente": 0
+    }
+  ],
+  "fuentes": [
+    {
+      "institucion": "Estado Plurinacional de Bolivia. Ministerio de Salud y Deportes. Direccion General de Redes de Servicios de Salud, Unidad de Redes de Servicios de Salud y Calidad, Area del Continuo; Servicios Departamentales de Salud; Sociedad Boliviana de Medicina Interna",
+      "documento": "Norma Nacional de Atencion Clinica de Medicina Interna. Serie: Documentos Tecnico Normativos No. 540. La Paz: Industrias Graficas Platinium. 286 p. Deposito legal 4-1-746-2025 P.O.",
+      "anio": "2025",
+      "publicacion": "540",
+      "resolucion": "RM 0456 de 30 de septiembre de 2025",
+      "capitulo": "3. Asma Bronquial (CIE-10 J45). Nivel de atencion I - II - III",
+      "pagina": "40-51",
+      "url": "https://www.minsalud.gob.bo/8850-norma-nacional-de-atencion-clinica-nnac",
+      "consultado": "2026-09-21"
+    },
+    {
+      "institucion": "Estado Plurinacional de Bolivia. Ministerio de Salud y Deportes. Direccion General de Servicios de Salud, Unidad de Redes de Servicios de Salud y Calidad",
+      "documento": "Norma Nacional de Caracterizacion de Establecimientos de Salud de Primer Nivel. 2da edicion. Serie: Documentos Tecnico Normativos No. 284. La Paz: Talleres Graficos Tupac Katari. 240 p.",
+      "anio": "2013",
+      "publicacion": "284",
+      "capitulo": "Cap. II, Cuadro No 5 Caracteristicas generales (pp. 35-40); Cap. IV Centro de Salud con Internacion, equipamiento (pp. 119-121)",
+      "pagina": "35-40, 119-121",
+      "url": "https://www.minsalud.gob.bo/images/Documentacion/redes_salud/Inivelseguro.pdf",
+      "consultado": "2026-09-22"
+    },
+    {
+      "institucion": "Estado Plurinacional de Bolivia. Ministerio de Salud y Deportes. Unidad de Redes de Servicios de Salud y Calidad",
+      "documento": "Norma Nacional de Caracterizacion de Hospitales de Segundo Nivel. Serie: Documentos Tecnico Normativos No. 285. La Paz.",
+      "anio": "2014",
+      "publicacion": "285",
+      "capitulo": "Cap. IV Caracterizacion General del Hospital de Segundo Nivel",
+      "pagina": "77, 102",
+      "url": "https://www.minsalud.gob.bo/images/Documentacion/redes_salud/CAP-4.pdf",
+      "consultado": "2026-09-22"
+    }
+  ]
+}

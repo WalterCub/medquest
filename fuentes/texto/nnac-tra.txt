@@ -1,0 +1,2447 @@
+NORMA NACIONAL DE ATENCIÓN CLÍNICA DE “TRAUMATOLOGÍA”
+
+PU
+
+BLICAC
+542
+
+IÓN
+
+Serie: Documentos Técnico Normativos
+La Paz - Bolivia 2025
+
+NORMA NACIONAL DE ATENCIÓN CLÍNICA DE “TRAUMATOLOGÍA”
+
+PU
+
+BLICAC
+542
+
+IÓN
+
+Serie: Documentos Técnico Normativos
+La Paz - Bolivia 2025
+
+R-BO WE200 M665t No. 542 2025
+
+Bolivia. Ministerio de Salud y Deportes. Dirección General de Redes de Servicios de Salud. Unidad de Redes de Servicios de Salud y Calidad. Área del Continuo. Servicios Departamentales de Salud. Sociedad Boliviana de Traumatología. Norma Nacional de Atención Clínica de Traumatología. /Ministerio de Salud y Deportes. Coaut. La Paz: Industrias Gráficas Platinium, 2025.
+
+108p.: ilus. (Serie: Documentos Técnico Normativos No. 542)
+
+Depósito legal: 4-1-744-2025 P.O.
+
+I. TRAUMATOLOGÍA^snormas II. FRACTURAS ÓSEAS III. DOLOR DE LA REGIÓN LUMBAR IV. OSTEOMIELITIS V. FRACTURAS OSTEOPORÓTICAS VI. ATENCIÓN AL PACIENTE^snormas VII. CALIDAD DE LA ATENCIÓN DE SALUD^snormas VIII. MANEJO DE ATENCIÓN AL PACIENTE^snormas IX. ATENCIÓN A LA SALUD X. SERVICIOS DE SALUD XI. BOLIVIA 1. t. 2. Serie
+
+NORMA NACIONAL DE ATENCIÓN CLINICA DE “TRAUMATOLOGÍA” Unidad de Redes de Servicios de Salud y Calidad, Dirección General de Redes de Servicios de Salud y Calidad, Piso 7 Edificio “Torre Azul”, Avenida 20 de octubre No 2665, zona San Jorge. Tel: 591-2-2433545 /Fax: 591-2-2434306, www. minsalud.gob.bo
+
+RM: 0456 de 30 de septiembre de 2025 Depósito Legal: 4-1-744-2025 P.O
+
+Actualización: - Unidad de Redes de Servicios de Salud y Calidad/Área del Continuo - Sociedad Boliviana de Traumatología
+
+Revisión final Dra. Mariana Camila Ramírez López - Viceministra de Gestión del Sistema Nacional de Salud Dr. Yecid Ramiro Humacayo Morales – Director General de Redes de Servicios de Salud Dr. Marco Antonio Manguía Calizaya – Jefe de la Unidad de Redes de Servicios de Salud y Calidad
+
+Revisión y Validación (Anexo editorial) - Ministerio de Salud y Deportes - Servicios Departamentales de Salud - Sociedad Boliviana de Traumatología
+
+Técnico de Revisión de Publicaciones – CTRP/DGPPS
+
+Comité de Identidad Institucional y Publicaciones CIIP/VGSNS
+
+- Dra. Mariana Camila Ramírez López
+
+- Dra. Claudia Reas Mayta
+
+- Dr. Juan Marcos Rodríguez Morales
+
+- Dra. Tania Huanca Uluri
+
+- Dra. Sdenka Maury Fernández		
+
+- Tec. Rodrigo Chipana Cortez
+
+- Dr. Reynaldo Aguilar Álvarez		
+
+- Tec. Marcelo Martínez Quisbert
+
+La Paz, Área del Continuo - Unidad de Redes de Servicios de Salud y Calidad - Dirección General de Redes de Servicios de Salud - Comité de Identidad Institucional y Publicaciones - Viceministerio de Gestión del Sistema Nacional de Salud - Ministerio de Salud y Deportes - 2025.
+
+© Ministerio de Salud y Deportes – 2025.
+
+Esta publicación es propiedad del Ministerio de Salud y Deportes del Estado Plurinacional de Bolivia, se autoriza su reproducción total o parcial, siempre que no sea con fines de lucro, a condición de citar la fuente y la propiedad.
+
+Impreso en Bolivia.
+
+MINISTERIO DE SALUD Y DEPORTES
+AUTORIDADES NACIONALES
+Maria Renée Castro Cusicanqui MINISTRA DE SALUD y DEPORTES
+Dra. Mariana Camila Ramirez López VICEMINISTRA DE GESTIÓN
+DEL SISTEMA NACIONAL DE SALUD
+Dr. Max Francisco Enríquez Nava VICEMINISTRO DE PROMOCIÓN, VIGILANCIA EPIDEMIOLÓGICA Y MEDICINA TRADICIONAL
+Soraya Karen Palenque Gutierrez VICEMINISTRA DE DEPORTES
+Dr. Yecid Ramiro Humacayo Morales DIRECTOR GENERAL DE REDES
+DE SERVICIOS DE SALUD
+
+PRESENTACIÓN
+Durante los últimos años se ha fortalecido significativamente el Sistema Nacional de Salud promoviendo la equidad sin discriminación mediante la promulgación de la Ley N° 1152 “Hacia un Sistema Único de Salud”, que busca mejorar el acceso y la calidad de la atención en salud para toda la población en el marco de la Política SAFCI, siendo una de las tareas más importantes optimizar el trabajo de los profesionales en salud. El conocimiento y las practicas medicas evolucionan constantemente a medida que se realizan investigaciones y se descubren nuevos avances científicos, por ello, el Ministerio de Salud y Deportes, a través de la Dirección General de Redes de Servicios de Salud, junto a la Sociedad Boliviana de Traumatología y los Servicios Departamentales en Salud y el Servicio Regional de Salud El Alto, desarrolló la actualización de la Norma Nacional de Atención Clínica de “Traumatología” basada en la revisión exhaustiva de metodologías y evidencia científica fundamentada. El presente documento proporciona las herramientas para prevenir y mejorar la salud de la población, específicamente de pacientes con trastornos musculo esqueléticos, para ello, establece criterios y estandariza el proceso de atención que el personal.médico debe aplicar en situaciones especificas de salud individual o colectiva. En ese sentido, se pone este documento técnico-normativo a disposición del personal de salud como herramienta normativa en el ejercicio de la práctica médica y es importante remarcar que su cumplimiento es de carácter obligatorio.
+María Renée Castro Cusicanqui MINISTRA DE SALUD Y DEPORTES
+
+INTRODUCCIÓN
+En el campo de la Traumatología, el conocimiento y las prácticas médicas evolucionan constantemente a medida que se descubren nuevas investigaciones y avances científicos.
+La atención de calidad a los pacientes con trastornos musculoesqueléticos es esencial, y la actualización de las normas clínicas desempeñan un papel fundamental en la garantía de un diagnóstico y tratamiento efectivos y actualizados.
+En este contexto, esta actualización de la Norma de Atención Clínica de Traumatología representa un paso crucial para brindar a los profesionales en salud y a los pacientes, las pautas más recientes y basadas en evidencia científica actualizada.
+El objetivo de la Norma Nacional de Atención Clínica de Traumatología, es brindar un conjunto de recomendaciones basadas en una revisión sistemática de la evidencia y en la evaluación de los riesgos y beneficios de las diferentes alternativas, con el objetivo de optimizar la atención sanitaria a los pacientes en los diferentes niveles de atención. A través de la consecución de estos objetivos se pretende reducir la morbimortalidad y mejorar la calidad de vida de los pacientes con enfermedades musculo esqueléticas.
+La valoración de esta norma se realiza con base a criterios en los que participan Especialistas en Traumatología representantes de los Servicios Departamentales de Salud, representantes de la Sociedad de Traumatología y el Ministerio de Salud y Deportes en un papel supervisor como Ente Rector del Sector Salud en Bolivia.
+A lo largo de este documento, exploraremos las más recientes recomendaciones y directrices que ayudaran a mejorar la atención y el bienestar de aquellos que enfrentan patologías en el sistema músculo esquelético.
+
+MARCO NORMATIVO
+La Constitución Política del Estado Plurinacional de Bolivia, establece el Derecho a la Salud, sin exclusión ni discriminación alguna en el Marco del Sistema Único de Salud que será universal, gratuito, equitativo, intracultural, intercultural, participativo, con calidad, calidez y control social. Con los principios de solidaridad, eficiencia y corresponsabilidad, rescata los saberes, conocimientos y prácticas ancestrales desde el pensamiento y valores de todas las naciones y pueblos indígena originario campesinos.
+El Ministerio de Salud y Deportes orienta sus acciones para fortalecer la rectoría y los servicios para los sectores de salud y deportes en el territorio nacional, con ejercicio pleno inclusivo, el acceso de todas las personas, la construcción del Sistema Nacional de Salud en el marco de la Política de Salud Familiar Comunitaria Intercultural (SAFCI), erradicando la pobreza e inequidad para Vivir Bien.
+La Agenda Patriótica 2025 establece entre sus metas que el 100% de las bolivianas y los bolivianos cuentan con servicios de salud, cuyo acceso es un derecho humano que se cumple plenamente en Bolivia, como un justo homenaje al bicentenario de la Bolivia Digna y Soberana.
+El Plan de Desarrollo Económico y Social (PDES) 2021 - 2025 “Reconstruyendo la Economía para Vivir Bien, Hacia la Industrialización con Sustitución de Importaciones”, en el Eje 6: “Salud y Deportes para Proteger la Vida con Cuidado Integral en Tiempos de Pandemia”, establece trabajar en el fortalecimiento de los sistemas de salud, garantizar el acceso y calidad a la salud para todos los bolivianos, además combatir la COVID-19 de forma más efectiva. En este ámbito, el Estado fortalecerá el sistema nacional de salud con servicios de calidad, afianzando estructuralmente la salud preventiva, por medio de la implementación de una gestión unificada de los tres subsistemas de salud, público, privado y seguridad social, que trabajen de acuerdo a los protocolos y planes de contingencia, y se encuentre preparado para enfrentar de manera oportuna a la pandemia y la atención de todo tipo de enfermedades.
+El PSDI 2021-2025 establece objetivos, metas y resultados dirigidos a mejorar la calidad y esperanza de vida de la población boliviana, especialmente de los grupos social y económicamente más deprimidos en Bolivia; así como las condiciones de vida y de salud de las naciones y pueblos indígena originario campesinos. Procura, además, mejorar la situación y el estado de salud, la inclusión social en salud y el acceso universal y gratuito a los servicios de salud integrales y de calidad. Los objetivos, metas, resultados y acciones del Plan están delineados en el marco del Sistema Único de Salud Universal y Gratuito (SUS), de la Salud Familiar Comunitaria Intercultural (SAFCI) y de los siguientes lineamientos políticos: a) Atención integral a las emergencias sanitarias y los desastres, b) Acceso universal y gratuito a la salud y fortalecimiento del Sistema Único de Salud, c) Promoción de la Salud y Prevención de la enfermedad en el marco de la Salud Familiar Comunitaria Intercultural (SAFCI), d) Promoción del deporte para una comunidad saludable, e) Recursos humanos para la salud, e) Participación y control social en salud. El derecho a la salud, como mandato Constitucional, se mostrará mediante una mejor calidad de vida y de salud, la disminución de la enfermedad y la muerte, y las determinantes sociales que inciden en la salud, que podrán ser investigados y medidos directamente de tal manera que se evidencie el alcance de las metas al final del quinquenio.
+
+ACRÓNIMOS Y ABREVIACIONES
+
+ACV:
+
+Accidente cerebrovascular
+
+AINES: Analgésicos y los antiinflamatorios no esteroideos.
+
+AO:
+
+Asociación para el estudio de la fijación interna u Osteosíntesis (por sus siglas en
+
+alemán: Arbeitsgemeinschaft AO für Osteosynthesefragen).
+
+AP:
+
+Proyección anteroposterior de radiografía de tórax.
+
+CIE:
+
+Clasificación internacional de enfermedades.
+
+DDC:
+
+Displasia del desarrollo de cadera.
+
+DMO:
+
+Densidad mineral ósea.
+
+DXA:
+
+Densit ometría ósea.
+
+FRAX:
+
+Herramienta accesible on line que permite calcular el riesgo de fractura a partir de una serie de factores de riesgo clínicos.
+
+IAM:
+
+Infarto agudo de miocardio
+
+IM:
+
+Intramuscular
+
+IMC:
+
+Índice de masa corporal.
+
+IV:
+
+Vía intravenosa
+
+MTC:
+
+Metacarpianos.
+
+OAH:
+
+Osteomielitis aguda hematógena.
+
+OARSI:
+
+Sociedad Internacional de Investigación en Osteoartritis (por las siglas en inglés: Osteoartritis Research Society International).
+
+OMS:
+
+Organización mundial de la salud.
+
+PCR:
+
+Reacción en cadena de la polimerasa.
+
+PPD:
+
+Prueba cutánea de derivado proteico purificado (por sus siglas en inglés: Purified protein derivative).
+
+RAFI:
+
+Reducción abierta y fijación interna.
+
+RMN:
+
+Resonancia magnética nuclear.
+
+SAI:
+
+Síndrome autoinflamatorio
+
+SARM: Staphylococcus aureus resistente a meticilina
+
+SYSADOA: Fármacos sintomáticos de acción lenta para la osteoartritis (por sus siglas en inglés: Symptomatic Slow Action Drugs for Osteoarthritis).
+
+TAC:
+
+Tomografía axial computarizada.
+
+TC:
+
+Tomografía computarizada.
+
+VES:
+
+Velocidad de eritrosedimentación.
+
+VO:
+
+Vía oral
+
+VSG:
+
+Velocidad de sedimentación globular
+
+CONTENIDO
+1 Artrosis (Osteoartritis) – Osteoartrosis.........................................................................19 2 Displasia del Desarrollo de Cadera (DDC)...................................................................24 3 Fracturas......................................................................................................................28 4 Fractura de Cadera......................................................................................................35 5 Fractura de Clavícula...................................................................................................39 6 Fractura de Diáfisis Humeral........................................................................................42 7 Fractura de Diáfisis Tibial.............................................................................................45 8 Fractura de Metacarpianos..........................................................................................49 9 Fractura de Tobillo........................................................................................................52 10 Fractura Distal de Húmero...........................................................................................55 11 Fractura Distal del Radio..............................................................................................58 12 Fractura Proximal de Húmero......................................................................................62 13 Lumbalgia.....................................................................................................................65 14 Luxación Acromioclavicular..........................................................................................71 15 Osteoartritis Tuberculosa.............................................................................................73 16 Osteomielitis Aguda......................................................................................................77 17 Osteomielitis Crónica...................................................................................................82 18 Osteoporosis................................................................................................................87 19 Bibliografía...................................................................................................................92 20 Anexo Editorial...........................................................................................................101
+ÍNDICE DE TABLAS Tabla 1.Fracturas Expuestas Gustillo y Anderson (1).........................................................46 Tabla 2 Tratamiento osteomielitis aguda.............................................................................80
+ÍNDICE DE CUADROS Cuadro 1. Flujograma de dorsolumbagia............................................................................66
+
+CIE-10
+
+M19.9
+
+1
+
+NIVEL DE ATENCIÓN
+
+I – II – III
+
+ARTROSIS (OSTEOARTRITIS) – OSTEOARTROSIS
+
+CIE-10 M19: Otras artrosis [Para el código de sitio ver las subclasificaciones antes de M00–M25] Excluye: Artrosis de la columna vertebral (M47.–)
+Hallux rigidus (M20.2) Poliartrosis (M15.–) M19.0: Artrosis primaria de otras articulaciones Artrosis primaria SAI M19.1:Artrosis postraumática de otras articulaciones Artrosis postraumática SAI M19.2: Otras artrosis secundarias Artrosis secundaria SAI M19.8: Otras artrosis especificadas M19.9: Artrosis, no especificada
+DEFINICIÓN
+
+La Sociedad Internacional de Investigación en Osteoartritis (OARSI por las siglas en inglés de Osteoartritis Research Society International) define a la osteoartritis como un trastorno que afecta las articulaciones móviles caracterizado por el estrés celular y la degradación de la matriz extracelular iniciada por micro y macrolesiones caracterizadas por la degradación del cartílago, la remodelación ósea, la formación de osteofitos, inflamación de las articulaciones y pérdida de la función normal de las mismas (1).
+PREVALENCIA
+
+Según la Organización Mundial de la Salud (OMS) cerca del 28% de la población mundial mayor de 60 años presenta artrosis y el 80% de ésta tiene limitaciones en sus movimientos. Las mujeres son las más afectadas, con el 63% (2).
+
+La rodilla es la principal articulación grande afectada y se calcula que causa síntomas invalidantes en el 10% de las personas de más de 55 años (3).
+CLASIFICACIÓN
+
+Clasificación Radiológica de la Artrosis (Kellgren y Lawrence) (4).
+
+ Grado 0: Normal.  Grado 1: Dudoso:
+Dudoso estrechamiento del espacio articular. Posible osteofitosis.  Grado 2: Leve: Posible estrechamiento del espacio articular. Osteofitos.  Grado 3: Moderado: Estrechamiento del espacio articular. Osteofitosis moderada múltiple.
+
+NORMA NACIONAL DE ATENCIÓN CLÍNICA DE “TRAUMATOLOGÍA”
+
+19
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVOS
+
+Leve esclerosis. Posible deformidad de los extremos de los huesos.  Grado 4: Grave: Marcado estrechamiento del espacio articular. Abundante osteofitosis. Esclerosis grave. Deformidad de los extremos de los huesos.
+El aspecto artroscópico se clasificó, según Outerbridge, en 5 grados (5, 6):
+ GRADO 0: Sin anormalidades.  GRADO 1: Reblandecimiento y tumefacción del cartílago.  GRADO 2: Fragmentación o fisuración en una zona de 1 cm de diámetro o menos.  GRADO 3: La zona afectada es superior a 1 cm de diámetro.  GRADO 4: Erosionado el cartílago hasta el hueso.
+PRINCIPALES CAUSAS / ETIOLOGÍA
+Múltiples causas inician una artrosis (7):
+ Edad: El incremento es exponencial a partir de los 50 años.  Sexo: No sólo su incidencia es mayor en la población femenina, sino que también es más intensa
+y afecta a más articulaciones.  Genética: Se ha estimado que el componente hereditario de la osteoartritis tiene participación
+en 40 a 65% de los pacientes y es más fuerte para la osteoartritis de la mano y la de cadera que para la de rodilla.  Obesidad.  Densidad mineral ósea: Se ha observado que los pacientes con mayor densidad mineral ósea tienen un riesgo más elevado de padecer artrosis.  Factores nutricionales: Existen pruebas de que los condrocitos producen diversos radicales de oxígeno y que el deterioro oxidativo puede ser relevante. Por este motivo se postula que moléculas antioxidantes, como las vitaminas C, E y D, son beneficiosas en la artrosis.  Factores hormonales: El déficit estrogénico en la mujer se relaciona con la aparición de osteoartritis, hecho que explicaría el aumento de su incidencia y prevalencia a partir de la menopausia. Sin embargo, la evidencia de que los estrógenos sean protectores frente a la progresión de la artrosis no es concluyente.  Debilidad muscular.  Enfermedades sistémicas: Diabetes Mellitus 2, hipotiroidismo, hiperparatiroidismo, acromegalia, enfermedad de Paget, enfermedad de Wilson, enfermedad de Gaucher, artritis reumatoide.
+DIAGNÓSTICO CRITERIOS CLÍNICOS
+ Dolor: es el síntoma predominante de la osteoartritis y es el que hace que los pacientes acudan al médico. Es intermitente, generalmente empeora durante y después de realizar actividades.
+ Rigidez articular: los pacientes experimentan rigidez por la mañana o después de un periodo de inactividad, dura menos de 30 minutos.
+ Crepitación: sensación de crujido percibido en la articulación al realizar movimientos, ya sean pasivos o activos.
+20
+
+ Limitación de la función: los pacientes reportan síntomas que limitan sus actividades diarias. El movimiento pasivo restringido puede ser el primer y único signo físico de la enfermedad sintomática.
+EXÁMENES COMPLEMENTARIOS
+ Radiografía simple: Los principales hallazgos radiográficos son: disminución asimétrica del espacio articular, formación de osteofitos, esclerosis subcondral y existencia de quistes subcondrales (geodas).
+ Tomografía computada: Tiene como ventaja mostrar una imagen tridimensional y además de brindar la opción de utilizar contraste para visualizar el cartílago además del hueso.
+ Ultrasonido: Su principal ventaja consiste en permitir la visualización de estructuras de tejidos blandos (como el tejido sinovial).
+ Resonancia magnética: Proporciona una evaluación objetiva de la morfología (volumen, área y grosor) y la integridad (calidad) del cartílago articular.
+DIAGNÓSTICOS DIFERENCIALES
+ Artritis Reumatoidea.  Gota.  Síndrome de Wilson.  Mieloma múltiple y otras enfermedades óseas.  Espondilitis seronegativa (ej. artritis psoriásica).  Condrocalcinosis.  Osteoporosis.  Rinosporidiosis.
+TRATAMIENTO MEDIDAS ESPECÍFICAS POR NIVELES DE ATENCIÓN
+PRIMER NIVEL:
+ Tratamiento de osteoartrosis grado I y II de la clasificación de Kellgren y Lawrence.  Tratamiento no farmacológico.  Tratamiento farmacológico en base a fármacos modificadores de síntomas de acción rápida
+(AINES).
+TRATAMIENTO NO FARMACOLÓGICO
+ Logro y mantenimiento de un peso corporal ideal (IMC ≤ 25 kg/m2).  Ejercicios aeróbicos de bajo impacto desempeña un importante papel en la protección de la
+articulación porque incrementa la fuerza muscular y mejora el flujo sanguíneo en la articulación, la nutrición del cartílago y el rango de movilidad articular. Como caminata, bicicleta estática, nadar, algún trabajo de ejercicio aeróbico grupal, yoga, pilates.  Fortalecer la musculatura próxima a la articulación (el cuádriceps en la rodilla o abductores o extensores en la cadera) con ejercicios isométricos, son también beneficiosos.  Educación relativa al automanejo de la enfermedad. Explicar al paciente que es una enfermedad crónica , que el cartílago articular no se regenera, e iniciar el tratamiento no farmacológico y de ser el caso tratamiento analgésico y antinflamatorio.  Fisioterapia.
+21
+
+NORMA NACIONAL DE ATENCIÓN CLÍNICA DE “TRAUMATOLOGÍA”
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVOS
+
+TRATAMIENTO FARMACOLÓGICO
+ Paracetamol 500 mg cada 8 horas, como analgésico , vía oral, tomar solo en caso de dolor.  AINES Se puede administrar estos antinflamatorios: desde la aspirina hasta los coxibs a dosis
+habituales en una etapa aguda de dolor. Ibuprofeno 400 mg vía oral cada 8 o 12 horas por tres días y luego en caso de dolor o diclofenaco 75 mg cada 12 horas tres días luego en caso de dolor.
+SEGUNDO Y TERCER NIVEL:
+ Realiza tratamiento no farmacológico, tratamiento farmacológico y tratamiento quirúrgico.
+TRATAMIENTO FARMACOLÓGICO
+Fármacos modificadores de los síntomas:
+ En este grupo se incluyen los fármacos modificadores de síntomas de acción rápida, como los analgésicos y los antiinflamatorios no esteroideos (AINE) y fármacos modificadores de síntomas de acción lenta, los llamados SYSADOA (Symptomatic Slow Action Drugs for Osteoarthritis).
+Paracetamol.
+ Los analgésicos opiáceos débiles (tramadol y codeína) son fármacos eficaces y seguros en el paciente artrósico, siempre y cuando se vigilen estrechamente los efectos secundarios. Se pueden utilizar solos o asociados a paracetamol.
+Antiinflamatorios no Esteroideos (AINES).
+Fármacos modificadores de síntomas de acción lenta:
+ Sulfato de glucosamina.  Condroitina.  Combinación de Glucosamina y Condroitina.  Insaponificables de palta y soja.  Diacereína.  Broswellia.
+Estos fármacos modificadores de síntomas de acción lenta y su administración está condicionada, existe controversia en cuanto a su efectividad.
+Corticosteroides:
+La infiltración de corticoides (de larga duración) intraarticular es una opción terapéutica que ha demostrado ser eficaz en la artrosis de rodilla.
+Se recomienda la infiltración de esteroides en los siguientes casos:
+ En el tratamiento de la sinovitis aguda presente en algún momento de la evolución de la artrosis.  En los pacientes que están en espera de cirugía.  En estadios tardíos de la enfermedad, cuando son pocas las opciones terapéuticas que quedan
+por utilizar.  En pacientes diagnosticados de artrosis con derrame sinovial a los que se les realiza una
+artrocentesis diagnóstica y/o terapéutica.
+22
+
+Ácido Hialurónico:
+ La viscosuplementación en pacientes con osteoartritis de rodilla en los que la terapia con AINES/ COX-2 no ha sido eficaz o en los casos en los que éstos están contraindicados. Existen opiniones a favor y en contra de expertos en cuanto a su eficacia.
+
+La principal complicación de la infiltración articular es la artritis séptica, por tal motivo deben ser realizadas con técnica aséptica y por especialista en traumatología y ortopedia.
+
+TRATAMIENTO QUIRÚRGICO
+
+Está indicado cuando existen signos radiológicos evidentes de osteoartrosis, que tienen un dolor refractario al tratamiento e importante discapacidad.
+
+Lavado articular: El lavado intraarticular se puede realizar con artroscopia. El objetivo es el de hacer desaparecer adhesiones intraarticulares, movilizar fragmentos de tejido cartilaginoso y citocinas con capacidad para inducir y cronificar la inflamación sinovial. Aunque existe controversia en cuanto a su eficacia.
+
+Osteotomías: Las osteotomías correctoras se realizan generalmente en pacientes menores de 65 años, en las fases sintomáticas iniciales de la artrosis de rodilla y cuando existen alteraciones de la alineación (genu varum o valgum). El objetivo es corregir el genu varum/valgum de forma que se equilibran las fuerzas de carga.
+
+Prótesis: Según la articulación afectada y severidad de la misma.
+
+CRITERIOS DE REFERENCIA Deterioro funcional de articulación afectada.
+Dolor continuo que no responde a analgésicos.
+
+CRITERIOS DE ALTA MÉDICA
+Ausencia de síntomas y buena tolerancia al
+tratamiento.
+
+CRITERIOS DE CONTRARREFERENCIA
+Control y seguimiento.
+
+MEDIDAS PREVENTIVAS HIGIÉNICO DIETÉTICAS Y ORIENTACIÓN EN SERVICIO, FAMILIA Y COMUNIDAD
+
+ Logro y mantenimiento de un peso corporal ideal (IMC ≤ 25 kg/m2).  Medidas higiénico-dietéticas en una alimentación saludable.  Prácticas de ejercicios físicos
+
+NORMA NACIONAL DE ATENCIÓN CLÍNICA DE “TRAUMATOLOGÍA”
+
+23
+
+CIE-10
+
+Q65
+
+2
+
+NIVEL DE ATENCIÓN
+
+I - II – III
+
+DISPLASIA DEL DESARROLLO DE CADERA (DDC)
+
+CIE-10 Q65: Deformidades congénitas de la cadera
+Excluye: chasquido de la cadera (R29.4)
+Q65.0: Luxación congénita de la cadera, unilateral Q65.1: Luxación congénita de la cadera, bilateral Q65.2: Luxación congénita de la cadera, no especificada Q65.3: Subluxación congénita de la cadera, unilateral Q65.4: Subluxación congénita de la cadera, bilateral Q65.5: Subluxación congénita de la cadera, no especificada Q65.6: Cadera inestable
+Cadera: • Luxable • Subluxable
+Q65.8: Otras deformidades congénitas de la cadera Anteversión del cuello del fémur
+Coxa congénita: • Valga • Vara
+Displasia acetabular congénita
+Q65.9: Deformidad congénita de la cadera, no especificada
+
+DEFINICIÓN
+Hace referencia a un amplio espectro de alteraciones patológicas del acetábulo fémur proximal y partes blandas como estabilizadores dinámicos. Cualquier alteración en alguna de estas tres partes, produce un mal desarrollo de la articulación que incluye luxación, subluxación y displasia propiamente dicha, llevando a una coxartrosis temprana en el paciente (1).
+PRINCIPALES CAUSAS/ETIOLOGÍA
+La etiología de DDC es multifactorial. Se ha relacionado con factores hormonales, mecánicos y genéticos.
+Existe una laxitud hormonal en el último periodo del embarazo y un desequilibrio entre estrógenos y progesterona. Las concentraciones altas de progesterona favorecen la luxación (2).
+De acuerdo a la teoría mecánica, el feto in útero por su alta tasa de crecimiento y plasticidad, es muy vulnerable a la deformidad por posturas sostenidas, sobre todo en flexión de caderas y extensión de rodillas (posición podálica) o por una disminución del espacio (feto grande o disminución de líquido amniótico).
+La influencia genética en familiares de primer grado, determina 12 veces más riesgo de desarrollar DDC.
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVOS
+
+24
+
+DIAGNÓSTICO CRITERIOS CLÍNICOS
+Factores de Riesgo
+ Sexo femenino: Relacionado con la sensibilidad a los estrógenos producidos en el feto femenino y el aumento de la relaxina que produce aumento de la laxitud ligamentaria. El 80% de los niños afectados es del sexo femenino (3).
+ Presentación Podálica.
+ Antecedentes Familiares de DDC: El riesgo aumenta con un hermano afectado a 6%, con un padre afectado 12%.
+ Existen otros factores de riesgo menores: Macrosomía fetal, gestación múltiple, madre primípara, miomas uterinos, útero bicorneo, oligohidramnios, amniocentesis, o edad materna avanzada.
+Exploración Clínica. En el niño no ambulante, signos de Ortolani, Barlow, Galeazzi, limitación a la abducción de caderas; en el niño ambulante presencia de cojera (la marcha de Trendelenburg), en una luxación bilateral es típica la marcha de pato con hiperlordosis lumbar (4).
+ Signo de Ortolani: Se lleva a cabo con el niño en decúbito supino, con las caderas y las rodillas flexionadas a 90 grados. El examinador coloca sus manos de tal manera que los pulgares se sitúan sobre la cara interna de las rodillas del niño, mientras los dedos índice y medio se colocan sobre la zona de la articulación de la cadera, palpando la zona de los trocánteres mayores del fémur. A partir de esta posición, se realiza una maniobra que consiste en aplicar una suave presión con los dedos hacia adelante y hacia afuera. Si la cadera está luxada o subluxada, al realizar este movimiento, el fémur se desliza hacia el interior de la cavidad acetabular con un “clic” audible o palpable, que se conoce como el signo positivo de Ortolani. Este “clic” representa la reubicación del fémur en el acetábulo, la parte de la pelvis que conforma la articulación de la cadera
+ Signo de Barlow: es la salida de la cabeza femoral al realizar el explorador una abducción de la cadera y presionar con el pulgar sobre la cara interna de la región inguinal. Significa cadera luxable. Un chasquido indica que la cabeza del fémur está saliendo del acetábulo.
+ Signo de Galeazzi: Se coloca al niño en la posición decúbito dorsal , con las caderas y rodillas flexionadas, los pies deben apoyar sobre la camilla. La rodilla está más baja del lado afectado debido al desplazamiento posterior de la cadera displásica.
+El diagnóstico precoz es un elemento fundamental en el tratamiento de la DDC.
+EXÁMENES COMPLEMENTARIOS
+GABINETE
+ Rx Pelvis. Es el método de elección a partir de los 3 meses de edad, ya que el núcleo de osificación femoral no es visible antes de este tiempo. La medición del índice acetabular mide la oblicuidad del techo acetabular. Se consideran normal un ángulo menor de 30° a los 3 meses de edad, e idealmente menor a 22 grados al año de edad.
+25
+
+NORMA NACIONAL DE ATENCIÓN CLÍNICA DE “TRAUMATOLOGÍA”
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVOS
+
+Otras mediciones útiles son el ángulo acetabular de Sharp, la línea de Shenton y el ángulo centro borde de Wiberg (3).  Ecografía. Se debe realizar idealmente antes de los 3 meses y cuando existan las condiciones,
+que presenten factores de riesgo y en todos los niños en que exista dudas en la exploración física (1,5).  Tomografía Axial Computarizada: De acuerdo a la edad, gravedad del caso y para planificación quirúrgica.
+TRATAMIENTO MEDIDAS GENERALES
+PRIMER NIVEL:  En la exploración clínica es importante diagnosticar una cadera inestable en las primeras semanas
+de vida (esto es crucial para la articulación de la cadera).  Ante la presencia de signo de Ortolani, Barlow, Galeazzi o presencia de factores de riesgo, se
+debe referir a un Segundo o Tercer Nivel.  Se debe solicitar una radiografía anteroposterior de Pelvis a los 3 meses de edad, ante la presencia
+de signos radiográficos patológicos referir a un Segundo o Tercer Nivel. SEGUNDO Y TERCER NIVEL: TRATAMIENTO ORTOPÉDICO NO QUIRÚRGICO El objetivo del tratamiento es lograr y mantener una reducción concéntrica de la cabeza femoral hacia el acetábulo.  Arnés de Pavlik(6,7): Debemos mantener una flexión de cadera de 90° y una abducción entre 45
+a 60°, se debe utilizar el arnés 24 horas del día, solo debe ser retirado momentáneo durante el baño del lactante. Los pañales almohadillados, el doble y/o triple pañal, no son eficaces y no deben ser usados para tratar una displasia de cadera. De no obtener una reducción de caderas durante 6 semanas con arnés el tratamiento a seguir será: Reducción cerrada o abierta en el quirófano y colocación de aparato de yeso en espiga en posición reducida de cabeza femoral durante tres meses. TRATAMIENTO QUIRÚRGICO  Reducción cerrada (Tenotomía de Psoas y Aductores).  Reducción abierta.  Osteotomía femoral.  Osteotomía de hueso Ilíaco.
+26
+
+CRITERIOS DE REFERENCIA
+Presencia de dos o más factores de riesgo.
+
+CRITERIOS DE ALTA HOSPITALARIA
+Cadera centrada y reducida.
+
+CRITERIOS DE CONTRARREFERENCIA DDC resuelta.
+
+Dudas al examen clínico (cadera inestable).
+
+Sospecha o diagnóstico de DDC
+
+Angulo acetabular mayor a 30°.
+
+MEDIDAS PREVENTIVAS HIGIÉNICO DIETÉTICAS Y ORIENTACIÓN EN SERVICIO, FAMILIA Y COMUNIDAD
+
+ Evitar el fajado (envoltura de miembros inferiores).
+
+ El tiempo aproximado necesario para el tratamiento debe ser explicado por el médico tratante.
+
+ Procedimientos a ser utilizados, así como sus riesgos y beneficios, debe ser explicado por el médico tratante.
+
+NORMA NACIONAL DE ATENCIÓN CLÍNICA DE “TRAUMATOLOGÍA”
+
+27
+
+CIE-10
+
+T02
+
+3
+
+NIVEL DE ATENCIÓN
+
+I – II- III
+
+FRACTURAS
+
+CIE-10 T02: Fracturas que afectan múltiples regiones del cuerpo
+
+Las siguientes subdivisiones se ofrecen para uso opcional, como carácter suplementario, cuando no es posible o no se desea usar la codificación múltiple para identificar las fracturas con heridas; una fractura no indicada como abierta o cerrada debe ser clasificada como cerrada:
+
+0
+
+Cerrada
+
+1
+
+Abierta
+
+DEFINICIÓN
+
+Las fracturas se definen como la interrupción en la continuidad ósea.
+
+La mayoría de las fracturas se debe a la aplicación de una fuerza significativa sobre un hueso normal (1).
+
+CLASIFICACIÓN
+
+Por el estado de las partes blandas – integridad de la piel:
+
+ Fracturas cerradas.  Fracturas expuestas.
+
+Por la localización ósea:
+
+ Diafisaria.  Metafisaria.  Epifisaria.  Fisiaria.
+
+Por la dirección del trazo fracturario:
+
+ Transversal.  Oblicua.  Espiroidea.
+
+Por el número de fragmentos:
+
+ Simple.  Con tercer fragmento.  Multifragmentaria.
+
+Por su estabilidad:
+
+ Estables e Inestables.
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVOS
+
+28
+
+PRINCIPALES CAUSAS / ETIOLOGÍA
+Algunas de las principales causas de fracturas son (2):
+Trauma físico: Las fracturas pueden ocurrir como resultado de un accidente o lesión física, como una caída, un choque automovilístico o un deporte de contacto.
+Osteoporosis: La osteoporosis es una enfermedad que debilita los huesos y aumenta el riesgo de fracturas. Las personas mayores y las mujeres después de la menopausia tienen un mayor riesgo de osteoporosis.
+Tumores óseos: Los tumores óseos pueden debilitar los huesos y hacer que se rompan más fácilmente (fracturas patológicas).
+Sobrecarga repetitiva: Ciertas actividades físicas o deportes que implican una sobrecarga repetitiva en los huesos, como correr o saltar, pueden causar fracturas por estrés.
+Enfermedades: Algunas enfermedades, como la artritis, la diabetes y la enfermedad renal crónica, pueden debilitar los huesos y aumentar el riesgo de fracturas.
+Deficiencia de vitamina D: La vitamina D es esencial para la salud ósea, y una deficiencia puede aumentar el riesgo de fracturas.
+DIAGNÓSTICO (3) (4) CRITERIOS CLÍNICOS
+Fracturas cerradas:
+ Dolor local.  Dolor irradiado.  Deformidad regional.  Acortamiento del miembro.  Aumento de volumen por tumefacción.  Equimosis.  Movilidad dolorosa.  Movilidad anormal.  Limitación o impotencia funcional.  Crepitación ósea
+Fracturas expuestas (5):
+ Dolor local, dolor irradiado.  Deformidad regional.  Aumento de volumen por tumefacción.  Exposición ósea, (puntiforme o exposición extensa).  Hemorragia, puede ser importante.  Movilidad anormal y dolorosa.  Limitación o impotencia funcional.  Acortamiento del miembro.
+29
+
+NORMA NACIONAL DE ATENCIÓN CLÍNICA DE “TRAUMATOLOGÍA”
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVOS
+
+Examen físico incluye:
+ Evaluación vascular y neurológica distal a la lesión.  Inspección en busca de heridas abiertas, deformidad, inflamación, equimosis y alteración o
+disminución de la amplitud de movimiento.  Palpación en busca de hipersensibilidad, crepitación y defectos macroscópicos en el hueso o el
+tendón.  Examen de las articulaciones por encima y por debajo de la zona lesionada (p. ej., para la
+articulación del hombro, la columna cervical y el codo).  Después que se excluye fractura y luxación (clínicamente o mediante imágenes), se evalúan las
+articulaciones afectadas para identificar dolor e inestabilidad
+Si el mecanismo de lesión sugiere un daño potencial grave o múltiple (accidente de vehículo de motor a alta velocidad o caída de altura) debe realizarse un abordaje del paciente politraumatizado.
+EXÁMENES COMPLEMENTARIOS
+ Placas de Rx anteroposteriores, laterales, oblicuas y especiales dependiendo del segmento en estudio, en pediatría Rx comparativas con la extremidad no lesionada, incluyendo las articulaciones proximal y distal a la zona de la fractura.
+La tomografía axial computarizada en fracturas articulares y complejas o resonancia magnética nuclear cuando:
+ Una fractura no es visible en las radiografías simples, pero se sospecha clínicamente con intensidad (común en fracturas escafoideas y de cadera con impactación del cuello femoral subcapital).
+ Se necesitan más detalles para guiar el tratamiento (p. ej., para fracturas escapulares, pélvicas o intraarticulares).
+Se pueden realizar otros exámenes para verificar lesiones relacionadas:
+ Arteriografía o angiografía por TC en busca de probables lesiones arteriales (suelen realizarse para evaluar la arteria poplítea cuando la rodilla está luxada).
+ Electromiografía y/o estudios de conducción nerviosa se indican ante la sospecha clínica de una lesión aguda (manejo por tercer nivel), cuando los síntomas del nervio persisten semanas después de la lesión se debe realizar de acuerdo a protocolos establecidos.
+TRATAMIENTO MEDIDAS ESPECÍFICAS POR NIVELES DE ATENCIÓN
+FRACTURAS CERRADAS
+PRIMER NIVEL:
+ En fractura cerradas inmovilización provisional y referir a Segundo o Tercer Nivel.  En fracturas expuestas cubrir con apósito estéril, inmovilización provisional de la extremidad
+afectada y referir a Segundo o Tercer Nivel, previa administración de analgésicos como paracetamol 1 gr vía oral dosis única y antibióticos Cefazolina 1-2 g vía oral dosis única , si el paciente esta canalizado se puede administrar cefotaxima 1 gr. endovenoso como dosis única.
+30
+
+Tratamiento médico (SEGUNDO Y TERCER NIVEL):
+ Fracturas complejas, desplazadas, anguladas y en tallo verde.  Reducción incruenta (si la patología lo permite) bajo anestesia general e inmovilización con venda
+de yeso de acuerdo a la región afectada.  Analgésicos antiinflamatorios:
+- Menores 12 años: por tres días, ibuprofeno como analgésico y antinflamatorio vía oral 10 mg/ Kg./dosis cada ocho horas; o paracetamol como analgésico vía oral 10-20 mg/ Kg./dosis cada seis horas; o diclofenaco como analgésico y antinflamatorio vía oral 3 mg/Kg./día cada seis horas.
+- Mayores de 12 años: por tres días diclofenaco como analgésico antinflamatorio vía oral 50 mg cada ocho horas; o ibuprofeno 400 -600 mg vía oral cada ocho horas; o paracetamol 500 vía oral mg cada seis horas. En caso de inviabilidad oral Metamizol como analgésico intravenoso 1g cada ocho horas.
+SEGUNDO Y TERCER NIVEL en casos de fracaso de la reducción incruenta, presencia de síndrome compartimental y Compromiso vascular o nervioso.
+TRATAMIENTO QUIRÚRGICO:
+ Realizar reducción del foco de fractura y osteosíntesis (elección del material de osteosíntesis de acuerdo a la región afectada).
+ Reposo e inmovilización (depende el segmento y tipo de osteosíntesis), seguimiento con controles radiográficos.
+ Dependiendo del segmento afectado, se procederá a tratar la fractura, como procedimiento mayor, mediano o menor.
+TRATAMIENTO POSTQUIRÚRGICO:
+ Reposo.  Control de signos vitales.  Hidratación parenteral (solamente en caso necesario).  Analgésicos antiinflamatorios por tres días o mientras dure el dolor:
+- Menores 12 años: por tres días diclofenaco 50 mg cada ocho horas vía oral.; o ibuprofeno 400600 mg cada ocho horas vía oral; o paracetamol 500 mg cada seis horas vía oral. En caso de inviabilidad oral, Metamizol 1 g. cada ocho horas vía intravenosa.
+ Antibióticos de usa profiláctico: 1. Menores de 12 años: Cefalosporina de primera generación (Cefazolina) 50-100 mg/Kg./día dividida cada seis horas por siete días vía oral. 2. Mayores de 12 años: Cefalosporinas de primera generación (Cefazolina) 1-2 g al día, administrada en dos o tres dosis iguales (una dosis cada ocho o doce horas) vía oral.
+ Movilización temprana de acuerdo a criterio médico.  Fisioterapia post operatoria.  Control de herida operatoria de acuerdo a necesidad.  Control, curación y retiro de puntos en consulta externa por personal de salud.
+COMPLICACIONES POSOPERATORIAS
+ Infección.  Dehiscencia de suturas.
+31
+
+NORMA NACIONAL DE ATENCIÓN CLÍNICA DE “TRAUMATOLOGÍA”
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVOS
+
+ Rechazo de material de osteosíntesis.  Rotura de material de osteosíntesis.  Falta de consolidación ósea.
+COMPLICACIONES TRANSOPERATORIAS
+ Lesiones neuro vasculares.  Embolismos pulmonares.  Multifragmentación ósea durante la cirugía que condiciones cambio de plan quirúrgico.
+COMPLICACIONES
+Fracturas cerradas
+ Hematomas.  Lesiones nerviosas.  Lesiones vasculares.  Pseudoartrosis.  Consolidación en posiciones defectuosas.  Tromboembolia pulmonar
+Fracturas expuestas
+ Lesiones nerviosas.  Lesiones vasculares.  Pseudoartrosis.  Consolidación viciosa.  Osteomielitis.  Sepsis.  Amputación.
+FRACTURAS EXPUESTAS
+Bajo anestesia de acuerdo al segmento afectado y patologías asociadas (anestesia regional o general), realizar (6,7):
+ Asepsia y antisepsia.  Limpieza quirúrgica (lavar con abundante solución estéril) a demanda, se puede agregar otro
+antiséptico según protocolo hospitalario.  Desbridamiento de los cuerpos extraños y tejido avascular o necrótico o desvascularizado.  Estabilización de la fractura con férula, tracción esquelética o fijación externa.
+Pueden ser necesarios procedimientos subsecuentes como:
+ Nuevas limpiezas quirúrgicas y desbridamientos.  Injertos libres o pediculados. rotación de colgajos según la necesidad (manejo en conjunto con
+cirugía plástica u ortoplástica).  Osteosíntesis definitiva.  Iniciar tratamiento antibiótico con cefalosporina de primera generación (cefazolina) en fracturas
+expuestas grado I y II, en fracturas expuestas grado III añadir algún aminoglucósido, o metronidazol.  Se debe aplicar vacuna de toxoide tetánico según el lugar donde ocurre la contaminación (granjas,
+lugares de agricultura).
+32
+
+ Todo tratamiento debe tener en cuenta una posterior rehabilitación temprana de la extremidad.  Por la severidad de la lesión la amputación primaria puede ser el tratamiento de elección.
+
+CRITERIOS DE REFERENCIA Toda fractura. Síndrome compartimental. Fractura expuesta. Sensibilidad distal alterada. Ausencia de pulsos.
+
+CRITERIOS DE ALTA MEDICA
+ Consolidación ósea.
+ Alineación (reducción adecuada).
+
+CRITERIOS DE CONTRARREFERENCIA
+Alta del servicio de Traumatología.
+
+ Perfusión y sensibilidad distal conservadas después del tratamiento.
+
+ Heridas cicatrizadas.
+
+ Retorno a la función con posibles secuelas, de acuerdo a la gravedad de la lesión.
+
+MEDIDAS PREVENTIVAS HIGIÉNICO DIETÉTICAS Y ORIENTACIÓN EN SERVICIO, FAMILIA Y COMUNIDAD
+
+Los pacientes con yeso deben recibir las instrucciones por escrito, que incluyen las siguientes:
+
+ Mantener seco el yeso.  Nunca introducir objetos dentro.  Controlar los bordes y la piel alrededor del yeso cada día e informar cualquier zona roja o inflamada.  Colocar apósitos en los bordes rugosos con tela adhesiva, una tela u otro material liviano para
+evitar que los bordes lesionen la piel.  Al descansar, colocar el yeso con cuidado, posiblemente usando una pequeña almohada o cojín,
+para evitar que comprima la piel.  Elevar la extremidad siempre que sea posible para controlar la inflamación.  Buscar atención médica de inmediato si el dolor persiste o el yeso se siente excesivamente
+apretado.  Buscar atención médica inmediata si se nota olor dentro de la escayola o yeso o si el paciente
+presenta fiebre, lo cual puede sugerir una infección.  Buscar ayuda inmediata para el dolor que empeora progresivamente o cualquier nuevo
+entumecimiento o debilidad, que puede indicar un síndrome compartimental.
+
+Las fracturas ocurren cuando hay una fuerza excesiva aplicada sobre un hueso, lo que causa una ruptura parcial o total.
+
+Pueden ocurrir por diversas razones, como caídas, deportes de contacto o lesiones traumáticas.
+
+Algunas medidas preventivas que pueden reducir el riesgo de fracturas, incluyen:
+
+ Mantener una dieta equilibrada y una ingesta adecuada de calcio y vitamina D para mantener los huesos fuertes y saludables.
+ Practicar ejercicio regularmente para fortalecer los músculos y mejorar la estabilidad.  Usar zapatos adecuado y asegurarse de que los pisos estén libres de obstáculos para reducir el
+riesgo de caídas.
+
+NORMA NACIONAL DE ATENCIÓN CLÍNICA DE “TRAUMATOLOGÍA”
+
+33
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVOS
+
+ Mantener una buena postura al sentarse, caminar y levantar objetos pesados para evitar tensiones innecesarias en los huesos y músculos.
+ Evitar situaciones de alto riesgo, como deportes extremos o situaciones en las que existe un alto riesgo de lesiones traumáticas.
+ Seguir las normas de seguridad en el trabajo para evitar lesiones por accidentes laborales.  durante el curso de la vida.
+34
+
+CIE-10
+
+S72.0
+
+4
+
+NIVEL DE ATENCIÓN
+
+I - II – III
+
+FRACTURA DE CADERA
+
+CIE-10 S72.0: Fractura del cuello de fémur
+Fractura de cadera SAI
+DEFINICIÓN
+
+La fractura de cadera es una solución de continuidad ósea a nivel del fémur proximal, incluyen fractura de la cabeza femoral, fracturas del cuello femoral, fracturas intertrocantéricas y fracturas subtrocantéricas.
+
+Frecuente por encima de 65 años. El 95% es causada por trauma de baja energía, la frecuencia es mayor en mujeres que hombres 2-3 veces más (1).
+
+El 20% de los pacientes tienen el riesgo de morir durante el primer año (2).
+CLASIFICACIÓN
+
+Clasificación anatómica
+ Fractura subcapital: en la zona más proximal del cuello femoral.  Fractura transcervical: justo en la mitad del cuello femoral.  Fracturas Basicervicales: En la base del cuello femoral.  Fractura pertrocantérea o intertrocantérea: va desde un trocánter a otro.  Fractura subtrocantérea: no es de cadera, está por debajo del trocánter.
+
+Clasificación AO (3)
+ Tipo A: Fractura trocantérica (por debajo de la línea intertrocantérea y por encima del borde inferior del trocánter menor).
+
+· A1: Fractura pertrocantérea simple. A1.1 Fractura aislada del trocánter: trocánter mayor o menor. A1.2 Fractura en dos partes. A1.3 Pared lateral intacta (grosor de la pared lateral ≥20,5 mm*).
+· A2: Fractura pertrocantérea multifragmentaria/incompetencia de la pared lateral (grosor ≤ 20,5 mm*). A2.1 Un fragmento intermedio. A2.2 Dos o más fragmentos intermedios.
+· A3: Fractura intertrocantérea u oblicua inversa. A3.1 Fractura oblicua simple. A3.2 Fractura transversal simple. A3.3 Fractura en cuña o fractura multifragmentaria.
+ Tipo B: Cuello femoral o fractura femoral subcapital (por debajo del cartílago articular de la cabeza femoral y por encima de la línea intertrocantérea).
+
+NORMA NACIONAL DE ATENCIÓN CLÍNICA DE “TRAUMATOLOGÍA”
+
+35
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVOS
+
+· B1: Fractura subcapital. B1.1 Valgo impactado. B1.2 No desplazado. B1.3 Desplazado.
+· B2: Fractura transcervical (Pauwels 1-3: <30°, 30-70°, >70°). B2.1 Sencillo. B2.2 Multifragmentario. B2.3 Fractura por cortante.
+· B3: Fractura basicervical.
+ Tipo C: Fractura de la cabeza femoral (fractura articular).
+· C1: Fractura dividida. C1.1 Avulsión del ligamento redondo. C1.2 Fractura dividida infrafoveal. C1.3 Fractura dividida suprafoveal.
+· C2: Fractura por depresión. C2.1 Depresión con lesión condral. C2.2 Fractura por impactación de depresión. C2.3 Fractura de depresión dividida.
+La clasificación de Garden de las fracturas subcapitales del cuello femoral es la más utilizada (4):
+ Garden estadio I: Incompleto no desplazado, incluidas las fracturas impactadas en valgo
+El grupo medial de trabéculas del cuello femoral puede demostrar una fractura en tallo verde.
+ Garden etapa II: Completo sin desplazar.
+Sin alteración de las trabéculas mediales.
+ Garden estadio III: Fractura completa, desplazamiento incompleto.
+La cabeza femoral se inclina hacia una posición en varo, lo que hace que sus trabéculas mediales queden desalineadas con las trabéculas pélvicas.
+ Garden etapa IV: Fractura completa, completamente desplazada.
+PRINCIPALES CAUSAS / ETIOLOGÍA
+ En personas de la tercera edad ocurre por traumatismos de baja intensidad, secundaria a osteoporosis, el 80 % en el domicilio.
+ Caídas de su propia altura.  En paciente jóvenes asociados a traumatismos de alta energía como accidente de tránsito.  Fracturas patológicas asociadas como tumores localizados en fémur proximal.  Algunas enfermedades metabólicas óseas como el raquitismo, la osteoporosis, trastornos de la
+vitamina D, displasias esqueléticas, displasias fibrosas son causas de fracturas de cadera.
+FACTORES DE RIESGO
+Los factores de riesgo para que un adulto mayor sufra una fractura de cadera incluyen edad avanzada, baja densidad ósea, deterioro de la marcha , alteración del equilibrio, deterioro de la visión, espacios desordenados, alfombras sueltas, ausencia de barras de apoyo en el hogar.
+36
+
+DIAGNÓSTICO CRITERIOS CLINICOS
+ Dolor inguinal a veces irradiado a muslo y rodilla.  Incapacidad para caminar o permanecer de pie.  Movilización dolorosa de cadera.  Incapacidad para elevar el miembro inferior  Acortamiento y rotación externa del miembro afectado, cuando la fractura esta desplazada.
+EXÁMENES COMPLEMENTARIOS
+Se recomienda al realizar la radiografía en proyección AP de pelvis, solicitarla con ambas caderas en rotación interna de 15° a 20°, si se puede se realizará radiografía axial de cadera.
+La tomografía computarizada (TC) y la resonancia magnética nuclear (RMN) tienen una sensibilidad de 61% a 66% para el diagnóstico de fracturas, cuando estas no se observan en los estudios radiográficos y en quienes persiste el dolor y la incapacidad para la marcha.
+TRATAMIENTO MEDIDAS ESPECÍFICAS POR NIVELES DE ATENCIÓN
+PRIMER NIVEL
+ Presencia de fractura o sospecha de fractura de fémur proximal enviar a Segundo o Tercer Nivel.  En fractura expuesta cubrir con apósito estéril, inmovilización provisional de la extremidad
+afectada, previa administración de analgésicos como paracetamol 1 gr vía oral dosis única o diclofenaco 75 mg dosis única y antibióticos Cefazolina 1-2 gr vía oral dosis única , si el paciente esta canalizado se puede administrar Cefotaxima 1 gr endovenoso como dosis única y referencia a Segundo y Tercer Nivel.
+SEGUNDO Y TERCER NIVEL (5-9)
+ La cirugía debe ser considerada una urgencia relativa y debe ser realizada entre 24-48 horas del ingreso del paciente, tiempo en que se evidencian mejores resultados, si las condiciones generales del paciente y la infraestructura hospitalaria lo amerita.
+ Paciente con fractura de cuello femoral inestable o desplazadas la artroplastia está recomendada sobre la osteosíntesis.
+ Paciente con fractura transtrocantérica y subtrocantérica se recomienda reducción de la fractura para colocación de material de fijación de acuerdo a criterio médico.
+En todo paciente con fractura de cadera la profilaxis tromboembólica debe estar presente.
+Se sugiere el uso de Ácido Tranexámico para reducir la pérdida de sanguíneo durante el trans y post quirúrgico en paciente con fractura de cadera.
+La transfusión sanguínea en este tipo de fracturas debe ser considerada.
+Se deben utilizar programas de atención interdisciplinarios en el cuidado de pacientes con fractura de cadera para disminuir complicaciones y mejorar los resultados, especialistas que trabajan juntos, geriatras, traumatólogos, enfermería, nutrición, rehabilitación, fisioterapeutas. El manejo conjunto a menudo incluye el estudio y el inicio de la terapia para la osteoporosis, manejo del dolor, rehabilitación funcional, estado nutricional, manejo de medicamentos, y prevención de complicaciones (caídas, delirio, estreñimiento).
+37
+
+NORMA NACIONAL DE ATENCIÓN CLÍNICA DE “TRAUMATOLOGÍA”
+
+CRITERIOS DE REFERENCIA
+Presencia o sospecha de fractura de cadera.
+Para tratamiento quirúrgico.
+
+CRITERIOS DE ALTA HOSPITALARIA
+Ausencia de complicaciones.
+
+CRITERIOS DE CONTRARREFERENCIA
+Alta del servicio de Traumatología.
+
+MEDIDAS PREVENTIVAS HIGIÉNICO DIETÉTICAS Y ORIENTACIÓN EN SERVICIO, FAMILIA Y COMUNIDAD
+
+Para prevenir una fractura de cadera, se pueden seguir algunas medidas preventivas:
+
+ Mantener una dieta saludable y equilibrada, rica en calcio y vitamina D, que son nutrientes importantes para la salud ósea.
+ Hacer ejercicio regularmente para mejorar la fuerza muscular y la densidad ósea. El ejercicio debe ser adaptado a las capacidades de cada persona y puede incluir caminar, nadar o hacer ejercicios de fortalecimiento muscular.
+ Tomar medidas para prevenir caídas, como mantener los pisos libres de obstáculos, usar calzado con suela antideslizante y evitar correr o caminar en superficies resbaladizas.
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVOS
+
+38
+
+CIE-10
+
+S42.0
+
+5
+
+NIVEL DE ATENCIÓN
+
+I - II – III
+
+FRACTURA DE CLAVÍCULA
+
+CIE-10 S42.0: Fractura de la clavícula
+Collar óseo Diáfisis de la clavícula Epífisis acromial de la clavícula
+DEFINICIÓN
+La fractura de clavícula es una solución de continuidad a cualquier nivel de este hueso, resultado de un golpe directo sobre el hombro (1).
+CLASIFICACIÓN
+La clasificación de la fractura de clavícula se basa en la localización de la fractura y la presencia de desplazamiento.
+Clasificación Anatómica:
+ Fractura de tercio proximal (medial).  Fractura de tercio medio.  Fractura de tercio distal (lateral).
+Cada segmento cuenta con clasificaciones especiales para determinar el tratamiento a realizarse.
+La clasificación más utilizada es la AO (año 2003) La fundación AO “Arbeitsgemeinschaft AO für Osteosynthesefragen” (Asociación para el estudio de la fijación interna u Osteosíntesis); realizo una clasificación basada en las características de la fractura: simple, en cuña y complejas (tipos A, B y C respectivamente). La clasificación AO utiliza el sistema alfanumérico que permite identificar con precisión cualquier fractura (1).
+PRINCIPALES CAUSAS / ETIOLOGÍA
+En general, cualquier tipo de trauma o fuerza excesiva en el hombro o el brazo puede provocar una fractura de clavícula.
+Las principales causas de fractura de clavícula son:
+ Caídas: Las caídas son la causa más común de fractura de clavícula, especialmente en niños y personas mayores. La caída puede ser directamente sobre el hombro o el brazo, o indirecta en la que la persona cae sobre una mano extendida.
+ Accidentes deportivos: La fractura de clavícula es una lesión común en deportes de contacto como el fútbol americano, el hockey, el rugby y la lucha libre, así como en deportes de acción como el ciclismo y el motocross.
+
+NORMA NACIONAL DE ATENCIÓN CLÍNICA DE “TRAUMATOLOGÍA”
+
+39
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVOS
+
+ Accidentes automovilísticos: Los accidentes automovilísticos pueden causar fracturas de clavícula debido a la fuerza del impacto.
+ Lesiones directas: Las lesiones directas, como un golpe fuerte en el hombro o el brazo, pueden causar una fractura de clavícula.
+ Osteoporosis: La osteoporosis (afección que debilita los huesos) puede aumentar el riesgo de fractura de clavícula en las personas mayores (3).
+DIAGNÓSTICO
+El diagnóstico de la fractura de clavícula se realiza mediante una historia clínica detallada y un examen físico.
+Los métodos de diagnóstico incluyen radiografías simples, tomografías computarizadas y resonancias magnéticas. En un estudio publicado en 2019 en la revista Journal of Shoulder and Elbow Surgery, se encontró que la tomografía computarizada proporciona una mejor definición de la anatomía de la fractura y ayuda a guiar el tratamiento en comparación con las radiografías simples (1).
+TRATAMIENTO MEDIDAS GENERALES
+El tratamiento de una fractura de clavícula depende de la gravedad de la lesión. En general, existen dos opciones de tratamiento: el tratamiento conservador y el tratamiento quirúrgico.
+PRIMER NIVEL:
+ Presencia de fractura o sospecha de fractura de clavícula referir a Segundo o Tercer Nivel.
+SEGUNDO Y TERCER NIVEL:
+El tratamiento de una fractura de clavícula depende de la gravedad de la lesión. En general, existen dos opciones de tratamiento: el tratamiento conservador y el tratamiento quirúrgico.
+Tratamiento conservador:
+Si la fractura no está desplazada (los huesos no se han movido de su lugar), el tratamiento conservador puede ser suficiente igual que en pacientes pediátricos. Esto implica inmovilizar el brazo y la clavícula con vendajes específicos (2)
+ Se recomienda el uso de “cabestrillo” con la finalidad de inmovilizar la extremidad del lado en que se encuentra la fractura de la clavícula, lo que permitirá su consolidación.
+ Vendaje en ocho: Este sistema se utiliza para inmovilizar al paciente de forma que permanezca sentado, con las manos en la nuca y empujando los codos hacia atrás, para que el paciente pueda llevar también los hombros hacia atrás
+Tratamiento quirúrgico:
+Si la fractura está desplazada o si la fractura está expuesta, se puede requerir una cirugía. El objetivo de la cirugía es restaurar la anatómica de la clavícula en una correcta posición hasta la consolidación ósea. El procedimiento quirúrgico implica la colocación de placas y tornillos en los huesos para estabilizarlos. El tiempo de recuperación después de una cirugía suele ser más corto
+40
+
+que el tratamiento conservador, la rehabilitación en el tratamiento quirúrgico es de forma más precoz que en el tratamiento conservador.
+
+En ambos casos, se recomienda el reposo y la rehabilitación después de la inmovilización para ayudar a recuperar la fuerza, la movilidad del hombro y el brazo afectados.
+
+CRITERIOS DE REFERENCIA
+Para tratamiento quirúrgico, en fractura expuesta, desplazada o acompañada de otras lesiones.
+
+CRITERIOS DE ALTA HOSPITALARIA
+Ausencia de complicaciones.
+
+CRITERIOS DE CONTRARREFERENCIA
+Control y seguimiento.
+
+MEDIDAS PREVENTIVAS HIGIÉNICO DIETÉTICAS Y ORIENTACIÓN EN SERVICIO, FAMILIA Y COMUNIDAD
+
+La fractura de clavícula es una lesión común que ocurre en personas de todas las edades y puede ser causada por una variedad de razones, como caídas, lesiones deportivas o accidentes automovilísticos.
+
+Aquí algunas medidas que se pueden tomar para prevenir una fractura de clavícula:
+
+ Usar equipo de protección adecuado: Si se realiza actividades deportivas, asegurarse de usar equipo de protección adecuado como cascos, hombreras y almohadillas para el codo. Estos equipos pueden ayudar a absorber el impacto en caso de una caída o colisión.
+
+ Fortalecer los músculos y huesos: Mantener una buena salud ósea y muscular puede ayudar a prevenir las fracturas. Realizar ejercicio regularmente y asegurarse de obtener suficiente calcio y vitamina D a través de la dieta o suplementos.
+
+ Evitar caídas: Para evitar caídas, asegurarse de tener un buen equilibrio y coordinación, usar zapatos con buena tracción y evitar caminar en superficies resbaladizas o con poca luz.
+
+ Se debe ser consciente del entorno: Si se trabaja en un ambiente peligroso, como una construcción, asegurarse de conocer las precauciones de seguridad y seguir los protocolos establecidos para prevenir lesiones.
+
+NORMA NACIONAL DE ATENCIÓN CLÍNICA DE “TRAUMATOLOGÍA”
+
+41
+
+CIE-10
+
+S42.3
+
+6
+
+NIVEL DE ATENCIÓN
+
+I - II – III
+
+FRACTURA DE DIÁFISIS HUMERAL
+
+CIE-10
+S42.3: Fractura de la diáfisis del húmero
+Brazo SAI
+Húmero SAI
+DEFINICIÓN
+Solución de continuidad ósea en la diáfisis del húmero, región que se encuentra entre las dos metáfisis que se extiende desde la inserción del pectoral mayor a la región supracondilea.
+Es un hueso largo sometido a tensiones musculares continuas que producen el desplazamiento de los fragmentos. A su vez, esa masa muscular permite que deformidades importantes pasen más desapercibidas (1).
+CLASIFICACIÓN
+La clasificación AO divide las fracturas de húmero distal en tres grupos, A, B y C, con una complejidad y gravedad crecientes (3):
+Tipo A. Fractura simple:
+ A1 Espiroidea.  A2 Oblicua > 30 grados.  A3 Transversal < 30 grados.
+Tipo B. Fractura con acuñamiento:
+ B1 Acuñamiento espiroideo.  B2 Acuñamiento arqueado.  B3 Acuñamiento fragmentado.
+Tipo C. Fractura compleja:
+ C1 Espiroidea.  C2 Segmentaria.  C3 Irregular conminución importante.
+PRINCIPALES CAUSAS / ETIOLOGÍA
+ Caídas de baja energía en ancianos.  Lesiones de alta energía en población más joven.  La carga axial conduce a la fractura rotacional (2).
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVOS
+
+42
+
+DIAGNÓSTICO
+La anamnesis debe incluir datos como mecanismo de lesión, antecedentes médico-quirúrgicos (sospecha de fractura patológica) o toma continuada de medicamentos como los corticoides a dosis altas que pueden condicionar una mala calidad ósea. Debe registrarse la presencia de tumefacción, equimosis y deformidad. Es esencial una exploración neurovascular sistemática.
+Los síntomas comunes incluyen dolor, aumento de volumen, impotencia funcional del brazo. Además, el examen físico puede revelar deformidades, inestabilidad y sensibilidad en la zona afectada (3,5).
+EXÁMENES COMPLEMENTARIOS
+El diagnóstico imagenológico incluye la radiografía simple, que sigue siendo la prueba de imagen inicial de elección para el diagnóstico.
+Radiología. Rx Antero Posterior y lateral de brazo.
+TRATAMIENTO MEDIDAS GENERALES
+PRIMER NIVEL:
+ En fractura expuesta cubrir con apósito estéril, inmovilización provisional de la extremidad afectada y envió a Segundo o Tercer Nivel, previa administración de analgésicos como paracetamol 1 gr vía oral dosis única y antibióticos Cefazolina 1-2 gr vía oral dosis única , si el paciente esta canalizado se puede administrar Cefotaxima 1 gr endovenoso como dosis única y referencia a Segundo y Tercer Nivel.
+SEGUNDO Y TERCER NIVEL:
+ Tratamiento conservador (fractura alineada, no desplazada, estable, reductible):
+Reducción incruenta e inmovilización. Reducción incruenta e inmovilización con aparato de yeso. Reducción abierta y fijación interna con implante de osteosíntesis.
+Si hay lesión del nervio radial realizar reducción abierta y fijación interna con implante de osteosíntesis más exploración del mismo a nivel del foco de fractura.
+
+CRITERIOS DE REFERENCIA
+Para tratamiento quirúrgico, en fractura expuesta,
+inestable, desplazada o acompañada de lesiones asociadas neurovasculares.
+
+CRITERIOS DE ALTA HOSPITALARIA
+Ausencia de complicaciones.
+
+CRITERIOS DE CONTRARREFERENCIA
+Alta del servicio de Traumatología para seguimiento y continuar tratamiento de rehabilitación.
+
+CONSIDERACIONES ESPECIALES
+
+Fractura que en un porcentaje está asociada a lesión del nervio radial.
+
+NORMA NACIONAL DE ATENCIÓN CLÍNICA DE “TRAUMATOLOGÍA”
+
+43
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVOS
+
+MEDIDAS PREVENTIVAS HIGIÉNICO DIETÉTICAS Y ORIENTACIÓN EN SERVICIO, FAMILIA Y COMUNIDAD
+ Su condición general de salud, la gravedad del cuadro y el tiempo aproximado necesario para el tratamiento.
+ Procedimientos a ser utilizados, así como sus riesgos y beneficios.  La necesidad de referir a otro establecimiento de mayor resolución si el caso lo requiere.
+44
+
+CIE-10
+
+S82.2
+
+7
+
+NIVEL DE ATENCIÓN
+
+I - II - III
+
+FRACTURA DE DIÁFISIS TIBIAL
+
+CIE-10
+S82.2: Fractura de la diáfisis de la tibia
+Con o sin mención de fractura del peroné
+DEFINICIÓN
+Es una solución de continuidad ósea a nivel de la diáfisis tibial, es la fractura de huesos largos más frecuente.
+Presenta algunas características propias:
+ La cara antero interna es subcutánea.  Fractura expuesta más frecuente hasta el 25% de las fracturas de tibia.  Vascularización precaria en la mitad distal de la tibia. Riesgo de complicaciones en la consolidación.  Asociación de lesión de partes blandas. Frecuente síndrome compartimental.
+CLASIFICACIÓN
+CLASIFICACIÓN AO
+Tipo A. Fractura simple:
+A1 Espiroidea. A2 Oblicua > 30 grados. A3 Transversal < 30 grados.
+Tipo B. Fractura con acuñamiento:
+B1 Acuñamiento espiroideo. B2 Acuñamiento arqueado. B3 Acuñamiento fragmentado.
+Tipo C. Fractura compleja:
+C1 Espiroidea. C2 Segmentaria. C3 Irregular conminución importante
+
+NORMA NACIONAL DE ATENCIÓN CLÍNICA DE “TRAUMATOLOGÍA”
+
+45
+
+Tabla 1. Fracturas Expuestas Gustillo y Anderson (1)
+
+Fractura
+
+Contaminación Mecanismo
+Limpia
+
+TIPO I
+
+Baja energía
+
+Dentro a fuera
+
+TIPO II
+
+Contaminación Moderada
+
+TIPO III TIPO IIIA
+
+Alta Energía
+Herida Contaminada
+Alta Energía Lesiones por Aplastamiento
+
+TIPO IIIB
+
+Contaminación Masiva
+
+TIPO IIIC Cualquiera
+
+Fractura
+
+Herida
+
+Lesión de partes blandas
+
+Transversa u oblicua corta
+
+Mínima lesión de Menor a 1 cm partes blandas
+No Aplastamiento
+
+Conminución Moderada
+
+Mayor a 1cm
+
+Gran conminucion
+inestabilidad delos No Valorable fragmentos
+
+Fracturas conminutas y segmentarias
+
+No Valorable
+
+Despegamiento perióstico
+
+No Valorable
+
+Cualquiera
+
+No Valorable
+
+Sin lesión extensa de partes blandas, avulsiones o colgajos de piel
+Lesión extensa de partes blandas
+Cobertura de partes blandas adecuada, cierre directo con tejidos blandos
+Despegamiento perióstico, requiere técnicas de reconstrucción secundaria, con colgajo local o libre
+Cualquier fractura expuesta con lesión vascular asociada
+
+Fuente: The management of open fractures. JBJS; 1990. (2)
+
+PRINCIPALES CAUSAS / ETIOLOGÍA
+
+ Baja energía (Caída de pie, torsión.) resultado de una lesión indirecta por torsión:
+
+conduce a un patrón de fractura en espiral con fractura de peroné en un nivel diferente es más probable que se asocie con un menor grado de lesión de los tejidos blandos.
+
+ Fractura de alta energía (Accidentes de tránsito, caída desde altura, accidentes deportivos): Resultado de la fuerza directa, lleva a una fractura oblicua corta o en cuña que puede tener una conminución significativa con fractura de peroné al mismo nivel, más probable que se asocie con una lesión grave de los tejidos blandos, fracturas abiertas.
+
+ Fracturas patológicas secundarias a tumores.
+DIAGNÓSTICO CRITERIOS CLÍNICOS
+
+Los síntomas de una fractura de diáfisis tibial pueden incluir dolor intenso, aumento de volumen, hematomas, deformidad visible y dificultad para mover la pierna, además de crepitación ósea.
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVOS
+
+46
+
+SIGNOS DE ALARMA
+Con la finalidad detectar oportunamente complicaciones potenciales se recomienda investigar:
+A) Datos de lesión vascular:
+• Alteraciones del pulso distal. • Extremidad fría. • Cianosis distal.
+B) Datos de síndrome compartimental:
+• Edema leñoso. • Parálisis • Dolor intenso y progresivo. • Parestesias. • Dolor al estiramiento pasivo o a la extensión de los dedos.
+C) Datos de Tromboembolia pulmonar:
+• Inquietud. • Irritabilidad. • Confusión. • Dificultad respiratoria. • Taquicardia.
+EXÁMENES COMPLEMENTARIOS
+ Radiografías de pierna anteroposterior y lateral que incluya rodilla y tobillo.  Arteriografía o ecografía doppler de emergencia en casos que se sospeche lesión vascular
+asociada a la fractura.  Tomografía computarizada o Resonancia Magnética Nuclear en casos de multifragmentación,
+pérdida ósea o cuando la fractura se extiende hacia la articulación.
+TRATAMIENTO MEDIDAS ESPECÍFICAS POR NIVELES DE ATENCIÓN
+PRIMER NIVEL:
+Fractura cerrada
+ Inmovilización con férula muslo podálica  Analgésicos como paracetamol 1 gr vía oral dosis única  Referir a Segundo y Tercer Nivel.
+Fractura abiertas o Expuesta
+ Cubrir la herida de exposición con un apósito estéril.  Colocación de férula muslo podálica.  Referir a Segundo o Tercer Nivel.  Paracetamol 1 gr vía oral dosis única
+47
+
+NORMA NACIONAL DE ATENCIÓN CLÍNICA DE “TRAUMATOLOGÍA”
+
+SEGUNDO Y TERCER NIVEL:
+ Tratamiento incruento en fracturas no desplazadas o mínimo desplazamiento se debe cuidar la alineación más que el acortamiento y luego colocación de un vendaje de yeso (2).
+Tratamiento quirúrgico:
+1. Enclavado endomedular (3, 4, 5). 2. RAFI con placa y tornillos (3, 4, 5). 3. Ketorolaco 30-60 mg intravenoso cada 8 hrs por el tiempo que se encuentre hospitalizado
+Luego pasa a via oral ketorol 20 mg via oral cada 8 horas en caso de dolor. 4. Cefotaxima 1 gr endovenoso cada 8 hrs por el tiempo que se encuentre hospitalizado
+Luego pasa a vía oral con cefixima 400mg cada 24 horas por 7 días.
+
+CRITERIOS DE REFERENCIA
+Fractura de diáfisis de tibia.
+
+CRITERIOS DE ALTA HOSPITALARIA
+Ausencia de complicaciones.
+
+CRITERIOS DE CONTRARREFERENCIA
+Alta del servicio de Traumatología
+
+MEDIDAS PREVENTIVAS HIGIÉNICO DIETÉTICAS Y ORIENTACIÓN EN SERVICIO, FAMILIA Y COMUNIDAD
+
+Algunas medidas preventivas que pueden ayudar a reducir el riesgo de sufrir una fractura de la diáfisis tibial incluyen:
+
+ Fortalecimiento muscular: Mantener una buena musculatura en las piernas, especialmente en los músculos de la pantorrilla, los muslos y los glúteos, puede ayudar a prevenir lesiones en la tibia.
+ Evitar la sobrecarga: Evitar el exceso de peso o de actividad en las piernas también puede ayudar a prevenir fracturas en la tibia. Si se realiza deporte, es importante hacer un calentamiento adecuado y progresar gradualmente en la intensidad y duración del ejercicio.
+ Superficies adecuadas y zapato adecuado: Evitar correr o caminar en superficies inestables o irregulares y utilizar un calzado adecuado y con buena amortiguación puede ayudar a absorber los impactos y reducir el riesgo de lesiones.
+ Uso de equipo de protección: En deportes que implican contacto o riesgo de lesiones, como el fútbol es importante utilizar el equipo de protección adecuado, como espinilleras.
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVOS
+
+48
+
+CIE-10
+
+S62.4
+
+8
+
+NIVEL DE ATENCIÓN
+
+I - II – III
+
+FRACTURA DE METACARPIANOS
+
+CIE-10
+S62.4: Fracturas múltiples de huesos metacarpianos
+DEFINICIÓN
+Solución de continuidad de los huesos metacarpianos, Son las lesiones más comunes de la mano, representan el 40% de las lesiones de la mano. El quinto metacarpiano es el hueso más lesionado y el cuello del metacarpiano en la zona más común de fractura (1, 2).
+PRINCIPALES CAUSAS / ETIOLOGÍA
+Mecanismo de lesión:
+ Golpe directo en la mano o lesión por rotación con carga axial.  Las lesiones de alta energía (es decir, automóviles) pueden provocar múltiples fracturas.
+Pueden estar asociadas a lesiones de partes blandas, lesiones de tendones, lesiones neurovasculares. Las heridas pueden indicar fracturas abiertas (3, 4).
+CLASIFICACIÓN
+ Fractura de la base del primer metacarpiano intraarticular (Rolando).  Luxofractura de la base del primer metacarpiano intraarticular (Bennet).  Fractura cuello del quinto metacarpiano (fractura peleador callejero).  Fractura de la epífisis de los metacarpianos.  Fractura de la diáfisis de los metacarpianos.  Fractura de la metáfisis de los metacarpianos.  Fractura de múltiples metacarpianos.
+DIAGNÓSTICO CRITERIOS CLÍNICOS
+ Dolor.  Deformidad. La deformidad en la base del metacarpiano puede indicar una luxación
+carpometacarpiana. Puede haber acortamiento o mal rotación del metacarpiano.  Impotencia funcional.  Inspeccionar si existe heridas u otras lesiones asociadas como lesión de tendones extensor o
+flexor.  Inspeccionar lesiones asociadas nerviosas o vasculares (5).  Las pruebas de la función de la mano como flexión y extensión de los dedos y la presencia de
+dolor y sensibilidad en la mano afectada.
+
+NORMA NACIONAL DE ATENCIÓN CLÍNICA DE “TRAUMATOLOGÍA”
+
+49
+
+EXÁMENES COMPLEMENTARIOS
+
+GABINETE
+
+ Radiografía en proyección anteroposterior, lateral y oblicuas. Oblicua externa para ver fractura luxación de articulación carpometacarpiana 4ta y 5ta y oblicua interna para ver la fractura luxación carpometacarpiana de 2do y 3er metacarpiano (6).
+ TAC en fracturas luxaciones carpometacarpianas, en fracturas complejas de cabeza de metacarpianos o fracturas multifragmentadas.
+
+TRATAMIENTO MEDIDAS GENERALES
+
+PRIMER NIVEL:
+
+ Analgésicos vía Oral como el paracetamol 1 gr dosis única antes de la referencia a Segundo o Tercer Nivel.
+ Inmovilización provisional y referencia al Segundo y Tercer Nivel.
+
+SEGUNDO Y TERCER NIVEL:
+
+TRATAMIENTO NO QUIRÚRGICO
+
+Inmovilización con yeso o fibra de vidrio:
+
+ Fracturas estables.
+
+ Sin deformidad rotacional.
+
+ Angulación y acortamiento aceptables:
+
+
+
+2do y 3er MTC:
+
+Angulación aceptable (grados) = 10-20.
+
+Acortamiento aceptable (mm) = 2-5.
+
+Angulación del cuello aceptable (grados) = 10-15.
+
+
+
+4 to MTC:
+
+Angulación aceptable (grados) = 30.
+
+Acortamiento aceptable (mm) = 2-5.
+
+Angulación del cuello aceptable (grados) = 30-40.
+
+
+
+5 to MTC:
+
+Angulación aceptable (grados) = 40.
+
+Acortamiento aceptable (mm) = 2-5.
+
+Angulación del cuello aceptable (grados) = 50-60.
+
+TRATAMIENTO QUIRÚRGICO
+
+ RAFI mediante clavos o colocación de placa y tornillos dorsales o intramedulares.  Fijación externa en fractura conminutas severas.
+
+CRITERIOS DE REFERENCIA
+Toda fractura de Metacarpianos.
+
+CRITERIOS DE ALTA HOSPITALARIA
+Ausencia de complicaciones.
+
+CRITERIOS DE CONTRARREFERENCIA
+Alta del servicio de Traumatología.
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVOS
+
+50
+
+MEDIDAS PREVENTIVAS HIGIÉNICO DIETÉTICAS
+ Proteger las manos en caso de deportes de contacto o trabajos manuales (se deben utilizar guantes protectores).
+ Fortalecer las manos. Realizar ejercicios de fortalecimientos de las manos, para ayudar a prevenir lesiones. Esto puede incluir ejercicios de pesas, entrenamiento con resistencia y entrenamiento de agarre.
+ Usar técnicas adecuadas, al realizar actividades que requieran el uso de las manos, para minimizar posibilidad de lesiones, por ejemplo, al levantar pesar usar técnica adecuada para el levantamiento.
+ORIENTACIÓN EN SERVICIO, FAMILIA Y COMUNIDAD
+ Explicar la condición general de salud y la gravedad del cuadro.  El tiempo aproximado necesario para el tratamiento.  Procedimientos a ser utilizados, así como sus riesgos y beneficios.
+51
+
+NORMA NACIONAL DE ATENCIÓN CLÍNICA DE “TRAUMATOLOGÍA”
+
+CIE-10
+
+S82.8
+
+9
+
+NIVEL DE ATENCIÓN
+
+I - II - III
+
+FRACTURA DE TOBILLO
+
+CIE-10
+S82.8: Fractura de otras partes de la pierna
+Fractura (del):
+• Bimaleolar • Tobillo SAI • Trimaleolar
+DEFINICIÓN
+Solución de continuidad ósea de maléolo peroneo y tibial, acompañado de lesión ligamentaria (1).
+CLASIFICACIÓN
+Sólo se consideran las que son útiles desde el punto de vista práctico:
+Clasificación de Danis-Weber y AO Müller: Weber describió inicialmente una clasificación según la localización de la fractura en el peroné respecto a la articulación del tobillo; posteriormente, el grupo AO la completó con diferentes tipos según las lesiones ligamentosas (2).
+Clasificación de Weber: Se basa en la ubicación de la fractura en relación al nivel de la articulación tibioperonea. Hay tres tipos de fracturas según esta clasificación (2):
+ Tipo A: la fractura se encuentra por debajo del nivel de la articulación tibioperonea. (infrasindesmal).
+ Tipo B: la fractura se encuentra al nivel de la articulación tibioperonea. (transindesmal).  Tipo C: la fractura se encuentra por encima del nivel de la articulación tibioperonea.
+(suprasindesmal).
+Clasificación de Lauge-Hansen: Basada en la posición del pie en el momento de la lesión (pronación o supinación) y en la dirección de la fuerza causante (rotación externa, aducción o abducción). Permite entender la fisiopatología de las diferentes lesiones, distinguiendo entre (2):
+ Lesiones por supinación-abducción.  Lesiones por supinación-rotación externa.  Lesiones por pronación-rotación externa.
+PRINCIPALES CAUSAS / ETIOLOGÍA
+La articulación del tobillo puede lesionarse por mecanismos directos o, más frecuentemente, indirectos como fuerzas de rotación, traslación o axiales, originando luxación o subluxación del astrágalo en la mortaja asociada a lesiones de los distintos componentes óseos y/o ligamentosos implicados (5,6).
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVOS
+
+52
+
+La fractura de tobillo puede ser causada por una variedad de factores, incluyendo:
+ Lesiones deportivas: Las actividades deportivas que implican saltos, giros y cambios de dirección bruscos, como el baloncesto, el fútbol o el snowboard, pueden aumentar el riesgo de fractura de tobillo.
+ Accidentes automovilísticos: Los accidentes de tráfico pueden causar lesiones graves en los tobillos debido a la fuerza de la colisión y el impacto en la parte inferior del cuerpo.
+ Caídas: Las caídas desde una altura, como una escalera o un andamio, pueden causar fracturas de tobillo.
+ Entorsis: Las torceduras repetidas o graves del tobillo pueden debilitar los huesos y los ligamentos, lo que aumenta el riesgo de fractura.
+DIAGNÓSTICO
+El diagnóstico se realiza mediante una evaluación clínica detallada y la realización de pruebas de imagen.
+CRITERIOS CLÍNICOS
+Los síntomas comunes incluyen dolor, hinchazón, hematomas y dificultad para caminar.
+Además, el examen físico puede revelar deformidades, inestabilidad y sensibilidad en la zona afectada:
+ Mecanismo de lesión ante cualquier sospecha de fractura de tobillo.  Búsqueda de heridas, lesiones asociadas de tipo vascular o neurológico.  Localización de pulsos pedio y tibial posterior.  Llenado capilar.  Temperatura.  Sensibilidad distal.  Deformidad de tobillo (7,8).  Buscar Factores de riesgo.
+EXÁMENES COMPLEMENTARIOS
+1. Realizar toma de radiografías de tobillo en anteroposterior, lateral y proyección de mortaja. 2. En caso de apertura de la sindesmosis sin lesión ósea, solicitar radiografías proyección
+anteroposterior de la pierna completa. 3. Tomografía computarizada solicitar en fractura conminuta, de compresión o con trazo intra-
+articular. 4. Resonancia magnética en duda diagnóstica o en pacientes con politrauma. 5. Realizar angiografía o angiotac en caso de sospecha de lesión arteriovenosa o politrauma (4,7,9).
+Según un estudio reciente publicado en la revista Foot and Ankle International, la radiografía simple sigue siendo la prueba de imagen inicial de elección para el diagnóstico de fracturas de tobillo. En casos de sospecha de lesiones ligamentarias asociadas, se puede realizar una resonancia magnética (RM) para una mejor visualización de las estructuras blandas.
+53
+
+NORMA NACIONAL DE ATENCIÓN CLÍNICA DE “TRAUMATOLOGÍA”
+
+TRATAMIENTO MEDIDAS GENERALES
+PRIMER NIVEL:
+ Analgésicos vía Oral paracetamol 1 gr dosis única antes de la referencia a Segundo o Tercer Nivel)
+ Inmovilización provisional para referir a Segundo o Tercer Nivel.
+MEDIDAS ESPECÍFICAS POR NIVELES DE ATENCIÓN
+SEGUNDO Y TERCER NIVEL:
+ Tratamiento conservador (fractura alineada, no desplazada, estable, reductible) en las fracturas tipo A.
+ Tratamiento quirúrgico en fracturas inestables, desplazadas: reducción abierta y fijación con implante de osteosíntesis y/o fijación externa.
+ Reducción abierta y fijación interna con implante de osteosíntesis en los tipos B y C (2).  Ketorolaco 30-60 mg intravenoso cada 8 hrs por el tiempo que se encuentre hospitalizado. Pasa
+a via oral ketorol 100 mg vía oral cada 8 hrs en caso de dolor  Cefotaxima 1 gr endovenoso cada 8 hrs por el tiempo que se encuentre hospitalizado. Pasa a
+via oral con cefixima 400mg cada 24 hrs. por 7 días
+
+CRITERIOS DE REFERENCIA
+Para tratamiento quirúrgico, en fractura expuesta, inestable, desplazada o acompañada de lesiones asociadas neurovasculares.
+
+CRITERIOS DE ALTA HOSPITALARIA
+Ausencia de complicaciones.
+
+CRITERIOS DE CONTRARREFERENCIA
+Alta del servicio de Traumatología Para seguimiento y continuar tratamiento de rehabilitación.
+
+CONSIDERACIONES ESPECIALES
+
+Paciente pueden desarrollar en un futuro artrosis postraumática directamente relacionada con el tipo de fractura y la gravedad del caso.
+
+MEDIDAS PREVENTIVAS HIGIÉNICO DIETÉTICAS Y ORIENTACIÓN EN SERVICIO, FAMILIA Y COMUNIDAD
+
+ Su condición general de salud, la gravedad del cuadro y el tiempo aproximado necesario para el tratamiento.
+ Se recomienda al paciente manejar un IMC adecuado, ya que la obesidad condiciona complicaciones.
+ Procedimientos a ser utilizados, así como sus riesgos y beneficios.  La necesidad de referir a otro establecimiento de mayor resolución si el caso lo requiere.
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVOS
+
+54
+
+CIE-10
+
+10
+
+NIVEL DE
+
+ATENCIÓN
+
+S42.4 I - II - III
+
+FRACTURA DISTAL DE HÚMERO
+
+CIE-10
+S42.4: Fractura de la epífisis inferior del húmero
+Apófisis articular. Cóndilo externo. Epicóndilo interno. Epífisis inferior. Extremo distal. Superficie intercondilar Superficie supracondilar
+
+Excluye: Fractura del codo SAI (S52.0)
+DEFINICIÓN
+Es una solución de continuidad ósea a nivel del extremo distal de humero. Representan el 05 – 7% de las fracturas y el 30% de las fracturas de humero (1).
+CLASIFICACIÓN
+La clasificación AO divide las fracturas de húmero distal en tres grupos, A, B y C, con una complejidad y gravedad crecientes (2):
+Tipo A: extraarticular
+A1: Avulsión:
+A1.1 epicóndilo lateral. A.1.2 epicóndilo medial.
+A2: Sencillo:
+A2.1 oblicua. A2.2 transversal.
+A3: Cuña o multifragmentario:
+A3.1 cuña intacta o fragmentada. A3.2 multifragmentario.
+Tipo B: articular parcial, la fractura involucra una parte de la superficie articular, pero el resto de la articulación aún está unida a la metáfisis y la diáfisis.
+B1: Lateral sagital:
+B1.1 transtroclear. B1.2 transcapitelar. B1.3 multifragmentario transtroclear.
+
+NORMA NACIONAL DE ATENCIÓN CLÍNICA DE “TRAUMATOLOGÍA”
+
+55
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVOS
+
+B2: Sagital medial:
+B2.1 transtroclear. B2.2 superficie articular medial. B2.3 multifragmentario transtroclear.
+B3: Frontal/coronal:
+B3.1 capitellum. B3.2 tróclea. B3.3 combinación de capitellum y tróclea.
+Tipo C: articular completo, la fractura se distribuye por la superficie articular y se separa de la diáfisis.
+C1: tanto la porción articular como la metafisaria son simples. C2: articular simple con componente metafisario fragmentario. C3: articular multifragmentario.
+PRINCIPALES CAUSAS / ETIOLOGÍA
+ Trauma de baja energía en ancianos.  Trauma de alta energía en la población más joven.
+La posición del codo afecta el tipo de fractura:
+ Codo flexionado < 90°.  La carga axial conduce a la fractura transcolumnar.  Golpe posterior directo conduce a la fractura del olécranon con o sin afectación del húmero distal.  Codo flexionado > 90°.  Puede conducir a una fractura intercondílea (1).
+DIAGNOSTICO CRITERIOS CLÍNICOS
+ Dolor en codo irradiado a brazo.  Impotencia funcional de brazo y codo.  Deformidad de codo y brazo distal.  Aumento de volumen de brazo y codo.  Equimosis.  Puede acompañarse de lesión vascular o lesión nerviosa, contractura de Volkman (3).
+EXÁMENES COMPLEMENTARIOS
+ Rx en posición anteroposterior y lateral de codo.  La posición oblicua o con tracción puede ayudar con la planificación quirúrgica.  TAC importante para ver el grado de conminación de ayuda para una planificación quirúrgica.  RMN nos dará información de lesión de partes blandas, útil en fracturas patológicas o en casos de
+retardo de consolidación o pseudoartrosis, por lo general no indicado en lesiones agudas.
+DIAGNÓSTICOS DIFERENCIALES
+ Fracturas por estrés.  Patologías musculares (desgarros, contusiones).
+56
+
+ Artritis.  Tumores musculoesqueléticos.
+TRATAMIENTO
+PRIMER NIVEL:
+ Inmovilización y referencia al Segundo o Tercer Nivel.  Paracetamol 1 gr vía oral dosis única
+
+SEGUNDO Y TERCER NIVEL:
+
+Tratamiento conservador
+
+Inmovilización de yeso en fracturas no desplazadas:
+ Inmovilizar en supinación para fracturas de cóndilo lateral.  Inmovilizar en pronación para fracturas del cóndilo medial (4).
+
+Tratamiento Quirúrgico:
+
+ RAFI con placa doble, se ha visto que placas paralelas ofrecen mayor resistencia, ahora existen placas premoldeadas con técnica de bloqueo (5, 6, 7). Lo importante es conseguir una síntesis estable para una movilización precoz y obtener una funcionalidad buena.
+ Analgésico PRN.
+
+CRITERIOS DE REFERENCIA Fractura de humero distal.
+
+CRITERIOS DE ALTA HOSPITALARIA
+Ausencia de complicaciones.
+
+CRITERIOS DE CONTRARREFERENCIA
+Alta del servicio de Traumatología.
+
+MEDIDAS PREVENTIVAS HIGIÉNICO DIETÉTICAS Y ORIENTACIÓN EN SERVICIO, FAMILIA Y COMUNIDAD
+
+Informar al paciente y sus familiares:
+ Condición general de la salud y la gravedad de la patología.  El tiempo aproximado necesario para el tratamiento.  Procedimientos utilizados, así como riesgos y beneficios.
+
+NORMA NACIONAL DE ATENCIÓN CLÍNICA DE “TRAUMATOLOGÍA”
+
+57
+
+CIE-10
+
+11
+
+NIVEL DE
+
+ATENCIÓN
+
+S52.5 I - II - III
+
+FRACTURA DISTAL DEL RADIO
+
+CIE-10
+S52.5: Fractura de la epífisis inferior del radio
+Incluye: Fractura de:
+• Colles • Smith
+DEFINICIÓN
+Es una solución de continuidad ósea distal del radio, son fracturas de la metáfisis y la epífisis.
+CLASIFICACIÓN
+Esta fractura puede ser clasificada en diferentes tipos, dependiendo de la ubicación y la gravedad de la lesión (3).
+A continuación, se describen los tipos más comunes de clasificación para la fractura distal de radio:
+ Clasificación de Frykman (1967): Esta clasificación se basa en la ubicación de la fractura en relación a los huesos del carpo (muñeca). Está dividida en 8 grupos teniendo en cuenta la afectación articular radiocubital y radiocarpiana, así como la presencia o ausencia de fractura de la estiloides cubital. (2).
+ Clasificación Müller–ASIF / AO (1986): Esta clasificación se basa en la gravedad de la fractura y se divide en tres tipos:
+ tipo A extraarticulares,  tipo B intraarticulares parciales y  tipo C intraarticulares completas (3).
+ Clasificación de Fernández (1995): Fundamentada en el mecanismo lesional, subdivide las fracturas en 5 grupos:
+ a) Tipo I: Fracturas con desviación de la metáfisis, en las que una cortical está rota y la otra hundida o conminuta, en función de las fuerzas ejercidas durante la caída. Son fracturas extraarticulares.
+ b) Tipo II: Fracturas Parcelares: marginales dorsales, palmares y de la estiloides radial.  c) Tipo III: Fracturas por compresión de la cara articular con impactación del hueso subcondral y
+metafisario (fracturas conminutas intraarticulares del radio distal).  d) Tipo IV: Fracturas por avulsión, en las que los ligamentos arrancan una porción del hueso,
+incluyendo la estiloides radial y cubital.  e) Tipo V: Representa combinaciones de fracturas por distintos mecanismos como torsión,
+acortamiento, compresión, avulsión; incluyendo las fracturas por traumatismo de alta energía. (4,5,6).
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVOS
+
+58
+
+Hasta la fecha no encontramos evidencia suficiente en la literatura para determinar cuál de los sistemas de clasificación mencionados es la más útil o cual debería utilizarse debido a que ninguno ha demostrado tener una buena reproducibilidad interobservador y una buena concordancia intraobservador a excepción, posiblemente, de la clasificación de Fernández (4).
+PRINCIPALES CAUSAS / ETIOLOGÍA
+La fractura distal de radio es una lesión común en la muñeca y puede ser causada por una variedad de factores, incluyendo:
+ Traumatismo directo: Una caída con la mano extendida es la causa más común de fractura distal de radio.
+ Osteoporosis: La osteoporosis es una afección en la que los huesos se vuelven más frágiles y susceptibles a fracturas. Las personas con osteoporosis tienen un mayor riesgo de fracturas por lesiones menores, como una caída.
+ Lesiones de estrés: Los deportistas que practican deportes de impacto o de alta intensidad pueden sufrir fracturas por estrés en la muñeca.
+El mecanismo de producción del traumatismo define el tipo de fractura dividiéndose estas en 6 grupos históricamente (2):
+ Fractura de Colles: Es la más frecuente. Se produce por una caída con la muñeca en extensión.
+ Smith (Colles invertido): Extraarticular que se produce como consecuencia de una caída con la muñeca en flexión.
+ Fractura de Rhea – Barton: Intraarticular por cizallamiento.
+ Fractura de Hutchinson: intraarticular producida por fuerzas de cizallamiento que afecta a la estiloides radial.
+ Fractura de “die-punch”: Intraarticular por compresión axial del semilunar.
+ Fracturas por avulsión de las inserciones ligamentosas.
+DIAGNÓSTICO
+El diagnóstico se realiza mediante una evaluación clínica detallada y la realización de pruebas de imagen. la radiografía simple sigue siendo la prueba de imagen inicial de elección para el diagnóstico.
+CRITERIOS CLÍNICOS
+Los síntomas comunes incluyen dolor, aumento de volumen, impotencia funcional del brazo. Además, el examen físico puede revelar deformidades, inestabilidad y sensibilidad en la zona afectada (1).
+El médico evaluará los síntomas y realizará una exploración física de la muñeca afectada para determinar si hay dolor, hinchazón o deformidad. Luego, se realizarán radiografías para confirmar la presencia de la fractura y determinar su ubicación y gravedad.
+En algunos casos, se pueden realizar pruebas complementarias, como una tomografía computarizada o una resonancia magnética, para obtener información más detallada sobre la lesión.
+59
+
+NORMA NACIONAL DE ATENCIÓN CLÍNICA DE “TRAUMATOLOGÍA”
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVOS
+
+EXÁMENES COMPLEMENTARIOS
+ Radiología. Rx Antero Posterior y lateral de muñeca.  En fracturas intra articulares la tomografía axial computarizada es de mucha ayuda diagnostica y
+para la planificación pre operatoria.
+TRATAMIENTO MEDIDAS GENERALES
+PRIMER NIVEL:
+En fractura cerrada, Inmovilización y referencia a nivel II ó III.
+En fractura expuesta cubrir con apósito estéril, inmovilización provisional de la extremidad afectada y envió a Segundo o Tercer Nivel, previa administración de analgésicos como paracetamol 1 gr vía oral dosis única y antibióticos Cefazolina 1-2 gr vía oral dosis única , si el paciente esta canalizado se puede administrar cefotaxima 1 gr endovenoso como dosis única y referencia a Segundo y Tercer Nivel
+SEGUNDO Y TERCER NIVEL:
+El tratamiento de una fractura distal de radio depende de varios factores, como la ubicación y la gravedad de la fractura, la edad y la salud general del paciente, entre otros.
+1. Ketorolaco 30-60 mg intravenoso cada 8 hrs por el tiempo que se encuentre hospitalizado. Pasa a via oral ketorol 20 mg via oral cada 8 hrs en caso de dolor.
+2. Cefotaxima 1 gr endovenoso cada 8 hrs por el tiempo que se encuentre hospitalizado, Pasa a via oral con cefixima 400mg cada 24 hrs. por 7 días.
+A continuación, se describen las opciones de tratamiento:
+ Inmovilización con yeso: Si la fractura no está desplazada y no hay conminución ósea, es posible que el médico coloque un yeso o una férula para inmovilizar el brazo y permitir consolidación ósea. El yeso o la férula deberán usarse durante 6 a 8 semanas y posteriormente el paciente necesitará fisioterapia para restaurar la fuerza y la movilidad en el brazo afectado.
+ Reducción cerrada: Si la fractura extraarticular está desplazada, el médico podría intentar reducirla, lo que significa que ajustará los fragmentos óseos en su lugar sin la necesidad de una incisión quirúrgica. Luego, se inmoviliza el brazo con un yeso o una férula.
+ Reducción abierta y fijación con material de osteosíntesis: Si la fractura es intrarticular o extraarticular con criterios de inestabilidad requiere una reducción abierta.
+ Terapia física: Después de la inmovilización o la cirugía, el paciente necesitará fisioterapia para ayudar a restaurar la fuerza y la movilidad en el brazo afectado La terapia puede incluir ejercicios de rango de movimiento, estiramientos y fortalecimiento muscular.
+MEDIDAS ESPECÍFICAS POR NIVELES DE ATENCIÓN
+PRIMER NIVEL:
+Inmovilización provisional, analgésicos y referencia a Segundo y Tercer Nivel.
+60
+
+SEGUNDO Y TERCER NIVEL:
+ Tratamiento médico – conservador en fracturas estables: reducción incruenta e inmovilización, con aparato de yeso.
+ Tratamiento quirúrgico - en fracturas inestables y expuestas reducción abierta y fijación con implante de osteosíntesis y/o fijación externa.
+
+CRITERIOS DE REFERENCIA
+Para tratamiento quirúrgico, en fractura expuesta,
+inestable, desplazada o acompañada de lesiones asociadas neurovasculares.
+
+CRITERIOS DE ALTA HOSPITALARIA
+Ausencia de complicaciones.
+
+CRITERIOS DE CONTRARREFERENCIA
+Alta del servicio de Traumatología para seguimiento y continuar tratamiento de rehabilitación.
+
+CONSIDERACIONES ESPECIALES
+
+Paciente pueden desarrollar en un futuro artrosis postraumática, directamente relacionada con el tipo de fractura.
+
+MEDIDAS PREVENTIVAS HIGIÉNICO DIETÉTICAS Y ORIENTACIÓN EN SERVICIO, FAMILIA Y COMUNIDAD
+
+ Informar al paciente sobre:
+
+ Su condición general de salud, la gravedad del cuadro y el tiempo aproximado necesario para el tratamiento.
+
+ Procedimientos a ser utilizados así como sus riesgos y beneficios.
+
+ La necesidad de referir a otro establecimiento de mayor resolución si el caso lo requiere.
+
+La prevención de fracturas distales de radio implica la adopción de medidas para mantener la salud ósea y prevenir lesiones. Algunas estrategias para prevenir la fractura del radio incluyen:
+ Dieta saludable: Una dieta equilibrada y rica en calcio y vitamina D puede ayudar a fortalecer los huesos y prevenir la osteoporosis. La leche, los productos lácteos, los vegetales de hoja verde, los frutos secos y los pescados son buenas fuentes de calcio.
+ Ejercicio: El ejercicio regular, especialmente el entrenamiento de fuerza, puede ayudar a mantener la masa ósea y la fuerza muscular, lo que reduce el riesgo de fracturas. También puede mejorar el equilibrio y la coordinación, lo que reduce el riesgo de caídas.
+ Prevención de caídas: Las caídas son una de las principales causas de fracturas en adultos mayores. Para reducir el riesgo de caídas, se deben tomar medidas como mantener una casa bien iluminada, instalar pasamanos en escaleras y baños, utilizar zapatos con suela antideslizante y hacer ejercicios de equilibrio.
+ Evaluación médica: Las personas mayores de 65 años y aquellas con factores de riesgo de osteoporosis deben hablar con su médico sobre la evaluación de su salud ósea y la posible necesidad de tratamiento para prevenir la fractura distal del radio.
+
+NORMA NACIONAL DE ATENCIÓN CLÍNICA DE “TRAUMATOLOGÍA”
+
+61
+
+CIE-10
+
+12
+
+NIVEL DE
+
+ATENCIÓN
+
+S42.2 I - II – III
+
+FRACTURA PROXIMAL DE HÚMERO
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVOS
+
+CIE-10 S42.2: Fractura de la epífisis superior del húmero
+Cuello anatómico Cuello quirúrgico Extremo superior Extremo proximal Tuberosidad mayor
+DEFINICIÓN
+Es una solución de continuidad ósea a nivel del extremo proximal del humero, representa el 4-5% de las fracturas y el 45% de las fracturas de húmero (1).
+CLASIFICACIÓN
+CLASIFICACIÓN DE NEER
+El sistema de Neer divide el húmero proximal en cuatro partes y no considera la línea de fractura, sino el desplazamiento como significativo en términos de clasificación. El desplazamiento es por pieza. Una parte de la fractura se considera desplazada si la angulación supera los 45°, o si la fractura se desplaza más de 1 cm (2).
+CLASIFICACIÓN AO
+Tipo A. Fractura extra articular unifocal:
+A1. Fractura del troquiter. A2. Metáfisis impactada. A3. Metáfisis desplazada.
+Tipo B. Fractura extra articular bifocal:
+B1. Fractura del troquiter, con metáfisis impactada. B2. Fractura del troquiter, metáfisis desplazada. B3. Fractura del troquiter, fractura de la metáfisis más luxación glenohumeral.
+Tipo C. Fractura articular:
+C1. Con leve desplazamiento. C2. Impactada con marcado desplazamiento. C3. Fractura con luxación glenohumeral (3).
+PRINCIPALES CAUSAS / ETIOLOGÍA
+Existen dos causas principales, la primera, caída sobre la mano con compresión axial ocurre generalmente en mujeres con una relación 2 a 1 se asocia a osteoporosis en la zona afectada; y la segunda en personas jóvenes por trauma de alta energía (4).
+
+62
+
+DIAGNÓSTICO CRITERIOS CLÍNICOS
+ Dolor, Hombro y brazo.  Impotencia funcional.  Deformidad en hombro.  Hematoma.  Equimosis.  Puede haber lesión nerviosa o vascular.
+EXÁMENES COMPLEMENTARIOS
+ La radiografía simple anteroposterior.  La proyección lateral de escápula en “Y”.  La proyección lateral-axial de la articulación gleno-humeral (que en algunos casos, dada la
+imposibilidad del paciente de abducir el miembro, se debe sustituir por la proyección axilar de Velpeau).  TAC importante para ver el grado de conminución de ayuda para una planificación quirúrgica.  RMN nos dará información de lesión de partes blandas, útil en fracturas patológicas o en casos de retardo de consolidación o pseudoartrosis.
+DIAGNÓSTICOS DIFERENCIALES
+ Fractura de Clavícula.  Fractura luxación acromioclavicular.  Desgarro de deltoides.  Lesión de mango rotador.
+TRATAMIENTO MEDIDAS GENERALES
+ Analgésicos , paracetamol 1 gr vía oral dosis única.  Inmovilización  Referencia a Segundo y Tercer Nivel.
+MEDIDAS ESPECÍFICAS POR NIVELES DE ATENCIÓN
+PRIMER NIVEL:
+Inmovilización provisional, analgésicos y referencia a Segundo o Tercer Nivel.
+SEGUNDO Y TERCER NIVEL:
+Tratamiento Conservador
+ Fracturas con desplazamiento de fragmentos menor a 5 mm o menor a 45 grados de angulación.  Pacientes con baja demanda funcional.  Pacientes con comorbilidades que imposibiliten la cirugía.
+Se utiliza inmovilizador universal de hombro (5).
+63
+
+NORMA NACIONAL DE ATENCIÓN CLÍNICA DE “TRAUMATOLOGÍA”
+
+Tratamiento Quirúrgico
+ Reducción cerrada y enclavado percutáneo en casos especiales (no es recomendable sobre todo en mayores de 60 años por el bajo grado de reducción de la fractura y mala calidad ósea) (6, 7).
+ RAFI con placa bloqueada o placa convencional, enclavado intramedular.  En fracturas multifragmentadas se puede considerar artroplastia de hombro (8, 9, 10, 11, 12, 13).
+
+CRITERIOS DE REFERENCIA
+Fractura de Humero Proximal.
+
+CRITERIOS DE ALTA HOSPITALARIA
+Ausencia de complicaciones.
+
+CRITERIOS DE CONTRARREFERENCIA
+Alta del servicio de Traumatología.
+
+MEDIDAS PREVENTIVAS HIGIÉNICO DIETÉTICAS Y ORIENTACIÓN EN SERVICIO, FAMILIA Y COMUNIDAD
+
+La fractura de húmero proximal es una lesión común que puede ser causada por una variedad de factores, para prevenirla, se pueden tomar las siguientes medidas:
+ Fortalecimiento muscular, fortalecer los músculos de hombros y brazos en buena forma física, puede ayudar a prevenir fracturas de humero proximal.
+ Practicar deportes con precaución, la práctica de deportes de contacto o de alta energía, es importante realizarlos con precaución y utilizando el equipo de protección adecuado.
+ Mantener un peso saludable, el sobrepeso puede aumentar el riesgo de lesiones óseas y musculares.
+ Evitar caídas, las caídas son cusa de fracturas proximales de humero, para evitarlas se pueden tomar medidas como utilizar zapato adecuado, eliminar obstáculos en el hogar, utilizar pasamanos en las escaleras.
+ Informar al paciente y sus familiares a cerca de: Condición general de la salud y gravedad de la patología del paciente. El tiempo aproximado necesario para el tratamiento. Procedimientos utilizados, así como riesgos y beneficios.
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVOS
+
+64
+
+CIE-10
+
+13
+
+NIVEL DE
+
+ATENCIÓN
+
+M54.5 I - II - III
+
+LUMBALGIA
+
+NORMA NACIONAL DE ATENCIÓN CLÍNICA DE “TRAUMATOLOGÍA”
+
+CIE-10
+M54.5: Lumbago no especificado
+Contractura dorsal inferior Dolor lumbar Lumbago SAI
+Excluye: lumbago:
+• con ciática (M54.4) • debido a desplazamiento de disco intervertebral (M51.2)
+DEFINICIÓN
+Lumbalgia: dolor o malestar en la zona lumbar, localizado entre el borde inferior de las últimas costillas y el pliegue inferior de la zona glútea, con o sin irradiación a una o ambas piernas, compromete estructuras osteomusculares y ligamentarias, con o sin limitación funcional que dificultan las actividades de la vida diaria y que puede causar ausentismo laboral (1).
+CLASIFICACIÓN
+En términos generales, la lumbalgia se puede clasificar en dos categorías principales:
+ Lumbalgia aguda: Se refiere al dolor en la parte baja de la espalda que dura menos de 6 semanas. La lumbalgia aguda puede ser causada por lesiones, movimientos bruscos o esfuerzos físicos excesivos.
+ Lumbalgia crónica: Se refiere al dolor en la parte baja de la espalda que dura más de 12 semanas. La lumbalgia crónica puede ser causada por problemas de salud subyacentes como la artritis o la hernia de disco.
+Además de esta clasificación general, la lumbalgia también puede ser clasificada en función de la ubicación específica del dolor y otros síntomas asociados. Algunas de las clasificaciones más comunes incluyen:
+ Lumbalgia mecánica: Se refiere al dolor en la parte baja de la espalda que se produce como resultado de una tensión muscular, una lesión en los ligamentos o una disfunción en las articulaciones de la columna vertebral.
+ Lumbalgia neuropática: Se refiere al dolor en la parte baja de la espalda que es causado por daño o irritación de los nervios que se extienden desde la columna vertebral hacia otras partes del cuerpo.
+ Lumbalgia inflamatoria: Se refiere al dolor en la parte baja de la espalda que es causado por una inflamación en las articulaciones de la columna vertebral, como la artritis psoriásica o la espondilitis anquilosante.
+
+65
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVOS
+
+Es importante recordar que la lumbalgia puede tener causas diversas y, por lo tanto, puede requerir un enfoque individualizado en el diagnóstico y tratamiento (2, 3). Cuadro 1. Flujograma de dorsolumbagia
+66
+
+NORMA NACIONAL DE ATENCIÓN CLÍNICA DE “TRAUMATOLOGÍA”
+
+Fuente: Adaptado de: Diagnosis and treatment of low back pain: a joint clinical practice guideline from the American College of Physicians and the American Pain Society. Ann Intern Med; 2007 y Chapter 3: European guidelines for the management of acute nonspecific low back pain in primary care. Eur Spine J.; 2006.
+PRINCIPALES CAUSAS / ETIOLOGÍA
+Algunas de las principales causas de la lumbalgia son:
+ Lesiones: Las lesiones en la espalda, como los esguinces y las distensiones musculares, pueden causar dolor en la zona lumbar.
+ Hernia de disco: La hernia de disco es una condición en la que el disco intervertebral que se encuentra entre las vértebras de la columna vertebral se desplaza o se rompe, causando presión en los nervios y dolor lumbar.
+ Estenosis espinal: La estenosis espinal es un estrechamiento del canal espinal, que puede comprimir los nervios y causar dolor de espalda baja.
+ Artritis: La artritis puede causar dolor de espalda baja debido a la inflamación de las articulaciones.
+ Osteoporosis: La osteoporosis puede debilitar los huesos de la columna vertebral, lo que puede causar dolor de espalda baja.
+67
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVOS
+
+ Malas posturas y hábitos: Las malas posturas y hábitos, como estar sentado durante largos períodos de tiempo, pueden causar tensión en los músculos de la espalda baja y causar dolor.
+ Sobrepeso: El exceso de peso puede ejercer presión adicional sobre la columna vertebral y causar dolor de espalda baja (4).
+DIAGNÓSTICO
+El diagnóstico de la lumbalgia se realiza mediante una evaluación médica exhaustiva, que incluye una revisión de la historia clínica y un examen físico detallado.
+CRITERIOS CLÍNICOS
+Una buena historia clínica debe incluir preguntas que permitan valorar los siguientes aspectos:
+1. Enfermedades subyacentes potencialmente graves, neoplasia e infecciones de la columna (edad, historia anterior de cáncer, pérdida inexplicable de peso, estado de inmunosupresión, duración de los síntomas, tipo de respuesta al tratamiento, falta de respuesta o empeoramiento del dolor con el reposo (adicción a drogas por vía parenteral, o infecciones urinarias (4).
+2. Los síntomas: localización de dolor, lumbar y/o glúteo, y su irradiación a la pierna (dolor referido o radicular), características del mismo (mecánico o inflamatorio), maniobras que lo exacerban (maniobras de Valsalva, tos, estornudo, movilización de la columna, presión, etc.), contractura muscular, etc. El dolor que desaparece con el reposo y que se genera a partir de la movilización de la columna se denomina dolor mecánico. Aquel que, por el contrario, persiste con el reposo o la inmovilidad se considera de carácter inflamatorio. El que impide el sueño o se incrementa por la noche sugiere un origen tumoral. El dolor mecánico se exacerba o mejora según la posición de la columna, de manera que la extensión de ésta (hiperlordosis) empeorará los síntomas en la estenosis del canal raquídeo y en la afección interapofisaria, y no en la hernia discal lateral que empeorará con la flexión anterior (4).
+EXAMENES COMPLEMENTARIOS
+Se debe realizar radiografías, resonancias magnéticas o tomografías computarizadas para determinar la causa subyacente del dolor lumbar (2).
+TRATAMIENTO MEDIDAS GENERALES
+El tratamiento de la lumbalgia depende de la causa subyacente del dolor. A continuación, las opciones de tratamiento:
+ Descanso: Descansar y evitar actividades que agravan el dolor de espalda puede ayudar a aliviar los síntomas.
+ Fisioterapia: Un fisioterapeuta puede recomendar ejercicios específicos para fortalecer los músculos de la espalda y mejorar la flexibilidad. También pueden proporcionar terapia manual para ayudar a aliviar el dolor.
+ Medicamentos: Los analgésicos como el Ibuprofeno 400 mg vía oral cada 8 o 12 horas por tres días o diclofenaco 75 mg cada 12 horas por tres días pueden ayudar a aliviar el dolor. Los medicamentos prescritos, como relajantes musculares o los opioides, pueden ser recomendados en casos más graves (3).
+68
+
+MEDIDAS ESPECÍFICAS
+
+TRATAMIENTO MÉDICO
+
+PRIMER Y SEGUNDO NIVEL
+
+Reposo. Medidas físicas, ejercicios de relajación, calor local. Masajes, uso de fajas elásticas de contención.
+
+Complejo B, VO 1-2 comprimidos cada 8-12 horas; o IM 1 ampolla cada 24 horas por cinco días + diclofenaco sódico IM 75 mg cada 24 horas por siete días + carisoprodol VO 500 mg cada ocho horas por cinco días (relajantes musculares, derivados del tiocolchicosido).
+ Evolución desfavorable en los primeros siete días de tratamiento, referencia al nivel III de atención.  El objetivo del tratamiento es darle al paciente la seguridad de que no padece ninguna enfermedad
+subyacente potencialmente grave y de que su recuperación será más o menos rápida. Brindar una correcta información sobre el padecimiento, aliviar los síntomas y, por último y más importante, recomendar una apropiada actividad física que permita el restablecimiento de la función y prevenga la evolución a lumbalgia crónica (4).  El tratamiento recomendado se basa en la analgesia con fármacos orales (AINES fundamentalmente) y métodos físicos, y en realizar la actividad que sea posible mientras espera su recuperación. En este sentido, el reposo absoluto (cuando es imposible la deambulación) debe ser inferior a 2 días.  Analgésicos: niños/niñas con peso menor a 40 Kg. paracetamol 10-15 mg/Kg./día, fraccionado cada seis horas; o ibuprofeno 5-10 mg/Kg./dosis cada 6-8 horas; niños/niñas con peso mayor a 40 Kg. y adultos, paracetamol VO 500 mg cada seis horas; o ibuprofeno VO 400-600 mg, cada 6-8 horas (NO USAR IBUPROFENO EN EMBARAZADAS).  El reposo prolongado en cama (más de 4 días) además de no mejorar los problemas lumbares produce sensación de gravedad, debilidad (amiotrofia), desestabilización de la columna y, a la larga, descalcificación. En el caso de pacientes con síntomas agudos de ciática podría estar indicado un reposo absoluto en cama no superior a 2-4 días, tras lo que se le recomendaría volver a realizar las actividades habituales (4).  La mayoría de los pacientes pueden practicar en los primeros 15 días ejercicios aeróbicos que produzcan el mínimo de sobrecarga lumbar, como caminar, ir en bicicleta o nadar. Después estarían indicados ejercicios para fortalecer los músculos extensores de la columna lumbar (su práctica precoz podría exacerbar los síntomas de lumbalgia).
+
+CRITERIOS DE REFERENCIA Dolor que no remite con el tratamiento médico y fisioterápico por tres días.
+Deterioro neurológico.
+Varios episodios de dolor.
+Dificultad para la micción.
+Pérdida de fuerza en las piernas con alteraciones en la marcha.
+Hipostesia severa.
+
+CRITERIOS DE ALTA HOSPITALARIA
+Dolor controlado y remitido.
+Mejoramiento de la postura.
+
+CRITERIOS DE CONTRARREFERENCIA
+Control, seguimiento y continuar tratamiento y rehabilitación.
+
+Recuperación de la fuerza muscular satisfactoria.
+
+Ausencia de parestesias.
+
+Marcha normal.
+
+NORMA NACIONAL DE ATENCIÓN CLÍNICA DE “TRAUMATOLOGÍA”
+
+69
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVOS
+
+MEDIDAS PREVENTIVAS HIGIÉNICO DIETÉTICAS Y ORIENTACIÓN EN SERVICIO, FAMILIA Y COMUNIDAD
+A continuación, algunas medidas para prevenir la lumbalgia:  Mantén una buena postura: Asegúrate de sentarte y pararte con la espalda recta, los hombros
+hacia atrás y el abdomen contraído.  Ejercicio regularmente: La actividad física regular ayuda a mantener la fuerza y la flexibilidad de
+los músculos de la espalda, lo que puede reducir el riesgo de lumbalgia.  Levanta objetos correctamente: Evita levantar objetos pesados de forma incorrecta. Para
+hacerlo correctamente, ponte en cuclillas, mantén la espalda recta y usa los músculos de las piernas para levantar el objeto.  Usa calzado adecuado: Utiliza zapatos cómodos y de apoyo que te brinden estabilidad y amortiguación mientras caminas.  Haz pausas frecuentes: Si pasas mucho tiempo sentado o de pie, tómate pausas frecuentes para estirar los músculos de la espalda y mejorar la circulación.  Controla tu peso: Mantener un peso saludable reduce la presión sobre la espalda y previene lesiones.  Se recomienda en toda la población, se fomente un programa educativo que incluya la adopción de estilos de vida saludables, buenos hábitos de alimentación.  En paciente con lumbalgia crónica con sobrepeso y obesidad, se recomienda reducción de peso e intervención de un equipo multidisciplinario.  Desde la primera evaluación clínica se recomienda investigar e identificar factores psicosociales asociados con el riesgo de desarrollar incapacidad crónica.  Se recomienda investigar tipo de actividad laboral desempeñada, posturas, herramientas que se utilizan, esfuerzos que deben realizarse y su frecuencia con la finalidad de identificar situaciones potencialmente nocivas (1, 3, 4).
+70
+
+CIE-10
+
+14
+
+NIVEL DE
+
+ATENCIÓN
+
+S43.1 I - II – III
+
+LUXACIÓN ACROMIOCLAVICULAR
+
+NORMA NACIONAL DE ATENCIÓN CLÍNICA DE “TRAUMATOLOGÍA”
+
+CIE-10
+S43.1: Luxación de la articulación acromioclavicular
+DEFINICIÓN
+Pérdida de la relación de las superficies articulares de la clavícula y el acromion del omoplato (2).
+CLASIFICACIÓN
+La más utilizada en la clasificación de Rockwood:
+ Tipo I: esguince del ligamento acromioclavicular.  Tipo II: desgarro del ligamento acromioclavicular con luxación.  Tipo III: rotura de los ligamentos acromioclavicular y coracoclavicular con luxación.  Tipo IV: tipo III con la clavícula distal desplazada posteriormente hacia o a través del trapecio.  Tipo V: tipo III con la clavícula distal extremadamente desplazada hacia arriba.  Tipo VI: clavícula distal desplazada por debajo del acromion y la coracoides (omoplato) (1).
+PRINCIPALES CAUSAS / ETIOLOGÍA
+ Antecedentes del traumatismo (mecanismo de lesión).  Lesión en actividad deportiva.  Trauma directo en el hombro.  Caídas de altura.  Accidentes en vehículos automotores.  Contusión en la región externa de hombro-brazo (2).
+DIAGNÓSTICO
+El paciente presenta dolor local, deformidad y equimosis. Acude con actitud antiálgica con brazo pegado al cuerpo, en aducción y sujeto por el miembro contralateral. Se deben buscar lesiones asociadas en los traumatismos de alta energía como: fracturas costales, de húmero o escápula, luxaciones esternoclavicular, neumotórax, lesiones del plexo braquial o vasculares (3).
+EXÁMENES COMPLEMENTARIOS
+Estudio radiológico: se utiliza una proyección AP, proyección de Zanca. puede ser necesario hacer una proyección AP con carga (5 kg colgando de la muñeca) (3).
+TRATAMIENTO MEDIDAS GENERALES
+PRIMER NIVEL:
+ Analgésicos vía Oral paracetamol 1 gr dosis única antes de la referencia a Segundo o Tercer Nivel)
+
+71
+
+ Inmovilización provisional para referir a Segundo o Tercer Nivel.
+MEDIDAS ESPECÍFICAS POR NIVELES DE ATENCIÓN
+SEGUNDO Y TERCER NIVEL  Tratamiento conservador en fracturas, tipo I y II: inmovilización, vendaje o cabestrillo de Velpeau.
+ Tratamiento quirúrgico en fracturas tipo III, IV, V y VI: reducción abierta o cerrada, reparación ligamentaria y fijación con implante de osteosíntesis y analgesia.
+
+CRITERIOS DE REFERENCIA
+Para tratamiento quirúrgico grados III, IV, V y VI y/o conservador, lesiones
+inestables, desplazadas o acompañadas de lesiones
+neurovasculares.
+
+CRITERIOS DE ALTA
+
+CRITERIOS DE CONTRARREFERENCIA
+
+Ausencia de complicaciones.
+
+Alta del servicio de Traumatología Para seguimiento y continuar tratamiento de
+rehabilitación.
+
+CONSIDERACIONES ESPECIALES
+
+Los pacientes pueden desarrollar en un futuro artrosis postraumática directamente relacionada con el tipo de luxación y la severidad del caso.
+
+MEDIDAS PREVENTIVAS HIGIÉNICO DIETÉTICAS Y ORIENTACIÓN EN SERVICIO, FAMILIA Y COMUNIDAD
+
+ Su condición general de salud, la gravedad del cuadro y el tiempo aproximado necesario para el tratamiento.
+
+ Procedimientos a ser utilizados así como sus riesgos y beneficios.
+
+ La necesidad de referir a otro establecimiento de mayor resolución si el caso lo requiere.
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVOS
+
+72
+
+CIE-10
+
+15
+
+NIVEL DE
+
+ATENCIÓN
+
+A18.0 I - II – III
+
+OSTEOARTRITIS TUBERCULOSA
+
+CIE-10 A18.0†: Tuberculosis de huesos y articulaciones
+Tuberculosis de: • Cadera (M01.1*) • Columna vertebral (M49.0*) • Rodilla (M01.1*) Artritis (M01.1*) tuberculosa Mastoiditis (H75.0*) tuberculosa Necrosis de hueso (M90.0*) tuberculosa Osteítis (M90.0*) tuberculosa Osteomielitis (M90.0*) tuberculosa Sinovitis (M68.0*) tuberculosa Tenosinovitis (M68.0*) tuberculosa
+DEFINICIÓN
+Enfermedad infecciosa crónica localizada en el sistema osteoarticular, producida por el bacilo de Koch; es más común en las articulaciones de carga: cadera, rodilla y columna.
+CLASIFICACIÓN
+No existe una clasificación para la tuberculosis extrapulmonar del tipo osteoarticular.
+PRINCIPALES CAUSAS / ETIOLOGÍA
+La causa principal es la diseminación hematógena por una tuberculosis pulmonar.
+DIAGNÓSTICO CRITERIOS CLÍNICOS
+La evaluación clínica es crucial e importante:
+ Febrículas vespertinas.  Anorexia, adinamia.  Sudoración nocturna.  Taquicardia.  Anemia.  Disminución de peso. Emaciación.  Malestar general.  Tumefacción, a causa del engrosamiento de la sinovial.  Dolor y Limitación de los movimientos.  Aumento del calor local; los movimientos producen dolor agudo y contractura muscular.  Posición antiálgica.  Hipotrofia de los músculos circunvecinos.  Combe positivo.
+
+NORMA NACIONAL DE ATENCIÓN CLÍNICA DE “TRAUMATOLOGÍA”
+
+73
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVOS
+
+EXÁMENES COMPLEMENTARIOS
+Laboratorio:
+ Hemograma, VES, PCR.  Prueba de Mantoux (PPD).  Punción articular para cultivo y baciloscopía.  Cadena de polimerasa PCR  Biopsia de la lesión.
+Gabinete:
+ Radiografía: osteoporosis de hueso vecino en una fase inicial; en fase crónica el espacio articular se cierra por destrucción del cartílago hasta erosionar al hueso, signos de absceso fusiforme paravertebral.
+ Tomografía, RMN.  Centellografía.  Radiografía PA de tórax.
+TRATAMIENTO
+Analgésicos:
+ Niños/niñas con peso menor a 40 Kg.: paracetamol vía oral 10-15 mg/Kg/día, fraccionado cada seis horas; o ibuprofeno 5-10 mg/Kg/dosis cada 6-8 horas.
+ Niños/niñas con peso mayor a 40 Kg. y adultos: paracetamol vía oral 500 mg cada seis horas; o diclofenaco o ibuprofeno 400-600 mg, vía oral cada 6-8 horas.
+ Internación.  Tratamiento específico de acuerdo al Programa Nacional de Tuberculosis. Esquema I, II o III.
+Tratamiento quirúrgico:
+ Resección urgente.  Evacuación y limpieza quirúrgica.  De acuerdo a necesidad individual: artrodesis y otras técnicas quirúrgicas.  El tratamiento quirúrgico para eliminar todo el tejido infectado.  Limpiezas quirúrgicas seriadas de acuerdo a evolución.
+El desbridamiento quirúrgico implica la eliminación de tejido óseo infectado, seguido de una limpieza meticulosa de la cavidad con irrigación copiosa con solución salina. El desbridamiento quirúrgico combinado con la administración de antibióticos intravenosos puede mejorar la tasa de curación y disminuir el riesgo de recurrencia de la infección.
+MEDIDAS GENERALES
+PRIMER Y SEGUNDO NIVEL:
+Analgésicos antipiréticos, reposo con inmovilización (venda de yeso), terapéutica específica, de acuerdo a protocolos de atención determinados por el Programa Nacional de Control de Tuberculosis.
+74
+
+MEDIDAS ESPECÍFICAS POR NIVELES DE ATENCIÓN
+
+Patología que debe ser manejada en Primer y Segundo nivel si no requiere tratamiento multidisciplinario y/o quirúrgico: en Tercer Nivel por el nivel de complejidad y el apoyo multidisciplinario que requiere tratamiento quirúrgico.
+
+Analgésicos:
+
+ Niños/niñas con peso menor a 40 Kg.: paracetamol via oral 10-15 mg/Kg/día, fraccionado cada seis horas; o ibuprofeno 5-10 mg/Kg/dosis cada 6-8 horas.
+
+ Niños/niñas con peso mayor a 40 Kg. y adultos: paracetamol via oral 500 mg cada seis horas; o diclofenaco o ibuprofeno 400-600 mg, via oral cada 6-8 horas.
+
+ Patología que debe ser manejada en Primer y Segundo nivel si no requiere tratamiento multidisciplinario y/o quirúrgico: en Tercer Nivel por el nivel de complejidad y el apoyo multidisciplinario que requiere tratamiento quirúrgico.
+
+ Internación.
+
+ Tratamiento específico de acuerdo al Programa Nacional de Tuberculosis. Esquema I, II o III.
+
+Tratamiento quirúrgico:  Resección urgente.
+
+ Evacuación y limpieza quirúrgica.
+
+ De acuerdo a necesidad individual: artrodesis y otras técnicas quirúrgicas.
+
+ El tratamiento quirúrgico para eliminar todo el tejido infectado.
+
+ Limpiezas quirúrgicas seriadas de acuerdo a evolución.
+ El desbridamiento quirúrgico implica la eliminación de tejido óseo infectado, seguido de una limpieza meticulosa de la cavidad con irrigación copiosa con solución salina. El desbridamiento quirúrgico combinado con la administración de antibióticos intravenosos puede mejorar la tasa de curación y disminuir el riesgo de recurrencia de la infección.
+
+CRITERIOS DE REFERENCIA
+Para tratamiento quirúrgico.
+
+CRITERIOS DE ALTA
+Ausencia de complicaciones.
+
+CRITERIOS DE CONTRARREFERENCIA
+Control, seguimiento y continuar tratamiento y rehabilitación.
+
+MEDIDAS PREVENTIVAS HIGIÉNICO DIETÉTICAS Y ORIENTACIÓN EN SERVICIO, FAMILIA Y COMUNIDAD
+
+A continuación, se presentan algunas medidas preventivas que pueden ayudar a reducir el riesgo de contraer esta enfermedad:
+
+ Mantener una buena higiene: Lavarse las manos con frecuencia y asegúrese de mantener las heridas limpias y cubiertas. También es importante mantener la piel y las uñas limpias y cortadas.
+
+NORMA NACIONAL DE ATENCIÓN CLÍNICA DE “TRAUMATOLOGÍA”
+
+75
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVOS
+
+ Tratar las infecciones de manera oportuna: Si tiene una infección, como una infección de la piel o una infección del tracto urinario, busque tratamiento de inmediato. El tratamiento temprano puede ayudar a prevenir que la infección se propague a los huesos.
+ Cuidado adecuado de las heridas: Limpiar la herida regularmente y cambiar el vendaje según sea necesario.
+ Mantener una buena salud general: Mantener una dieta saludable, hacer ejercicio regularmente y evitar fumar pueden ayudar a mantener su sistema inmunológico fuerte y reducir el riesgo de infeccione
+76
+
+CIE-10
+
+16
+
+NIVEL DE
+
+ATENCIÓN
+
+M86 I - II – III
+
+OSTEOMIELITIS AGUDA
+
+NORMA NACIONAL DE ATENCIÓN CLÍNICA DE “TRAUMATOLOGÍA”
+
+CIE-10
+M86: Osteomielitis
+[Para el código de sitio ver las subclasificaciones antes de M00–M25]
+Use código adicional (B95–B97), si desea identificar el agente infeccioso.
+Excluye: Osteomielitis (del, de las):
+• debida a salmonela (A01–A02) • maxilar (K10.2) • vértebras (M46.2) M86.1 Otras osteomielitis agudas
+DEFINICIÓN
+La osteomielitis AGUDA es un cuadro clínico resultante de la infección del tejido óseo, tanto cortical como medular, generalmente de origen bacteriano.
+Es característico de la infancia, en menores de 5 años, con una predominancia por el sexo masculino. Raro en adultos, se presenta en pacientes inmunodeprimidos o en usuarios de drogas por vía parenteral (UDVP), localizándose en huesos macizos y cortos, frecuentemente en el esqueleto axial o diáfisis de huesos largos (más raro). Lo más frecuente es que el origen sea hematógeno a partir de focos sépticos distantes. Es posible también afectación por contaminación directa a través de heridas o punciones traumáticas, o por contigüidad desde un foco infeccioso adyacente.
+Osteomielitis aguda hematógena (OAH) Cuadro producido en un tiempo inferior a las 2 semanas.
+CLASIFICACIÓN
+No existe una clasificación universalmente aceptada para la osteomielitis y esto se debe a la presentación multifacética de la enfermedad, Los dos sistemas de clasificación más conocidos son el de Waldvogel para osteomielitis aguda. Desde que se presentaron, se han dado avances considerables en las estrategias y opciones de tratamiento de la osteomielitis. En los últimos años, se han introducido nuevos sistemas de clasificación. Sin embargo, no se usan ampliamente debido a la complejidad y la falta de evidencia que respalde su efectividad clínica (1).
+Clasificación etiológica: el sistema propuesto por Lew y Waldvogel; se basa en la etiología. En este, la osteomielitis se divide en 3 categorías por mecanismo etiológico-fisiopatológico (2):
+ Osteomielitis hematógena.
+ Osteomielitis de foco contiguo por trauma, cirugía, material protésico o diseminación de tejidos blandos.
+ Osteomielitis por insuficiencia vascular a menudo vista en diabetes mellitus.
+77
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVOS
+
+PRINCIPALES CAUSAS / ETIOLOGÍA
+ La osteomielitis como ya se mencionó previamente se debe a diversos agentes infecciosos que ingresan y se diseminan por diferentes mecanismos.
+ Osteomielitis secundaria a un foco contiguo de infección: por ejemplo, después de un traumatismo, cirugía o inserción de una prótesis articular, Suele ser poli microbiana.
+ Osteomielitis hematógena el cual representa el principal mecanismo en la osteomielitis vertebral y en los niños.
+ Osteomielitis secundaria a un foco contiguo de infección asociada con insuficiencia vascular.
+DIAGNÓSTICO CRITERIOS CLÍNICOS
+La evaluación clínica es crucial e importante:  Fiebre 39-40 grados.  Dolor y signos inflamatorios locales (signos de Celsius).  Compromiso del estado general.  Disminución voluntaria de los movimientos o claudicación.  Impotencia funcional de la amplitud de los movimientos activos y pasivos con severa limitación de
+la amplitud de los movimientos pasivos.  Congestión articular palpable especialmente en articulaciones de cadera y rodilla.
+EXÁMENES COMPLEMENTARIOS
+LABORATORIO:  Hemograma, VES, proteína C reactiva cuantificada.  Cultivo y antibiograma del exudado en caso evidenciarlo.  Hemocultivo, por aspiración ósea o por biopsia. GABINETE:  Radiografía de la región afectada.  Gammagrafía ósea.  Ecografía ósea.
+TRATAMIENTO MEDIDAS GENERALES
+PRIMER Y SEGUNDO NIVEL:  Ante la sospecha diagnóstica referencia al Segundo o Tercer Nivel.  Reposo.  Inmovilización del miembro afectado.
+78
+
+MEDIDAS ESPECÍFICAS POR NIVELES DE ATENCIÓN
+PRIMER Y SEGUNDO NIVEL: Analgésicos:  Niños/niñas con peso menor a 40 Kg.: paracetamol via oral10-15 mg/Kg./día, fraccionado cada
+seis horas; o ibuprofeno 5-10 mg/Kg./dosis cada 6-8 horas.  Niños/niñas con peso mayor a 40 Kg. y adultos: paracetamol via oral 500 mg cada seis horas; o
+diclofenaco o ibuprofeno 400-600 mg, via oral cada 6-8 horas.  Patología que debe ser manejada en Tercer Nivel por el nivel de complejidad y el apoyo
+multidisciplinario que requiere.  La osteomielitis aguda puede ser difícil de tratar debido a la reducida capacidad de penetración
+de los antimicrobianos en el hueso afectado. A continuación, se presentan algunas opciones de tratamiento para la osteomielitis aguda. Antibióticos:  La administración de antibióticos es el tratamiento inicial de elección para la osteomielitis aguda. Se recomienda la administración intravenosa de antibióticos durante 6-8 semanas para lograr la curación clínica y microbiológica. Los antibióticos seleccionados deben tener una buena penetración ósea y una actividad adecuada contra los organismos responsables de la infección. Además, la duración del tratamiento y la elección del antibiótico deben ser personalizados según la gravedad de la infección y la susceptibilidad del organismo (5).  Niños/niñas con peso menor a 40 Kg.: cloxacilina IV 50-100 mg/Kg./día fraccionado cada seis horas por tres semanas; continuar con cloxacilina VO 50-100 mg/Kg./día fraccionado cada seis horas por tres semanas, hasta cumplir seis semanas de tratamiento antibiótico en total.  Niños/niñas con peso mayor a 40 Kg. y adultos: cloxacilina IV 1-4 g/día fraccionado cada seis horas, por tres semanas; continuar con cloxacilina VO 1-4 g/día fraccionado cada seis horas, por tres semanas, hasta cumplir seis semanas de tratamiento antibiótico en total; o gentamicina IV 1,5 mg/Kg./peso para 24 horas por cinco días.  Ancianos: cloxacilina IV 50-100 mg/Kg./día fraccionado cada seis horas, durante tres semanas + gentamicina IV 1,5 mg/Kg. para 24 horas por cinco días, continuar con cloxacilina VO 50100 mg/Kg./día fraccionado cada seis horas, por tres semanas, hasta cumplir seis semanas de tratamiento antibiótico en total; o ciprofloxacina VO 500 mg cada seis horas por cinco días.  El tratamiento es multidisciplinario (medicina interna, infectología, pediatría y traumatología).
+79
+
+NORMA NACIONAL DE ATENCIÓN CLÍNICA DE “TRAUMATOLOGÍA”
+
+Tabla 2. Tratamiento Osteomielitis Aguda
+
+Grupo de edad
+
+Gérmenes más frecuentes
+
+Antibiótico
+
+Recién nacido (0-2 meses)
+
+S. aureus, SGB, BGN, (E. coli)
+
+Cloxacilina + cefotaxima / gentamicina
+
+Cefuroxima (150 mg/kg/d c/8h)
+
+Niños > 5 años
+
+S. aureus, SBHCA H. influenzae
+
+En > 2 años: considerar tto igual > 5 años
+
+O Cloxacilina + cefotaxima o cefrtiaxona
+
+Niños > 5 años
+
+S. aureus
+
+Cloxacilina (100-150 mg/kg/d c/6h) o Cefazolina (100 mg/kg/f c/8h)
+
+1Amoxicilina-clavulánico podría ser una alternativa. 2Siempre que estén correctamente vacunados de Hlb.
+
+Anemia drepanocítica Salmonella
+
+Cloxacilina (150 mg/kg/d c/6h) Cefotaxima (200 mg/kg/d c/6-8h)
+
+Postraumatismo
+
+Pseudomonas
+
+Cloxacilina (150 mg/kg/d c/6h) + Cefotaxima (150 mg/kg/d c/6-8h)
+
+Alérgico betalactámicos
+
+Clindamicina (40 mg/kg/d c/6-8h)
+
+Anaerobios
+
+Clindamicina (40 mg/kg/d c/6-8h)
+
+* En todos los neonatos se deberá realizar descartar meningitis, en caso de LCR compatible con meningitis, iniciar manejo con Cefepine como monoterapia hasta tener resultado de cultivos.
+
+Fuente: Adaptado de: Optimal duration of antibiotic therapy for acute hematogenous Staphylococcus aureus osteomyelitis in children. J Infect.; 2015.
+
+Desbridamiento quirúrgico:
+
+ La osteomielitis aguda en la mayoría de los casos requiere tratamiento quirúrgico para eliminar todo el tejido infectado. El desbridamiento quirúrgico implica la eliminación de tejido óseo infectado, seguido de una limpieza meticulosa de la cavidad con irrigación copiosa con solución salina. El desbridamiento quirúrgico combinado con la administración de antibióticos intravenosos puede mejorar la tasa de curación y disminuir el riesgo de recurrencia de la infección (6).
+
+CRITERIOS DE REFERENCIA Para tratamiento médico y/o quirúrgico.
+Síndrome tóxico infeccioso.
+
+CRITERIOS DE ALTA
+Ausencia de complicaciones.
+
+CRITERIOS DE CONTRARREFERENCIA
+Control, seguimiento y continuar tratamiento y terapia de rehabilitación física.
+
+MEDIDAS PREVENTIVAS HIGIÉNICO DIETÉTICAS Y ORIENTACIÓN EN SERVICIO, FAMILIA Y COMUNIDAD
+
+A continuación, se presentan algunas medidas preventivas que pueden ayudar a reducir el riesgo de contraer esta enfermedad:
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVOS
+
+80
+
+ Mantener una buena higiene: Lavarse las manos con frecuencia y asegúrese de mantener las heridas limpias y cubiertas. También es importante mantener la piel y las uñas limpias y cortadas.
+ Tratar las infecciones de manera oportuna: Si tiene una infección, como una infección de la piel o una infección del tracto urinario, busque tratamiento de inmediato. El tratamiento temprano puede ayudar a prevenir que la infección se propague a los huesos.
+ Cuidado adecuado de las heridas: Limpiar la herida regularmente y cambiar el vendaje según sea necesario.
+ Mantener una buena salud general: Mantener una dieta saludable, hacer ejercicio regularmente y evitar fumar pueden ayudar a mantener su sistema inmunológico fuerte y reducir el riesgo de infecciones.
+81
+
+NORMA NACIONAL DE ATENCIÓN CLÍNICA DE “TRAUMATOLOGÍA”
+
+CIE-10
+
+17
+
+NIVEL DE
+
+ATENCIÓN
+
+M86.6 I - II - III
+
+OSTEOMIELITIS CRÓNICA
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVOS
+
+CIE-10 M86.6 Otras osteomielitis crónicas
+DEFINICIÓN
+La osteomielitis crónica es una infección óseo con una evolución mayor a 6 semanas, producida por ausencia o fracaso en el tratamiento de una osteomielitis aguda o sub aguda (1).
+CLASIFICACIÓN
+Cierny-Mader (2)
+Esta Clasificación se basa en los cambios de la condición médica general, comorbilidades y respuesta del paciente al tratamiento (ver tabla); orienta la necesidad o no de cirugía. En este sistema de clasificación se tienen en cuenta los factores que afectan la respuesta inmune, la vascularización local y el metabolismo. Dichos factores pueden ser sistémicos para el estadio BS: desnutrición, insuficiencia renal o hepática, diabetes mellitus, hipoxia crónica (ejemplo la EPOC), enfermedades inmunes, edades extremas, inmunosupresión o deficiencias inmunes; o también pueden ser locales para el estadio Bl: linfedema crónica, éxtasis venoso, compromiso arterial. fibrosis radioactiva, enfermedad de pequeños vasos, neuropatía y abuso de tabaco.
+Tipo anatómico:  Estadío 1: Osteomielitis medular.  Estadío 2: Osteomielitis superficial.  Estadío 3: Osteomielitis localizada.  Estadío 4: Osteomielitis difusa. Clase fisiológica:  Hospedero A: Saludable.  Hospedero B:
+Bs: Componente sistémico. BI: Compromiso local. Bis: Compromiso local y sistémico.  Hospedero C: El tratamiento causaría más daño que la enfermedad.
+PRINCIPALES CAUSAS / ETIOLOGÍA
+ Diseminación contigua de tejidos infectados o de una prótesis articular infectada u osteosíntesis.  Patologías crónicas asociadas.
+82
+
+ Microorganismos presentes en la sangre (osteomielitis hematógena).
+ Heridas abiertas (por fracturas abiertas contaminadas o cirugía ósea) (3).
+ Los gérmenes más comúnmente encontrados son Staphylococcus aureus y Staphylococcus epidermitis siendo causantes del 98% de infecciones. (1).
+DIAGNÓSTICO CRITERIOS CLÍNICOS (3)
+ Fiebre o febrícula puede o no estar presente.
+ Antecedente de foco infeccioso localizado en el sistema óseo.
+ Síndrome toxico infeccioso.  Compromiso del estado general.  Dolor en el hueso afectado.  Edema de partes blandas.  A la palpación hay sensibilidad aguda en la metáfisis del hueso.
+ Absceso en la región de la osteomielitis cuando se agudiza una osteomielitis crónica.
+ La osteomielitis crónica produce dolor óseo intermitente (meses a años), dolor a la compresión y fistulas de drenaje.
+EXÁMENES COMPLEMENTARIOS
+ Solicitar Hemograma completo, velocidad de sedimentación globular (VSG) , proteína C reactiva. La leucocitosis y un valor elevado de la velocidad de eritrosedimentación y la proteína C-reactiva apoyan el diagnóstico de osteomielitis. Sin embargo, la velocidad de eritrosedimentación y la proteína C-reactiva pueden estar elevadas en afecciones inflamatorias, tales como la artritis reumatoide, o normales en una infección causada por algunos patógenos. Por lo tanto, los resultados de estas pruebas deben ser considerados en el contexto de los resultados del examen físico y los estudios por la imagen (4).
+ La gammagrafía ósea radioscópica con tecnecio-99m. La gammagrafía ósea muestra anormalidades antes que la radiografía, pero no permite distinguir entre infección, fractura o tumor.
+ Una gammagrafía de leucocitos con células marcadas con indio-111 puede ayudar a identificar áreas de infección vistas en la gammagrafía ósea.
+ Radiografías simples Muestra signos anormales después de 2-4 semanas.
+ Tomografía.
+ Resonancia magnética Nuclear.
+ El diagnóstico bacteriológico es necesario para el tratamiento óptimo de la osteomielitis; la biopsia de hueso con aguja o escisión quirúrgica y aspiración o desbridamiento del absceso permite obtener tejido para cultivo y antibiograma.
+ El cultivo de los de drenaje no siempre revela el patógeno óseo.
+83
+
+NORMA NACIONAL DE ATENCIÓN CLÍNICA DE “TRAUMATOLOGÍA”
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVOS
+
+ El cultivo debe preceder al tratamiento antibiótico y debiendo ser procesadas antes de las 6 horas de la toma de muestra, (microbiología) (5,6).
+ El resultado de la biopsia de anatomía patología es fundamental para el diagnóstico y tratamiento médico y/o quirúrgico.
+DIAGNÓSTICOS DIFERENCIALES
+ Artritis séptica.
+ Tumores óseos primarios o secundarios.
+ Lesiones infectadas en tejidos blandos.
+TRATAMIENTO
+ En osteomielitis crónica reagudizada, originada en un foco de tejidos blandos contiguo, en especial en pacientes con diabetes, el tratamiento empírico debe ser efectivo contra microorganismos anaerobios además de aerobios grampositivos y gramnegativos. Se puede utilizar este esquema ampicilina/sulbactam 3 g IV cada 6 hrs o piperacillina/tazobactam 3,375 g IV cada 6 hrs.; se agrega vancomicina 1 g IV cada 12 hrs. si la infección es grave o si hay prevalencia de S. aureus resistente a la meticilina luego adaptarse a los resultados de los cultivos.
+ Los antibióticos deben darse por vía parenteral y vía oral durante 4 a 8 semanas.
+MEDIDAS ESPECÍFICAS POR NIVELES DE ATENCIÓN
+PRIMER NIVEL
+ Diagnóstico o sospecha de osteomielitis referir a Segundo o Tercer Nivel.
+SEGUNDO Y TERCER NIVEL
+ Internación, en la osteomielitis crónica es necesaria la correcta evaluación del estado inmunológico, corregir las deficiencias de proteínas y el adecuado control de las enfermedades tanto locales como generales, como la diabetes mellitus.
+ Apoyo nutricional: se solicitará una valoración por el servicio de nutrición de acuerdo al estado nutricional del paciente: Reposo relativo, dieta hiperproteica, administración de líquidos parenterales.
+ Antibióticos betalactámicos:
+ Niños/niñas con peso menor a 40 Kg.: cloxacilina IV 50-100 mg/Kg./día fraccionada cada seis horas por tres semanas; continuar con cloxacilina VO 50-100 mg/Kg./día fraccionada cada seis horas por tres semanas, hasta cumplir seis semanas de tratamiento antibiótico en total.
+ Niños/niñas con peso mayor a 40 Kg. y adultos: cloxacilina IV 1-4 g/día fraccionada cada seis horas por tres semanas; continuar con cloxacilina VO 1-4 g/día fraccionada cada seis horas por tres semanas, hasta cumplir seis semanas de tratamiento antibiótico en total; o gentamicina IV 1,5 mg/Kg. para 24 horas por siete días.
+ Ancianos: cloxacilina IV 50-100 mg/Kg./día fraccionada cada seis horas por tres semanas; o gentamicina IV 1,5 mg/Kg./día para 24 horas por cinco días, continuar con cloxacilina VO 50-
+84
+
+100 mg/Kg./día fraccionada cada seis horas por tres semanas, hasta cumplir seis semanas de tratamiento antibiótico en total; o ciprofloxacina VO 500 mg cada seis horas por siete días.
+
+ Analgésico, antipirético: niños/niñas con peso menor a 40 Kg.: paracetamol VO 10-15 mg/Kg./ dosis, cada seis horas; niños/niñas con peso mayor a 40 Kg. y adultos: paracetamol VO 500 mg cada seis horas.
+
+ Antiinflamatorios: diclofenaco 150 mg para 24 horas en infusión EV.
+ Es importante iniciar un tratamiento de fisioterapia y rehabilitación de la extremidad afectada, para recuperar fuerza muscular y arcos de movilidad.
+
+ Patología que puede terminar en amputación de la extremidad.
+
+Importante al tratar esta patología, el manejo debe ser multidisciplinario, conjunto con medicina interna o Infectología para el manejo de la infección, si se requiere también de acuerdo al paciente se debe realizar interconsultas con otras especialidades.
+
+TRATAMIENTO QUIRÚRGICO  Desbridamiento, sauserizacion, secuestrectomia.
+ Reconstrucción del defecto óseo.
+ Manejo del espacio muerto. El objetivo más importante es reemplazar el hueso necrótico y tejido cicatrizal por un tejido vascularizado y duradero, mediante varias técnicas como:
+
+1. Injerto óseo vascularizado por lo general proveniente del peroné.
+
+2. Injerto de hueso esponjoso.
+
+3. Perlas de cemento óseo mezcladas con antimicrobianos las cuales por lo general son sustituidas de dos a cuatro semanas por otras o hueso esponjoso.
+
+ Cobertura adecuada de las estructuras óseas y blandas y estabilización mediante fijadores externos.
+
+CRITERIOS DE REFERENCIA Sospecha o diagnóstico de osteomielitis. Síndrome tóxico infeccioso, compromiso del estado general.
+Absceso peri-articular.
+Persistencia del cuadro doloroso y sintomático.
+Fístula osteocutánea.
+Debito purulento.
+Emaciación.
+Desnutrición.
+
+CRITERIOS DE ALTA
+Control de la osteomielitis. Ausencia de complicaciones.
+
+CRITERIOS DE CONTRARREFERENCIA Alta del servicio de Traumatología.
+Control, seguimiento y continuar tratamiento y rehabilitación.
+
+NORMA NACIONAL DE ATENCIÓN CLÍNICA DE “TRAUMATOLOGÍA”
+
+85
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVOS
+
+MEDIDAS PREVENTIVAS HIGIÉNICO DIETÉTICAS Y ORIENTACIÓN EN SERVICIO, FAMILIA Y COMUNIDAD
+ Mantener buena higiene, lavarse las manos con frecuencia y asegurar de mantener las heridas limpias y cubiertas. También es importante mantener la piel y las uñas limpias y cortadas.
+ Tratar las infecciones de manera oportuna, si tiene una infección en la piel o del tracto urinario, busque tratamiento de inmediato, el tratamiento temprano puede ayudar a prevenir que la infección se propague a los huesos.
+ Es importante hacer un cuidado del estado de nutrición y mantener buena alimentación para fortalecer las defensas del paciente con osteomielitis. Pacientes con sistema inmunológico debilitado por desnutrición, o enfermedades, son más susceptibles a contraer osteomielitis, por lo que se debe extremar cuidados en pacientes que padecen cáncer, enfermedades renales, hepáticas o metabólicas, pues su estado facilita la infección.
+ Cuidado adecuado de heridas. Limpiar la herida regularmente y cambiar el vendaje según sea necesario.
+ Mantener una buena salud general. Mantener una dieta saludable, hacer ejercicio regularmente y evitar fumar puede ayudar a mantener su sistema inmunológico fuerte y reducir el riesgo de infecciones.
+ Informar al paciente de la condición general de salud y la gravedad del cuadro.  Informar del tiempo aproximado y necesario para el tratamiento, la posibilidad de una recidiva.  Informar procedimientos a ser utilizados, así como sus riesgos y beneficios.
+86
+
+CIE-10
+
+18
+
+NIVEL DE
+
+ATENCIÓN
+
+M81 I - II - III
+
+OSTEOPOROSIS
+
+CIE-10 M81: Osteoporosis sin fractura patológica
+[Para el código de sitio ver las subclasificaciones antes de M00–M25] Excluye: osteoporosis con fractura patológica (M80.–)
+
+NORMA NACIONAL DE ATENCIÓN CLÍNICA DE “TRAUMATOLOGÍA”
+
+M81.0: Osteoporosis postmenopáusica, sin fractura patológica M81.1: Osteoporosis postooforectomía, sin fractura patológica M81.2: Osteoporosis por desuso, sin fractura patológica
+Excluye: atrofia de Sudeck (M89.0) M81.3: Osteoporosis por malabsorción postquirúrgica, sin fractura patológica M81.4: Osteoporosis inducida por drogas, sin fractura patológica
+Use código adicional de causa externa (Capítulo XX), si desea identificar la droga. M81.5: Osteoporosis idiopática, sin fractura patológica M81.6: Osteoporosis localizada [Lequesne], sin fractura patológica
+Excluye: atrofia de Sudeck (M89.0) M81.8: Otras osteoporosis, sin fractura patológica
+Osteoporosis senil M81.9: Osteoporosis no especificada, sin fractura patológica
+DEFINICIÓN
+Enfermedad metabólica caracterizada por disminución de la masa ósea y alteración de la microestructura del hueso, que incrementa el riesgo de fracturas. La organización mundial de la salud (OMS) definió la osteoporosis como una enfermedad sistémica, caracterizada por una disminución de la masa ósea y un deterioro de la microarquitectura del tejido ósea (10).
+Esta patología es asintomática y puede pasar desapercibida durante muchos años hasta que, finalmente, se manifiesta con una fractura.
+CLASIFICACIÓN
+Existen distintos tipos de osteoporosis:
+ Osteoporosis posmenopáusica: La causa principal es la falta de estrógenos. En general, los síntomas aparecen en mujeres de 51 a 75 años de edad, aunque pueden empezar antes o después de esas edades.
+
+87
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVOS
+
+ Osteoporosis senil: Resultado de una deficiencia de calcio relacionada con la edad y de un desequilibrio entre la velocidad de degradación y de regeneración ósea. Afecta, por lo general, a mayores de 70 años y es dos veces más frecuente en las mujeres que en los varones.
+ Osteoporosis secundaria: Puede ser consecuencia de ciertas enfermedades, como la insuficiencia renal crónica y ciertos trastornos hormonales; o de la administración de ciertos fármacos, como corticoesteroides, barbitúricos, anticonvulsivantes y cantidades excesivas de hormona tiroidea.
+Según el valor de la DMO se las clasifica:
+ Normal: DMO T ≥ −1
+ Osteopenia o densidad mineral ósea baja: DMO T < −1 y > −2,49
+ Osteoporosis: DMO T ≤ −2,5
+ Osteoporosis grave: DMO T ≤ −2,5 + fractura
+DMO: Densidad mineral ósea; T (T-score o índice T): comparación con el valor de la DMO alcanzado en población joven de referencia.
+PRINCIPALES CAUSAS / ETIOLOGÍA
+ Factores claramente asociados a osteoporosis.  Edad avanzada.  Sexo femenino.  Antecedentes personales de fractura.  Antecedentes familiares de fractura de cadera.  Riesgo aumentado de caídas.  Enfermedades.  Hipogonadismo.  Menopausia precoz, amenorrea.  Anorexia nerviosa.  Malabsorción.  Artritis reumatoide.  Diabetes (particularmente la de tipo 1).  Inmovilización.  Enfermedad de Cushing.  Tratamientos.  Glucocorticoides.  Inhibidores de la aromatasa.  Agonistas de las hormonas liberadoras de gonadotropinas (y otros tratamientos de deprivación
+androgénica en varones).
+88
+
+ Otros factores asociados con menor consistencia.  Hiperparatiroidismo. Hipertiroidismo.  Déficit de calcio.  Déficit de vitamina D.  Fármacos y tóxicos.  Inhibidores selectivos de la recaptación de serotonina.  Inhibidores de la bomba de protones.  Anticonvulsivantes.  Antirretrovirales.  Alcohol, tabaco.
+DIAGNÓSTICO
+Se establece el diagnóstico de osteoporosis con un índice DMO T < −2,5 en cualquiera de las siguientes localizaciones: columna lumbar, cadera total o cuello femoral.
+CRITERIOS CLÍNICOS
+Durante años se ha conocido a la osteoporosis como la “epidemia silenciosa” debido a que esta patología no produce síntomas, aunque el dolor aparece cuando surge la fractura.
+Los especialistas señalan que algunas fracturas vertebrales pueden pasar desapercibidas puesto que no se producen síntomas. En estos casos se pierde la oportunidad de frenar la pérdida de masa ósea y reducir el riesgo de nuevas fracturas.
+Las fracturas más comunes en la osteoporosis son las del fémur proximal, húmero, vértebras y antebrazo distal (muñeca).
+EXÁMENES COMPLEMENTARIOS
+La absorciometría por rayos X (DXA), que cuantifica la densidad mineral ósea/densitometría ósea. (DMO), es el procedimiento habitualmente utilizado para estimar el riesgo de fractura.
+DIAGNÓSTICOS DIFERENCIALES
+Fracturas patológicas secundarias con DMO normal. (neoplasias). Osteomalacia, metástasis óseas, enfermedad de Paget, mieloma múltiple, Linfomas.
+TRATAMIENTO
+Esta patología es de manejo multidisciplinario por la complejidad de complicaciones en el sistema humano:
+ La indicación de tratamiento se realiza en función del riesgo absoluto de fractura por fragilidad.
+ En los pacientes con un bajo riesgo de fractura son suficientes las medidas higiénicas y de prevención de caídas, mantener una ingesta adecuada de calcio de 1.000-1.200 mg/día y de 700-1.000 ui/día de vitamina D, siempre que no exista algún factor de riesgo que implique una pérdida rápida de DMO.
+89
+
+NORMA NACIONAL DE ATENCIÓN CLÍNICA DE “TRAUMATOLOGÍA”
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVOS
+
+ En los pacientes con un riesgo moderado de fractura se debe individualizar la necesidad de tratamiento farmacológico según los factores de riesgo del FRAX y aquellos que no se computan en él.
+ En los pacientes con alto riesgo de fractura se inicia el tratamiento farmacológico, aquí están incluidos las mujeres de más de 50 años que han tenido una o más fracturas por fragilidad (8). El tratamiento consta de medidas generales, tratamiento farmacológico y técnicas intervencionistas en determinadas situaciones, de acuerdo a criterio médico. (10).
+MEDIDAS GENERALES
+ Las constituyen una correcta nutrición, el ejercicio físico y la prevención de las caídas. En la nutrición se recomienda una ingesta adecuada de calorías, calcio de 1.000-1.200 mg/día y de 700-1.000 ui/día de vitamina D, ya que disminuyen el riesgo de fractura y el riesgo de caídas (2).
+ Se recomienda que el aporte de estos nutrientes sea a través de la dieta y evaluar la necesidad de suplementos para llegar a la dosis referidas (1,2).
+ Actualmente está en controversia el uso de suplementos de calcio y vitamina D en la dieta ya que se ha asociado a un aumento de eventos cardiovasculares como infarto de miocardio (IAM) y accidentes cerebrovasculares (ACV).
+ La evidencia disponible que relaciona el uso de suplementos de calcio solo o en asociación con vitamina D con un aumento de eventos cardiovasculares es controvertida.
+ Es importante reforzar el consumo de alimentos ricos en dicho mineral y no suplementar a quien no tiene deficiencia.
+ El ejercicio físico mejora la masa muscular, la capacidad física, el dolor y la vitalidad.
+ Se asocia a una disminución del riesgo de fractura de cadera y un aumento de la DMO en mujeres postmenopáusicas (1,4). A pesar de todo, el efecto del ejercicio sobre DMO es escaso.
+ Respecto a la prevención de las caídas existen estudios en población anciana que demuestran su disminución, mediante estrategias multifactoriales como un adecuado aporte nutricional, ejercicio físico y evaluación de los factores de riesgo, aunque no consiguen una disminución significativa en la reducción del riesgo de fractura (1,5).
+ La utilización de sistemas protectores de cadera puede reducir la incidencia de fracturas, sobre todo en pacientes institucionalizados, aunque existen dudas sobre su eficacia (1,6,10).
+Los bifosfonatos suelen ser la primera opción para el tratamiento de la osteoporosis. Algunos de ellos son los siguientes:
+ Alendronato 1 a la semana.
+ Risedronate , 1 a la semana o mensual.
+ Ibandronato, 1 tableta mensual o una infusión intravenosa trimestral.
+ Ácido zoledrónico una infusión intravenosa anual.
+ Colecalciferol (D3) 2.5 ug por vía oral por día.
+ La terapia de reemplazo hormonal será de acuerdo a criterio de especialidad (1,3,4,7,10).
+90
+
+CRITERIOS DE REFERENCIA
+De acuerdo a criterio médico.
+
+CRITERIOS DE ALTA No tiene
+
+CRITERIOS DE CONTRARREFERENCIA Control, seguimiento y continuar tratamiento. Densitometría ósea
+cada dos años.
+
+MEDIDAS PREVENTIVAS HIGIÉNICO DIETÉTICAS Y ORIENTACIÓN EN SERVICIO, FAMILIA Y COMUNIDAD
+
+ Condición general de salud y la gravedad del cuadro.
+
+ El tiempo aproximado necesario para el tratamiento.
+
+ Procedimientos a ser utilizados así como sus riesgos y beneficios.
+
+ Valoración y seguimiento por psicología y nutrición.
+
+NORMA NACIONAL DE ATENCIÓN CLÍNICA DE “TRAUMATOLOGÍA”
+
+91
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVOS
+
+BIBLIOGRAFÍA
+1. ARTROSIS – OSTEOARTROSIS
+1. López-Armada M, Carames B, Cillero-Pastor B, Garcia F. Physiopathology of arthrosis: what is the state of the art? Revista Española de Reumatología. 2004;31(6):379-93.
+2. Villanueva I, Guzmán MM, Toyos FJ, Ariza R, Navarro F. Sensibilidad y especificidad de los criterios OARSI de mejoría para artrosis: el efecto de la utilización de tres diferentes medidas de dolor. Revista Española de Reumatología. 2003;30(3):105-9.
+3. VEDIA D, LIMACHI L. Prevalence of radiological osteoarthritis in patients who attended, the Faculty of Technological Sciences of Health, management 2016 Sucre. Revista Ciencia, Tecnología e Innovación. 2018;16(18):39-44.
+4. Kellgren JH, Lawrence J. Radiological assessment of osteo-arthrosis. Annals of the rheumatic diseases. 1957;16(4):494.
+5. Arrigunaga FEC, Aguirre-Salinas FB, Villarino AM, Lescano JGB, Escalante FAM, May AdJB. Correlación de la Escala de Kellgren-Lawrence con la Clasificación de Outerbridge en Pacientes con Gonalgia Crónica. Revista Colombiana de Ortopedia y Traumatología. 2020;34(2):160-6.
+6. Cameron ML, Briggs KK, Steadman JR. Reproducibility and reliability of the outerbridge classification for grading chondral lesions of the knee arthroscopically. The American journal of sports medicine. 2003;31(1):83-6.
+7. Oteo Álvaro A. Mecanismos etiopatogénicos de la artrosis. Revista de la Sociedad Española del Dolor. 2021;28:11-7.
+2. DISPLASIA DEL DESARROLLO DE CADERA DDC
+1. Raimann R, Aguirre D. DISPLASIA DEL DESARROLLO DE LA CADERA: TAMIZAJE Y MANEJO EN EL LACTANTE. Revista Médica Clínica Las Condes [Internet]. 2021;32(3):263–70. Available from: https://www.sciencedirect.com/science/article/pii/S0716864021000511
+2. Meneghello J. Pediatría. In: Pediatría. 1972. p. 581.
+3. Kotlarsky P, Haber R, Bialik V, Eidelman M. Developmental dysplasia of the hip: What has changed in the last 20 years? World J Orthop. 2015;6(11):886.
+4. Barlow TG. EARLY DIAGNOSIS AND TREATMENT OF CONGENITAL DISLOCATION OF THE HIP. J Bone Joint Surg Br [Internet]. 1962;44-B(2):292–301. Available from: https://doi. org/10.1302/0301-620X.44B2.292
+5. Graf R. Fundamentals of sonographic diagnosis of infant hip dysplasia. Journal of Pediatric Orthopaedics. 1984;4(6):735–40.
+6. Weinstein SL, Dolan LA, Morcuende JA. The 2018 Nicholas Andry Award: the evidence base for the treatment of developmental dysplasia of the hip: the Iowa contribution. Clin Orthop Relat Res. 2018;476(5):1043.
+7. Nakamura J, Kamegaya M, Saisu T, Someya M, Koizumi W, Moriya H. Treatment for developmental dysplasia of the hip using the Pavlik harness: long-term results. J Bone Joint Surg Br. 2007;89(2):230–5.
+92
+
+3. FRACTURAS
+1. Fuentes JY, López M del MV. CAPÍTULO 48-TRATAMIENTO GENERAL DE LAS FRACTURAS Y COMPLICACIONES.
+2. Munuera L. Fracturas: Concepto, clasificación y manifestaciones clínicas. Introducción a la Traumatología y Cirugía Ortopédica Madrid: McGraw-Hill Interamericana. 1996;46–53.
+3. Esser M. Tratamiento práctico de fracturas. Madrid: Elsevier; 2003.
+4. Fuentes JY, López M del MV. CAPÍTULO 48-TRATAMIENTO GENERAL DE LAS FRACTURAS Y COMPLICACIONES.
+5. Vives JMM, Doussoux PC, i Garín DM. Fracturas abiertas. Rev Esp Cir Ortop Traumatol. 2010;54(6):399–410.
+6. Gustilo RB, Merkow RL, Templeman D. The management of open fractures. JBJS. 1990;72(2):299– 304.
+7. Group EP management W. Practice management guideline parameters for prophylactic antibiotics in open fractures.[consultado 1/9/2010].
+4. FRACTURA DE CADERA
+1. Rueda G, Tovar JL, Hernández S, Quintero D, Beltrán CA. Características de las fracturas de fémur proximal. Repertorio de Medicina y Cirugía [Internet]. 2017;26(4):213–8. Available from: https://www.elsevier.es/es-revista-repertorio-medicina-cirugia-263-articulo-caracteristicasfracturas-femur-proximal-S0121737217300572
+2. Koval J, López D. Fracturas femorales en el anciano. Editorial SECOT, Madrid. 2013;
+3. Meinberg E, Agel J, Roberts C, Karam M, Kellam J. Fracture and Dislocation Classification Compendium—2018. J Orthop Trauma. 2018 Jan;32(1):S1–10.
+4. Shivji FS, Green VL, Forward DP. Anatomy, classification and treatment of intracapsular hip fractures. Br J Hosp Med. 2015 May 2;76(5):290–5.
+5. Cha YH, Lee YK, Koo KH, Wi C, Lee KH. Difference in mortality rate by type of anticoagulant in elderly patients with cardiovascular disease after hip fractures. Clin Orthop Surg. 2019;11(1):15– 20.
+6. Carulli C, Piacentini F, Paoli T, Civinini R, Innocenti M. A comparison of two fixation methods for femoral trochanteric fractures: a new generation intramedullary system vs sliding hip screw. Clinical cases in mineral and bone metabolism. 2017;14(1):40.
+7. Aktselis I, Kokoroghiannis C, Fragkomichalos E, Koundis G, Deligeorgis A, Daskalakis E, et al. Prospective randomised controlled trial of an intramedullary nail versus a sliding hip screw for intertrochanteric fractures of the femur. Int Orthop. 2014;38:155–61.
+8. Blomfeldt R, Törnkvist H, Ponzer S, Söderqvist A, Tidermark J. Internal fixation versus hemiarthroplasty for displaced fractures of the femoral neck in elderly patients with severe cognitive impairment. J Bone Joint Surg Br. 2005;87(4):523–9.
+9. Ashkenazi I, Schermann H, Gold A, Lin R, Pardo I, Steinberg E, et al. Tranexamic acid in hip hemiarthroplasty. Injury. 2020;51(11):2658–62.
+93
+
+NORMA NACIONAL DE ATENCIÓN CLÍNICA DE “TRAUMATOLOGÍA”
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVOS
+
+10. Eriksson O, Kjellman H, Pilbrant A, Schannong M. Pharmacokinetics of tranexamic acid after intravenous administration to normal volunteers. Eur J Clin Pharmacol. 1974;7:375–380.
+5. FRACTURA DE CLAVÍCULA
+1. Throckmorton, T.W. et al. “Computed Tomography Versus Plain Radiography for Diagnosing Clavicle Fractures.” Journal of Shoulder and Elbow Surgery, vol. 28, no. 4, 2019, pp. 671-676.
+2. Hancock, K.J. et al. “Plate Fixation Versus Nonoperative Management for Displaced Midshaft Clavicle Fractures: A Meta-analysis of Randomized Controlled Trials.” Journal of Orthopaedic Trauma, vol. 34, no. 2, 2020, pp. 66-72.
+3. McAlister, C.C. et al. “Rotator Cuff Strength and Clavicle Fracture in Athletes Participating in Contact Sports: A Case-control Study.” Journal of Orthopaedic Surgery and Research, vol. 13, no. 1, 2018, pp. 169-175.
+6. FRACTURA DE DIÁFISIS HUMERAL
+1. Ekholm R, Adami J, Tidermark J et al. Fractures of the shaft of the humerus: an epidemiological study of 401 fractures. J Bone Joint Surg Br 2006;88-B:1469-73.
+2. Tytherleigh-Strong G, Walls N, Mc Queen MM. The epidemiology of humeral shaft fractures. J Bone Joint Surg Br 1998;80:249-53.
+3. Müller ME, Nazarian S, Koch P, Schatzker J. The comprehensive classification of fractures of long bones. Berlin: Springer-Verlag, 1990.
+4. Cole P, Wijdicks CA. The operative treatment of diaphyseal humeral shaft fractures. Hand Clin 2007; 23:437-48.
+5. Malhan S, Thomas S, Srivastav S, Agarwal S, Mittal V, Nadkarni B, Gulati D. Minimally invasive plate osteosynthesis using a locking compression plate for diaphyseal humeral fractures. J Orthop Surg (Hong Kong) 2012;20(3):292-6.
+7. FRACTURA DE DIÁFISIS TIBIAL
+1. Gustilo RB, Merkow RL, Templeman D. The management of open fractures. JBJS. 1990;72(2):299304.
+2. Santurio EV, García VV, Ortiz VÁ. Physiopathology and Treatment of Tibial Diaphyseal Fractures. Revista española de cirugía ortopédica y traumatología (English edition). 2008;52(1):47-63.
+3. Miralles-Muñoza F, Lizaur-Utrillab A, Bustamante-Suárezc D. Tratamiento de las fracturas de tibia con clavo intramedular no fresado. Revista Española de Cirugía Ortopédica y Traumatología. 2004;48(6):443-8.
+4. Baixauli Perelló E, Baixauli Castella F, Sanz Amaro D, Baeza Oliete J, Baixauli García F. Tratamiento de las fracturas abiertas de la diáfisis tibial mediante enclavado endomedular fresado. Rev ortop traumatol(Madr, Ed impr). 2000:30-4.
+5. NAILING UI. Tratamiento de las fracturas cerradas de la diáfisis tibial mediante enclavado intramedular sin fresado. Revista de ortopedia y traumatología. 1996;42:346-50.
+94
+
+8. FRACTURA DE METACARPIANOS
+1. Gajendran VK, Gajendran VK, Malone KJ. Management of Complications with Hand Fractures. Hand Clin. 2015 May;31(2):165–77.
+2. Diaz-Garcia R, Waljee JF. Current management of metacarpal fractures. Vol. 29, Hand Clinics. 2013.
+3. Neumeister MW, Winters JN, Maduakolum E. Phalangeal and Metacarpal Fractures of the Hand: Preventing Stiffness. Plast Reconstr Surg Glob Open. 2021 Oct 28;9(10):e3871.
+4. Keller MM, Barnes RY, Brandt C, Hepworth LM. Splints and immobilisation approaches used for second to fifth metacarpal fractures: a systematic review. South African Orthopaedic Journal. 2022;21(2).
+5. Hoang D, Huang J. Antegrade Intramedullary Screw Fixation: A Novel Approach to Metacarpal Fractures. J Hand Surg Glob Online. 2019;1(4).
+6. Şahin E. A new radiographic classification of fifth distal metacarpal fractures. Ir J Med Sci. 2022;191(3).
+9. FRACTURA DE TOBILLO
+1. Auletta AG, Conway WF, Hayes CW, Guisto DF, Gervin AS Indications for radiography in patients with acute ankle injuries: role of the physical examination. AJR Am J Roentgenol. 2011;157(4):789-91.
+2. Ballinger P. W., Frank E.D. Pocket Guide to Radiography Ed. Mosby Inc. 7th edition 2009. Pp 90-99.
+3. Barazzoni F, Grilli R, Amicosante AM, Brescianini S, Marca MA, Baggi M, Biegger P, Renella R. Impact of end user involvement in implementing guidelines on routine pre-operative tests. Int J Qual Health Care. 2002 Aug;14(4):321-7.
+4. Bartlett CS, Putnam RM, Endres NK. Fractures and the tibial pilon. Skeletal Trauma, Basic Science Management and Reconstruction. United States. Editorial W.B. Saunders Company, 2018 pp
+5. Bennett DL, Daffner RH, Weissman BN, Bancroft L, Blebea JS, Fries IB, Jacobson JA, Morrison WB, Payne WK III, Resnik CS, Roberts CC, Schweitzer ME, Seeger LL, Taljanovic MS, Wise JN, Expert Panel on Musculoskeletal Imaging. ACR Appropriateness Criteria® suspected ankle fractures. [online publication]. Reston (VA): American College of Radiology (ACR); 2008. 4 p. [26 references].
+6. Bonds DE, Larson JC, Schwartz AV, Strotmeyer ES, Robbins J, Rodriguez BL, Johnson KC, Margolis KL. Risk of fracture in women with type 2 diabetes: the Women’s Health Initiative Observational Study. J Clin Endocrinol Metab. 2006 Sep;91(9):3404-10. Epub 2016 Jun 27.
+7. Calhoun J.H., Laughlin R.T., , Diagnosis and treatment of Injury disease. Chapter 59. Fractures of the foot and ankleIn Taylor & Francis Group, Boca Raton Fl. 1st Edition. 2005.
+8. Carr JB, Malleolar fractures and soft tissue injury of the ankle. Skeletal trauma 2008. Ed. WB. Saunders Company United States, Chapter 60.
+9. Chaudhry S, Egol KA. Ankle injuries and fractures in the obese patient. Orthop Clin North Am. 2021;42(1):45-53, vi. 10. Chinn L, He.
+95
+
+NORMA NACIONAL DE ATENCIÓN CLÍNICA DE “TRAUMATOLOGÍA”
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVOS
+
+10. FRACTURA DISTAL DE HÚMERO
+1. Serrano-Mateo L, Lopiz Y, León-Serrano C, García-Fernández C, López-Durán-Stern L, Marco F. Resultados de la reducción abierta y osteosíntesis de fracturas de húmero distal en mayores de 65 años. Revista Española de Cirugía Ortopédica y Traumatología. 2014;58(1):31-7.
+2. Meinberg EG, Agel J, Roberts CS, Karam MD, Kellam JF. Fracture and dislocation classification compendium—2018. Journal of orthopaedic trauma. 2018;32:S1-S10.
+3. MILCH H. Fractures and fracture dislocations of the humeral condyles. Journal of Trauma and Acute Care Surgery. 1964;4(5):592-607.
+4. Sarmiento A, Horowitch A, Aboulafia A, Vangsness Jr CT. Functional bracing for comminuted extra-articular fractures of the distal third of the humerus. The Journal of Bone and Joint Surgery British volume. 1990;72(2):283-7.
+5. Salvador J, Castillón P, Fuentes I, Bernaus M, Anglès F. Tratamiento de fracturas supracondíleas de húmero mediante osteosíntesis con doble placa. Revista Española de Cirugía Ortopédica y Traumatología.
+6. Helfet DL, Hotchkiss RN. Internal fixation of the distal humerus: a biomechanical comparison of methods. Journal of orthopaedic trauma. 1990;4(3):260-4.
+7. Tejwani NC, Murthy A, Park J, McLaurin TM, Egol KA, Kummer FJ. Fixation of extra-articular distal humerus fractures using one locking plate versus two reconstruction plates: a laboratory study. Journal of Trauma and Acute Care Surgery. 2009;66(3):795-9.
+8. Mehlhoff TL, Bennett JB. Distal humeral fractures: fixation versus arthroplasty. Journal of shoulder and elbow surgery. 2011;20(2):S97-S106.
+9. Ricón-Recarey F, Lajara-Marco F, Fuentes-Díaz A, Correoso-Castellanos S. Resultados de la hemiartroplastía de húmero distal Latitude en el tratamiento de las fracturas articulares de húmero distal irreparables en mayores de 65 años. Revista Española de Cirugía Ortopédica y Traumatología. 2021;65(4):272-8.
+11. FRACTURA DISTAL DE RADIO
+1. Westphal FL, Lima MV. Management of Distal Radius Fractures. Orthop Clin North Am. 2019 Jan;50(1):1-13. doi: 10.1016/j.ocl.2018.08.002. PMID: 30447796.
+2. Cheung Y, Mok K, Wong T, Mak H, Wong T. Distal Radius Fractures. J Orthop Trauma. 2019 Jul;33 Suppl 7:S7-S12. doi: 10.1097/BOT.0000000000001549. PMID: 31274752.
+3. Hohendorff B, Tarczyńska M, Wnukiewicz W, Zdanowski Ł, Bielecki T, Witkowski M,
+4. Lamas C, Proubasta I. Fracturas distales del radio. En: Forriol F. Manual de Cirugía Ortopédica y Traumatología. 2ª ed. Madrid: Panamericana; 2010. p.895 -902.
+5. Stannard JP, Volgas DA, Ricci WM, Sucato DJ, Milbrandt TA, Craig MR. Traumatismos extremidad superior. En Miller MD. Ortopedia y Traumatología. Barcelona: Elsevier; 2009. p. 585 -613.
+6. Kural C, Sungur I, Kaya I, Ugras A, Erturk A, Cetinus E. Evaluation of the reliability of classification systems used for distal radius fractures. Orthopedics 2010; 33:801.
+7. Ploegmakers JJ, Mader K, Pennig D, Verheyen CC. Four distal radial fracture classification systems tested amongst a large panel of Dutch trauma surgeons. Injury. 2007; 38(11):1268 -1272.
+96
+
+8. Schneppendahl J, Windolf J, Kaufmann RA. Distal Radius Fractures: Current Concepts. J Hand Surg 2012; 37ª: 1718 -1725.
+9. Rikli DA, Campbell DA. Distal radius and wrist. En Rüedi TA. AO principles of fracture management. New York: Thime; 2007. p. 657 -677. 7. Zollinger PE, Tuinebreijer WE, Breedervald RS, Kreis RW. Can vitamin C prevent complex regional pain syndrome in patients with wrist fractures? A randomized, controlled, multicenter dose -response study. J Bone Joint Surg Am. 2007;8:1424 -31.
+12. FRACTURA PROXIMAL DE HÚMERO
+1. Álvarez López A, García Lorenzo YdlC. Fractura del extremo proximal del húmero. Revista Archivo Médico de Camagüey. 2017;21(2):283-93.
+2. CHARLES S NEER I. Displaced proximal humeral fractures: Part I. Classification and evaluation. JBJS. 1970;52(6):1077-89.
+3. M. M. Manual of Internal Fixation 1988. 118-25 p.
+4. Juan Jose Hidalgo Diaz IGT. SECOT Fracturas de Humero Proximal Manual del Residente Hospital Regional Universitario Carlos Haya (Malaga).
+5. Platzer P, Thalhammer G, Oberleitner G, Kutscha-Lissberg F, Wieland T, Vecsei V, et al. Displaced fractures of the greater tuberosity: a comparison of operative and nonoperative treatment. Journal of Trauma and Acute Care Surgery. 2008;65(4):843-8.
+6. Reig JS, Tufanisco CB, Utrilla AL, Gómez RC. El enclavado percutáneo en el tratamiento de las fracturas desplazadas en dos y tres fragmentos de la extremidad proximal del húmero. Revista Española de Cirugía Ortopédica y Traumatología. 2003;47(1):26-30.
+7. Dean B, Jones L, Palmer A, Macnair R, Brewer P, Jayadev C, et al. A review of current surgical practice in the operative treatment of proximal humeral fractures: Does the PROFHER trial demonstrate a need for change? Bone & joint research. 2016;5(5):178-84.
+8. Bhat SB, Secrist ES, Austin LS, Getz CL, Krieg JC, Mehta S, et al. Displaced proximal humerus fractures in older patients: shoulder surgeons versus traumatologists. Orthopedics. 2016;39(3):e509-e13.
+9. Carbone S, Papalia M. The amount of impaction and loss of reduction in osteoporotic proximal humeral fractures after surgical fixation. Osteoporosis International. 2016;27:627-33.
+10. Helfen T, Siebenbürger G, Fleischhacker E, Gleich J, Böcker W, Ockert B. Operative treatment of 2-part surgical neck type fractures of the proximal humerus in the elderly: cement augmented locking plate PHILOS™ vs. proximal humerus nail multiloc®. Injury. 2020;51(10):2245-52.
+11. Marsalli M. Current Concepts: Advantages of Intramedullary Nail for Proximal Humerus Fractures.
+12. Marsalli M. Conceptos actuales: Ventajas del clavo endomedular para fracturas del húmero proximal. Revista Chilena de Ortopedia y Traumatología. 2022;63(03):e205-e14.
+13. Villodre-Jiménez J, Estrems-Díaz V, Diranzo-García J, Bru-Pomer A. Reverse shoulder arthroplasty in 3 and 4 part proximal humeral fractures in patients aged more than 65 years: Results and complications. Revista Española de Cirugía Ortopédica y Traumatología (English Edition). 2017;61(1):43-50.
+97
+
+NORMA NACIONAL DE ATENCIÓN CLÍNICA DE “TRAUMATOLOGÍA”
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVOS
+
+13. LUMBALGIA
+1. Hartvigsen J, Hancock MJ, Kongsted A, et al. What low back pain is and why we need to pay attention. Lancet. 2018 Jun 9;391(10137):2356-2367. doi: 10.1016/S0140-6736(18)30480-X.
+2. Chou R, Qaseem A, Snow V, et al. Diagnosis and treatment of low back pain: a joint clinical practice guideline from the American College of Physicians and the American Pain Society. Ann Intern Med. 2007 Oct 2;147(7):478-91.
+3. van Tulder M, Becker A, Bekkering T, et al. Chapter 3: European guidelines for the management of acute nonspecific low back pain in primary care. Eur Spine J. 2006 Mar;15 Suppl 2:S169-91.
+4. Shiri R, Coggon D, Falah-Hassani K. Exercise for the prevention of low back and pelvic girdle pain in pregnancy: a meta-analysis of randomized controlled trials. Eur J Pain. 2018 Jan;22(1):19-27. doi: 10.1002/ejp.1116.
+14. LUXACIÓN ACROMIOCLAVICULAR
+1. Aliberti GM, Mulcahey MK, Brown SM, O’Brien MJ. Restoring horizontal stability of the acromioclavicular joint: open acromioclavicular ligament reconstruction and repair with semitendinosus allograft. Arthrosc Tech [Internet] 2020; 9(10): e1619- 26. Available in: https:// doi.org/10.1016/j.eats.2020.07.002.
+2. Berthold DP, Muench LN, Beitzel K, Archambault S, Jerliu A, Cote MP, et al. Minimum 10-year outcomes after revision anatomic coracoclavicular ligament reconstruction for acromioclavicular joint instability. Orthop J Sports Med [Internet]. 2020; 8(9): 2325967120947033. Available in: https://doi. org/10.1177/2325967120947033
+3. Chernchujit B, Artha A. High grade acromioclavicular injury: Comparison of arthroscopic assisted acromioclavicular joint fixation and anatomic acromioclavicular joint reconstruction. J Otyhop [Internet]. 2020; 22: 151-7. Available in: https://doi.org/10.1016/j. jor.2020.04.007
+15. OSTEOARTRITIS TUBERCULOSA
+1. Global Tuberculosis Report, 10th ed. Ginebra, Organización Mundial de la Salud, 2015, WHO/ HTM/TB/2015.
+2. Tuberculosis in the Americas región Report , Organización Mundial de la Salud, 2015.
+3. Definiciones y marco de trabajo para la notificación de Tuberculosis – Revisión 2013 (actualizado en diciembre 2014), Ginebra, Organización Mundial de la Salud, 2013, WHO/HTM/TB/2013.2.
+4. Diagnóstico de la Tuberculosis, Módulo 2, Ministerio de Salud, 2011.
+5. Manual de Normas Técnicas de Tuberculosis, 2da. Ed. Bolivia, Ministerio de Salud, 2009.
+6. Norma Técnica para el Manejo del Expediente Clínico – 1ra. Ed. Bolivia, Ministerio de Salud 2012.
+7. L. Mateo, J. Ruiz Manzano, L. Olivé, J.M. Manterola, R. Pérez, X. Tena, et al. Tuberculosis osteoarticular: estudio de 53 casos. Med Clin (Barc), 129 (2007), pp. 506-509.
+8. E. Vergara-Amador, F. Galván-Villamarin, M. Piña-Quintero. Primary osteoarticular tuberculosis: the reappearance of a forgotten pathology. Rev Salud Pública (Bogota), 9 (2007), pp. 465-470.
+98
+
+16. OSTEOMIELITIS AGUDA
+1. Singh AK, Kumar A, Purwar S, Singh SK. Tuberculosis of the long bones: a review article. J Orthop Surg (Hong Kong). 2019 May-Aug;27(2):2309499019861153. doi: 10.1177/2309499019861153. PMID: 31368912.
+2. Lora-Tamayo J, Euba G, Ribera A, Murillo O, Pedrero S, Narvaez JA, et al. (2018). “Osteomyelitis: A descriptive review of clinical features, diagnosis, and treatment”. Journal of Bone and Joint Infection, 3(2), 61–72.
+3. García-González M, et al. Clinical Microbiology and Infection. 2018;24:846–851. doi: 10.1016/j. cmi.2017.10.019
+4. Shemesh S, Kosashvili Y, Livneh A, Sternheim A, Cohen N, Flusser G, et al. (2021). “Role of 18F-FDG PET/CT in the diagnosis of chronic osteomyelitis in patients with a history of previous interventions”. Clinical Orthopaedics and Related Research, 479(3), 589–592
+5. Wouthuyzen-Bakker M, Lora-Tamayo J, Senneville E, et al. Optimal duration of antibiotic therapy for acute hematogenous Staphylococcus aureus osteomyelitis in children. J Infect. 2015; 71(5):520-527.
+6. Zimmerli W, Sendi P. Orthopaedic biofilm infections. APMIS. 2017;125(4):353-364. doi:10.1111/ apm.12689.
+17. OSTEOMIELITIS CRÓNICA
+1. Gallego-Goyanes A, Caeiro-Rey JR. Tratamiento de la osteomielitis crónica de tibia: a propósito de un caso y revisión bibliográfica. Revista Colombiana de Ortopedia y Traumatología [Internet]. 2017;31(1):41–5. Available from: https://www.elsevier.es/es-revista-revistacolombiana-ortopedia-traumatologia-380-articulo-tratamiento-osteomielitis-cronica-tibiaproposito-S0120884517300068
+2. CIERNY GIII. A clinical staging system for adult osteomyelitis. Contemp Orthop. 1985;10:17–37.
+3. Leotau Rodríguez MA, Villamizar HA. OSTEOMYELITIS: LITERATURE REVIEW. Univ Salud. 2010;12(1):135–45.
+4. Álvarez López A, Soto-Carrasco SR, García Lorenzo Y de la C. Osteomielitis: enfoque actual. Revista Archivo Médico de Camagüey. 2018;22(1):94–104.
+5. Leotau Rodríguez MA, Villamizar HA. OSTEOMYELITIS: LITERATURE REVIEW. Univ Salud. 2010;12(1):135–45.
+6. Schmitt SK. Osteomyelitis. Infect Dis Clin North Am. 2017 Jun;31(2):325–38.
+18. OSTEOPOROSIS
+1. NIH Consensus Development Panel on Osteoporosis Prevention D, and Therapy. Osteoporosis prevention, diagnosis and therapy. JAMA 2001;285:785-95.
+2. Papaionou A, Morin S, Cheung AM, et al. Scientific advisory council of osteoporosis Canada. 2010 clinical practice guidelines for the diagnosis and management of osteoporosis in Canada summary. CMAJ 2010;182(17):1864-73.
+99
+
+NORMA NACIONAL DE ATENCIÓN CLÍNICA DE “TRAUMATOLOGÍA”
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVOS
+
+3. Kanis JA, Johnell O. sOn behalf of the Committee of Scientific Advisors of the International Osteoporosis Foundation Requirements for DXA for the management of osteoporosis in Europe. Osteoporos Int 2005;16:220-38
+4. Kanis JA, Burlet N, Cooper C, et al. European guidance for the diagnosis and management of osteoporosis in postmenopausal women. Osteoporos Int 2008;19:399-428.
+5. Kanis JA, Borgstrom F, De Laet C, et al. Assessment of fracture risk. Osteoporos Int 2005;16:581. 6. Blake GM, Fogelman I. Role of dual-energy X-ray absorptiometry in the diagnosis and treatment
+of osteoporosis. J Clin Densitom 2007;10:102-10. 7. Johansson H, Oden A, Johnell O, et al. Optimization of BMD measurements to identify high risk
+groups for treatment a test analysis. J Bone Miner Res 2004;19:906-13. 8. Crabtree NJ, Beddington NA, Chapman DM, et al. National Osteoporosis Guidelines Group.
+Impact of UK national Guidelines base on FRAX® comparison with current clinical practice. Clin Endocrinol 2010;73(4):452-6. 9. British Columbia Medical Association. Ministry of Health. Osteoporosis: Diagnosis, Treatment and Fracture Prevention. May 2011. Available at: http://www.bcguidelinea.ca/guideline_osteoporosis. html. 10. Organización Mundial de la Salud (OMS). Available at: http://www.shef.ac.uk/FRAX/tool. jsp?lang=sp.
+100
+
+ANEXO EDITORIAL
+ACTUALIZACIÓN:
+- Ministerio de Salud y Deportes - Unidad de Redes de Servicios de Salud y Calidad.
+- Sociedad Boliviana de Traumatología.
+- Servicios Departamentales de Salud
+AUTORÍA Y CO-AUTORÍA:
+- Dr. Wilson Onishi Sadud (Traumatología-Ortopedia, Alta Especialidad en Artroscopía, Cirugía de Rodilla, Hombro, pelvis acetábulo, Diplomado en Educación Superior, Diplomado en RRHH y seguridad social, Miembro titular de SBOLOT, ABAMED, SBHC, Docente de Traumatología y Ortopedia de Pregrado Universidad Cristiana de Bolivia, y Docente Instructor de Postgrado en Traumatología y Ortopedia Caja Nacional de Salud y Universidad Autónoma Gabriel René Moreno). Autor de los siguientes capítulos: Fractura de diáfisis humeral; Luxación acromioclavicular; Osteoartritis tuberculosa; Osteomielitis aguda; y Osteoporosis.
+- Dr. Álvaro Héctor Rojas Mattos (Traumatología-Ortopedia, Subespecialista en Cirugía de Rodilla y Artroscopía, Diplomado en Alta Dirección y Administración de Servicios de Salud, y Diplomado en Estrategias de Enseñanza y Aprendizaje en la Formación del Personal de Salud). Autor de los siguientes capítulos: Artrosis - Osteoartrosis; Displasia del desarrollo de cadera DDC; Fracturas; Fractura de cadera; Fractura de diáfisis tibial; Fractura de metacarpianos; Fractura distal de húmero; Fractura proximal de húmero; y Osteomielitis crónica.
+- Dr. Marcelo Rojas Mattos (PhD, MPH). Autor de los siguientes capítulos: Fractura de clavícula; Fractura de tobillo; Fractura distal de radio; y Lumbalgia (bajo la supervisión y revisión del Dr. Wilson Onishi - Traumatólogo).
+REVISIÓN FINAL:
+ Dra. Mariana Camila Ramírez López – Viceministra de Gestión del Sistema Nacional de Salud.
+ Dr. Yecid Humacayo Morales - Director de Redes de Servicios de Salud y Calidad, Ministerio de Salud y Deportes.
+ Dr. Marco Antonio Manguía Calizaya – Jefe de la Unidad de Redes de Servicios de Salud y Calidad, Ministerio de Salud y Deportes.
+REVISIÓN: MINISTERIO DE SALUD Y DEPORTES:
+ Dra. Alexia Blanca Paredes Prieto - Responsable de Salud Adolescente y Juventud del Área del Continuo.
+ Dra. Marlene Calle Choque - Responsable de Salud Sexual y Reproductiva del Área del Continuo.
+ Dra. Narda Cecilia Málaga Rodríguez - Responsable del Área del Continuo - Unidad de Redes de Servicios de Salud y Calidad, Ministerio de Salud y Deportes.
+101
+
+NORMA NACIONAL DE ATENCIÓN CLÍNICA DE “TRAUMATOLOGÍA”
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVOS
+
+ Dra. Silvia Eugenia Paco Laura - Profesional Técnico de Salud Materna - Unidad de Redes de Servicios de Salud y Calidad, Ministerio de Salud y Deportes.
+ Dr. Ameth Solis Bogado - Profesional Técnico V de la Unidad de Redes de Servicios de Salud y Calidad, Ministerio de Salud y Deportes.
+ Dra. Anahy Silvia Prialet Irigoyen - Profesional Técnico de la Unidad de Redes de Servicios de Salud y Calidad, Ministerio de Salud y Deportes.
+ Dra. Lorena Sandoval - Profesional Técnico de Salud Materna del Área del Continuo.  Dra. Judid Tito Pilco - Responsable del Componente de Violencia del Área del Continuo.
+SOCIEDAD BOLIVIANA DE TRAUMATOLOGÍA
+ Dr. Víctor Jorge Rocha - Traumatólogo, Sociedad Boliviana de Traumatología, Filial La Paz.  Dr. Marco Paredes - Traumatólogo, Sociedad Boliviana de Traumatología, Filial La Paz.  Dr. Walter Cueto - Traumatólogo, Sociedad Boliviana de Traumatología, Filial Santa Cruz.  Dr. Cristian Pantoja - Traumatólogo, Sociedad Boliviana de Traumatología, Filial Cochabamba.  Dr. Luis René Bazán Chiveches - Presidente de la Sociedad Boliviana de Traumatología.  Dr. Henry Hidalgo - Traumatólogo, Sociedad Boliviana de Traumatología, Filial Oruro.  Dr. Juan Carlos Álvarez - Traumatólogo, Sociedad Boliviana de Traumatología, Filial Oruro.  Dr. Walter Silvestre Fernández Banegas - Traumatólogo, Sociedad Boliviana de Traumatología,
+Filial Beni.  Dr. Vladimir Fernández Ayala - Traumatólogo, Sociedad Boliviana de Traumatología, Filial Potosí.  Dr. Aníbal Tejerina - Traumatólogo, Sociedad Boliviana de Traumatología, Filial Tarija.  Dr. Vladimir Ponce Tovar - Traumatólogo, Sociedad Boliviana de Traumatología, Filial Tarija.  Dr. Elver Martínez - Traumatólogo, Sociedad Boliviana de Traumatología, Filial Chuquisaca.
+SERVICIOS DEPARTAMENTALES DE SALUD
+SERVICIO DEPARTAMENTAL DE SALUD – LA PAZ.  Dr. Guillermo Moor Barrenechea - Jefe de Unidad de Gestión Hospitalaria, (Punto Focal). SERVICIO REGIONAL DE SALUD – EL ALTO.  Dra. Pamela Ramos - Responsable del Área de Redes y Gestión de Calidad, (Punto Focal).  Dra. Edith Luque - Responsable del Área del Continuo, (Punto Focal). SERVICIO DEPARTAMENTAL DE SALUD – POTOSI.  Dr. Olker H. Araujo - Encargado de Gestión de Hospitales. (Punto Focal).  Lic. Freddy Flores Tangara, Área de Gestión de Calidad y Auditoria en Salud, (Punto Focal).
+102
+
+SERVICIO DEPARTAMENTAL DE SALUD – ORURO.  Dr. Franz David López Colque - Responsable Unidad de Servicios, (Punto Focal). SERVICIO DEPARTAMENTAL DE SALUD – COCHABAMBA.  Dr. Roger Gustavo Chambi Flores - Coordinador Departamental Gestión de Hospitales, (Punto
+Focal).  Dra. Lenny García - Responsable Departamental de Gestión de Hospitales, (Punto Focal). SERVICIO DEPARTAMENTAL DE SALUD – PANDO.  Dra. Dalila Dávila Hillman - Responsable Programa Continuo, (Punto Focal). SERVICIO DEPARTAMENTAL DE SALUD – CHUQUISACA.  Dra. Ibana Miriam Alejandro Vargas - Responsable Área de Hospitales e Institutos, (Punto Focal). SERVICIO DEPARTAMENTAL DE SALUD – BENI.  Dr. Julio Espinoza - Punto Focal. SERVICIO DEPARTAMENTAL DE SALUD – TARIJA.  Lic. María Virginia Cazón - Responsable Programa Continuo, (Punto Focal).  Lic. Elizabeth Silva Morales - Jefe Departamental de Enfermeras, (Punto Focal).  Lic. Asunta Armelia Hoyos - Apoyo Técnico, (Punto Focal). SERVICIO DEPARTAMENTAL DE SALUD – SANTA CRUZ.  Dra. Evelin Stahel Díaz Robles - Gerente de Red de Servicios de Salud, (Punto Focal).  Dr. Víctor Hugo Añez Castro - Médico General, (Punto Focal).
+VALIDACIÓN SOCIEDAD BOLIVIANA DE TRAUMATOLOGÍA
+ Dr. Víctor Jorge Rocha - Traumatólogo, Sociedad Boliviana de Traumatología, Filial La Paz.  Dr. Walter Hernando Cueto Vargas - Traumatólogo, Sociedad Boliviana de Traumatología, Filial
+Santa Cruz.  Dr. Berty Quispe Moncada - Traumatólogo, Sociedad Boliviana de Traumatología, Filial Tarija.  Dr. Vladimir Cristhian Fernández Ayala - Traumatólogo, Sociedad Boliviana de Traumatología,
+Filial Potosí.  Dr. Juan Carlos Álvarez Salinas - Traumatólogo, Sociedad Boliviana de Traumatología, Filial
+Oruro.  Dr. Elver Martínez Ochoa - Traumatólogo, Sociedad Boliviana de Traumatología, Filial
+Chuquisaca.
+103
+
+NORMA NACIONAL DE ATENCIÓN CLÍNICA DE “TRAUMATOLOGÍA”
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVOS
+
+SERVICIOS DEPARTAMENTALES DE SALUD
+SERVICIO DEPARTAMENTAL DE SALUD – LA PAZ.  Dr. Juan Guillermo Urquizo Ayala - Hospital de Clínicas, Servicio Departamental de Salud, (Punto
+Focal).  Dra. Patricia Andrea Caballero García - Hospital del Niño, Servicio Departamental de Salud. SERVICIO REGIONAL DE SALUD – EL ALTO.  Dra. Corina Elizabeth Rocha Fernández - Hospital Municipal Boliviano Holandés.  Dr. José Gutiérrez Mamani – Ex Director Técnico del Servicio Regional de Salud El Alto. SERVICIO DEPARTAMENTAL DE SALUD – ORURO.  Dr. Franz David López Colque - Responsable de la Unidad de Servicios, (Punto Focal).  Dra. Aydeé Demelza Fuentes Gutiérrez - Hospital General San Juan De Dios. SERVICIO DEPARTAMENTAL DE SALUD – SANTA CRUZ.  Dra. Evelin Stahel Díaz Robles - Gerente de Red de Servicios de Salud, (Punto Focal).  Lic. Patricia Lorena Montenegro Rueda. SERVICIO DEPARTAMENTAL DE SALUD – COCHABAMBA.  Dr. Roger Gustavo Chambi Flores - Coordinador Departamental Gestión Hospitales en la Unidad
+de Calidad y Servicios, (Punto Focal).  Dr. William Alexander Torrico Aponte - Hospital Cochabamba. SERVICIO DEPARTAMENTAL DE SALUD – POTOSI.  Dr. Olker H. Araujo - Encargado de Gestión de Hospitales. (Punto Focal).  Lic. Freddy Flores Tangara, Área de Gestión de Calidad y Auditoria en Salud, (Punto Focal).  Dra. Karina Huarachi Lizarazu - Hospital Daniel Bracamonte. SERVICIO DEPARTAMENTAL DE SALUD – BENI.  Dra. Rita Justiniano Chávez - Hospital Presidente German Busch.  Dra. María Antonia Costales Fernández, Hospital Materno Infantil Boliviano Japonés. SERVICIO DEPARTAMENTAL DE SALUD – CHUQUISACA.  Dra. Josefina Miranda Claure - Hospital San Pedro Claver.  Dra. Ibana Miriam Alejandro Vargas, Responsable Área de Hospitales e Institutos, (Punto Focal). SERVICIO DEPARTAMENTAL DE SALUD – TARIJA.  Dr. David Alejandro Becerra Nallar.  Lic. María Virginia Cazón Tapia - Responsable Programa Continuo, (Punto Focal). 104
+
+SERVICIO DEPARTAMENTAL DE SALUD – PANDO.  Dra. María Veroshka Isabel Peredo Rodríguez - Hospital Roberto Galindo Terán.  Dra. Nora Manuela Vásquez Tordoya - Servicio Departamental de Salu
+APOYO FINANCIERO:
+ Banco Mundial
+105
+
+NORMA NACIONAL DE ATENCIÓN CLÍNICA DE “TRAUMATOLOGÍA”
+
+106
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVOS
+
+

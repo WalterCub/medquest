@@ -1,0 +1,16 @@
+# PDFs de las normas (~70 MB). Se bajan de minsalud.gob.bo; ver README.
+# El texto extraido (fuentes/texto/) si se versiona: el validador lo necesita.
+fuentes/**/*.pdf
+
+# clave de respuestas: material de revision, no se publica
+revision/
+
+# se genera con node tools/build.mjs
+dist/
+
+# configuracion local
+.claude/
+node_modules/
+.DS_Store
+Thumbs.db
+desktop.ini

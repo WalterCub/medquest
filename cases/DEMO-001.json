@@ -1,0 +1,416 @@
+{
+  "id": "DEMO-001",
+  "titulo": "La fragua apagada",
+  "area": "DEMO",
+  "subarea": "Caso de prueba del motor",
+  "dificultad": 1,
+  "estado": "VALIDADO",
+  "tipo": "prueba",
+  "nivelesDisponibles": [
+    1
+  ],
+  "tiempoSugeridoSeg": 420,
+  "notaDeAutoria": "CONTENIDO DE PRUEBA, NO MEDICO. Existe unicamente para validar el ciclo del motor: descubrimiento, registro de decisiones, cierre, tribunal y evaluacion. No contiene ni debe contener informacion clinica.",
+  "presentacionInicial": {
+    "texto": "El herrero del pueblo te manda llamar. Su fragua ya no alcanza temperatura: el hierro se pone rojo pero nunca llega al naranja, y desde hace cuatro dias no puede terminar un solo trabajo. El carbon esta encendido y la chimenea tira humo con normalidad.",
+    "signosVitales": {
+      "Temperatura maxima alcanzada": "aprox. 750 grados (antes llegaba a 1200)",
+      "Tiempo de calentamiento": "45 minutos (antes 12)",
+      "Consumo de carbon": "el doble que antes",
+      "Tiro de chimenea": "normal"
+    },
+    "contexto": "Taller de herreria, aldea de montana. Te llaman a domicilio y no tienes taller propio ni instrumentos de precision."
+  },
+  "descubrimiento": {
+    "anamnesis": {
+      "etiqueta": "Preguntar al herrero",
+      "exigeDeclaracionPrevia": true,
+      "items": [
+        {
+          "clave": "inicio",
+          "texto": "Empezo de golpe, un lunes en la manana. El viernes anterior la fragua funcionaba perfecto."
+        },
+        {
+          "clave": "cambios",
+          "texto": "Ese fin de semana su sobrino limpio el taller entero y movio cosas de lugar.",
+          "critico": true
+        },
+        {
+          "clave": "carbon",
+          "texto": "El carbon es del mismo proveedor de siempre, del mismo saco que venia usando antes de la falla."
+        },
+        {
+          "clave": "ruido",
+          "texto": "Dice que el fuelle ahora hace un silbido que antes no hacia, sobre todo al empujar.",
+          "critico": true
+        },
+        {
+          "clave": "intentos",
+          "texto": "Ya probo mas carbon, carbon nuevo, y limpiar la chimenea. Nada cambio."
+        },
+        {
+          "clave": "clima",
+          "texto": "No hubo lluvia ni humedad fuera de lo normal esa semana."
+        }
+      ]
+    },
+    "examenFisico": {
+      "etiqueta": "Inspeccionar la fragua",
+      "exigeDeclaracionPrevia": true,
+      "items": [
+        {
+          "clave": "lecho",
+          "texto": "El lecho de carbon esta bien armado y encendido de forma homogenea."
+        },
+        {
+          "clave": "tobera",
+          "texto": "La tobera de entrada de aire esta limpia y despejada."
+        },
+        {
+          "clave": "fuelle_ext",
+          "texto": "El fuelle se mueve con recorrido completo y sin resistencia anormal."
+        },
+        {
+          "clave": "fuelle_valv",
+          "texto": "En la valvula de admision del fuelle hay una grieta de unos tres centimetros en el cuero, por donde se siente salir aire al empujar.",
+          "critico": true
+        },
+        {
+          "clave": "chimenea",
+          "texto": "La chimenea esta limpia y el humo sube recto."
+        },
+        {
+          "clave": "estructura",
+          "texto": "La estructura de ladrillo esta intacta, sin fisuras ni perdidas de calor visibles."
+        }
+      ]
+    },
+    "otrosEstudios": {
+      "etiqueta": "Mediciones",
+      "items": [
+        {
+          "clave": "flujo_tobera",
+          "nombre": "Medir el flujo de aire en la tobera",
+          "resultado": "Flujo muy por debajo de lo esperado para el recorrido del fuelle.",
+          "nivelMinimo": 1
+        },
+        {
+          "clave": "flujo_fuelle",
+          "nombre": "Medir el flujo de aire a la salida del fuelle",
+          "resultado": "Tambien bajo, y con fuga audible en la admision. La perdida esta en el fuelle, no en el conducto.",
+          "nivelMinimo": 1
+        },
+        {
+          "clave": "calidad_carbon",
+          "nombre": "Probar el carbon en un brasero aparte",
+          "resultado": "El carbon alcanza temperatura normal fuera de la fragua.",
+          "nivelMinimo": 1
+        },
+        {
+          "clave": "temp_lecho",
+          "nombre": "Medir temperatura del lecho con pirometro",
+          "resultado": "750 grados como maximo, estable, sin picos.",
+          "nivelMinimo": 1
+        }
+      ]
+    }
+  },
+  "estudiosPlausiblesNoIncluidos": [
+    {
+      "nombre": "Analisis quimico del carbon en laboratorio",
+      "preguntaTribunal": "Pidio un analisis quimico del carbon. Ya habia probado el carbon en un brasero aparte con resultado normal. Justifique para que pidio el analisis.",
+      "comentarioFuente": "El caso de prueba no contempla este estudio."
+    },
+    {
+      "nombre": "Desarmar la estructura de ladrillo de la fragua",
+      "preguntaTribunal": "Propuso desarmar la fragua. Explique que hallazgo esperaba y por que no le alcanzaba la inspeccion externa.",
+      "comentarioFuente": "El caso de prueba no contempla este estudio."
+    }
+  ],
+  "rubrica": {
+    "diagnosticosEsperados": [
+      {
+        "clave": "dx_fuelle",
+        "texto": "Fuga de aire por grieta en la valvula de admision del fuelle, con caida del flujo hacia la tobera",
+        "valoracion": "ESPERADO",
+        "fuente": 0,
+        "sinonimos": [
+          "fuelle",
+          "valvula",
+          "fuga de aire",
+          "grieta en el cuero",
+          "fuga en el fuelle"
+        ],
+        "conceptoLigado": "c_flujo"
+      }
+    ],
+    "diagnosticosDiferenciales": [
+      {
+        "clave": "dd_carbon",
+        "texto": "Carbon de mala calidad o humedo",
+        "valoracion": "ESPERADO",
+        "fuente": 0,
+        "sinonimos": [
+          "carbon",
+          "combustible"
+        ]
+      },
+      {
+        "clave": "dd_tobera",
+        "texto": "Obstruccion de la tobera o del conducto de aire",
+        "valoracion": "ESPERADO",
+        "fuente": 0,
+        "sinonimos": [
+          "tobera",
+          "obstruccion",
+          "conducto"
+        ]
+      },
+      {
+        "clave": "dd_chimenea",
+        "texto": "Tiro de chimenea deficiente",
+        "valoracion": "ACEPTABLE",
+        "fuente": 0,
+        "sinonimos": [
+          "chimenea",
+          "tiro"
+        ]
+      },
+      {
+        "clave": "dd_perdida",
+        "texto": "Perdida de calor por dano de la estructura",
+        "valoracion": "ACEPTABLE",
+        "fuente": 0,
+        "sinonimos": [
+          "estructura",
+          "ladrillo",
+          "perdida de calor"
+        ]
+      },
+      {
+        "clave": "dd_lecho",
+        "texto": "Lecho de carbon mal armado",
+        "valoracion": "OPCIONAL",
+        "fuente": 0,
+        "sinonimos": [
+          "lecho"
+        ]
+      }
+    ],
+    "estudios": [
+      {
+        "clave": "flujo_fuelle",
+        "texto": "Medir el flujo a la salida del fuelle: localiza la perdida",
+        "valoracion": "ESPERADO",
+        "fuente": 0
+      },
+      {
+        "clave": "flujo_tobera",
+        "texto": "Medir el flujo en la tobera: confirma que el aire que llega es insuficiente",
+        "valoracion": "ESPERADO",
+        "fuente": 0
+      },
+      {
+        "clave": "calidad_carbon",
+        "texto": "Probar el carbon aparte: descarta el diferencial mas barato",
+        "valoracion": "ACEPTABLE",
+        "fuente": 0
+      },
+      {
+        "clave": "temp_lecho",
+        "texto": "Medir temperatura del lecho: cuantifica el problema pero no lo localiza",
+        "valoracion": "OPCIONAL",
+        "fuente": 0
+      }
+    ],
+    "conductas": [
+      {
+        "clave": "cx_reparar",
+        "texto": "Reparar o reemplazar el cuero de la valvula de admision del fuelle",
+        "valoracion": "ESPERADO",
+        "fuente": 0,
+        "nivel": [
+          1
+        ],
+        "sinonimos": [
+          "reparar el fuelle",
+          "cambiar el cuero",
+          "parchar la valvula",
+          "reemplazar el fuelle"
+        ]
+      },
+      {
+        "clave": "cx_verificar",
+        "texto": "Verificar despues de la reparacion que la temperatura vuelve al rango previo",
+        "valoracion": "ESPERADO",
+        "fuente": 0,
+        "nivel": [
+          1
+        ],
+        "sinonimos": [
+          "verificar",
+          "comprobar",
+          "volver a medir"
+        ]
+      },
+      {
+        "clave": "cx_revisar_resto",
+        "texto": "Revisar el resto del fuelle por si la limpieza del sobrino dejo otros danos",
+        "valoracion": "ACEPTABLE",
+        "fuente": 0,
+        "nivel": [
+          1
+        ],
+        "sinonimos": [
+          "revisar el resto",
+          "buscar otros danos"
+        ]
+      },
+      {
+        "clave": "cx_carbon",
+        "texto": "Cambiar el carbon",
+        "valoracion": "NO_CONTEMPLADO_POR_LA_FUENTE",
+        "fuente": 0,
+        "nivel": [
+          1
+        ],
+        "sinonimos": [
+          "cambiar el carbon",
+          "comprar otro carbon"
+        ]
+      }
+    ],
+    "informacionCritica": [
+      {
+        "clave": "ruido",
+        "texto": "El silbido nuevo del fuelle al empujar",
+        "valoracion": "ESPERADO",
+        "fuente": 0
+      },
+      {
+        "clave": "fuelle_valv",
+        "texto": "La grieta en la valvula de admision del fuelle",
+        "valoracion": "ESPERADO",
+        "fuente": 0
+      },
+      {
+        "clave": "cambios",
+        "texto": "La limpieza del taller el fin de semana previo al inicio de la falla",
+        "valoracion": "ESPERADO",
+        "fuente": 0
+      }
+    ],
+    "conceptosClave": [
+      {
+        "id": "c_flujo",
+        "enunciado": "Cuando la salida final falla, hay que medir a lo largo de la cadena y no solo al final: el punto donde el valor cae es el punto de la falla.",
+        "fuente": 0
+      },
+      {
+        "id": "c_cronologia",
+        "enunciado": "Una falla de inicio brusco suele tener una causa mecanica reciente. Preguntar que cambio justo antes es mas rentable que ampliar los estudios.",
+        "fuente": 0
+      },
+      {
+        "id": "c_barato",
+        "enunciado": "Descartar primero el diferencial mas barato de descartar deja el terreno limpio para lo demas.",
+        "fuente": 0
+      }
+    ]
+  },
+  "tribunal": [
+    {
+      "id": "t1",
+      "pregunta": "Diga cual es su diagnostico principal y cuales son los datos concretos del caso que lo sostienen.",
+      "disparador": {
+        "tipo": "siempre"
+      },
+      "loQueSeEsperaOir": [
+        "La fuga en la valvula del fuelle",
+        "El silbido nuevo al empujar",
+        "La grieta visible en el cuero",
+        "El flujo bajo medido a la salida del fuelle"
+      ],
+      "conceptoLigado": "c_flujo",
+      "fuente": 0
+    },
+    {
+      "id": "t2",
+      "pregunta": "Midio el flujo en la tobera. Que estaba intentando confirmar o descartar con esa medicion?",
+      "disparador": {
+        "tipo": "siPidio",
+        "clave": "flujo_tobera"
+      },
+      "loQueSeEsperaOir": [
+        "Que el aire que llega al lecho es insuficiente",
+        "Que el problema esta en el aire y no en el combustible"
+      ],
+      "conceptoLigado": "c_flujo",
+      "fuente": 0
+    },
+    {
+      "id": "t3",
+      "pregunta": "No midio el flujo a la salida del fuelle. Considera que era necesario? Justifique.",
+      "disparador": {
+        "tipo": "siNoPidio",
+        "clave": "flujo_fuelle"
+      },
+      "loQueSeEsperaOir": [
+        "Es la medicion que localiza la perdida",
+        "Sin ella no se distingue fuga del fuelle de obstruccion del conducto"
+      ],
+      "conceptoLigado": "c_flujo",
+      "fuente": 0
+    },
+    {
+      "id": "t4",
+      "pregunta": "Propuso cambiar el carbon. El caso no contempla esa conducta como resolutiva. Justifique su decision.",
+      "disparador": {
+        "tipo": "siConducta",
+        "clave": "cx_carbon"
+      },
+      "loQueSeEsperaOir": [
+        "Reconocer que el carbon ya se habia probado aparte con resultado normal"
+      ],
+      "conceptoLigado": "c_barato",
+      "fuente": 0
+    },
+    {
+      "id": "t5",
+      "pregunta": "No pregunto que cambio en el taller antes de que empezara la falla. Que valor tenia ese dato?",
+      "disparador": {
+        "tipo": "siOmitioInfo",
+        "clave": "cambios"
+      },
+      "loQueSeEsperaOir": [
+        "La limpieza del fin de semana explica el inicio brusco",
+        "Orienta a una causa mecanica reciente"
+      ],
+      "conceptoLigado": "c_cronologia",
+      "fuente": 0
+    },
+    {
+      "id": "t6",
+      "pregunta": "No tiene repuesto de cuero y el proveedor esta a dos dias de camino. Que hace hoy y que le indica al herrero mientras tanto?",
+      "disparador": {
+        "tipo": "siempre"
+      },
+      "loQueSeEsperaOir": [
+        "Una reparacion provisional de la fuga",
+        "Advertir que es temporal y que hay que reemplazar la pieza",
+        "Verificar el resultado antes de irse"
+      ],
+      "conceptoLigado": "c_flujo",
+      "fuente": 0
+    }
+  ],
+  "fuentes": [
+    {
+      "institucion": "MedQuest",
+      "documento": "Caso de prueba interno. No es contenido medico y no proviene de bibliografia clinica.",
+      "anio": "2026",
+      "capitulo": "Validacion del motor",
+      "consultado": "2026-09-21"
+    }
+  ]
+}

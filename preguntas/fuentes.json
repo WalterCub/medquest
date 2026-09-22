@@ -1,0 +1,51 @@
+{
+  "nnac-mi": {
+    "corto": "NNAC Medicina Interna",
+    "documento": "Norma Nacional de Atencion Clinica de Medicina Interna. Serie: Documentos Tecnico Normativos No. 540",
+    "anio": "2025",
+    "resolucion": "RM 0456 de 30 de septiembre de 2025",
+    "url": "https://www.minsalud.gob.bo/8850-norma-nacional-de-atencion-clinica-nnac",
+    "pdf": "fuentes/nnac/1_NNAC MEDICINA INTERNA.pdf",
+    "texto": "fuentes/texto/nnac-mi.txt",
+    "desfase": 0
+  },
+  "nnac-tra": {
+    "corto": "NNAC Traumatologia",
+    "documento": "Norma Nacional de Atencion Clinica de Traumatologia. Serie: Documentos Tecnico Normativos No. 542",
+    "anio": "2025",
+    "resolucion": "RM 0456 de 30 de septiembre de 2025",
+    "url": "https://www.minsalud.gob.bo/8850-norma-nacional-de-atencion-clinica-nnac",
+    "pdf": "fuentes/nnac/3_NNAC TRAUMATOLOGIA.pdf",
+    "texto": "fuentes/texto/nnac-tra.txt",
+    "desfase": 0
+  },
+  "nnac-urg": {
+    "corto": "NNAC Urgencias y Emergencias",
+    "documento": "Norma Nacional de Atencion Clinica de Urgencias y Emergencias. Serie: Documentos Tecnico Normativos No. 543",
+    "anio": "2025",
+    "resolucion": "RM 0456 de 30 de septiembre de 2025",
+    "url": "https://www.minsalud.gob.bo/8850-norma-nacional-de-atencion-clinica-nnac",
+    "pdf": "fuentes/nnac/4_NNAC URGENCIAS Y EMERGENCIAS.pdf",
+    "texto": "fuentes/texto/nnac-urg.txt",
+    "desfase": 0
+  },
+  "nnac-ped": {
+    "corto": "NNAC Pediatria",
+    "documento": "Norma Nacional de Atencion Clinica de Pediatria. Serie: Documentos Tecnico Normativos No. 541",
+    "anio": "2025",
+    "resolucion": "RM 0456 de 30 de septiembre de 2025",
+    "url": "https://www.minsalud.gob.bo/8850-norma-nacional-de-atencion-clinica-nnac",
+    "pdf": "fuentes/nnac/6_NNAC PEDIATRIA.pdf",
+    "texto": "fuentes/texto/nnac-ped.txt",
+    "desfase": 0
+  },
+  "carac-1": {
+    "corto": "Caracterizacion de primer nivel",
+    "documento": "Norma Nacional de Caracterizacion de Establecimientos de Salud de Primer Nivel. 2da edicion. Serie: Documentos Tecnico Normativos No. 284",
+    "anio": "2013",
+    "url": "https://www.minsalud.gob.bo/images/Documentacion/redes_salud/Inivelseguro.pdf",
+    "pdf": "fuentes/caracterizacion/primer-nivel_pub284_2013.pdf",
+    "texto": "fuentes/texto/carac-1.txt",
+    "desfase": 2
+  }
+}

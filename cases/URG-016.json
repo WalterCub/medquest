@@ -1,0 +1,433 @@
+{
+  "id": "URG-016",
+  "titulo": "Joven que tomo veneno para plagas",
+  "area": "MI",
+  "subarea": "Urgencias: intoxicacion aguda por inhibidor de colinesterasa",
+  "dificultad": 3,
+  "estado": "BORRADOR",
+  "tipo": "medico",
+  "nivelesDisponibles": [1, 2, 3],
+  "tiempoSugeridoSeg": 1800,
+  "notaDeAutoria": "La vineta clinica y los resultados de estudios los redacto el autor del caso para que apliquen los criterios de la fuente; NO provienen de un paciente real ni de un caso publicado. Todo el contenido evaluable (definicion de caso sospechoso, manifestaciones, examenes, diferenciales, medidas por nivel, descontaminacion, antidotos, criterios de referencia y alta, prevencion) proviene del capitulo 16 'Intoxicacion Aguda por Inhibidor de Colinesterasa' de la Norma Nacional de Atencion Clinica de Urgencias y Emergencias (fuente 0), con la pagina indicada en cada item. La tabla de antidotos de la fuente (p. 151) esta desalineada en el PDF: se tomo la dosis de atropina, la de oximas y la frase 'no esta indicada por el alto volumen de distribucion' como referida a la hemodialisis; conviene confirmarlo en el impreso. Los nivelMinimo de los estudios se anclan a las normas de caracterizacion de primer nivel (fuente 1) y segundo nivel (fuente 2); en el juego, nivel 1 es el Centro de Salud con Internacion. Estado BORRADOR: falta verificar cada pagina contra el PDF y la revision por una segunda persona del area.",
+  "presentacionInicial": {
+    "texto": "Varon de 19 anos traido por su madre. Hace unos 40 minutos, despues de una discusion en casa, tomo un liquido de una botella de insecticida que usan en la chacra. Vomito dos veces en el camino. Esta sudoroso, babea y dice que ve borroso. La madre trae la botella en una bolsa.",
+    "signosVitales": {
+      "Presion arterial": "90/60 mmHg",
+      "Frecuencia cardiaca": "48 lpm",
+      "Frecuencia respiratoria": "28 por minuto",
+      "Temperatura": "35.9 C",
+      "Saturacion de oxigeno": "88% (aire ambiente)"
+    },
+    "contexto": "Puedes jugar este caso en primer, segundo o tercer nivel de atencion. El nivel cambia que estudios estan disponibles y cual es la conducta que la norma espera de ti."
+  },
+  "descubrimiento": {
+    "anamnesis": {
+      "etiqueta": "Interrogar al paciente y a la madre",
+      "exigeDeclaracionPrevia": true,
+      "items": [
+        { "clave": "producto", "texto": "La etiqueta de la botella dice 'Clorpirifos'. Es un insecticida que su padre usa para la papa.", "critico": true },
+        { "clave": "tiempo", "texto": "Lo tomo hace unos 40 minutos. La madre calcula que fue 'un trago grande'.", "critico": true },
+        { "clave": "via", "texto": "Lo tomo por la boca. Al tomarlo se le chorreo sobre la camisa, que todavia tiene puesta y huele a quimico.", "critico": true },
+        { "clave": "intencion", "texto": "Al preguntarle a solas, dice que lo tomo porque 'ya no queria seguir'. Es la primera vez que hace algo asi.", "critico": true },
+        { "clave": "sintomas_gi", "texto": "Tiene nauseas, vomito dos veces, colicos y una deposicion liquida en el camino.", "critico": true },
+        { "clave": "otros_toxicos", "texto": "Niega haber tomado alcohol, medicamentos u otro producto." }
+      ]
+    },
+    "antecedentes": {
+      "etiqueta": "Antecedentes",
+      "exigeDeclaracionPrevia": true,
+      "items": [
+        { "clave": "psiquiatrico", "texto": "La madre cuenta que en los ultimos meses esta aislado y duerme mal. Nunca fue atendido por psicologia ni psiquiatria." },
+        { "clave": "alergias", "texto": "No tiene alergias conocidas a medicamentos." },
+        { "clave": "comorbilidad", "texto": "Sano. No toma ningun medicamento. Vacunas al dia segun la madre." }
+      ]
+    },
+    "examenFisico": {
+      "etiqueta": "Examinar al paciente",
+      "exigeDeclaracionPrevia": true,
+      "items": [
+        { "clave": "conciencia", "texto": "Despierto, ansioso, responde a ordenes. Glasgow 15/15. No convulsiona.", "critico": true },
+        { "clave": "pupilas", "texto": "Miosis bilateral puntiforme. Lagrimeo abundante.", "critico": true },
+        { "clave": "secreciones", "texto": "Sialorrea abundante. Sudoracion profusa en todo el cuerpo.", "critico": true },
+        { "clave": "pulmones", "texto": "Crepitantes y roncus difusos en ambos campos por abundantes secreciones bronquiales. Sibilancias espiratorias.", "critico": true },
+        { "clave": "musculos", "texto": "Fasciculaciones en parpados, cara y musculos del torax. Fuerza muscular disminuida en las cuatro extremidades.", "critico": true },
+        { "clave": "cardio_ex", "texto": "Bradicardia regular. Pulsos perifericos debiles. Llenado capilar de 3 segundos." },
+        { "clave": "piel_ropa", "texto": "Camisa humeda con el producto en el pecho. Piel del torax sin lesiones visibles." }
+      ]
+    },
+    "laboratorio": {
+      "etiqueta": "Laboratorio",
+      "items": [
+        {
+          "clave": "hemograma",
+          "nombre": "Hemograma",
+          "resultado": "Leucocitos 13.200/mm3. Hematocrito 46%. Plaquetas normales.",
+          "nivelMinimo": 1,
+          "fuente": 0,
+          "nivelFuente": 1,
+          "nivelPagina": "37, 121",
+          "nivelNota": "La norma de primer nivel asigna laboratorio basico al Centro de Salud con Internacion, con analizador hematologico, contador diferencial y lector de hematocrito.",
+          "nivelAnclaje": "COMPLETO"
+        },
+        {
+          "clave": "bioquimica",
+          "nombre": "Glucemia, urea y creatinina",
+          "resultado": "Glucemia 186 mg/dl. Urea 30 mg/dl. Creatinina 0.9 mg/dl.",
+          "nivelMinimo": 2,
+          "fuente": 0,
+          "nivelFuente": 1,
+          "nivelPagina": "121, 204",
+          "nivelNota": "El laboratorio basico del Centro de Salud con Internacion no lista equipo de bioquimica (norma de primer nivel, p. 121); la bioquimica aparece en el laboratorio completo del Centro de Salud Integral (p. 204). Falta confirmar el detalle en la norma de segundo nivel (cap. XIII, aun no descargado).",
+          "nivelAnclaje": "PARCIAL"
+        },
+        {
+          "clave": "colinesterasa",
+          "nombre": "Colinesterasa plasmatica",
+          "resultado": "Actividad marcadamente disminuida respecto del rango normal del laboratorio (1020-3460 U/L).",
+          "nivelMinimo": 2,
+          "fuente": 0
+        },
+        {
+          "clave": "amilasa",
+          "nombre": "Amilasa",
+          "resultado": "Dentro de valores normales.",
+          "nivelMinimo": 2,
+          "fuente": 0
+        }
+      ]
+    },
+    "gabinete": {
+      "etiqueta": "Gabinete",
+      "items": [
+        {
+          "clave": "ecg",
+          "nombre": "Electrocardiograma",
+          "resultado": "Bradicardia sinusal de 46 lpm. Sin bloqueos. QTc en limite superior.",
+          "nivelMinimo": 2,
+          "fuente": 0,
+          "nivelFuente": 1,
+          "nivelPagina": "119-121",
+          "nivelNota": "El electrocardiografo no figura en el equipamiento del Centro de Salud con Internacion (norma de primer nivel, pp. 119-121). Falta confirmar que este en segundo nivel (cap. XII o XIII de esa norma, aun no descargados).",
+          "nivelAnclaje": "PARCIAL"
+        },
+        {
+          "clave": "rxtorax",
+          "nombre": "Radiografia de torax",
+          "resultado": "Infiltrados bilaterales difusos de tipo alveolar, sin condensacion lobar. Sin derrame.",
+          "nivelMinimo": 2,
+          "fuente": 0,
+          "nivelFuente": 2,
+          "nivelPagina": "77, 102",
+          "nivelNota": "En primer nivel solo el Centro de Salud Integral tiene radiologia e imagenologia (norma de primer nivel, Cuadro No 5, p. 37); el hospital de segundo nivel cuenta con imagenologia y ambiente de radiologia (norma de segundo nivel, pp. 77 y 102).",
+          "nivelAnclaje": "COMPLETO"
+        }
+      ]
+    }
+  },
+  "estudiosPlausiblesNoIncluidos": [
+    {
+      "nombre": "Gasometria arterial",
+      "preguntaTribunal": "Pidio gasometria arterial. Mientras llega el resultado, con que parametros de la cabecera decide si la atropinizacion es suficiente?",
+      "comentarioFuente": "La fuente la incluye entre otros estudios segun organo afectado y disponibilidad (p. 148); el caso no contempla su resultado.",
+      "fuente": 0
+    },
+    {
+      "nombre": "Hepatograma",
+      "preguntaTribunal": "Pidio hepatograma. Que esperaba encontrar y que decision cambiaria?",
+      "comentarioFuente": "La fuente lo lista entre los examenes complementarios (p. 148); el caso no contempla su resultado.",
+      "fuente": 0
+    },
+    {
+      "nombre": "Ionograma",
+      "preguntaTribunal": "Pidio ionograma. Justifique la indicacion en este paciente.",
+      "comentarioFuente": "La fuente lo incluye segun organo afectado y disponibilidad (p. 148); el caso no contempla su resultado.",
+      "fuente": 0
+    },
+    {
+      "nombre": "ELISA para VIH",
+      "preguntaTribunal": "Pidio ELISA para VIH. Que requisito exige la fuente antes de tomarlo?",
+      "comentarioFuente": "La fuente lo lista previo consentimiento informado (p. 148); el caso no contempla su resultado.",
+      "fuente": 0
+    }
+  ],
+  "rubrica": {
+    "diagnosticosEsperados": [
+      {
+        "clave": "dx_intox",
+        "texto": "Intoxicacion aguda por inhibidor de colinesterasa: compuesto organofosforado (CIE-10 T60.0)",
+        "valoracion": "ESPERADO",
+        "fuente": 0,
+        "pagina": "142, 145",
+        "sinonimos": ["intoxicacion por organofosforados", "organofosforado", "intoxicacion por inhibidor de colinesterasa", "inhibidores de la colinesterasa", "intoxicacion por plaguicida", "intoxicacion por insecticida", "clorpirifos", "cofa"],
+        "conceptoLigado": "c_caso_sospechoso"
+      },
+      {
+        "clave": "dx_toxindrome",
+        "texto": "Toxindrome colinergico con efectos muscarinicos, nicotinicos y sobre el sistema nervioso central",
+        "valoracion": "ESPERADO",
+        "fuente": 0,
+        "pagina": "145, 147",
+        "sinonimos": ["toxindrome colinergico", "sindrome colinergico", "crisis colinergica", "sindrome muscarinico", "efectos muscarinicos y nicotinicos"],
+        "conceptoLigado": "c_clinica"
+      },
+      {
+        "clave": "dx_suicidio",
+        "texto": "Intoxicacion intencional (intento de suicidio): la fuente exige interconsulta con psiquiatria o psicologia en todo caso de intento de suicidio",
+        "valoracion": "ESPERADO",
+        "fuente": 0,
+        "pagina": "152",
+        "sinonimos": ["intento de suicidio", "intento suicida", "autoeliminacion", "intencional", "autointoxicacion"],
+        "conceptoLigado": "c_referencia"
+      }
+    ],
+    "diagnosticosDiferenciales": [
+      { "clave": "dd_tetanos", "texto": "Tetanos", "valoracion": "ESPERADO", "fuente": 0, "pagina": "149", "sinonimos": ["tetanos"] },
+      { "clave": "dd_neuropatia", "texto": "Neuropatia central y periferica", "valoracion": "ESPERADO", "fuente": 0, "pagina": "149", "sinonimos": ["neuropatia", "neuropatia periferica", "neuropatia central"] },
+      { "clave": "dd_carbamato", "texto": "Intoxicacion por carbamato: tambien inhibe la AChE pero sin envejecimiento, con efectos sobre el SNC menos pronunciados y toxicidad mas corta y autolimitada", "valoracion": "ACEPTABLE", "fuente": 0, "pagina": "142-143", "sinonimos": ["carbamato", "carbamatos", "aldicarb"], "conceptoLigado": "c_mecanismo" }
+    ],
+    "estudios": [
+      { "clave": "colinesterasa", "texto": "Colinesterasa plasmatica: evidencia laboratorial de exposicion; una inhibicion del 50% de lo normal indica exposicion aguda", "valoracion": "ESPERADO", "fuente": 0, "pagina": "148-149", "conceptoLigado": "c_caso_sospechoso" },
+      { "clave": "hemograma", "texto": "Hemograma", "valoracion": "ESPERADO", "fuente": 0, "pagina": "148" },
+      { "clave": "bioquimica", "texto": "Glucemia, urea y creatininemia", "valoracion": "ESPERADO", "fuente": 0, "pagina": "148" },
+      { "clave": "amilasa", "texto": "Amilasa, como predictor de sindrome intermedio", "valoracion": "ACEPTABLE", "fuente": 0, "pagina": "148", "conceptoLigado": "c_referencia" },
+      { "clave": "ecg", "texto": "Electrocardiograma, segun organo afectado y disponibilidad", "valoracion": "ACEPTABLE", "fuente": 0, "pagina": "148" },
+      { "clave": "rxtorax", "texto": "Radiografia de torax: la fuente la indica solo si se sospecha aspiracion asociada por hidrocarburos", "valoracion": "OPCIONAL", "fuente": 0, "pagina": "148" }
+    ],
+    "conductas": [
+      { "clave": "cx_abcde", "texto": "ABCDE segun protocolos de reanimacion y mantenimiento de las funciones vitales A, B, C y D", "valoracion": "ESPERADO", "fuente": 0, "pagina": "149-150", "nivel": [1, 2, 3], "sinonimos": ["abcde", "abcd", "reanimacion", "soporte vital", "via aerea", "permeabilizar via aerea", "aspirar secreciones"], "conceptoLigado": "c_primer_nivel" },
+      { "clave": "cx_epp", "texto": "El personal usa equipo de proteccion personal y guantes al manipular al paciente contaminado, por el riesgo de contaminacion secundaria", "valoracion": "ESPERADO", "fuente": 0, "pagina": "149", "nivel": [1, 2, 3], "sinonimos": ["guantes", "epp", "equipo de proteccion", "proteccion personal", "proteger al personal"], "conceptoLigado": "c_descontaminacion" },
+      { "clave": "cx_descontaminar_piel", "texto": "Retiro de ropas impregnadas y ducha con agua y jabon, especialmente pliegues, detras de las orejas y debajo de las unas", "valoracion": "ESPERADO", "fuente": 0, "pagina": "149, 151", "nivel": [1, 2, 3], "sinonimos": ["retirar la ropa", "quitar la ropa", "retiro de ropas", "banar", "lavar la piel", "agua y jabon", "descontaminacion", "descontaminar"], "conceptoLigado": "c_descontaminacion" },
+      { "clave": "cx_oxigeno", "texto": "Administracion de oxigeno humedo; en segundo y tercer nivel canula nasal 2-3 L/min o mascara oronasal 4-6 L/min", "valoracion": "ESPERADO", "fuente": 0, "pagina": "150", "nivel": [1, 2, 3], "sinonimos": ["oxigeno", "oxigenoterapia", "o2"], "conceptoLigado": "c_primer_nivel" },
+      { "clave": "cx_decubito", "texto": "Colocacion en decubito lateral izquierdo", "valoracion": "ACEPTABLE", "fuente": 0, "pagina": "150", "nivel": [1], "sinonimos": ["decubito lateral izquierdo", "decubito lateral", "posicion lateral"], "conceptoLigado": "c_primer_nivel" },
+      { "clave": "cx_atropina", "texto": "Atropina 0.5 a 2 mg EV STAT, duplicando la dosis cada 5 a 10 minutos hasta FC mayor o igual a 60, pulmones limpios y SatO2 mayor o igual a 94%; la dosis total se mantiene como mantenimiento. La taquicardia no la contraindica", "valoracion": "ESPERADO", "fuente": 0, "pagina": "150-151", "nivel": [1, 2, 3], "sinonimos": ["atropina", "atropinizar", "atropinizacion", "antidoto"], "conceptoLigado": "c_atropina" },
+      { "clave": "cx_via_venosa", "texto": "Via venosa periferica con solucion salina isotonica 1000 ml cada ocho horas", "valoracion": "ESPERADO", "fuente": 0, "pagina": "150", "nivel": [1, 2, 3], "sinonimos": ["via venosa", "canalizar", "solucion salina", "suero fisiologico", "cloruro de sodio", "ssi"], "conceptoLigado": "c_primer_nivel" },
+      { "clave": "cx_lavado", "texto": "Sonda nasogastrica y lavado gastrico con solucion salina isotonica (adulto 150-300 ml por vez; en segundo y tercer nivel 10 ml/kg) hasta liquido claro, en decubito lateral izquierdo en Trendelenburg, solo si no hay alteracion de la conciencia; atropina previa a la SNG si la FC esta baja", "valoracion": "ESPERADO", "fuente": 0, "pagina": "150-151", "nivel": [1, 2, 3], "sinonimos": ["lavado gastrico", "sonda nasogastrica", "sng", "lavado"], "conceptoLigado": "c_descontaminacion" },
+      { "clave": "cx_carbon", "texto": "Carbon activado VO 1 g/kg diluido en 100 ml de agua", "valoracion": "ACEPTABLE", "fuente": 0, "pagina": "151", "nivel": [2, 3], "sinonimos": ["carbon activado", "carbon"], "conceptoLigado": "c_descontaminacion" },
+      { "clave": "cx_oxima", "texto": "Oxima (pralidoxima): reactivador de la AChE, efectiva contra los efectos nicotinicos; la fuente recomienda su administracion temprana. Dosis segun formulacion: 1 a 2 g EV STAT y luego 1 g cada 6 horas por 48 horas, o 200 a 400 mg EV STAT y luego 200 mg cada 6 horas por 24 a 48 horas", "valoracion": "ESPERADO", "fuente": 0, "pagina": "142, 145, 151", "nivel": [2, 3], "sinonimos": ["pralidoxima", "oxima", "oximas", "reactivador de colinesterasa"], "conceptoLigado": "c_atropina" },
+      { "clave": "cx_referir", "texto": "Preparar la referencia y referir cumpliendo la Norma Nacional de Referencia y Contrarreferencia. Este paciente tiene criterios: insuficiencia respiratoria por secreciones y bradicardia", "valoracion": "ESPERADO", "fuente": 0, "pagina": "150, 152", "nivel": [1], "sinonimos": ["referir", "referencia", "transferir", "derivar", "trasladar", "enviar a segundo nivel"], "conceptoLigado": "c_referencia" },
+      { "clave": "cx_hospitalizar", "texto": "Hospitalizacion en todos los casos clinicos de intoxicacion por inhibidores de la acetilcolinesterasa; segun compromiso de sistemas, transferencia a UTI", "valoracion": "ESPERADO", "fuente": 0, "pagina": "150", "nivel": [2, 3], "sinonimos": ["hospitalizar", "hospitalizacion", "internar", "internacion", "uti", "terapia intensiva"], "conceptoLigado": "c_referencia" },
+      { "clave": "cx_psiquiatria", "texto": "Interconsulta con psiquiatria o psicologia: la fuente la exige en todo caso diagnosticado de intento de suicidio", "valoracion": "ESPERADO", "fuente": 0, "pagina": "152", "nivel": [1, 2, 3], "sinonimos": ["psiquiatria", "psicologia", "salud mental", "interconsulta con psiquiatria"], "conceptoLigado": "c_referencia" },
+      { "clave": "cx_informar", "texto": "Informar al paciente y la familia sobre la condicion, gravedad, tiempo de tratamiento, riesgos y senales de peligro, y orientar sobre prevencion de accidentes y almacenamiento de toxicos", "valoracion": "ACEPTABLE", "fuente": 0, "pagina": "152-153", "nivel": [1, 2, 3], "sinonimos": ["informar", "explicar a la familia", "orientacion", "prevencion"] },
+      { "clave": "cx_ringer", "texto": "Ringer lactato como solucion de hidratacion. La fuente indica solucion salina isotonica y dice expresamente no usar Ringer lactato", "valoracion": "NO_CONTEMPLADO_POR_LA_FUENTE", "fuente": 0, "pagina": "150", "nivel": [1, 2, 3], "sinonimos": ["ringer", "ringer lactato", "hartmann"], "conceptoLigado": "c_primer_nivel" },
+      { "clave": "cx_hemodialisis", "texto": "Hemodialisis. En la tabla de antidotos de la fuente figura como no indicada por el alto volumen de distribucion de los organofosforados", "valoracion": "NO_CONTEMPLADO_POR_LA_FUENTE", "fuente": 0, "pagina": "151", "nivel": [1, 2, 3], "sinonimos": ["hemodialisis", "dialisis"], "conceptoLigado": "c_atropina" },
+      { "clave": "cx_test_diagnostico", "texto": "Prueba de la atropina (1 mg IM y control de FC a los 20 minutos). La fuente la reserva para la duda en la identificacion del caso sospechoso; aqui hay exposicion conocida y toxindrome colinergico evidente", "valoracion": "NO_CONTEMPLADO_POR_LA_FUENTE", "fuente": 0, "pagina": "147-148", "nivel": [1, 2, 3], "sinonimos": ["prueba diagnostica", "test diagnostico", "1 mg im y esperar 20 minutos", "prueba terapeutica"], "conceptoLigado": "c_caso_sospechoso" }
+    ],
+    "informacionCritica": [
+      { "clave": "producto", "texto": "Identificar el toxico responsable: nombre del producto, etiqueta o envase", "valoracion": "ESPERADO", "fuente": 0, "pagina": "145", "conceptoLigado": "c_caso_sospechoso" },
+      { "clave": "tiempo", "texto": "Tiempo de exposicion: condiciona la gravedad y las medidas para disminuir la absorcion", "valoracion": "ESPERADO", "fuente": 0, "pagina": "143, 150", "conceptoLigado": "c_descontaminacion" },
+      { "clave": "via", "texto": "Via de exposicion (oral, inhalatoria, dermica): define las medidas de descontaminacion", "valoracion": "ESPERADO", "fuente": 0, "pagina": "143, 150-151", "conceptoLigado": "c_descontaminacion" },
+      { "clave": "intencion", "texto": "Intencionalidad: todo intento de suicidio requiere interconsulta con psiquiatria o psicologia", "valoracion": "ESPERADO", "fuente": 0, "pagina": "152", "conceptoLigado": "c_referencia" },
+      { "clave": "sintomas_gi", "texto": "Efectos muscarinicos digestivos: nauseas, vomitos, diarrea, retortijones", "valoracion": "ESPERADO", "fuente": 0, "pagina": "147", "conceptoLigado": "c_clinica" },
+      { "clave": "conciencia", "texto": "Estado de conciencia: el lavado gastrico solo se realiza si no hay alteracion de la conciencia", "valoracion": "ESPERADO", "fuente": 0, "pagina": "150", "conceptoLigado": "c_descontaminacion" },
+      { "clave": "pupilas", "texto": "Miosis y lagrimeo, efectos muscarinicos", "valoracion": "ESPERADO", "fuente": 0, "pagina": "147", "conceptoLigado": "c_clinica" },
+      { "clave": "secreciones", "texto": "Salivacion y sudoracion, efectos muscarinicos", "valoracion": "ESPERADO", "fuente": 0, "pagina": "147", "conceptoLigado": "c_clinica" },
+      { "clave": "pulmones", "texto": "Broncoespasmo y aumento de secreciones bronquiales; la insuficiencia respiratoria por secreciones es criterio de referencia", "valoracion": "ESPERADO", "fuente": 0, "pagina": "147, 152", "conceptoLigado": "c_atropina" },
+      { "clave": "musculos", "texto": "Debilidad muscular y fasciculaciones, efectos nicotinicos", "valoracion": "ESPERADO", "fuente": 0, "pagina": "147", "conceptoLigado": "c_clinica" }
+    ],
+    "conceptosClave": [
+      { "id": "c_mecanismo", "enunciado": "Los organofosforados inhiben la acetilcolinesterasa y acumulan acetilcolina en receptores muscarinicos, nicotinicos y en el SNC. La inhibicion puede volverse permanente (envejecimiento); los carbamatos no envejecen y su toxicidad es mas corta y autolimitada.", "fuente": 0, "pagina": "142-143" },
+      { "id": "c_caso_sospechoso", "enunciado": "Caso sospechoso: antecedente de exposicion a organofosforados o carbamatos, cuadro compatible con toxindrome colinergico y, en ciertos casos, examenes complementarios. La prueba de la atropina se reserva para la duda diagnostica y no se hace en asintomaticos.", "fuente": 0, "pagina": "145, 148" },
+      { "id": "c_clinica", "enunciado": "Muscarinicos: nauseas, vomitos, diarrea, sudoracion, salivacion, lagrimeo, miosis, broncoespasmo, secreciones bronquiales, bradicardia, hipotension. Nicotinicos: debilidad, fasciculaciones, taquicardia, hipertension, hiperglucemia. SNC: ansiedad, ataxia, convulsiones, depresion respiratoria, coma.", "fuente": 0, "pagina": "147" },
+      { "id": "c_primer_nivel", "enunciado": "Primer nivel: ABCDE, via aerea permeable, decubito lateral izquierdo, oxigeno humedo, SNG previa atropina si la FC es baja, lavado gastrico si no hay alteracion de conciencia, via venosa con solucion salina isotonica 1000 ml cada 8 horas (no Ringer lactato) y referencia.", "fuente": 0, "pagina": "150" },
+      { "id": "c_descontaminacion", "enunciado": "Descontaminacion segun via: respiratoria, retirar de la atmosfera toxica; conjuntival, irrigar 15 minutos; cutanea, retirar ropa y duchar con agua y jabon; digestiva, lavado gastrico y carbon activado 1 g/kg. El personal usa EPP y guantes por riesgo de contaminacion secundaria.", "fuente": 0, "pagina": "149-151" },
+      { "id": "c_atropina", "enunciado": "Atropina 0.5 a 2 mg EV, duplicando cada 5 a 10 minutos hasta FC mayor o igual a 60, pulmones limpios y SatO2 mayor o igual a 94%. Revierte efectos muscarinicos, no nicotinicos: la taquicardia no la contraindica. Las oximas actuan sobre los nicotinicos y se recomiendan tempranas.", "fuente": 0, "pagina": "145, 151" },
+      { "id": "c_referencia", "enunciado": "Criterios de referencia: sindrome intermedio, insuficiencia respiratoria por obstruccion de via aerea por secreciones, bradicardia severa, probabilidad de paro y compromiso neurologico severo. Todo intento de suicidio requiere interconsulta con psiquiatria o psicologia. Segundo y tercer nivel: hospitalizacion en todos los casos.", "fuente": 0, "pagina": "150, 152" },
+      { "id": "c_alta", "enunciado": "Criterios de alta: signos vitales normales, colinesterasa plasmatica en valores normales, buen estado general fisico y mental y manejo por psiquiatria o psicologia.", "fuente": 0, "pagina": "152" }
+    ]
+  },
+  "tribunal": [
+    {
+      "id": "t01",
+      "pregunta": "Diga su diagnostico y con que elementos cumple la definicion de caso sospechoso de la fuente.",
+      "disparador": { "tipo": "siempre" },
+      "loQueSeEsperaOir": ["Intoxicacion aguda por inhibidor de colinesterasa, organofosforado (clorpirifos)", "Antecedente de exposicion con envase identificado", "Toxindrome colinergico compatible"],
+      "conceptoLigado": "c_caso_sospechoso",
+      "fuente": 0
+    },
+    {
+      "id": "t02",
+      "pregunta": "Clasifique los signos de este paciente en muscarinicos, nicotinicos y del sistema nervioso central.",
+      "disparador": { "tipo": "siempre" },
+      "loQueSeEsperaOir": ["Muscarinicos: vomitos, diarrea, sudoracion, salivacion, lagrimeo, miosis, secreciones bronquiales, bradicardia, hipotension", "Nicotinicos: fasciculaciones y debilidad muscular; hiperglucemia", "SNC: ansiedad"],
+      "conceptoLigado": "c_clinica",
+      "fuente": 0
+    },
+    {
+      "id": "t03",
+      "pregunta": "Esta en un Centro de Salud con Internacion, a dos horas del hospital. Diga en orden lo que hace desde que el paciente cruza la puerta hasta que sale en la ambulancia.",
+      "disparador": { "tipo": "siempre" },
+      "loQueSeEsperaOir": ["Proteccion del personal con EPP y guantes", "ABCDE, via aerea, decubito lateral izquierdo, oxigeno humedo", "Retirar la ropa contaminada y lavar la piel", "Atropina hasta FC mayor o igual a 60, pulmones limpios y SatO2 mayor o igual a 94%", "Via venosa con solucion salina isotonica, no Ringer lactato", "SNG y lavado gastrico si esta consciente, con atropina previa si la FC es baja", "Referencia"],
+      "conceptoLigado": "c_primer_nivel",
+      "fuente": 0
+    },
+    {
+      "id": "t04",
+      "pregunta": "Indico atropina. Diga la dosis inicial, como la escala y cuales son exactamente las metas para dejar de subir.",
+      "disparador": { "tipo": "siConducta", "clave": "cx_atropina" },
+      "loQueSeEsperaOir": ["0.5 a 2 mg EV STAT", "Duplicar la dosis cada 5 a 10 minutos", "Meta: FC mayor o igual a 60, pulmones limpios, SatO2 mayor o igual a 94%", "La dosis total se mantiene como mantenimiento"],
+      "conceptoLigado": "c_atropina",
+      "fuente": 0
+    },
+    {
+      "id": "t05",
+      "pregunta": "El paciente tiene bradicardia, broncorrea y satura 88%, y usted no indico atropina. Justifique.",
+      "disparador": { "tipo": "siNoConducta", "clave": "cx_atropina" },
+      "loQueSeEsperaOir": ["La atropina es el antidoto de los efectos muscarinicos", "Bradicardia y secreciones bronquiales son muscarinicos", "Se titula hasta FC mayor o igual a 60, pulmones limpios y SatO2 mayor o igual a 94%"],
+      "conceptoLigado": "c_atropina",
+      "fuente": 0
+    },
+    {
+      "id": "t06",
+      "pregunta": "Durante la atropinizacion el paciente llega a 110 lpm pero sigue con crepitantes difusos. Suspende la atropina? Justifique con la fuente.",
+      "disparador": { "tipo": "siempre" },
+      "loQueSeEsperaOir": ["No: la meta incluye pulmones limpios y SatO2 mayor o igual a 94%", "La atropina revierte efectos muscarinicos, no nicotinicos", "La taquicardia no es contraindicacion porque puede ser efecto nicotinico"],
+      "conceptoLigado": "c_atropina",
+      "fuente": 0
+    },
+    {
+      "id": "t07",
+      "pregunta": "Que agrega la oxima a la atropina, y por que la fuente insiste en darla temprano?",
+      "disparador": { "tipo": "siempre" },
+      "loQueSeEsperaOir": ["La oxima reactiva la AChE y actua sobre los efectos nicotinicos", "La atropina solo actua sobre los muscarinicos", "La oxima temprana retrasa el envejecimiento de la enzima"],
+      "conceptoLigado": "c_mecanismo",
+      "fuente": 0
+    },
+    {
+      "id": "t08",
+      "pregunta": "Indico lavado gastrico. Con que solucion, que volumen por vez, en que posicion y cual es la condicion para hacerlo?",
+      "disparador": { "tipo": "siConducta", "clave": "cx_lavado" },
+      "loQueSeEsperaOir": ["Solucion salina isotonica", "150 a 300 ml por vez en el adulto, hasta liquido claro", "Decubito lateral izquierdo en Trendelenburg", "Solo si no hay alteracion de la conciencia", "Atropina previa a la SNG si la FC es baja"],
+      "conceptoLigado": "c_descontaminacion",
+      "fuente": 0
+    },
+    {
+      "id": "t09",
+      "pregunta": "Eligio Ringer lactato para la via venosa. Que dice la fuente al respecto?",
+      "disparador": { "tipo": "siConducta", "clave": "cx_ringer" },
+      "loQueSeEsperaOir": ["Solucion salina isotonica 1000 ml cada 8 horas", "La fuente dice expresamente no usar Ringer lactato"],
+      "conceptoLigado": "c_primer_nivel",
+      "fuente": 0
+    },
+    {
+      "id": "t10",
+      "pregunta": "Propuso hemodialisis. Que dice la fuente sobre su utilidad en esta intoxicacion?",
+      "disparador": { "tipo": "siConducta", "clave": "cx_hemodialisis" },
+      "loQueSeEsperaOir": ["No esta indicada", "Por el alto volumen de distribucion de los organofosforados"],
+      "conceptoLigado": "c_atropina",
+      "fuente": 0
+    },
+    {
+      "id": "t11",
+      "pregunta": "Hizo la prueba de la atropina. En que situacion la reserva la fuente, y era este el caso?",
+      "disparador": { "tipo": "siConducta", "clave": "cx_test_diagnostico" },
+      "loQueSeEsperaOir": ["Solo cuando hay duda en la identificacion del caso sospechoso", "Aqui hay envase identificado y toxindrome colinergico evidente", "No se hace en pacientes asintomaticos"],
+      "conceptoLigado": "c_caso_sospechoso",
+      "fuente": 0
+    },
+    {
+      "id": "t12",
+      "pregunta": "Su camisa esta mojada con el producto. Que hace con eso, y que protege antes de tocarlo?",
+      "disparador": { "tipo": "siNoConducta", "clave": "cx_descontaminar_piel" },
+      "loQueSeEsperaOir": ["Retirar la ropa impregnada", "Ducha con agua y jabon, pliegues, detras de las orejas, debajo de las unas", "El personal usa EPP y guantes por riesgo de contaminacion secundaria", "Hacerlo en ambiente abierto o bien ventilado"],
+      "conceptoLigado": "c_descontaminacion",
+      "fuente": 0
+    },
+    {
+      "id": "t13",
+      "pregunta": "Pidio colinesterasa. Como interpreta la inhibicion de la colinesterasa plasmatica y de la eritrocitaria?",
+      "disparador": { "tipo": "siPidio", "clave": "colinesterasa" },
+      "loQueSeEsperaOir": ["Plasmatica: indicador de exposicion; inhibicion del 50% indica exposicion aguda", "Eritrocitaria: mas del 50% intoxicacion moderada, mas del 75% grave", "En carbamatos es poco util porque la inhibicion revierte en horas"],
+      "conceptoLigado": "c_caso_sospechoso",
+      "fuente": 0
+    },
+    {
+      "id": "t14",
+      "pregunta": "No pregunto si la ingesta fue intencional. Que conducta obligatoria de la fuente se le escapo?",
+      "disparador": { "tipo": "siOmitioInfo", "clave": "intencion" },
+      "loQueSeEsperaOir": ["Todo intento de suicidio requiere interconsulta con psiquiatria o psicologia", "Es ademas un criterio de alta: manejo por psiquiatria o psicologia"],
+      "conceptoLigado": "c_referencia",
+      "fuente": 0
+    },
+    {
+      "id": "t15",
+      "pregunta": "No propuso interconsulta con salud mental. Justifique frente a la fuente.",
+      "disparador": { "tipo": "siNoConducta", "clave": "cx_psiquiatria" },
+      "loQueSeEsperaOir": ["La fuente la exige en todo caso diagnosticado de intento de suicidio"],
+      "conceptoLigado": "c_referencia",
+      "fuente": 0
+    },
+    {
+      "id": "t16",
+      "pregunta": "No evaluo el estado de conciencia antes de decidir la descontaminacion digestiva. Por que era imprescindible?",
+      "disparador": { "tipo": "siOmitioInfo", "clave": "conciencia" },
+      "loQueSeEsperaOir": ["El lavado gastrico y el vomito provocado solo se hacen sin alteracion de la conciencia"],
+      "conceptoLigado": "c_descontaminacion",
+      "fuente": 0
+    },
+    {
+      "id": "t17",
+      "pregunta": "No pidio el nombre del producto ni el envase. Por que la fuente insiste en identificarlo, y debe esperar ese dato para tratar?",
+      "disparador": { "tipo": "siOmitioInfo", "clave": "producto" },
+      "loQueSeEsperaOir": ["Identificar el toxico con nombre, etiqueta o envase", "La toxicidad depende del compuesto", "La identificacion no debe retrasar las medidas generales ni el antidoto"],
+      "conceptoLigado": "c_caso_sospechoso",
+      "fuente": 0
+    },
+    {
+      "id": "t18",
+      "pregunta": "Estando en primer nivel no propuso referir. Que criterios de referencia de la fuente cumple este paciente?",
+      "disparador": { "tipo": "siNoConducta", "clave": "cx_referir" },
+      "loQueSeEsperaOir": ["Insuficiencia respiratoria por obstruccion de la via aerea por secreciones", "Bradicardia", "En segundo y tercer nivel se hospitalizan todos los casos"],
+      "conceptoLigado": "c_referencia",
+      "fuente": 0
+    },
+    {
+      "id": "t19",
+      "pregunta": "Cuando le daria el alta a este paciente? Diga los criterios de la fuente.",
+      "disparador": { "tipo": "siempre" },
+      "loQueSeEsperaOir": ["Signos vitales normales", "Colinesterasa plasmatica en valores normales", "Buen estado general fisico y mental", "Manejo por psiquiatria o psicologia"],
+      "conceptoLigado": "c_alta",
+      "fuente": 0
+    },
+    {
+      "id": "t20",
+      "pregunta": "Que diagnosticos diferenciales da la fuente, y como distingue un organofosforado de un carbamato?",
+      "disparador": { "tipo": "siempre" },
+      "loQueSeEsperaOir": ["Tetanos", "Neuropatia central y periferica", "Carbamato: sin envejecimiento, menos efectos sobre el SNC, toxicidad mas corta y autolimitada"],
+      "conceptoLigado": "c_mecanismo",
+      "fuente": 0
+    }
+  ],
+  "fuentes": [
+    {
+      "institucion": "Estado Plurinacional de Bolivia. Ministerio de Salud y Deportes. Direccion General de Redes de Servicios de Salud, Unidad de Redes de Servicios de Salud y Calidad, Area del Continuo",
+      "documento": "Norma Nacional de Atencion Clinica de Urgencias y Emergencias. Serie: Documentos Tecnico Normativos No. 543. La Paz: Industrias Graficas Platinium. 300 p. Deposito legal 4-1-743-2025 P.O.",
+      "anio": "2025",
+      "publicacion": "543",
+      "resolucion": "RM 0456 de 30 de septiembre de 2025",
+      "capitulo": "16. Intoxicacion Aguda por Inhibidor de Colinesterasa (CIE-10 T60.0). Nivel de atencion I - II - III",
+      "pagina": "142-153",
+      "url": "https://www.minsalud.gob.bo/8850-norma-nacional-de-atencion-clinica-nnac",
+      "consultado": "2026-09-22"
+    },
+    {
+      "institucion": "Estado Plurinacional de Bolivia. Ministerio de Salud y Deportes. Direccion General de Servicios de Salud, Unidad de Redes de Servicios de Salud y Calidad",
+      "documento": "Norma Nacional de Caracterizacion de Establecimientos de Salud de Primer Nivel. 2da edicion. Serie: Documentos Tecnico Normativos No. 284. La Paz: Talleres Graficos Tupac Katari. 240 p.",
+      "anio": "2013",
+      "publicacion": "284",
+      "capitulo": "Cap. II, Cuadro No 5 Caracteristicas generales (pp. 35-40); Cap. IV Centro de Salud con Internacion, equipamiento (pp. 119-121); Cap. VI Centro de Salud Integral (p. 204)",
+      "pagina": "35-40, 119-121, 204",
+      "url": "https://www.minsalud.gob.bo/images/Documentacion/redes_salud/Inivelseguro.pdf",
+      "consultado": "2026-09-22"
+    },
+    {
+      "institucion": "Estado Plurinacional de Bolivia. Ministerio de Salud y Deportes. Unidad de Redes de Servicios de Salud y Calidad",
+      "documento": "Norma Nacional de Caracterizacion de Hospitales de Segundo Nivel. Serie: Documentos Tecnico Normativos No. 285. La Paz.",
+      "anio": "2014",
+      "publicacion": "285",
+      "capitulo": "Cap. IV Caracterizacion General del Hospital de Segundo Nivel",
+      "pagina": "77, 102",
+      "url": "https://www.minsalud.gob.bo/images/Documentacion/redes_salud/CAP-4.pdf",
+      "consultado": "2026-09-22"
+    }
+  ]
+}
