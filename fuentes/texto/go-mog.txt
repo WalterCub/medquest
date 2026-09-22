@@ -1,0 +1,2963 @@
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+ESTADO PLURINACIONAL DE BOLIVIA
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+1
+Guía de bolsillo para su diagnóstico y tratamiento
+Agosto, 2013 La Paz - Bolivia 
+
+Ficha Bibliográfica
+
+BO Morbilidad obstétrica grave más frecuente en WQ260 Bolivia: Guía de bolsillo para su diagnóstico y M665m tratamiento./Ministerio de Salud y Deportes La Paz: No. 336 Sistemas Gráficos Color, 2013. 2013
+116p.: tab. (Serie: Documentos Técnico – Normativos No.336)
+
+Depósito legal: 4-1-339-13 P.O.
+
+I. EMBARAZO DE ALTO RIESGO
+
+II. COMPLICACIONES DEL EMBARAZO
+
+III. FACTORES DE RIESGO
+
+IV. NORMAS BASICAS DE ATENCION A LA SALUD
+
+V. MORBILIDAD
+
+VI. ATENCION PERINATAL
+
+VII. PAUTAS PRACTICAS
+
+VIII. BOLIVIA
+
+1. t.
+
+2
+
+2. Serie.
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+La Paz: Unidad de Servicios de Salud y Calidad, General de Servicios de Salud – Comité de Identidad Institucional – Ministerio de Salud y Deportes – 2013.
+©Ministerio de Salud y Deportes 2013
+Documento impreso con el apoyo técnico y financiero de la Organización Panamericana de la Salud/Organización Mundial de la Salud (OPS/OMS) Bolivia.
+Esta publicación es propiedad del Ministerio de Salud y Deportes de Bolivia, se autoriza su reproducción, total o parcial, a condición de citar la fuente y la propiedad.
+Ni el Ministerio de Salud y Deportes, y ninguna persona que actúe en su nombre se responsabilizará del uso que pudiera darse a esta información.
+Impresión: Sistemas Gráficos “Color” Telf. 2334614
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+GUÍA DE MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+La versión electrónica de esta norma, se encuentra en la siguiente dirección http/www.sns.gov.bo o en la Unidad de Redes de Servicios de Salud y Calidad, Capitán Ravelo Nº 2199 teléfono 2441479.
+3 Elaboración técnica del documento: Dr. Alberto De La Galvez Murillo Revisión Técnica Realizada por: Lic. Haydee Padilla - OPS/OMS Bolivia Dr. Bremen De MucioOPS/OMS/CLAP/SMR Dr. Paulino Vigil De Gracia Pdte. Comité Cientifico FLASOG Dr. Carlos Fuchtner Past Presidente FLASOG Dra. María Fernanda Escobar Coordinadora de la Sección de Cuidado Critico Obstétrico de la Asociación Colombiana de Medicina Critica y Cuidado Intensivo Asesora del Ministerio de Salud y de Protección Social Colombia
+
+Participaron en la elaboración del presente documento:
+
+Validación Taller Local:
+
+Carla Parada
+
+Unidad de Servicios de Salud y
+
+Calidad
+
+Renato Yujra
+
+Unidad de Servicios de Salud y
+
+Calidad
+
+Karen Gumiel
+
+Unidad de Servicios de Salud y
+
+Calidad
+
+Ana Maria Young
+
+Unidad de Servicios de Salud y
+
+Calidad
+
+José Salas
+
+Unidad de Servicios de Salud y
+
+4 Ramiro Asturizaga
+
+Calidad Unidad de Servicios de Salud y
+
+Calidad
+
+Maritza Troche
+
+SNIS-VE
+
+Albania Burgos
+
+UNIMED
+
+Ruth de la Galvez
+
+SEDES Santa Cruz
+
+Carlos Clavijo
+
+SEDES Pando
+
+Angel Maida
+
+Hospital Materno Infantil
+
+Germán Urquidi
+
+Beatriz Duran
+
+Hospital Percy Boland
+
+Carmen Melgarejo
+
+Hospital de la Mujer La Paz
+
+Sarah Montaño
+
+Hospital Gineco Obstétrico Sucre
+
+Walter Olivares
+
+Hospital San Cristóbal
+
+Elmer Balderrama
+
+Hospital General Oruro
+
+Hugo Borda
+
+Hospital Boliviano Holandés
+
+Vidal Quiñones
+
+Hospital Boliviano Holandés
+
+Ruth Cusicanqui
+
+Hospital Corea
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+Fernando Armaza M. Antonia Costales
+Gaby Orellana Horacio Toro
+
+Hospital La Paz Hospital Materno Infantil Boliviano Japonés HAGR Ginecólogo Obstetra
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+Validación Taller Nacional:
+
+Carla Parada
+
+Unidad de Servicios de Salud y
+
+Calidad
+
+Ruben Colque Mollo Unidad de Servicios de Salud y
+
+Calidad
+
+Renato Yujra
+
+Unidad de servicios de Salud y
+
+Ana Maria Young
+
+Calidad
+
+5
+
+Unidad de Servicios de Salud y
+
+Calidad
+
+Jose Antonio Salas
+
+Unidad de Servicios de Salud y
+
+Calidad
+
+Teresa Gumier
+
+Unidad de Servicios de Salud y
+
+Calidad
+
+Albania Burgos
+
+UNIMED
+
+Maritza Troche
+
+SNIS-VE
+
+Ruth Galvez Rioja
+
+SEDES Santa Cruz
+
+Elvio Fernandez
+
+Sociedad de Ginecología
+
+Luis Paz Martinez
+
+Sociedad de Ginecología
+
+Desiree Mostajo
+
+Sociedad de Ginecología
+
+Horacio Toro
+
+Ginecólogo Obstetra
+
+José Carlos Camacho Hospital Gineco Obstétrico
+
+Orlando Cuellar
+
+Hospital San Juan de Dios
+
+Angel Maida
+
+Hospital Materno Infantil
+
+Germán Urquidi
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+Sara Montaño Walter Olivares M. Antonia Costales Miguel Chavez Javier Padilla Mario Vera Carmen Melgarejo Ruth Cusicanqui Federico Urquiza
+Mirko Gorena
+6 Jose Luis Guaman
+Gaby Orellana
+Vidal Quiñones Hugo Borda Elmer Balderrama Carlos Clavijo Gustavo Mendoza Beatriz Durán Roxana Salamanca Alberto Castro
+
+Hospital Boliviano Japonés Hospital San Cristóbal Hospital Materno Infantil Hospital Boliviano Japonés Hospital Boliviano Japonés Hospital Bracamonte Hospital de la Mujer La Paz Hospital Ginecol bstétrico Hospital Materno Infantil Percy Boland Hospital Materno Infantil Percy Boland Hospital Materno Infantil Percy Boland Hospital Materno Infantil Percy Boland Hospital Boliviano Holandés Hospital Boliviano Holandés Hospital GeneralOruro HRGT Materno Infantil UMSA IMDB OPS/OMS Bolivia UNFPA
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+Autoridades Nacionales
+Dr. Juan Carlos Calvimontes Camargo Ministro de Salud y Deportes
+Dr. Martin Maturnano Trigo Viceministro de Salud y Promoción
+7
+Sr. Alberto Camaqui Viceministro de Medicina Tradicional e
+Interculturalidad
+Dr. Rubén Colque Mollo Director General de Servicios de Salud
+Dra. Carla Andrea Parada Barba Jefa de Unidad de Redes de Servicios de Salud y Calidad
+
+8
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+PRESENTACIÓN
+El presente documento es una herramienta accesible y práctica para el abordaje de las situaciones de emergencia y urgencia obstétricas más frecuentes. Trata las principales causas de mortalidad materna, el correcto diagnóstico y manejo de las mismas puede evitar la muerte de la mujer gestante.
+Esta situación evidencia el carácter prevenible de 9 la muerte materna y la importancia de establecer acciones que mejoren condiciones de vida que garanticen la calidad y el acceso a la asistencia sanitaria a toda la población.
+El presente documento apoyara el trabajo del personal de salud para reconocer y proceder al tratamiento de estos casos, se debe destacar que la muerte materna, a su vez, se relaciona con graves consecuencias para la familia y la comunidad.
+La mayoría de las muertes son debidas a hemorragia anteparto y postparto, complicaciones de aborto, trastornos hipertensivos asociados al embarazo, sepsis, parto prolongado u obstruido, ruptura uterina
+
+y embarazo ectópico. Algunas de estas complicaciones no pueden ser prevenidas y se desarrollan en forma aguda, aún en pacientes sin factores de riesgo. Es por ello que resulta de gran importancia reconocer en forma oportuna estas complicaciones y realizar un abordaje inmediato y adecuado, de forma de evitar el agravamiento y la muerte de la mujer.
+El contar con un documento permite iimplementar acciones adecuadas, basadas en la evidencia, establecidas por protocolos de manejo y llevadas 10 adelante por parte de personal de salud idóneo, puede descender fuertemente la razón de mortalidad materna.
+Trabajo liderado por la Unidad de Servicios y Calidad permitirá que MDS cuente con un documento normativo que será difundido en el país en el marco de la mejora de la salud.
+Dr. Juan Carlos Calvimontes Camargo MINISTRO DE SALUD Y DEPORTES
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+11
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+12
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+ÍNDICE
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+MORBILIDAD MATERNA GRAVE
+
+15
+
+Principales emergencias obstétricas para la
+
+madre y el feto según momento de su aparición.
+
+Con peligro de muerte
+
+18
+
+CHOQUE HIPOVOLÉMICO POR HEMORRAGIA OBSTÉTRICA
+Evolución del choque hipovolémico según volumen de la pérdida de sangre
+
+29
+13
+32
+
+ABORTO COMPLICADO CON HEMORRAGIA 42
+
+EMBARAZO ECTÓPICO
+
+51
+
+PREECLAMPSIA Y ECLAMPSIA
+
+60
+
+Criterios para el diagnóstico de
+
+preeclampsia grave
+
+65
+
+Factores de riesgo para preeclampsia
+
+66
+
+Esquemas terapéuticos contra la hipertensión
+
+arterial grave
+
+69
+
+HEMORRAGIAS OBSTÉTRICAS DE LA SEGUNDA
+
+MITAD DEL EMBARAZO
+
+86
+
+DESPRENDIMIENTO PREMATURO DE PLACENTA
+
+CON INSERCIÓN NORMAL (DPPNI )
+
+92
+
+PLACENTA PREVIA
+
+106
+
+HEMORRAGIAS POSTPARTO
+
+114
+
+DESGARRO DEL CUELLO UTERINO
+
+144
+
+RETENCIÓN DE LA PLACENTA
+
+150
+
+14
+
+SEPSIS OBSTÉTRICA
+
+158
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+MORBILIDAD MATERNA GRAVE
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+DEFINICIÓN
+Es una complicación grave que ocurre durante la gestacion, parto y puerperio, que pone en riesgo la vida de la mujer o requiere de una atención inmediata con el fin de evitar la muerte. (1)
+
+DESCRIPCIÓN
+
+15
+
+Cada año alrededor de 11.000 mujeres mueren en America Latina y el Caribe de complicaciones asociadas a la gestación y al nacimiento. La mayoría de estas muertes eran prevenibles en la medida en que estas gestantes hubiesen recibido una atención adecuada durante el embarazo, el parto y el periodo potnatal.
+
+La magnitud de la inequidad en la mortalidad materna en las Americas se refleja en el hecho que el 20% de la población más pobre concentra el 50% de las muertes maternas, mientras que en el quintil mas rico solamente ocurre el 5% de estas muertes. Los embarazos en adolescentes, la mayoría no planeados, representan el 20% del total de embarazos en
+
+muchos países, situación que implica grandes retos a esas futuras madres y sus niños.
+En un estudio(3) realizado en hospitales de referencia y de tercer nivel, en las ciudades de La Paz y El Alto, fue posible establecer la frecuencia del problema en un periodo de siete meses (septiembre 2006 a febrero 2007). En 8028 nacimientos vivos, ocurrieron 15 muertes maternas y 401 emergencias obstétricas graves resueltas, es decir una relación de 27 episodios graves por cada defunción materna, cifra mayor a la 16 de 1:20, establecida en otro estudio(4).
+La letalidad materna puede ser muy alta (3,6%) cuando la capacidad resolutiva de los establecimientos de salud no ha sido suficientemente desarrollada. La hemorragia severa y los desórdenes hipertensivos graves son las principales causas de near-miss(3). Asimismo, las mujeres embarazadas que llegan en peores condiciones (hasta el 74%), son las que tienen una combinación de factores de riesgo, como ser: falta de cuidado prenatal, bajo nivel educativo y residencia rural(5).
+De acuerdo con el Plan de acción para acelerar la reducción de la mortalidad materna y la morbilidad materna grave(6), tienen mucho que ver
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+con el problema tres situaciones que involucran a los sistemas nacionales de salud: (a) cobertura insuficiente de los cuidados obstétricos, (b) deficiente calidad de atención y, (c) fallas en la continuidad de la atención. Pero, también, hay aspectos relacionados con la persona, la familia y el contexto social.
+
+En razón a que la mayoría de emergencias obstétricas
+
+no pueden ser previstas ni prevenidas, el personal
+
+de salud tiene la misión de detectarlas a tiempo
+
+para evitar lesiones graves o muerte en las mujeres
+
+embarazadas y sus bebés.
+
+17
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+MORBILIDAD MATERNA GRAVE MÁS FRECUENTE
+Las afecciones obstétricas descritas en la CIE-10ª pueden constituir cuadros agudos o subagudos, aparecer de forma intempestiva o paulatina, y ser consecuencia del proceso gestacional, omisiones asistenciales u otros.
+
+Se sabe que el corto periodo que transcurre entre la aparición de una complicación grave y la muerte significa que, la atención debe estar disponible cerca de los hogares de las mujeres embarazadas, o en un lugar al que puedan llegar por un medio de transporte rápido y asequible.
+
+Cuadro 1
+
+Principales emergencias obstétricas para la madre y el feto según momento de su aparición. Con peligro de muerte.
+
+EMBARAZO
+
+PARTO
+
+PUERPERIO
+
+Aborto complicado con
+hemorragia.
+
+Embarazo
+
+18
+
+ectópico.
+
+Placenta previa Placenta previa con hemorragia. con hemorragia.
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+Desprendimiento prematuro de placenta
+normalmente insertada.
+
+Desprendimiento prematuro de placenta
+normalmente insertada.
+
+Desordenes
+
+Desordenes
+
+Desordenes
+
+hipertensivos del hipertensivos del hipertensivos del
+
+embarazo.
+
+embarazo.
+
+embarazo.
+
+Rotura del útero. Rotura del útero.
+
+Embolia obstétrica
+
+Embolia obstétrica
+
+Embolia obstétrica
+
+Parto obstruído.
+
+Prolapso del cordón umbilical.
+
+Retencion de placenta con hemmoragia
+
+Sepsis postaborto.
+
+Atonía uterina
+
+postparto.
+
+19
+
+Sepsis puerperal.
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+FUENTE: Adaptado de: Médicos Consultores
+PREPARACIÓN PARA LA EMERGENCIA
+Si bien algunas de las emergencias permiten rangos de tiempo amplios para actuar, no se debe confiar ya que no es posible saber en qué casos hay más tiempo. Si hay la necesidad de referir, debe hacerse estabilizando a la paciente y con acompañamiento médico o de una enfermera calificada.
+Cualquier situación, personal, familiar, comunitaria o institucional que cause demora para que una
+
+mujer embarazada con una complicación reciba un tratamiento adecuado y oportuno, le puede costar la vida. Estar preparados constituye una premisa fundamental, tanto en el nivel institucional, como personal y familiar.
+
+En el contexto de los establecimientos de salud, estar preparados significa planificar, para que llegado el momento ocurra una automática puesta en acción del proceso asistencial, sobre la base de:
+
+• Aceptar que en cualquier momento puede
+
+20
+
+presentarse una emergencia obstétrica o fetal.
+
+• Tener los insumos, medicamentos e instrumentos necesarios, en el lugar apropiado
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+• Actuar en equipo y repartir tareas (en los hospitales, para cada turno asistencial, y por escrito).
+
+• Otorgar atención calificada durante el parto.
+
+• Tener a la vista esquemas o ayudas visuales.
+
+• Realizar la vigilancia clínica del trabajo de parto, con una partograma, en todas las parturientas.
+
+• Aplicar el manejo activo del alumbramiento, tanto en partos atendidos en el establecimiento de salud como en el domicilio. Es la intervención esencial para prevenir hemorragia postparto por retención de placenta o por atonía uterina.
+
+• En caso de atender la emergencia, procurar la obtención del Consentimiento Informado(7).
+
+• Registro minucioso, oportuno, claro cronológico de la actuación del equipo.
+• Saber a dónde referir.
+
+y
+21
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+• Tener organizado el proceso de referencia, de acuerdo con los lineamientos e instrumentos establecidos por el Ministerio de Salud y DeportesV.
+
+LAS TRES DEMORAS
+La demora o barrera puede ocurrir en la familia, en la comunidad donde reside la embarazada, o en el establecimiento de salud al que acude. Por tanto, la demora se perfila como factor que contribuye a la mortalidad materna(9-11). Si bien es cierto que puede haber varios factores, hay que concentrarse en
+
+aquellos que influyen en el intervalo entre el inicio de la complicación y su desenlace(9).
+Cualquier demora en la atención de una mujer embarazada que atraviesa una emergencia obstétrica puede causarle la muerte o una discapacidad severa. Igual peligro enfrenta el feto/recién nacido.
+Los equipos de salud conjuntamente los representantes sociales, entre los que debe haber mujeres, realizarán los esfuerzos necesarios para que las personas, las familias y las comunidades 22 adquieran los conocimientos suficientes para reconocer complicaciones graves durante el proceso reproductivo. Esas complicaciones son las siguientes:
+• Secreción vaginal maloliente, durante el embarazo y después del parto.
+• Cualquier hemorragia genital durante el embarazo.
+• Hemorragia genital abundante durante o después del parto, incluida la causada por retención de la placenta o por atonía uterina.
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+• Fuertes dolores de cabeza o convulsiones.
+• Parto que dura más de 12 horas.
+• Que se vea a través del canal vaginal cualquier parte del feto, excepto la cabeza.
+• Fiebre después de un aborto, parto o cesárea.
+Si en cualquiera de éstas circunstancias se demora el reconocimiento de la complicación, o la decisión de buscar ayuda y atención sanitaria, está en peligro la 23 salud y vida de la madre y el feto.
+Por tanto, para enfrentar estas y alguna otras situaciones peligrosas, se requiere desarrollar localmente tres aspectos fundamentales:
+1. Que las personas, familias y comunidades sepan reconocer las complicaciones graves, durante el embarazo, el parto y el puerperio (primera demora).
+2. Que existan mecanismos y estrategias locales que permitan a las embarazadas llegar a tiempo a un establecimiento de salud con capacidad resolutiva suficiente (segunda demora).
+
+3. Que todos los establecimientos de salud estén preparados para la emergencia y organizados en red (tercera demora).
+En el Plan de acción para acelerar la reducción de la mortalidad materna y la morbilidad materna grave(6), se recomienda que los sistemas de salud hagan los esfuerzos del caso para alcanzar las siguientes metas hasta el 2017:
+• 70% de embarazadas con cuatro controles prenatales.
+24
+• 60% de puérperas con control ambulatorio en los primeros siete días postparto.
+• 93% de parto institucional.
+• 75% de nacimientos institucionales con manejo activo del alumbramiento.
+• 95% de pacientes con preeclampsia grave y eclampsia que demandan atención, reciben sulfato de magnesio y se interrumpa su embarazo.
+• Reducción de la frecuencia de la operación cesárea a 20% o menos.
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+• 0% de mortalidad materna por parto obstruido.
+Asimismo, a los jefes de programas (SEDES), gerentes de red y responsables de los centros, les corresponde la tarea de:
+• Organizar las redes de servicios.
+• La red de transporte y comunicación.
+• El sistema de referencia y retorno.
+• La capacidad resolutiva de cada unidad 25 asistencial(12), con personal calificado y prácticas basadas en evidencia científica.
+• Desarrollar la atención de calidad con enfoque intercultural.
+REFERENCIAS 1. Ortiz E I, Fuchtner C, Definicion MMEG: Comité de Mortalidad materna FLASOG. Santa Cruz de la Sierra, Bolivia, abril 2007; La Habana Cuba junio 2007.
+2. De La Galvez Murillo Alberto, Pando Miranda Ramiro, Padilla C. Mario. Emergencia
+
+Obstétrica. En: Médicos Consultores. Salud Sexual y Reproductiva. La Paz: Imprenta FACIL; 2011:41-47 (Temas de Ginecología y Obstetricia No.6).
+
+3. Roost Matias, Conde Victor, Liljestrand Jerker, Essen Birgitta. Priorities in emergency obstetric care in Bolivia – maternal mortality and nearmiss morbidity in metropolitan La Paz. BJOC 2009;116:1210-1217.
+
+4. Heise L, Garcia-Moreno C. Informe mundial
+
+26
+
+sobre la violencia y la salud. Washington, D.C.:
+
+OPS; 2003 (Publicación Científica y Técnica
+
+No.588).
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+5. Roost Matias, Conde Altamirano Victor, Liljestrand Jerker, Essen Birgitta. Does antenatal care facilitate utilization of emergency obstetric care? A case-referent study of nearmiss morbidity in Bolivia. Acta Obstétrica et Ginecológica 2010;89:335-342.
+
+6. Organización Panamericana de la Salud, Organización Mundial de la Salud. Plan de acción para acelerar la reducción de la mortalidad materna y la morbilidad materna grave. Washington, D.C.: OPS/OMS; 2011.
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+7. De La Galvez Murillo Alberto, Luna-Orozco Eduardo Javier. Obtención del Consentimiento Informado. La Paz: MSD; 2008 (Serie: Documentos Técnico Normativos).
+8. Tejerina Ortiz ME, Soto Villalta J, Flores Velasco O, Delgadillo Arcienega MC, Márquez Cabezas C, Hiramatzu Yoshida Y, y cols. Norma Nacional de Referencia y Retorno. La Paz: Ministerio de Salud y Deportes; 2008 (Serie: Documentos Técnico Normativos No. 104).
+9. Thaddeus S, Maine D. Demasiado lejos para 27 ir a pie: La mortalidad materna en contexto. En: La Iniciativa Regional de América Latina y el Caribe para la Reducción de la Mortalidad Materna. Santa Cruz de la Sierra; 2000.
+10. Bebér M, Ravindram TKS. Prevención de la mortalidad materna: pruebas científicas, recursos, liderazgo, acción. En: La Iniciativa Regional de América Latina y el Caribe para la Reducción de la Mortalidad Materna. Santa Cruz de la Sierra; 2000.
+11. World Health Organization, Department of Reproductive Health and Research. Beyond
+
+the numbers. Reviewing maternal deaths and complications to make pregnancy safer. Geneva: World Health Organization; 2004.
+12. Médicos Consultores. Organización de redes para la atención de la salud materna y neonatal en el nivel local. La Paz: Atenea SRL; 2009.
+13. De La Gálvez Murillo Alberto. Atención obstétrica y complicaciones del embarazo y parto en Bolivia. Cuadernos del Hospital de Clínicas 2009;54(2):100-107.
+28
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+CHOQUE HIPOVOLÉMICO POR HEMORRAGIA OBSTÉTRICA
+DEFINICIÓN
+Cualquier hemorragia obstétrica que produzca inestabilidad hemodinámica
+La hipovolemia por hemorragia ocasiona incremento de la resistencia vascular sistémica y disminución del
+29
+gasto cardíaco y de la presión arterial media. Si el cuadro evolucióna, hay perfusión inefectiva, choque, lesión tisular, síndrome de disfunción multiorgánica y muerte(1-3).
+CODIFICACIÓN CIE-10ª O75.1 Choque durante o después del trabajo de parto y el parto (choque obstétrico). (Puede ser por hemorragia u otra causa. Si hay hemorragia, identificarla).
+R57.1 Choque hipovolémico (se trata de un diagnóstico mal definido. Habrá que identificar el tipo de hemorragia obstétrica que lo causa).
+
+Durante el embarazo y el parto, el choque hipovolémico hemorrágico puede ser producido por:
+
+• Hemorragia de la primera mitad del embarazo: aborto, embarazo ectópico, embarazo molar.
+
+• Hemorragia de la segunda mitad del embarazo: placenta previa, desprendimiento de placenta, rotura del útero.
+
+• Hemorragia durante o después del parto:
+
+30
+
+rotura del útero, retención de placenta,
+
+desgarros del cuello uterino, atonía uterina,
+
+inversión uterina aguda, vasa previa,
+
+alteraciones de la coagulación.
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+DIAGNÓSTICO
+Los síntomas y signos a los que hay que prestar atención son:
+
+• Estado de concienca.
+
+• Perfusión.
+
+• Pulso.
+
+• Presión arterial.
+
+Adicionalmente la alteración de la Frecuencia respiratoria y la Cantidad de orina eliminada pueden ayudar a determinar el grado de compromiso materno.
+El diagnóstico oportuno y apropiado para salvar la vida de la embarazada es el objetivo principal. Diagnosticar y tratar a tiempo los grados de choque I (compensado) y II (leve) permiten prevenir los grados más avanzados (moderado y grave), que requieren tratamiento más complejo.
+31
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+32
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+Cuadro 2 Evolución del choque hipovolémico según volumen de la pérdida de sangre
+
+pérdida de volumen en % y cc (embarazada de 50-70
+kg)
+
+estado de conciencia
+
+PERFUSION (PIEL)
+
+PULSO
+
+PRESIÓN ARTERIAL SISTÓLICA
+
+GRADO DE CHOQUE
+
+TRANSFUSIÓN
+
+10-15% 5005000 cc 16-25% 10001500 cc
+26-35% 15002000 cc
++ de 35% 2000-3000 cc
+
+Normal
+
+Normal
+
+60-90
+
+Normal y/o agitado Agitado
+Letárgica Inconciente
+
+Palidez frial- 91-100 dad
+
+Palidez, frialdad 101-120 y sudoración
+
+Palidez, frialdad, sudoración, llenado capilar mayor a 3 segundos
+
+Más de 120
+
+Normal
+80-90 mmHg 70-80 mmHg
+Menos de 70 mmHg
+
+Compensado (Grado I) Leve (Grado II)
+Moderado (Grado III)
+
+Usualmente no requerida Posible
+Usualmente requerida
+
+Grave (Grado IV)
+
+Transfusión masiva probable
+
+TRATAMIENTO
+Los objetivos del tratamiento son, en orden de importancia:
+
+• Salvar la vida de la madre.
+
+• Evitar o reducir morbilidad resultante de la hemorragia.
+
+• Salvar la vida del feto.
+
+Para lograr los objetivos(6) son necesarias las
+
+siguientes medidas inmediatas:
+
+33
+
+El choque hipovolémico debe ser tratado incluso en el nivel I, por lo menos en los primeros 20 minutos.
+
+1. Activar el Código Rojo, en forma organizada y con un líder.
+
+2. Pedir ayuda: movilizar al personal o, si está solo/a, lograr la colaboración de un civil (familiar o vecino). Organizar la atención, distribuyendo tareas, en forma rápida y clara1
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+1 Ayudas visuales, simulacros periódicos y fácil acceso a los suministros son aspectos que deben ser tomados en cuenta, y aplicados para no perder pacientes por desorganización, confusión ni por falta de recursos.
+
+3. Realice ABC a la paciente (evalue y garantice via aérea, ventilación y circulación
+
+4. Establecer el grado de choque y notificar al nivel de mayor complejidad(7)
+
+5. Si se dispone de oximetría de pulso proporcione oxigeno suplementario para alcanzar %satO2 >95. Si no se dispone entonces administre oxigeno por cánula nasal a 3Lt/minuto.
+
+6. Si se dispone de Traje Antishock No Neumatico
+
+utilizarlo, preferentemente, si no levante
+
+34
+
+las piernas de la paciente a 15 grados (no
+
+trendelemburg)
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+7. Medir y registrar los signos vitales, en especial el pulso y la presión arterial, obligatoriamente, porque constituyen la base del diagnóstico y el referente para verificar el resultado del tratamiento; darles seguimiento cada 5-10 minutos, o según necesidad(8). También, valorar el estado de conciencia y la perfusión.
+
+8. Canalizar dos venas, con catéter venoso No. 16 o 18.
+
+9. Drenaje vesical con sonda Fowley No. 14F o 16F.
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+10. La embarazada debe permanecer recostada de lado (protección de la vía aérea) para que si vomita, no aspire.
+11. Debe estar abrigada, pero no en exceso, para no aumentar la circulación periférica por acaloramiento, en perjuicio de los órganos vitales.
+12. Alertar al servicio de laboratorio o banco de sangre2 (si existe). Tomar muestras en tres tubos (tapas, roja, morada y gris) para: Hb, Hct, plaquetas, hemoclasificación, pruebas 35 cruzadas, tiempo de protrombina, tiempo parcial de trompoplastina y fibrinógeno. Si no hay laboratorio en el sitio, conservarlas, precintarlas y enviarlas al momento de referir la paciente(5).
+13. Alertar a la unidad de transporte, porque puede ser necesario realizar referencia.
+14. Reanime con líquidos endovenosos cristaloides (SSN 0.9% ó Hartman) preferentemente a 39º C, con bolos iniciales de 500mL cada 30 minutos, los cuales se repetirán hasta alcanzar TAS ≥
+2 En los niveles II y III de atención, laboratorios y unidades transfusionales deben tener recurso humano las 24 horas.
+
+90 mmHg, pulso radial presente y sensorio normal. 15. Evite la hipotermia con sábanas o mantas precalentadas y la administración de todos los líquidos endovenosos (cristaloides) a 39º centígrados.
+36
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+Evalúe la respuesta a la reanimación con cristaloides de la siguiente forma:
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+MANEJO DE HEMORRAGIA
+
+Parametros
+
+Rapida
+
+de Evaluacion Respuesta
+
+Respuesta Transitoria
+
+No Respuesta
+
+Signos vitales (las metas son: PAB>90
+mmHg, sensorio normal y pulso radial firme)
+
+Retornan a lo normal
+
+Hipotension Permanecen recurrente anormales o no (PAB<90mmHg) se consiguen sensorio com- metasenningun prometido; pul- momento so radial debil; taquicardia
+
+Perdida sangui- 10 – 25% ó 500 – 26 – 40% o 1.500 >40% ó >2000 ml.
+
+nea estimada
+
+1500 ml.
+
+a 2.000 ml. (Cho- (choquesevero) 37
+
+(porcentaje del volumen circu-
+lante o ml.)
+
+(Choque compensado o leve)
+
+que Moderado)
+
+Cristaloides adicionales
+Necesidades de Transfusion
+
+Improbable
+
+SI
+
+Poco probable, Probable (pacasi siempre NO quete globular
+necesaria de emergencia:
+2 UGR)
+
+SI
+Paquete transfuncional de Emergencia: 4U UGR, 6U PFC, 6U PLT, ABO Compa-
+tibles
+
+Preparacion de la transfusión
+
+Sangre tipo compatible con pruebas cruzadas (45 – 60 minutos
+
+Paquete globular de emergencia tipo especifico sin pruebas cruzadas (15 minutos) en caso de no disponibilidad
+O-u O+
+
+Inmediato paquete globular O- (u O+); PFC O(u O+); PLT o RH
+compatibles
+
+• Si dispone de sangre proceda como se describe a continuación:
+
+• Evalúe tempranamente la necesidad de
+
+paquete de transfusión de glóbulosrojos de
+
+emergencia: 2 unidades de glóbulos rojos
+
+compatibles sin pruebas cruzadas u O(-) en
+
+presencia de choque hemorrágico moderado;
+
+sino se dispone de estos utilice 0 (+). Considere
+
+la transfusión temprana de plasma fresco
+
+congelado (si existe disponibilidad) en relación
+
+38
+
+1:1.5 en caso de datos de coagulopatía (PTT o
+
+INR >1.5)
+
+• Reanimación con paquete de transfusión masiva en presencia de choque hemorrágico severo con glóbulos rojos 6 unidades (incluidas 2 unidades o-), plasma fresco congelado, 6 unidades, 1 aféresis de plaquetas (o 6 unidades de plaquetas).
+
+• De manera simultanea evalué la causa del sangrado
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+• Si no dispone de sangre remita una vez haya realizado las medidas iniciales de reanimación para tratar la causa de la Hemorragia
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+Es fundamental el manejo óptimo del tiempo, que se logra trabajando en equipo. El tratamiento debe ser realizado por etapas en los primeros 60 minutos(6,7).
+• Minuto 0: Activación del Código Rojo.
+• Minutos 1 al 20: Reanimación y Diagnostico. La resucitación inicial en el choque hemorrágico incluye la restauración del volumen circulante, mediante la aplicación de dos catéteres gruesos y la infusión rápida de soluciones cristaloides.
+En el manejo del choque hemorrágico es 39 necesaria la rápida identificación de la causa y su control, mientras se realizan medidas iniciales de reanimacion.
+• Minutos 20 al 60: Una resucitación adecuada requiere la evaluación continua de la respuesta, mediante la vigilancia de los signos clínicos.
+• Minuto 60 en adelante: Manejo avanzado. Medidas quirúrgicas. Control de la coagulopatía de consumo, cuya presencia es altamente probable si la hemorragia ha durado 45 minutos o más.
+
+Lo que se debe hacer es tratar la deficiencia circulatoria producida por la hemorragia, y la causa del choque simultaneamente. Es decir, para salvar la vida de una embarazada en choque, hay que reponer la sangre perdida y estabilizarla y practicar el tratamiento definitivo como ser, legrado uterino, cesárea o extracción manual de la placenta, laparotomía exploradora, etc. Para estos tratamientos finales tal vez sea necesario referirla a un hospital de nivel superior.
+40 Las metas de la reanimación en una situacion de choque hemorrágico son:
+• Presión arterial sistólica ≥ 90 mmHg.
+• Pulso radial presente.
+• Sensorio normal.
+REFERENCIAS
+1. Vera Carrasco O. Choque: enfoque diagnóstico y terapéutico en el adulto. Cuadernos 2007;52(2):93-103.
+2. Pérez Assen Albadio. Incidencia y pronóstico del síndrome de disfunción multiorgánica en
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+pacientes ingresadas en cuidados intensivos. Disponible en: http://inxdexmédico.com/ publicaciones/indexmed (Acceso el 23 de febrero de 2013).
+3. Pace-MD. Urgencias médico quirúrgicas. Choque hipovolémico. (Acceso el 15 de marzo de 2012).
+4. Baskett PJ. ABC of major trauma. Management of hypovolemic shock. BMJ 1990;300:1453-7.
+5. Ortiz Edgar Ivan, Escobar Maria Fernanda, 41 Vasco Mauricio. Colapso materno. Hemorragia obstétrica. (serie de diapositivas). Bogotá: Ministerio de Salud y Proteccion Social; 2012.
+6. Vélez Álvarez Gladis Adriana, Agudelo Jaramillo Bernardo, Gómez Dávila Joaquín Guillermo, Zuleta Tobon John Jairo. Código rojo: Guía para el manejo de la hemorragia obstétrica. Revista Colombiana de Obstetricia y Ginecología 2009;60(1):34-48.
+7. Organización Mundial de la Salud. Shock. En: Integrated Management of Pregnancy and Childbirth. Washington, D.C.: OMS; 2002.
+
+ABORTO COMPLICADO CON HEMORRAGIA
+DEFINICIÓN
+Aborto se define como la terminación del embarazo poterior a la implantación del huevo fecundado en la cavidad endometrial, antes que el feto logre la viabilidad (menor de 22 semanas de edad gestacional, con un peso fetal menor de 42 500 gramos y una longitud céfalo-caudal < 25cm) (definición OMS(1))
+CODIFICACIÓN CIE-10ª O03 Aborto espontáneo.
+O04 Aborto médico (legal y terapéutico).
+O05 Otro aborto.
+O06 Aborto no especificado (incluye aborto inducido).
+DESCRIPCIÓN De las mujeres que tienen abortos inducidos o espontáneos, alrededor de 66.500 al año, según un
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+estudio de Ipas-Bolivia(2), aproximadamente 28.000 llegan a los servicios públicos y de la seguridad social con la complicación más frecuente, la hemorragia de la primera mitad del embarazo. El personal de salud de los tres niveles de atención debe asegurar tratamiento de emergencia de las complicaciones, es decir:
+• Remisión inmediata en caso necesario, dependiendo del nivel de atención al cual acudió la paciente en primera instancia.
+• Estabilización clínica y tratamiento del Choque 43 Hipovolemico.
+• Evacuación uterina para remover los residuos de la gestación (mediante aspiración manual endouterina).
+DIAGNÓSTICO
+El interrogatorio y el examen físico genital son fundamentales para diagnosticar un aborto incompleto.
+• La paciente relata la expulsión de partes ovulares.
+• Presencia de hemorragia genital persistente.
+
+• El útero sigue aumentado de tamaño, pero más pequeño que el correspondiente a la edad gestacional.
+• El canal cervical está abierto.
+• Hay dolor en abdomen bajo, tipo cólico.
+TRATAMIENTO(6-11)
+Nivel I y nivel II con capacidad resolutiva limitada 44 • Signos vitales estables y en buen estado
+general.
+• Tamaño uterino que corresponda a una gestación menor o igual a 12 semanas.
+• Sin signos de infección y con posibilidad de retorno seguro y rápido al Centro de atención.
+DOSIS: • Misoprostol 400 mcg sublingual o 600 mcg oral dosis única.
+CONTRAINDICACIONES • sangrado abundante síntomas o signo de infección genital o sepsis.
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+• Mal estado general, síntomas de inestabilidad hemodinámica o shock
+• Alergia a prostaglandinas
+• Sospecha de embarazo ectópico
+• Antecedentes de trastornos de la coagulación, o que estén tomando anti-coagulantes.
+CRITERIOS DE REMISION
+• Signos vitales inestables, por la hemorragia, antes de referir reanimar a la paciente según 45 el protocolo de Choque Hipovolemico (Cap II).
+• Una vez estabilizada la paciente: remítala a nivel de mayor complejidad que garantice presencia de ginecólogo, uso de medicamentos y transfusión sanguínea.
+Nivel II y nivel III(11)
+Simultaneamente al procedimiento de evacuación (evaluar el grado de choque hipovolémico)
+Idealmente por aspiración manual endouterina (AMEU).
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+• Choque compensado o leve y signos vitales estables: observación y preparación para la evacuación.
+• Choque moderado y Choque hemorrágico severo: Reanimación según protocolo (Cap. II).
+Proporcionar apoyo emocional e informar a la paciente sobre:
+• Su condición general de salud.
+46 • El tiempo aproximado necesario para el tratamiento.
+• Administrar analgésicos: Paracetamol, 500-1 000 mg VO 30-60 minutos antes del procedimiento o, Ibuprofeno, 400-800 mg VO, 1 hora antes del procedimiento.
+• Durante todo el procedimiento, explicar a la mujer los pasos que se estan realizando.
+• Obtener el Consentimiento Informado.
+Recomendaciones después del procedimiento de evacuación
+• Paracetamol, 500 mg vía oral, según necesidad.
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+• La paciente puede comer, bebér y movilizarse rápidamente después de una AMEU.
+• Indicarle que la fertilidad retornará muy pronto(12-13), y que podría quedar embarazada antes de presentar su próxima menstruación3.
+• Orientar y suministrar anticoncepción de larga duración idealmente, antes del alta.
+• La mujer debe estar atenta a la presencia de secreciones genitales malolientes, para consultar de inmediato.
+47
+• Lo mismo si hay hemorragia genital y/o elevación de la temperatura corporal posteriores al procedimiento.
+REFERENCIAS
+1. Publicacion Cientifica CLAP / SMR 1594 Guías para la atención de las principales Emergencias Obstetricas (Fescina R, De Mucio B, et. al.
+2. Ipas-Bolivia. El aborto en cifras. La Paz, Ipas; 2011.
+3 El 34% de las mujeres ovula en el curso de las tres semanas postaborto y el 78% en las seis semanas. Se recomienda indicar a la mujer que su fertilidad puede regresar en los 14 días siguientes al aborto.
+
+3. De La Galvez Murillo Alberto. Evaluación de accesibilidad, disponibilidad y utilización de cuidados obstétricos de emergencia en establecimientos públicos cabecera de red. La Paz: Ministerio de Salud y Deportes/UNFPA; 2005.
+
+4. Family Care International, International
+
+Planned Parenthood Federation, Population
+
+Council. Prevención y manejo del aborto que
+
+ocurre en condiciones de riesgo. Nueva York:
+
+48
+
+FCI; 1999 (sección 3).
+
+5. De La Galvez Murillo Alberto, Pando Miranda Ramiro, Padilla C. Mario. Aborto. En: Médicos Consultores. Salud sexual y reproductiva. La Paz: Imprenta FACIL; 2011:112-120.
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+6. Greenslade FC, Mckay H, Wolf M, McLaurin K. Post-abortion care: a women’s health initiative to combat unsafe abortion. IPAS. Advances in abortion care. 1994;4(1):1-8.
+
+7. Kestler E, Valencia L, Del Valle V, Silva A. Scaling Up Post-Abortion Care in Guatemala: Inicial Successes at National Level. Reproductive Health Matters 2006;14(27):138-147.
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+8. Margolis A, Leonard AH, Yordy L. Pain control for treatment of incomplete abortion with MVA. IPAS. Advances in abortion care. 1993;3(1):1-8.
+9. Organización Mundial de la Salud. Sangrado vaginal en la etapa inicial del embarazo. En: Integrated Management of Pregnancy and Childbirth. Washington, D.C.: OMS; 2002.
+10. World Health Organization. Midwifery Education Modules. Education for safe motherhood. Managing incomplete abortion. 49 2a ed. Geneva: OMS; w/d.
+11. Ortiz Edgar Ivan, Escobar Maria Fernanda, Vasco Mauricio. Colapso materno. Hemorragia obstétrica. (serie de diapositivas). Bogota: Ministerio de Salud y Proteccion Social; 2012.
+12. Benson J, Gringle R, Winkler J. Prevención del embarazo indeseado: estrategias administrativas para mejorar la atención postaborto. IPAS. Adelantos en el tratamiento del aborto. 1996;5(1):1-8.
+13. Leonard AH, Ladipo OA. Post-abortion family planning: factors in individual choice of
+
+contraceptive methods. IPAS. Advances in abortion care. 1994;4(2):1-8. 14. Ministerio de Salud y Deportes. Obtención del Consentimiento Informado. La Paz: MSD; 2008 (Serie de Documentos Técnico Normativos. Publicación No. 65).
+50
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+EMBARAZO ECTÓPICO
+DEFINICIÓN
+Se define como la implantación del embarazo fuera de la cavidad endometrial, ocurre aproximadamente en 1% de los embarazos. Contribuye con un 10 a 15% de la mortalidad materna en países desarrollados cuando se asocia a rotura tubárica
+51
+CODIFICACIÓN CIE-10ª 000 Embarazo ectópico (incluye: embarazo ectópico roto)
+000.0 Embarazo abdominal.
+000.1 Embarazo tubárico.
+000.2 Embarazo ovárico.
+000.8 Otros embarazos ectópicos (cervical, cornual, intraligamentoso, mural).
+000.9 Embarazo ectópico, no especificado.
+
+DESCRIPCIÓN
+Los sitios de implantación ectópica tienen diversa frecuencia: aproximadamente el 98% son tubáricos (80% en la porción ampular) y el 2% restante puede localizarse en el abdomen, cérvix u ovarios(2).
+
+FACTORES DE RIESGO
+Existen factores de riesgo pero más de la mitad se presentan en mujeres sin estos:
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+Factor
+52
+Antecedente de cirugía tubarica
+Antecedente de embarazo ectópico
+Exposición a dietlestilbestrol en útero
+Historia de enfermedad pélvica inflamatoria
+Historia de infertilidad
+Ligadura tubárica
+Uso actual de DIU
+
+OR (IC 95%) 21 (9,3-47) 8,3 (6-11,5)
+5,6 (2,4-13)
+2,5 (2,1-3) 5,0 (1,1-28) 9,3 (4,9-18) 5 (1,1-28)
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+DIAGNÓSTICO
+Se sospechara de un embarazo ectópico en mujeres con dolor abdominal, prueba de embarazo positivo, con o sin hemorragia vaginal. La triada: (a) dolor abdominal (que no es de tipo cólico), (b) amenorrea y, (c) hemorragia vaginal escasa, acompaña solo a la mitad de los casos. Toda paciente con sospecha o diagnostico de embarazo ectópico deberá ser asistida en una institución que brinde cuidados ampliados de emergencia obstétrica.
+Se trata de signos y síntomas que también están 53 presentes en la amenaza de aborto(1). Puede pasar varios días desde el inicio del dolor abdominal y la hemorragia vaginal, hasta que se produzca rotura de la trompa.
+Como apoyo al diagnostico estan la prueba de embarazo cuantitativa, fracción Beta de Gonadotrofina Corionica Humana (B-HCG), la ecografía, culdocentesis y la laparoscopia.
+Las pacientes con embarazo ectópico roto se presentan con signos de choque, incluyendo hipotensión, taquicardia, signos de irritación peritoneal. Sin embargo, la mayoría de las pacientes
+
+se presentan antes de la ruptura, con manifestaciones inespecíficas; los signos y síntomas incluyen sangrado vaginal (el cual es típicamente intermitente y pocas veces excede el volumen de un flujo menstrual normal), el dolor pélvico o dolor abdominal típico colico.
+Niveles de fracción beta gonadotrofina corionica (B-Hcg)
+Las mujeres que cursan con un embarazo ectópico tienden a tener niveles mas bajos de B-hCG que 54 aquellas con un embarazo intrauterino.
+En un embarazo normal, la concentración de B-hCG en el primer trimestre aumenta rápidamente, duplicándose aproximadamente cada 2 dias. Los niveles sericos de B-hCG medidos cada 48 horas pueden contribuir al diagnostico de embarazo ectópico, una elevación en la concentración de B-hCG menor de 66% hace probable el diagnostico.
+Ecografia transvaginal
+La ecografía transvaginal puede identificar una masa anexial no quística. Con B-hCG positiva y ausencia de saco gestacional intrauterino se debe buscar obligatoriamente un embarazo ectópico, aunque,
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+hasta 35% de los embarazos ectópicos pueden no mostrar anormalidades anexiales.
+TRATAMIENTO
+Tratamiento Quirurgico
+Las pacientes que se presentan con inestabilidad hemodinámica o signos de hemoperitoneo, masa anexial de gran tamaño y/o niveles de B-hCG altos o actividad cardiaca del embrión deben ser sometidas a manejo quirúrgico en institución con capacidad
+55
+para resolver cuadros de choque hipovolémico.
+En paciente hemodinamicamente estable aplicar protocolo de shock (Cap. II)
+Ante un embarazo ectópico abdominal, la aproximación quirúrgica por laparotomía esta indicada para extracción del feto; las consideraciones a tener en cuenta con respecto a la placenta son: si la placenta se encuentra insertada en un órgano no vital (epiplón), se debe resecar el órgano con la placenta in situ pues el intento de remoción produce sangrado grave; cuando la placenta esta implantada en instestino delgado, intestino grueso u otro órgano vital se debe seccional el cordon umbilical próxima
+
+a la placenta y dejarla en el sitio de la implantación para administrar posteriormente metotrexate.
+El embarazo intersticial rquiere resección quirúrgica con cuña de una porción del miometrio, salpingectomia ipsilateral y conservación del ovario.
+En el embarazo ectópico ovárico el tratamiento quirúrgico es la resección parcial o total del ovario comprometido.
+Tratamiento Médico
+56
+El objetivo del tratamiento medico con metotrexate (antagonista del acido fólico) es conservar la trompa funcionante y evitar los riesgos y costos del tratamiento quirúrgico. Se puede hacer con dosis única, dosis variable o inyección directa en el sitio de implantacion, especialmente cuando no existe evidencia de hemorragia; en pacientes con expectativas de fertilidad futura; embarazo tubárico indemne (masa anexial <3 cm.); BhCG estable, valor máximo menor de 15.000 mUl/mL. sin hemorragia activa...
+La dosis de Metotrexate es de 1 mg/Kg IM, dosis única, dosis máxima 100 mg. También, una dosis estandar de 75 mg(1). Las pacientes con BhCG menor
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+a 5000 mUI/ml tienen mayores probabilidades de éxito con el tratamiento medicamentoso, que requiere, durante varios días, no consumir alcohol, ácido fólico ni antinflamatorios, no esteroides. Un estudio(8) con este régimen reveló una tasa de falla de 30,7 por ciento.
+REFERENCIAS
+1. Boyd W. David, MacIntyre Catherine J, Kaunitz Andrew M. Gestacion ectópica. En: Benrubi Guy I. Urgencias obstétricas y ginecológicas, 57 2ª ed. Jacksonville, Florida: Hospital Manual; 2009.
+2. González-Merlo J, González E, Puerto B. Embarazo ectópico. En: González-Merlo J, Lailla JM, Fabre E, González E. Obstetricia. 5ª ed. Barcelona: Masson S.A; 2006.
+3. Parada O, De Lucca AJ, Marchese CA, Nicolotti AM, Pastori AA, Poncelas Nélida M. Medicina materno-fetal. Bs. As.: Ed. Ascuñe Hnos.; 2003 106 - 109
+4. Navarro H, Aramendiz JM. Embarazo ectópico. En: Cifuentes R. Ginecología y Obstetricia
+
+basadas en las nuevas evidencias. 2ª ed. Bogotá; Distribuna Editorial: 2009. 220 – 225.
+5. Ortiz Edgar Ivan, Escobar Maria Fernanda, Vasco Mauricio. Colapso materno. Hemorragia obstétrica. (serie de diapositivas). Bogota: Ministerio de Salud y Proteccion Social; 2012.
+6. Navarro H. Embarazo ectópico. En: Cifuentes R. Urgencias en obstetricia. Bogotá. Distribuna Editorial; 2007
+58 7. Wheeless C Jr. Atlas de cirugía pélvica ginecológica. 3ª ed. Barcelona: MassonWilliams & Wilkings; 1998 271- 272.
+8. International Federation of Gynecology and Obstetrics. Association between socioeconomic status ant actopic pregnancy rate in the Republic of Korea-Corrrect Proof. Disponible en: http://www.figo.org/journal/ association-between (Acceso el 29 de junio de 2013).
+9. Fescina R, De Mucio B, Ortiz El, Jarkin D. Hemorragia anteparto. Embarazo ectópico. En: Centro Latinoamericano de Perinatología,
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+Salud de la Mujer y Reproductiva. Guías para la atención de las principales emergencias obstétricas. Montevideo: Organización Panamericana de la Salud; 2012:25-32 (Publicación Científica CLAP/SMR 1594).
+ 
+59
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+PREECLAMPSIA Y ECLAMPSIA
+DEFINICIÓN
+Afección multisistémica que aparece a partir de las 20 semanas y que se caracteriza por hipertensión arterial y proteinuria; si se agrega convulsiones y/o coma, se denomina eclampsia; esta puede ocurrir durante el embarazo, el parto o hasta ocho semanas después del parto(1-5).
+60
+CODIFICACIÓN CIE-10ª4 O14 Hipertensión gestacional [inducida por el embarazo con proteinuria significativa
+O14.0 Preeclampsia moderada.
+O14.1 Preeclampsia severa.
+O14.9 Preeclampsia, no especificada
+O15 Eclampsia
+O15.0 Eclampsia en el embarazo.
+4 Si bien la CIE-10ª está vigente, hoy se usa cada vez menos para diferenciar en la clínica los niveles de gravedad de la preeclampsia.
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+O15.1 Eclampsia durante el trabajo de parto. O15.2 Eclampsia en el puerperio. O15.9 Eclampsia, en periodo no especificado.
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+DESCRIPCIÓN
+
+La eclampsia es la segunda causa de muerte materna
+
+en Bolivia, y la primera en los servicios de Salud (6). Se
+
+trata de una enfermedad grave cuyo diagnóstico en
+
+el prenatal, en fase de preeclampsia, es fundamental
+
+para salvar la vida de la madre y el bebé.
+
+61
+
+La preeclampsia y la eclampsia tienen que ser tratadas en un hospital, pero todos los establecimientos de salud deben tener la capacidad de poder diagnosticarlas y administrar un anticonvulsionante antes de proceder a la referencia.
+
+La preeclampsia es una de las afecciones que provoca daños muy importantes al feto/recién nacido, como la reducción del número de neuronas y retardo del crecimiento, ambas por causa de la hipertensión arterial. También incrementa el riesgo futuro de afección cardiovascular, tanto en la madre que la padece y su bebé . (7,8) La eclampsia y el síndrome
+
+HELLP están asociadas a mayor mortalidad materna y neonatal.
+En el embarazo, la presión diastólica importa más que la sistólica, porque mide la resistencia periférica y varía poco con el estado emocional de la mujer, en comparación con la sistólica, que sin embargo, está relacionada con edema y hemorragia cerebral (PAS = ≥160 mmHg)(9).
+En la eclampsia, la muerte ocurre por insuficiencia respiratoria o por hemorragia cerebral, como las 62 causas directas más frecuentes, pero también por insuficiencia renal aguda, desprendimiento prematuro de la placenta o daño hepático(5).
+CLASIFICACIÓN Y DIAGNÓSTICO
+En el embarazo, los trastornos hipertensivos involucran cinco Afecciones(5,10-14).
+1. Preeclampsia
+Se la diagnostica a partir de tres variables: (a) embarazo de 20 o más semanas, (b) hipertensión arterial sistólica y/o diastólica, a partir de 140/90 mmHg, verificándola con una segunda medición en un lapso de 4 horas hasta 7 días y, (c) proteinuria
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+de 300 o más mg. en orina de 24 horas (en tiras: 1+, repitiéndola un un lapso de 4 horas a 7 días (resultado de 2+ no requiere repetición). Una vez hecho el diagnóstico, se tiene que establecer la gravedad del cuadro (ver cuadro 3).
+2. Eclampsia
+Presencia de convulsiones asociadas a un trastorno hipertensivo del embarazo (preeclampsia, hipertensión gestacional, preeclampsia agregada). En el posparto, puede ocurrir hasta ocho semanas después. En tal situación, hay que descartar 63 transtorno neurológico.
+3. Hipertensión crónica
+Presión arterial gestación igual o mayor a 140/90 mmHg, en cualesquiera de las siguientes tres situaciones: (a) hipertensión arterial conocida antes del embarazo, (b) diagnosticada por primera vez antes de las 20 semanas de embarazo y, (c) hipertensión que persiste luego del puerperio.
+4. Preeclampsia agregada
+Se la diagnostica cuando en una embarazada con hipertensión arterial crónica, luego de las 20 semanas aparece proteinuria, igual o superior a 300 mg/24
+
+horas, o poteinuria persistente cuando se utiliza tiras reactivas. Si la proteinuria ya estuvo presente antes de las 20 semanas, las cantidades detectadas después de las 20 semanas deben ser mayores. El diagnóstico de preeclampsia agregada es más preciso en pacientes cuya hipertensión no es controlable, aparecen síntomas o complicaciones, alteraciones de laboratorio o deterioro de la vitalidad fetal.
+5. Hipertensión gestacional
+El diagnóstico se cumple cuando están presentes 64 las tres siguientes condiciones: (a) embarazo igual
+o mayor a 20 semanas, (b) hipertensión arterial sistólica y/o diastólica, a partir de 140/90 mmHg, verificada en un lapso de 4 horas hasta 7 días y, (c) proteinuria negativa (menor a 300 mg/24 horas).
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+Cuadro 3
+
+Criterios para el diagnóstico de preeclampsia grave
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+MADRE/FETO
+COMPLICACIÓN MATERNA
+COMPLICACIÓN FETAL
+
+VARIABLE
+
+DEFINICIÓN
+
+1. Crisis hipertensivas
+
+Presión arterial sistólica ≥ 160 mmHg y/o Presión arterial diastólica ≥ 110
+mmHg
+
+2. Síntomas
+
+Cefalea, alteraciones visuales/auditivas, epigastralgia, náuseas/
+vómitos, otras.
+
+3. COMPLICACIÓN
+
+Síndrome HELLP,
+
+edema cerebral,
+
+65
+
+desprendimiento de
+
+retina, edema pulmonar,
+
+insuficiencia renal aguda,
+
+hematoma/ruptura
+
+hepatica, CID.
+
+4. Examenes alterados (COMPLICACIÓN no establecida)
+
+Alteraciones del perfil de coagulación, elevación de enzimas hepáticas
+o trombocitopenia, creatinina elevada.
+
+5. Oliguria
+
+Menos de 400 cc en 24 horas.
+
+6. Proteinuria ≥ 5 gr en 24 horas, o 3-4
+
+elevada
+
++ (cruces).
+
+7. Restricción del crecimiento fetal
+8. Obito fetal
+
+Peso fetal ≤ al percentil 10 para la edad gestacional.
+Muerte fetal sin otra causa que la explique.
+
+FUENTE: FLASOG(14)
+
+FACTORES DE RIESGO PARA PREECLAMPSIA Cuadro 4
+
+Factores de riesgo para preeclampsia
+
+RIESGO ALTO
+
+RIESGO MODERADO
+
+Enfermedad hipertensiva Primer embarazo en embarazo anterior
+
+Enfermedad renal crónica
+Enfermedad autoinmune, como 66 lupus eritematoso sistémico o síndrome antifosfolipídico
+
+Edad mayor a 40 años
+Periodo intergenésico mayor a 10 años
+
+Diabetes tipo 1 o 2
+
+IMC ≥ 35 kg/m2 en la primera consulta
+
+Hipertensión crónica
+
+Historia familiar de preeclampsia
+
+Embarazo múltiple
+
+FUENTE: FLASOG(14)
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+PREVENCIÓN DE LA PREECLAMPSIA
+Tanto el reposo como la restricción de sal en la dieta no mostraron efectos beneficiosos, en los estudios realizados(5,15-17), por lo que no son recomendados.
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+Lo mismo sucede con la suplementación con calcio, que únicamente puede ser administrada cuando la embarazada cumple dos requisitos: alto riesgo para preeclampsia y baja ingesta de calcio demostrada. En tal situación, se puede prescribir de 1,5 a 2 gr de calcio por día(18).
+Para prevenir la preeclampsia se recomienda administrar dosis bajas de acido acetil salicílico (75 mg día), pero solo a embarazadas que presentan un factor de riesgo alto o dos moderados para preeclampsia. La administración debería comenzar 67 antes de las 20 semanas de embarazo(19,20).
+PREVENCIÓN DE LA ECLAMPSIA
+En la actualidad, la mejor y única droga para prevenir la eclampsia es el sulfato de magnesio, por lo que toda paciente con trastorno hipertensivo grave diagnosticada durante el embarazo, el parto o el puerperio debe recibir profilaxis con sulfato de magnesio(11,21,22), porque además no hay efectos negativos ni complicaciones fetales ni neonatales(21).
+Sin embargo, el sulfato de magnesio no es eficaz en la reducción de las muertes maternas por eclampsia, ni en las morbilidades graves asociadas(21,22).
+
+TRATAMIENTO DE LOS TRASTORNOS HIPERTENSIVOS DEL EMBARAZO
+El tratamiento definitivo de los trastornos hipertensivos es la terminación del embarazo, especialmente si la hipertensión es grave y refractaria al tratamiento medicamentoso.
+En el tratamiento de la preeclampsia hay tres pasos básicos:
+(a) Diagnóstico correcto y oportuno.
+68
+(b) Manejo correcto de la hipertensión arterial.
+(c) Prevención de la eclampsia.
+Antihipertensivos
+Hipertensión leve-moderada
+Se considera que está presente cuando la PA diastólica es ≥ 90 mmHg y menor de 110 mmHg, y la PA sistólica entre 140-160 mmHg. Independientemente de que exista preeclampsia, hipertensión gestacional o hipertensión crónica, el empleo de antihipertensivos no parece resultar beneficioso contra las principales complicaciones maternas ni perinatales(23), por lo
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+que no se recomienda su uso en tanto no exista más y mejor evidencia.
+
+Hipertensión grave
+Está presente cuando la PA sistólica es ≥ 160 mmHg y la diastólica ≥ 110 mmHg. Con uno o ambos niveles de PA, se considera que se está frente a una crisis hipertensiva. Los medicamentos más estudiados son, hidralazina, labetalol y nifedipina(24-26).
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+Cuadro 5
+
+Esquema terapéuticos contra hipertensión
+
+69
+
+arterial grave
+
+HIDRALAZINA LABETALOL NIFEDIPINA
+
+NIVEL DE LA PA
+
+PAS ≥ 160 mmHg y/o PAD ≥ 110
+mmHg
+
+PAS ≥ 160 mmHg y/o PAD ≥ 110
+mmHg
+
+PAS ≥ 160 mmHg y/o PAD ≥ 110
+mmHg
+
+DOSIS
+INTERVALO
+DOSIS TOTAL
+
+5 mg IV
+Cada 15-20 minutos 3 a 5 dosis
+
+20, 40, 80, 80 y 80 mg IV
+Cada 10-20 minutos
+
+10 mg, oral
+Cada 10-15 minutos
+
+Hasta la 5ª 3 a 5 dosis dosis
+FUENTE: FLASOG(14)
+
+Se recomienda comenzar el tratamiento con el medicamento que más experiencia se tenga (o con el que esté disponible). Si la hipertensión grave no disminuye y ha sido agotada la dosis total, utilizar otro de los tres recomendados.
+En embarazadas hipertensas crónicas, el tratamiento debe ser iniciado cuando hay crisis hipertensiva. Pero, en presencia de complicaciones (daño renal, cardiopatía, síndrome antifosfolipídico, diabetes mellitus), iniciar tratamiento con medicamentos orales con PA ≥ 150/100 mmHg(14).
+70
+El mejor tratamiento para la crisis hipertensiva persistente es la interrupción del embarazo.
+Sulfato de magnesio
+Trastornos hipertensivos graves
+En preeclampsia grave, hipertensión gestacional grave y preeclampsia agregada hay que administrar sulfato de magnesio(5,10,11,21,27), para prevenir la eclampsia, una dosis de carga y otra de mantenimiento; ésta última debe continuar hasta 24 horas de concluido el embarazo.
+Dosis de carga: 4 gr (4 ampollas de 1 gr al 10%) administradas IV lentamente, entre 5-20 minutos.
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+Se puede administrar sin diluir o en 50 cc de Ringer lactato o solución salina normal. Advertir a la embarazada que tendrá una sensación de calor.
+Dosis de mantenimiento: Aplicarla a continuación de la dosis de ataque, IV 50 cc por hora de la dilusión, preparada con 20 gr (20 ampollas de 1 gr al 10%) diluidas en 800 cc de Ringer lactato o solución salina normal. Antes y durante la administración, observar los reflejos osteodendinosos profundos. Tener a la mano gluconato de calcio como antídoto.
+71
+Eclampsia
+La embarazada puede llegar convulsionando o con antecedente de haber presentado convulsiones en domicilio. Administrar una dosis de ataque y otra de mantenimiento, igual que en los párrafos precedentes.
+Si en tanto se administra la dosis de mantenimiento la paciente convulsiona por primera vez o vuelve a convulsionar, administrar otra dosis de carga (2 a 4 ampollas de 1 gr IV, en 5 minutos) y proseguir con la dosis de mantenimiento.
+Si la eclampsia ocurre en el postparto (hasta 8 semanas de concluido el embarazo), administrar
+
+una dosis de ataque y otra de mantenimiento, en las dosis citadas. La dosis de mantenimiento mantenerla hasta 24 horas de la última convulsión. Si hay una segunda convulsión, administrar una segunda dosis de ataque (2 a 4 gr IV).
+CRITERIOS ADICIONALES
+Síndrome HELLP
+Es una complicación seria de los trastornos hipertensivos del embarazo. Hemolisis 72 microangiopática, elevación de las enzimas hepáticas y disminución de plaquetas son su característica. Debido a que se asocia con significativa morbilidad y mortalidad materna, requiere manejo especializado y crítico(12).
+Sus principales complicaciones son: desprendimiento de placenta, coagulación intravascular diseminada, insuficiencia renal aguda, edema pulmonar, desprendimiento de retina, hematoma o ruptura del hígado, hemorragia cerebral y muerte materna(1,12,21).
+Médico que atiende una embarazada con síndrome HELLP debe estar bien capacitado, para aplicar el tratamiento, que consiste en tres pilares: (a)
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+interrupción del embarazo, (b) administración de antihipertensivos y, (c) administración de sulfato de magnesio. Si ocurre convulsiones, aumenta el riesgo de muerte materna(1), en tanto que la morbilidad neonatal depende más de la edad gestacional que del síndrome(12).
+Administración de fluidos
+Hay hemoconcentración y reducción del volumen plasmático en embarazadas con preeclampsia y eclampsia. Este hallazgo ha hecho suponer que es necesario expandir el volumen plasmático, pero no 73 hay evidencias de sus beneficios(28,29), por lo que no debe aplicarse, incluso durante la cesarea.
+Solo se debe administrar el fluido utilizado para preparar la infusión con sulfato de magnesio (50 cc por hora). Si se utiliza hidralazina para crisis hipertensiva, se puede administrar hidratación adicional intravenosa de 500 cc (12) en 24 horas(14).
+Incluso puede ser perjudicial al genera muertes maternas asosciadas a complicaciones pulmonares como edema agudo pulmonar y síndrome de dificultad respiratoria del adulto.
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+Manejo conservador
+Embarazos entre 24-34 semanas
+El manejo conservador consiste en prolongar el embarazo luego de la administración de corticoides para maduración pulmonar fetal: betametasona, 12 mg IM de inicio y otra dosis semejante a las 24 horas. También, se puede administrar, dexametasona, 6 mg cada seis horas, 4 dosis(14).
+El manejo conservador es posible en pacientes 74 sin crisis hipertensiva, sin sintomatología, sin
+complicaciones (síndrome HELLP, insuficiencia renal y otras), sin Restricción del crecimiento fetal y con consentimiento informado firmado. La idea es llegar a una edad gestacional que mejore la sobrevida neonatal en un hospital(14).
+Los hospitales deben valorar su capacidad para manejar estos casos (obstetras y neonatólogos entrenados), o interrumpir el embarazo, o referir a un centro que pueda realizar manejo conservador.
+Pacientes con estas edades gestacionales y trastorno hipertensivo grave, deben recibir corticoides para maduración pulmonar fetal y luego interrupción del embarazo 24 horas, después de la ultima dosis(14).
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+Embarazos de 34-36 semanas con 6 días
+Hay poca evidencia al respecto. La OMS(16) y UK(5) consideran que si hay estabilidad materna y la hipertensión ha sido controlada, es posible postergar la interrupción. En cambio, otros expertos recomiendan terminar el embarazo(10,21), en especial si hay trastorno hipertensivo grave, síndrome HELLP u otra complicación.
+Embarazos a partir de 37 semanas.
+El diagnóstico de trastorno hipertensivo del embarazo 75 significa riesgo progresivo para la madre y el bebé si se mantiene el embarazo(21). El riesgo neonatal se debe más a Restricción del crecimiento y desprendimiento placentario. No hay evidencia que la prolongación del embarazo genere beneficios perinatales; al contrario, el riesgo materno se mantiene o empeora si no se interrumpe la gestación . (5,10,21,29)
+Por tanto, la conducta adecuada es interrumpir el embarazo en pacientes con trastornos hipertensivos y embarazos con gestaciones iguales o mayores a 37 semanas. La via de terminación es la vaginal; realizar cesárea si hay indicación obstétrica (DPPNI, por ejemplo). La sola preeclampsia no es indicación de cesárea(14).
+
+MANEJO POR NIVEL DE ATENCIÓN
+Medidas generales niveles: I, II y III
+• Trabajar en equipo con otros miembros del personal.
+• Tener a mano: succión, máscara, bolsa y balón con oxígeno.
+• Proteger a la mujer de lesiones, en especial si presenta convulsiones, pero sin restringir sus movimientos. No olvidar colocar una cánula de
+76
+Mayo o una compresa entre los dientes, para evitar que la paciente se muerda la lengua si convulsiona.
+• La embarazada debes estar recostada hacia la izquierda, en especial si está en coma o entra en crisis convulsivas, a fin de reducir el riesgo de aspiración de secreciones, vómito y sangre.
+• Nunca dejar sola a la embarazada. Una convulsión seguida de aspiración puede causar la muerte de la madre y el feto. Después de una convulsión, aspirar boca y garganta, según necesidad.
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+• Cateterizar vejiga para medir diuresis y proteinuria.
+• Control de signos vitales, reflejos y frecuencia cardíaca fetal cada 30 minutos.
+Procedimientos de laboratorio (según posibilidades de cada nivel)
+• Hemograma, grupo sanguíneo y factor Rh.
+• Glucemia, nitrógeno ureico, creatinina, ácido úrico.
+77
+• Pruebas de coagulación.
+• Recuento de plaquetas.
+• Pruebas de función hepática. (transaminasas, bilirrubinas).
+• Proteinuria en 24 horas.
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+Medidas específicas
+Nivel I y, nivel II con capacidad resolutiva limitada
+• Diagnóstico.
+
+• Asegurar dos accesos venosos con catéter 16 ó 18.
+
+• Iniciar sulfato de magnesio (ver esquema).
+
+• Iniciar tratamiento Antihipertensivo
+
+78
+
+(nifedipino, hidralazina o labetalol) en crisis
+
+HIE si ≥ 160 – 110. (ver esquema)
+
+• Realizar maduración pulmonar si el embarazo está entre 24 y 34 semanas (con betametasona o dexametasona).
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+• Medidas generales en tanto se concreta la referencia.
+
+• Remitir a nivel de alta complejidad en ambulancia con medico o personal de enfermería o paramédico que realice:
+
+1. Toma de presión arterial cada 5 a 10 minutos durante el transporte.
+
+2. Nueva dosis de Nifedipino o Labetalol o Hidralazina si la TAS es > 160 mmHg y /o TAD > 110 mmHg.
+3. Bolo de sulfato de magnesio 2g al 20% a pasar en 20 minutos en 150 cc Solucion salina isotónica, si presenta nuevo episodio convulsivo.
+Nivel II y nivel III
+• Todo lo anterior.
+79
+• Concluir maduración pulmonar (con betametasona o dexametasona) según esquema.
+• Dosis de mantenimiento de sulfato de magnesio.
+• Terminacion del embarazo, cesarea o inducción según corresponda.
+• Mantener sulfato de magnesio hasta 24 horas después del nacimiento.
+• Aplicar medidas generales.
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+REFERENCIAS
+1. Vigil-De García P. Maternal deaths due to eclampsia and HELLP syndrome. International Journal of Gynecology & Obstetrics 2009;104(2):90-94.
+2. Hirshfeld-Cytrom J, Lam C, Karumanchi SA, Lindheimer M. Late postpartum eclampsia: examples and review. Obstet Gynecol Surv. 2006 Jul;61(7):471-480.
+80 3. Sibai BM. diagnosis, prevention and management of eclampsia. Obstet Gynecol. 2005 Feb;105(2):402-410.
+4. Fescina R, De Muciuo B, Ortiz El, Jarkin D. Guías para la atención de las principales emergencias obstétricas. Montevideo: OPS; 2012 (Publicación Científica CLAP/SMR 1594).
+5. National Institute for Health and Clinical Excellence. NHS. Hypertension in pregnancy. The management of hypertensive disorders during pregnancy. NICHE Clinical Guideline 107. London: NICHE; 2010.
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+6. Ministerio de Salud y Deportes. Mortalidad materna en Bolivia 2000. La Paz: MSD; abril 2004 (Informe sobre la Encuesta Post-Censal de Mortalidad Materna 2003).
+7. De La Gálvez Murillo Alberto. Atención obstétrica y complicaciones del embarazo y parto en Bolivia. Cuadernos del Hospital de Clínicas 2009;54(2):100-107.
+8. Serrano NC, Paez MC, Beltrán MA, Colmenares CC, Guio E, Bautista P y cols. Preeclampsia y riesgo cardiovascular: estudio de seguimiento 81 de la población der Gen PE en Colombia. Revista Colombiana de Obstetricia y Ginecología 2012;6(3):1-9.
+9. Bellamy L, Casas JP, Hingorari AD, Williams DJ. Pre-eclampsia y riesgo de enfermedad cardiovascular en la vida posterior: una revisión sistemática y meta-análisis. BMJ 2007;335:974.
+10. National High Blood Pressure Education Program Working Group Report on high blood pressure in pregnancy. Am J Obstet Gynecol. 2000;183:S1-S23.
+
+11. Steegers EA, von Dadelszen P, Duvekot JJ, Pijnenborg R. Pre-eclampsia. Lancet. 2010, 21;376(9741):631-644.
+
+12. Ciantar E, Walker JJ. Pre-eclampsia, severe pre-eclampsia and hemolysis. Elevated liver enzymens and loe platelets syndrome: what is new? Women’s Health. 2011;7(5):555-569.
+
+13. Uzan J, Carbonnel M, Piconne O, Asmar R,
+
+Ayoubi JM. Pre-eclampsia: pathophysiology,
+
+diagnosis and management. Vasc Health Risk
+
+82
+
+Manag. 2011;7:467-474.
+
+14. Federación Latinoamericana de Sociedades de Obstetricia y Ginecología. Módulo de capacitación en pre-eclampsia/eclampsia. Ciudad de Panamá: FLASOG; 2012.
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+15. Meher S, Duley L. Rest during pregnancy for preventing pre-eclampsia and its complications in women with normal blood pressure. Cochrane Database of Systematic Reviews. 2006;(2):CD005939.
+
+16. World Health Organization. Recomendations for prevention and treatment of pre-eclampsia and eclampsia. WHO; 2011.
+
+17. Oladapo OT. Reposo en cama con o sin hospitalización para la hipertensión durante el embarazo: Comentario de la BSR (última revisión: 15 de diciembre de 2006). La Biblioteca de Salud Reproductiva de la OMS; Ginebra: Organización Mundial de la Salud.
+
+18. Hofmery GJ, Lawrie TA, Ataliah AN, Duley L.
+
+Calcium supplementation during pregnancy for
+
+preventing hypertensive disorders and related
+
+problems. Cochrane Database of Systematic
+
+Review. 2010;(8):CD001059.
+
+83
+
+19. Duley L, Henderson-Smart DJ, Meher S, King JF. Antiplatelets agents for preventing pre-eclampsia and its complications. Cochrane Database of Systematic Review. 2007;(2):CD00025.
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+20. Instituto de Ciencias de la Salud. ¿Se benefician las mujeres con preeclampsia y sus niños con el sulfato de magnesio? El estudio Magpie: Una investigación clínica aleatorizada. The Lancet 2002;359:1877-1890.
+
+21. Khan KS. Sulfato de magnesio y otros anticonvulsivantes en mujeres con
+
+preeclampsia: Comentario de la BSR (última revisión: 8 de septiembre de 2003). La Biblioteca de Salud Reproductiva de la OMS; Ginebra: Organización Mundial de la Salud.
+
+22. Abalos E, Duley L, Steyn DW. Antihypertensive drug therapy for mild to moderate hypertension during pregnancy. Cochrane Database of Systematic Review. 2007;(1):CD002252.
+
+23. Olufemi T. Oladapo y Olalekan Adetoro.
+
+Fármacos para el tratamiento de la presión
+
+84
+
+arterial muy elevada durante el embarazo:
+
+Comentario de la BSR (última revisión: 15 de
+
+diciembre 2010).
+
+24. Sibai B. Dekker G, Kupfermik M. Pre-eclampsia. Lancet. 2005;365:785-799.
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+25. Duley L, Henderson-Smart DJ, Meher S. Drugs for treatment of very high blood pressure during pregnancy. Cocharane Database of Systematic Review. 2006;(3):CD001449.
+
+26. Vigil-De Gracia P, Lasso M, Ruiz E, Vega-Malek J, Tem de Mena F, Lopez J. Severe hypertension in pregnancy: hidralazine o labetalol. A
+
+randomized clinical trial. Eur J Obstet Gynecol. 2006;128:157-162.
+27. Duley L, Williams J, Henderson-Smart DJ. Plasma volume expansion for treatment of women with pre-eclampsia. Cochrane Database of Systematic Review. 2000;(2):CD001805.
+28. Ganzevoort W, Rep A, Bonsel GJ, et al. A randomized controlled trial comparing two temporizing management strategies, one with and one without plasma volume expansion, for severe and early onset pre-eclampsia. BJOG. 85 2005;112:1358-1368.
+29. Koopmans CM, Bijlenga D, Groen H, et al. Induction of labour versus expectant monitoring for gestational hypertension or mild preeclampsia after 36 weeks gestation (HYPITAT): a multicenter, open-label randomized controlled trial. Lancet. 2009;374:979-988.
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+ 
+HEMORRAGIAS OBSTÉTRICAS DE LA SEGUNDA MITAD DEL EMBARAZO
+DEFINICIÓN
+Son aquellas que se presentan después de las 20 semanas de gestación y que obedecen a causas relacionadas con: la placenta, el cuerpo y el cuello del útero, y con alteraciones de la coagulación.
+86
+DESCRIPCIÓN
+En cualquier momento de la gestación, las mujeres perciben como amenazante la presencia de una hemorragia. Debido a que manifiestan ansiedad y temor ante la posibilidad de perder la vida, o el fracaso del embarazo, corresponde realizar un diagnóstico rápido y certero de la causa, y luego aplicar el tratamiento que corresponda, en el marco de un trato de calidad, proporcionando información, obteniendo el Consentimiento Informado y registrando en la historia clínica todo el proceso, con oportunidad y claridad(1-3).
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+Las hemorragias obstétricas son de evolución impredecible. Conceden poco tiempo para intervenir, por ejemplo en comparación con la hipertensión inducida por el embarazo(3,4) y por tanto causan mayor letalidad(5), razón por la que su manejo tiene que ser hospitalario, porque constituyen una emergencia obstétrica.
+La actitud terapéutica es ciertamente un poco diferente que ante una hemorragia obstétrica de la primera mitad del embarazo. En ese momento sólo importa el compromiso materno, dada la inviabilidad 87 fetal. En cambio, después de las 20 semanas, si bien continúa como prioritario el bienestar de la madre, la salud fetal no puede ser dejada de lado, por lo que siempre se debe intervenir con una actitud de equilibrio(4).
+La frecuencia de las hemorragias de la segunda mitad del embarazo oscila entre 2-5% de las gestaciones. En nuestro medio, la media es de 7,1 casos por cada 1000 partos y cesáreas en establecimientos de salud, con extremos, como Santa Cruz, con 10,2 por mil, y Tarija con 1,3 por mil(8).
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+CAUSAS • Placenta previa.
+• Desprendimiento prematuro de la placenta con inserción normal.
+• Rotura del útero.
+• Rotura de vasa previa.
+• Rotura del seno marginal.
+88 • Afibrinogenemia y otras alteraciones de la coagulacion
+El cuadro muestra el diagnóstico diferencial entre las principales hemorragias obstétricas de la segunda mitad del embarazo, en las que la pérdida hemática puede ser tan rápida y abundante, hasta el punto de ocasionar choque hipovolémico y muerte.
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+CUADRO No. 6
+Diagnóstico diferencial entre las principales hemorragias obstétricas de la segunda mitad del embarazo
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+CARACTERÍSTICAS Frecuencia Inicio
+
+DPPNI
+0,5% a 1% Brusco
+
+PLACENTA ROTURA DEL
+
+PREVIA
+
+ÚTERO
+
+0,2% a 0,5%
+
+Muy poco frecuente
+
+Insidioso Brusco
+
+Hemorragia Interna o mixta Externa
+
+Interna o mixta
+
+Aspecto de la Roja oscura Roja brillante Roja
+
+sangre
+
+89
+
+Hipertensión Frecuente No
+
+No
+
+Choque
+
+Frecuente Ocasional Frecuente
+
+Dolor
+
+Si
+
+No
+
+Si
+
+Útero
+
+Hipertónico Relajado
+
+No se palpa
+
+Palpación del feto Ecografía
+Actividad uterina Sufrimiento fetal Cocaína/ tabaco
+
+Difícil
+Placenta normo inserta Si Frecuente
+Si
+
+Normal
+
+Fácil
+
+Placenta previa
+
+Variable
+
+Generalmente Si (hasta antes
+
+no
+
+rotura)
+
+Infrecuente Muy frecuente
+
+No
+
+No
+
+FUENTE: Adaptado de: ver cita bibliográfica 4.
+
+REFERENCIAS
+1. Jones C David. Hemorragia durante la gestación. En: Benrubi I Guy. Urgencias obstétricas y ginecológicas, 2ª ed. Jacksonville, Florida: Hospital Manual; 2009:114-127.
+
+2. Ministerio de Salud y Deportes. Obtención del consentimiento informado. La Paz: Cacely; 2008 (Serie: Documentos Técnico Normativos).
+
+3. De La Galvez Murillo Alberto, Pando Miranda
+
+90
+
+Ramiro, Padilla C. Mario. Emergencia
+
+obstétrica. En: Médicos Consultores. Salud
+
+Sexual y Reproductiva. La Paz: Imprenta FACIL
+
+2011:41-47.
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+4. Caballero Rafael, De La Barra Javier. Metrorragia del tercer trimestre. En: Obstetricia. Santiago de Chile: Universidad de Chile; 2005:301-307.
+
+5. Ministerio de Salud y Deportes, Dirección General de Salud. Evaluación de la disponibilidad, acceso y uso de los cuidados obstétricos de emergencia en establecimientos cabecera de red del sector público de salud. La Paz: UNFPA; 2006.
+
+6. Ministerio de Salud y Deportes, Instituto Nacional de Estadística. Informe de la Encuesta PostCensal de Mortalidad Materna. La Paz: UNFPA; 2003.
+
+7. De La Galvez Murillo Alberto. Pobreza y mortalidad materna en Chuquisaca. La Paz: Apoyo Grafico; 2011.
+
+8. De La Galvez Murillo Alberto. Atención
+
+obstétrica y complicaciones del embarazo y
+
+parto en Bolivia. Cuadernos del Hospital de
+
+Clínicas 2009;54(2):100-107.
+
+91
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+DESPRENDIMIENTO PREMATURO DE PLACENTA CON INSERCIÓN NORMAL
+(DPPNI)
+DEFINICIÓN
+El desprendimiento prematuro de placenta o el abruptio placentae se define como el desprendimiento o la separación total o parcial del sitio de implantación de una placenta 92 normoinserta antes del nacimiento del feto y después de la semana 22 de gestación. Puede presentarse con sangrado entre las membranas y la decidua a través del cérvix o permanecer confinado al utero con sangrado por detrás de la placenta.
+CODIFICACIÓN CIE-10ª
+045 Desprendimiento prematuro de la placenta (abruptio placentae)
+O45.0 Desprendimiento prematuro de la placenta con defecto de la coagulación (hemorragia excesiva asociada con:
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+afibrinogenemia, CID, hiperfibrinolisis, hipofibrinogenemia).
+O45.8 Otros desprendimientos prematuros de la placenta.
+O45.9 Desprendimiento prematuro de la placenta, sin otra especificación (abruptio placentae SAI).
+DESCRIPCIÓN
+Está presente en aproximadamente el 1% de los
+93
+nacimientos, pero las formas severas ocurren en uno de cada 500-750 partos y una tasa de mortalidad perinatal de 119 por 1000 nacimientos especialmente por prematurez.
+La mayoría de las complicaciones maternas graves del DPPNI son consecuencia de la hipovolemia y de la enfermedad de base asociada al accidente(2,3).
+Corresponde al 30% de las hemorragias de la segunda mitad de la gestación, asociado a una razón de mortalidad materna de 1%. Esta asociado, pero no limitado a un incremento en la incidencia de coagulación intravascular diseminada, falla renal, necesidad de transfusiones e histerectomía.
+
+El desprendimiento de la placenta y la consecuente lesión de los vasos sanguíneos maternos de la decidua basal, producen la liberación de sangre, que desprende aún más la placenta(4).
+Entre los factores de riesgo o predisponentes asociados a ésta afección están:
+• Trastornos hipertensivos del embarazo.
+• Haber presentado un abruptio previo, después de un episodio el 11% y después de 2 episodios mayor al 20%.
+94
+• Sobredistensión uterina, por embarazo múltiple, polihidramnios o macrosomia fetal.
+• Descompresión uterina rápida (polihidramnios, parto del primer gemelo).
+• Hábito de fumar en una relacion dosisrespuesta, se asocia a necrosis decidual, hemorragia vellosa corionica y trombosis intravellosa.
+• Consumo de alcohol
+• Consumo de Cocaina y Drogas vasoconstrictoras que afectan el flujo placentario y la integridad decidual.
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+• RPM prolongada.
+• Traumatismo abdominal grave (por accidente de tránsito, caída o agresión) o manipulación uterina como versión cefálica externa.
+• Cordón umbilical muy corto.
+• Anomalías o tumores uterinos.
+Por su complejidad, ésta complicación obstétrica debe ser resuelta en hospitales de los niveles II y III. El nivel I tiene que referir éstas pacientes previa 95 estabilización; sin embargo, en casos excepcionales, cuando la referencia no sea posible y el parto resulta inminente, se procederá a la atención, comunicando de la gravedad del cuadro a la paciente y sus familiares.
+CLASIFICACIÓN
+Grado 0: Asintomatico. El diagnostico es retrospectivo y por anatomía patológica.
+Grado I: Es leve, representa aproximadamente el 48% de los casos. La paciente se presenta con sangrado vaginal leve o ausente (hemorragia oculta), ligera sensibilidad uterina, frecuencia cardiaca y
+
+tensión arterial maternas normales, no asociada a coagulopatia, ni alteraciones del estado fetal.
+Grado II: Es moderado y representa el 27% de los casos. La presentación del cuadro clínico es sangrado vaginal moderado o ausente (hemorragia oculta), sensibilidad uterina moderada a grave con posibles contracciones tetánicas (hipertonía uterina), taquicardia materna y cambios ortostaticos en la presión arterial, sufrimiento fetal e hipofibrinogenemia (50 – 250 mg/dl). 96 Grado III: Es intenso y representa el 24 % de los casos. La paciente manifiesta sangrado vaginal abundante o ausente (hemorragia oculta), utero hipertónico muy doloroso, choque materno, hipofibrinogenemia (<150 mg/dl), coagulopatia y muerte fetal.
+DIAGNÓSTICO
+Criterios clínicos
+La presentación clínica del abruptio varía ampliamente desde un sangrado asintomático hasta presentación con muerte materna y perinatal la clásica manifestación del desprendimiento prematuro de placenta incluye:
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+• Dolor abdominal o pélvico (70%)
+• Hemorragia vaginal oscura, al comienzo en poca cantidad, posterior a la aparición del dolor y no condigna con el estado general de la embarazada (70%)
+• Contracciones uterinas sin etiología explicable (20%), si el desprendimiento es importante, impide palpar las partes fetales.
+• Entre los signos se encuentra hipertonía (35%),
+97
+sufrimiento fetal (60%) y muerte fetal (15%).
+• Compromiso del estado general (palidez, taquicardia), pero las cifras de presión arterial pueden aparentar normalidad si está presente una hipertensión gestacional.
+• Puede haber antecedente de trauma abdominal.
+• La mujer embarazada puede presentar hipertensión arterial.
+La hemorragia oculta se presenta en un 20% de los casos dentro de la cavidad uterina (coagulo
+
+retroplacentario) con el paulatino desprendimiento de la placenta que puede ser completo, asociado frecuentemente a complicaciones graves.
+Aproximadamente un 10% de esta forma de abruptio placentae esta asociado con coagulopatia (coagulación intravascular diseminada). La forma externa o visible de hemorragia se presenta en un 80% de los casos. En estos casos el sangrado drena a través del cérvix, el desprendimiento de la placenta puede ser completo o incompleto y las 98 complicaciones son menos frecuentes y graves.
+Los patrones de frecuencia cardiaca fetal asociados con abruptio placentae manifiestan un sufrimiento fetal que pueden llegar a la muerte fetal.
+En casos agudos pueden no presentarse los hallazgos ecográficos características y en general se considera que en la mitad de los casos la ultrasonografia no puede hacer el diagnostico. Sin embargo, cuando la ecografía sugiere la presencia del abruptio la probabilidad de confirmacar el diagnostico es extremadamente alta. En general se considera que la sensibilidad para el diagnostico es del 80%, la especificidad del 92%, el valor predictivo positivo del 95% y el valor predictivo negativo del 69%.
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+TRATAMIENTO
+El manejo del abruptio placentae depende de la presentación del cuadro clínico, de la edad gestacional y del grado del compromiso materno fetal. El objetivo principal del manejo del desprendimiento prematuro de placenta es evitar la morbi-mortalidad materna (atonía uterina, utero de Couvelaire, choque hemorrágico o hipovolémico, coagulación intravascular diseminada, necrosis tubular y cortical renal sindorme de Sheehan) y morbi-mortalidad fetal (hipoxia fetal, anemia, restricción de crecimiento 99 intrauterino (RCIU), alteraciones SNC, muerte fetal), por lo tanto debe realizarse en niveles con disponibilidad de sangre y cirugía.
+Nivel I, y nivel II con capacidad resolutiva limitada
+• Monitoria hemodinámica continua de signos vitales.
+• Oxigen suplementario continuo a alto flujo (mascara con relservorio a 12 – 15 l/min)
+• Dos accesos venoso 16 a 18 de buen calibre para administración critaloides (solución salina normal o lactato Ringer).
+
+• Monitoria de la cantidad de sangrado vaginal
+
+• Monitoria de la frecuencia cardiaca fetal.
+
+• Tratamiento de choque hipovolémico, si es necesario.
+
+• Si los signos vitales están estables, remitir a nivel superior con capacidad resolutiva.
+
+• Si los signos vitales no están estables, por
+
+la hemorragia, antes de referir reanimar a
+
+la paciente según el protocolo de Choque
+
+100
+
+Hipovolemico (Cap II).
+
+• Una vez estabilizada la paciente: remítala a nivel de mayor complejidad.
+
+Para aplicar cuando ya no es posible referir.
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+Si el parto es inminente:
+
+• Comunicar la gravedad del caso a la paciente y los familiares.
+
+• Mantener la reposición de soluciones cristaloides (Ringer o Suero fisiológico).
+
+• Si las membranas están íntegras, realizar amniotomía.
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+• Atención del parto y el alumbramiento, realizando manejo activo del tercer periodo del parto para prevenir la hemorragia por atonía uterina.
+• Administrar oxígeno, 5-7 litros por minuto.
+• En caso que el alumbramiento no se produzca en 5 minutos aunque se haya aplicado el manejo activo y se perciba hipotonía uterina, proceder a extraer manualmente la placenta.
+• Cuando persisten la hipotonía y hemorragia 101 post parto, tratar según protocolo en Pag. 104.
+Nivel II y nivel III • Monitoria hemodinámica no invasiva continua.
+• Administración de oxigeno suplementario
+• Valoración inmediata del bienestar fetal.
+• Choque compensado o leve y signos vitales estables: observación y preparación para cesárea.
+
+• Choque moderado yChoque hemorrágico severo: Reanimación según protocolo (Cap. II).
+
+• Tratamiento de coagulopatia o coagulación
+
+intravascular diseminada, siendo el diagnostico
+
+precoz de gran ayuda en la reposcion anticipada
+
+de hemoderivados. El tratamiento de la causa
+
+subyacente es fundamental, finalizando el
+
+embarazo y extrayendo el feto y la placenta.
+
+El mantenimiento de la circulación efectiva
+
+102
+
+minimiza el efecto negativo de la isquemia.
+
+• El uso de heparina o agentes antifibrinoliticos no esta indicado en coagulación intravascular diseminada inducida por abruptio placentae. Una vez que el nacimiento se produce, el proceso usualmente se resuelve rápidamente y es raro que la coagulopatia evidente presista mas de 12 horas. El conteo de plaquetas retorna a niveles normales al segundo o tercer dia posterior al parto.
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+ORIENTACIÓN EN SALUD
+• En el control prenatal, realizar buena orientación sobre los factores de riesgo.
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+• Informar a la familia en forma clara y rápida sobre las posibles complicaciones en la madre y el feto.
+• No olvidar obtener el consentimiento informado.
+REFERENCIAS
+1. De La Galvez Murillo Alberto, Pando Miranda Ramiro, Padilla C. Mario. Desprendimiento prematuro de la placenta de inserción normal. En: Médicos Consultores. Salud 103 sexual y reproductiva. La Paz: Imprenta FACIL; 2011:167-173 (Temas de Ginecología y Obstetricia No.6).
+2. Nino Reinaldo, Piragiata Gurierra Yanith, Pena Diaz Fernando Aníbal. Guía de desprendimiento prematuro de la placenta normoinserta. Bogotá: maternidad Rafael Calvo; 2011.
+3. Vergara Sagbini Guillermo. Protocolo de desprendimiento prematuro de la placenta normoinserta.
+4. Bernstine R. Abruptio placentario. En: Iffy L, Kaminetzky H. Obstetricia y perinatología,
+
+principios y práctica. Bs. As.: Ed. Médica Panamericana; 1986:1097-1113.
+
+5. Bellard J. Fernández S. Desprendimiento prematuro de la placenta normalmente inserta. Otras anomalías de implantación. En: Cabero L., Saldivar D., Cabrillo E. Obstetricia y medicina materno-fetal. Madrid: Ed. Médica Panamericana; 2007:619 – 627.
+
+6. Padilla Mario. Abruptio placentae. En: Médicos
+
+Consultores. Obstetricia práctica. La Paz:
+
+104
+
+Stampa Gráfica Digital; 1997:227-231 (Temas
+
+obstétricos y ginecológicos Nº 5).
+
+7. Casale RA, Ferreirós JA, Mónaco AM, Verger AP, Toronchik AG. Guía de procedimientos en obstetricia. 3ª ed. Bs. As.: Fondo de Resguardo Profesional; 2008: 165-170.
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+8. Parada O, De Lucca A, Marchese C, Nicolotti AM, Pastori AA, y cols. Medicina maternofetal. Bs.As. : Ed. Ascuñe Hnos; 2003:80-82.
+
+9. Simpkins F, Holcroft C. Hemorragia en el tercer trimestre. En: Brankowsky B, Hearne A, Lambrou N, Fox H, Wallach E. Jhons Hopkins
+
+Ginecología y obstetricia. España: Marban; 2005:129-130.
+10. Ortiz Edgar Ivan, Escobar Maria Fernanda, Vasco Mauricio. Colapso materno. Hemorragia obstétrica. (serie de diapositivas). Bogota: Ministerio de Salud y Proteccion Social; 2012.
+11. Uranga Imaz FA. Obstetricia Práctica. 5ª ed. Bs.As.: Ed. Intermedica; 1979:564
+105
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+PLACENTA PREVIA
+DEFINICIÓN
+El termino placenta previa se refiere a la placenta que cubre o estapróxima al orificio cervical interno (ocl) y se encuentra implantada en el segmento inferior del útero después de la semana 22 de gestación.
+106 Tradicionalmente la placenta previa ha sido catalogada en 4 tipos:
+• Placenta previa completa: la placenta cubre completamente el OCI.
+• Placentaprevia parcial: la placenta cubre parcialmente el OCI
+• Placenta previa marginal: la placenta esta cercana al OCI,pero no lo cubre.
+• Placenta inserción baja: se extiende en el segmento uterino pero no sobre el OCl
+La placenta previa complica aproximadamente el 0,3 al 0,5 % de los embarazos, con una tasa de mortalidad
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+materna relacionada de 0,3 % de los casos. La tasa de mortalidad perinatal se incrementa 3 a 4 veces frente a embarazos normales.
+La morbilidad asociada con placenta previa se incluye en la tabla a seguir:
+CUADRO No. 7
+MORBILIDAD MATERNA ASOCIADO A PLACENTA PREVIA
+
+PATOLOGÍA Hemorragia anteparto
+
+RR IC del 95%
+107
+9,8 (8,9 -10,8)
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+Necesidad de histerhectomía 33,3 (18,2-60,9)
+
+Hemorragia intraparto
+
+2,5 (1,6-4)
+
+Hemorragia postparto
+
+1,9 (1,5-2,4)
+
+Transfusión
+
+10,1 (7,5-13,6)
+
+Septicemia
+
+5,5 (1,3-23,5)
+
+Tromboflebitis
+
+4,9 (1,5-15,7)
+
+Diagnóstico clínico y paraclínico
+La presentación clínica clásica de placenta previa es sangrado sin dolor en el segunda mitad del embarazo. Algunas pacientes pueden presentar sangrado con dolor probablemente secundario al inicio de actividad uterina.
+La mayoría de las pacientes con placenta previa son diagnosticadas por ecografía durante el segundo trimestre de la gestación.
+108 La ecografía transvaginal de mayor precisión que la transabdominal, tiene una sensibilidad de 87 ,5%, especificidad de 98,B”A, valor predictivo positivo de 93 ,3”A y valor predictivo negativo de 97 ,6%,lo que convierte este método en el estándar de oro para el diagnóstico.
+Las pacientes con diagnóstico de placenta previa al final del embarazo, tienen una mayor probabilidad de persistencia de esta localización al momento del parto. Las pacientes con diagnóstico alrededor de la semana 20 de gestación deben ser evaluadas para confirmar el diagnóstico.
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+Tratamiento
+Manejo expectante
+La alta tasa de mortalidad perínatal en placenta previa relacionada con parto pretérmino, puede disminuirse mediante el manejo conservador expectante y el nacimiento tan cercano al término como sea posible.
+Manejo Expectante de placenta previa
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+MANEJO
+
+DESCRIPCION
+109
+
+Confirmación de Realizaciòn de ecografía
+
+diagnóstico
+
+pélvica y/o transvaginal, mas
+
+doppler en casos indicados.
+
+Uteroinhibición
+
+Sólo cuando existan contracciones uterinas en emabrazo de preteèrmino.
+
+Inductores de maduración pulmonar.
+
+Edad gestacional entre 24 a 34 semanas.
+
+Finalización de embarazo.
+
+Cesarea electiva entre semana 36 y 37.
+
+Cesarea en placenta previa oclusiva total y parcial.
+
+En mujeres que presentan sangrados, Se deberá ser cuidadoso con la exploración vaginal.
+El objetivo es prolongar la gestación en especial con embarazos menores de 32 semanas mientras el sangrado sea moderado y s¡n inestabilidad hemodinámica.
+No hay evidencia que sustente el cerclaje dentro de las estrategias de manejo de Placenta Previa.
+La cesárea deberá ser electiva y realizarse una vez 110 alcanzado el término (de ser posible) ya que la cesárea
+de emergencia incrementa el riesgo de sangrado en 50%. Cuando la placenta es anterior existe mayor riesgo de sangrado durante la cesárea por incisión a través de la placenta, con mayordificultad técnica para la extracción fetal.
+En gestantes con placenta marginal si la distancia desde el OCI a la placenta es mayor de 2 cm en la última evaluación ecográfica realizada entre la semana 35 y 36 de embarazo, se puede llevar al parto vaginal de manera segura.
+Las pacientes con sangrado masivo o actividad uterina deben hospitalizarse con la colocación de 2
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+accesos venosos número 16-18 y la toma oportuna de hemograma, hemoclasificación y reserva de productos sanguíneos.
+Esquema de manejo por niveles de atención
+El cuidado prehospitalario y en niveles de baja complejidad debe proporcionar cuidado de emergencia con posibilidades de reanimación inicial a todas las pacientes con sospecha de abruptio placentae para la remisión oportuna a un nivel de mayor complejidad, lo cual incluye:
+111
+• Monitoria hemodinámica continua de signos vitales
+• oxígeno suplementario continuo a alto flujo (máscara con reservorio a 12 - 15 U/min)
+• Dos accesos venosos 16 o 1B de buen calibre para administración de cristaloides (solución salina normal o lactato Ringer).
+• Monitoria de la cantidad de sangrado vaginal.
+• Monitoria de la frecuencia cardiaca fetal.
+• Tratamiento de choque hipovolémico, si es necesario.
+
+El cuidado hospitalario depende de la edad gestacional y la gravedad de los síntomas. Este manejo incluye:
+
+• Monitoria hemodinámica no invasiva continua.
+
+• Administración de oxígeno suplementario.
+
+• Valoración inmediata del bienestar fetal.
+
+• Administración de líquidos endovenosos
+
+(cristaloides). Según estado hemodinámico de
+
+112
+
+la paciente o signos de choque hipovolémico
+
+es necesario instaurar reanimación agresiva
+
+de cristaloides (bolo 1500 a 2000 cc, posterior
+
+infusión de 200 – 300 cclh) para garantizar la
+
+perfusión tisular.
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+• Reserva y disponibilidad de hemoderivados (4 u de glóbulos rojos, plasma, plaquetas y otros hemoderivados). En instituciones de baja complejidad deberá contarse con al menos 2 volúmenes de glóbulos rojos, preferentemente de grupo O Rh negativo.
+
+• Establecer si reúne condiciones clínicas para manejo expectante en placenta previa sin sangrado masivo.
+
+• Cesárea inmediata si hay signos de inestabilidad materna y/o fetal, teniendo en cuenta el inicio de reanimación hemodinámica agresiva y disponibilidad absoluta de hemoderivados.
+113
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+HEMORRAGIAS POSTPARTO
+DEFINICIÓN
+Tradicionalmente la hemorragia postparto ha sido la perdida de sangre de mas de 500 cc en partos vaginales y 1.000 cc por vía abdominal.
+Para fines clínicos cualquier perdida de sangre que tenga el potencial de producir inestabilidad 114 hemodinámica es considerada una HPP (palidez, vértigo, sincope, hipotensión, taquicardia, oliguria).
+La cantidad de perdida de sangre requerida para causar inestabilidad hemodinámica dependerá de la condición preexistente de la mujer.
+El riesgo de morir por Hemorragia Post Parto es 100 veces mas alta en países en vías de desarrollo que en países desarrollados.
+Esta disparidad es principalmente atribuible a:
+• Partos que son atendidos por Personal NO Calificado.
+• Acceso limitado a medicamentos uterotónicos
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+• Distancia a los servicios de salud
+
+CODIFICACIÓN CIE-10ª O72 Hemorragia postparto
+
+O72.0 Hemorragia del tercer periodo del parto (retención de la placenta)
+
+O72.1 Otras hemorragias postparto inmediatas (atonía)
+
+O72.2 Hemorragia postparto secundaria o
+
+tardía (retención de fragmentos).
+
+115
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+O72.3 Defecto de la coagulación postparto.
+
+La Atonía Uterina es la causa más común de Hemorragia Post Parto, alrededor de un 80%.
+
+El uso de uterotónicos profilácticos han demostrado reducir la proporción de mujeres que experimentan HPP.
+
+A pesar de ello, el 7 % de mujeres que han recibido uterotónicos para prevenir la Hemorragia Post Parto, aun están en riesgo de desarrollarla.
+
+PREVENCION El manejo activo del tercer periodo del parto es la medida más eficiente para evitar la hemorragia postparto, con esto buscamos:
+• Incrementar la habilidad de contracción del utero.
+• Facilitar la extracción de la placenta
+• Prevenir atonía uterina 116 El manejo activo del tercer periodo del parto consiste
+en:
+• Administrar Oxitocina 10 unidades intramuscularesal salir hombro anterior. Si la paciente tiene vena canalizada, utilizar10 unidades endovenosas diluidas para pasar en no menos de 3 minutos.
+• Tracción controlada del cordón
+• Masaje uterino.
+En lugares dónde no está disponible la oxitocina, se puede utilizar otros uterotónicos:
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+• Oxitocina
+
+10 u IM. / IV
+
+• Ergometrina 0.2 mcg. IM.
+
+• Sintometrina 1 amp. IM.
+
+• Misoprostol 600 mcg. V.O.
+
+• Carbetocin
+
+100 mcg. IM. / IV
+
+Para el óptimo uso de la oxitocina se requiere:
+
+• Refrigeración
+• Equipamiento estéril para intravenosa o intramuscular
+
+aplicación 117
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+• Personal entrenado
+
+Los factores anteriormente mencionados dificultan el uso de oxitocina, ergometrina, sintometrina y Carbetocin, es decir, cualquier inyectable en lugares de bajos recursos.
+
+MISOPROSTOL (600 mcg)
+Esta recomendado en lugares donde la refrigeración y manejo de inyectables no esta disponible.
+
+La tracción controlada del cordón, como parte del manejo activo del alumbramiento, NO debe
+
+ser realizada en lugares dónde la atención es por personal no médico.
+El pinzamiento temprano del cordón (menor a 1 minuto) está recomendado en pacientes con sospecha de asfixia perinatal, desprendimiento de placenta, ruptura uterina, desgarro del cordón o paro cardíaco materno.
+En el 60% de los casos de HPP no se logra identificar ningún factor de riesgo.
+118 MANEJO DE LA HEMORRAGIA
+La HPP es la principal causa de mortalidad materna directa a nivel mundial y es responsable del 25 al 30% de las muertes maternas. El tiempo desde el inicio de la HPP hasta el deceso en general es corto.
+Es responsable del 22 al 55 % de los casos de morbilidad materna extrema con incremento en la tasa de histerectomía, falla renal, sepsis y admisión a UCI.
+El sangrado activo no controlado genera choque hipovolémico secundario cuando se alcanza una pérdida de volumen sanguíneo del 40 %. En este estado las demandas de los tejidos no estan suplidas
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+a través del aporte de oxigeno; la profundidad y el tiempo del choque hipovolémico generan hipotermia, Coagulopatías y acidosis metabólica, conocida como la triada de la muerte.
+CLASIFICACIÓN DE LA HEMORRAGIA POSTPARTO Primaria Primeras 24 horas (4 a 6% de todos los embarazos). Puede ser causada por:
+• Atonia uterina (80%)
+119
+• Retención de placenta (Placenta acreta)
+• Laceraciones del tracto genital
+• Defectos en la coagulación
+• Inversión uterina
+Secundaria Entre las 24 horas y las 6 a 12 semanas postparto. Puede ser causada por:
+• Subinvolucion uterina
+• Retención de productos de la concepción
+
+• Infección
+
+• Defectos de la coagulación heredados
+
+Desde el punto de vista etiológico, en la tabla a seguir, se categoriza la hemorragia posparto según la nemotecnia de las “4 t” s.
+
+Clasificación de HPP por factores de riesgo y etiología
+
+Etiología y Frecuencia
+
+Etiología
+
+Factores de riesgo
+
+120
+Tono 70%
+
+Sobredistensión Embarazo múltiple.
+
+Uterina. Parto Macrosomía.
+
+prolongado/ Polihidramnios. Gran
+
+precipitado (Ej: Multípara. Hidrocefalia
+
+inducido).
+
+severa
+
+Fatiga Muscular Trabajo de parto
+
+Uterina
+
+prolongado.
+
+Corioamnionitis.
+
+Desgarros vaginales / cervicales / perineal.
+
+Parto instrumental Episiotomía
+
+Trauma 20%
+
+Extensión del desgarro en la
+
+Mala posición fetal. Manipulación brusca
+
+cesárea
+
+durante la extracción fetal.
+
+Ruptura uterina. Cirugía uterina previa. Inversión uterina Excesiva tracción del
+cordón Gran Multípara
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+Retención de Placenta o membranas restos
+
+Tejidos 9%
+
+Anormalidades placentarias
+
+Localización: Placenta previa. Invasión: acreta, precreta, increta.Congénitas: Útero bicórneo. Adquiridas: Cirugía previa, leiominoma
+
+Coagulopatías congénitas
+
+Hemofilia. Enfermedad Von Willebrand. Hipofibrinogemia.
+
+Coagulopatías HTA. Muerte fetal.
+
+adquiridas embarazo
+
+Enfermedad hepática.
+
+Síndrome HELLP.
+
+121
+
+Trombos
+
+Purpura trombocitopenica idiopática
+Coagulación intravascular diseminada
+
+Muerte fetal intrauterina. Toxemia.Abruptio placentae.Embolismo amniótico.Sepsis
+
+Coagulopatía dilucional
+Anticoagulación
+
+Transfusiones masivas
+Historia de TVP y TEP. Uso de aspirina, Heparina
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+DIAGNOSTICO CLINICO Y PARACLINICO
+
+Existe una tendencia a la subestimación de las perdidas sanguíneas en gestantes. Evalue la pérdida
+
+de sangre clasificando el grado de choque utilizando para ello el parámetro más alterado de la tabla a seguir:
+
+Diagnóstico y clasificación del grado de choque hipovolémico
+
+Pérdida de Volumen en Sensorio Perfusión Pulso % y ml (mujer de 50-70 kg)
+
+122 10–15% Normal Normal 500– 1000 ml
+
+60-90
+
+Pre- Grado sión del Arte- chorial sis- que tólica (mm/ hg)
+>90 Ausente
+
+16-25% Normal Palidez, 91-100 80-90 Leve
+
+1001 – y/o
+
+frialdad
+
+1500 ml. agitada
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+26-35% Agitada Palidez, 101-
+
+1501 –
+
+frialdad, 120
+
+2000 ml.
+
+mas su-
+
+doración
+
+70-79 Moderado
+
+>35%
+>2000 ml.
+
+Letárgica Palidez, >120 <70 o incons- frialdad, ciente mas su-
+doración y llenado capilar > 3 segundos
+
+Severo
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+ESQUEMAS DE ABORDAJE INICIAL DE LA HPP
+Las prioridades en el manejo de la hemorragia posparto son el control del sangrado y la reposición del volumen circulatorio para mejorar la capacidad de transporte de oxigeno y mantener una adecuada perfusión.
+Acciones: • Active el Código Rojo
+• Pedir ayuda, movilice urgentemente a
+123
+todo el personal disponible (Medico, UCI, anestesiología, Enfermeras, Auxiliares, etc.)
+• Alertar al Banco de Sangre y Sala de Cirugía
+• En caso que se encuentre en un nivel sin la suficiente capacidad resolutiva para asistir el caso, prepararse para transferir la paciente.
+Resucitación: • Realice el ABC a la paciente (Evalué y garantice vía aérea, ventilación y circulación).
+• Colocar 2 vías venosas periféricas percutáneas, calibre 16-18. En caso de inestabilidad
+
+hemodinámica se debe tener un sistema de transfusión rápido que permitan calentar fluidos y productos de transfusión.
+
+• Si se dispone de oximetría de pulso proporcione oxigeno suplementario para alcanzar %satO2 >95. Si no se dispone entonces administre oxigeno por canula nasal a 3Lt/minuto.
+
+• Evalue y monitoree funciones vitales:
+
+frecuencia cardiaca, presión arterial, frecuencia
+
+respiratoria, temperatura. Oximetria de pulso
+
+124
+
+y ECG si es posible.
+
+• Inserte Sonda Foley 14 o 16 para drenaje vesical y monitorización horario de la diuresis.
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+• Coloque a la mujer en una superficie plana, como la camilla obstétrica o cama de parto, con sus pies mas elevados que la cabeza.
+
+• En presencia de inestabilidad hemodinámica utilizar Traje Antishock No Neumatico (TAN) para revertir el shock temporalmente.
+
+• Tomar muestra: Hemoclasificación, pruebas cruzadas, hemograma, pruebas de coagulación: PT, PTT, Fibrionogeno, creatinina
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+y electrolitos (si no hay condiciones de realizar en laboratorio, enviar los tubos cuando la paciente es referida).
+• Reanime con liquidos endovenosos cristaloides (SSN 0.9% ó Harman) preferentemente a 39ºC, con bolos iniciales de 500 ml cada 30 minutos, los cuales se repetirán hasta alcanzar TAS > 90 mmHg, pulso radial presente y sensorio normal.
+• Evite la hipotermia con sabanas o mantes precalentadas y la administración de todos 125 los liquidos endovenosos (cristaloides) a 39ºCentigrados.
+• Evalue la respuesta a la reanimación con cristaloides y proceda según protocolo de Choque Hipovolemica (Cap. II).
+De manera simultanea evalue la causa del sangrado a través de la Nemotecnia de las 4 Ts:
+• Tono – Atonía Uterina
+• Trauma – Daño tracto genital
+• Tejido – Retencion de Placenta o coagulos
+• Trombina – Alteracion de coagulacion
+
+126
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+ESQUEMA PARA DIAGNOSTICO ETIOLOGICO DE LA HPP
+Si no dispone de sangre remita una vez haya realizado las medidas iniciales de reanimación.
+Alumbramiento Completo
+
+No
+
+Si
+
+Exploración manual sin plano de clivaje
+
+Remoción parcial
+
+Útero blando y sub involucionado
+
+Útero contraído
+
+Placenta acreta
+
+Restos Ovulares
+
+Atonía Uterina
+
+Laceración cervicovaginal
+
+Hematomas pélvicos
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+HPP POR ATONIA UTERINA
+Masaje Uterino
+• Promover la contracción uterina mediante masaje uterino a través de la pared del abdomen. Los coagulos sanguíneos retenido en el utero inhiben las contracciones uterinas eficaces.
+Administre uterotónico cuanto antes posible:
+• Oxitocina.
+127
+• 40 UI en 1 l de solución salina normal a razón de 60 gotas por minuto.
+• Continúe la infusión de oxitocina (20 UI en 1 l de líquido IV a razón de 40 gotas por minuto) una vez que se detenga la hemorragia.
+• Metergin amp, administrar 0,2 mg IM
+• Si persiste el sangrado, se puede repetir la dosis de 0,2 mg IM cada 2 a 4 horas por un máximo de 5 dosis (1 mg) en un período de 24 horas.
+
+• No administre más de 1 mg (o 5 dosis de 0,2 mg) en un período de 24 horas.
+• La hipertensión es una contraindicación relativa debido al riesgo de accidente cerebrovascular y/o crisis hipertensiva.
+• Misoprostol (si no hay oxitocina disponible o la administración no es factible).
+• Dosis única de 800 μg por vía sublingual (4 tabletas de 200 μg).
+128
+• Carbetocin 100 mcg IM IV lento.
+COMPRESION BIMANUAL UTERINA
+Si el sangrado persiste luego de la administración de uterotónicos, verifique si la placenta esta integra, si hay signos de retención de fragmentos placentario y realice la compresión bimanual del utero, acompañada de la compresión de la Aorta abdominal.
+La evidencia demuestra que en un lapso de 20 a 30 minutos para el sangrado.
+En caso de masaje uterino bimanual aplique antibiótico profiláctico endovenoso: Ampicilina 2gr o
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+Clindamicina 600 mg+ Gentamicina 80 mg (en alergia a la penicilina).
+Compresión bimanual interna para detener la pérdida excesiva de sangre . [28]
+• Explique a la mujer y la familia la necesidad de realizar la compresión bimanual y que es posible que sea dolorosa.
+• Asegúrese de lavarse las manos y usar guantes estériles, de ser posible.
+129
+• Coloque una mano en la vagina y cierre el puño.
+• Coloque la otra mano sobre el fondo del útero.
+• Junte ambas manos para presionar el útero entre ellas, aplicando presión para detener o reducir el sangrado.
+• Mantenga el útero comprimido hasta que consiga obtener asistencia médica.
+COMPRESION AORTICA
+La compresión aórtica es una intervención de
+
+salvamento cuando se produce un sangrado postparto importante, cualquiera sea la causa. Se puede considerar la posibilidad de realizarlo en diferentes momentos durante el manejo de la HPP. La compresión aórtica no previene ni posterga las demás medidas que deben tomarse para identificar la causa de la HPP y solucionarla.
+TAPONAMIENTO CON BALON INTRAUTERINO HIDROSTATICO
+Se trata de un balón, por lo general de caucho 130 sintético, como los catéteres Foley, catéteres SOS Bakri
+e incluso se usan con guantes de caucho estériles, condones u otros dispositivos que se sujetan a un catéter urinario de caucho y luego se introducen en el útero en condiciones asépticas. A este dispositivo se le coloca una jeringa y se llena con suficiente solución salina, habitualmente 300 ml a 500 ml, para ejercer contrapresión y detener el sangrado. Una vez que se detiene el sangrado, el proveedor de atención médica dobla y ata el extremo de afuera del catéter para mantener la presión. Se continúa con una infusión de oxitocina durante 24 horas. Si persiste el sangrado, agregue más solución salina. Si se detuvo el sangrado y la mujer experimenta dolor constante, retire 50 ml a 100 ml de la solución salina. Se deja
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+colocado el balón durante 24 horas como máximo; se desinfla gradualmente en un plazo de dos horas, y luego se retira. Si comienza nuevamente el sangrado mientras se desinfla el balón, vuelva a inflarlo n y espere otras 24 horas antes de intentar desinflarlo por segunda vez. Un taponamiento con balón puede detener o interrumpir el sangrado en 77,5% a 88,8% o más de los casos sin otra necesidad de tratamiento quirúrgico.
+Con las medidas iniciales de estabilización del Choque Hipovolémico, el tratamiento medicamentoso con 131 oxitocina y la colocación del balón intrauterino hidrostático son la tríade esencial para transferir a la paciente de un Centro de nivel I, y nivel II (con capacidad resolutiva limitada), a un nivel superior.
+LAPAROTOMIA
+Nivel II y Nivel III
+Técnica de sutura hemostática uterina (Sutura B-Lynch) indicado en pacientes con HPP secundaria a atonía uterina; pretende realizar una compresión vertical sobre el sistema vascular del útero colocando una ligadura de monocryl Nº1, con una aguja semicircular roma de 70 mm (reabsorbible de
+
+poliglactina o de acido pogiocolico n.º2), en la pared anterior y posterior del útero.
+Las suturas hemostáticas debe ser realizadas después de la histerotomía para tratar de definir si la cavidad uterina esta limpia y asegurar un mayor éxito en el tratamiento. El primer punto se coloca a unos 3cm por debajo del borde de la histerotomía y a 3 cm del borde lateral uterino, saliendo a 3 cm por arriba de la histerotomía y a 4 cm del borde uterino. Se lleva la sutura en sentido ascendente y se coloca el punto posterior que penetra en cavidad y que se da al
+132
+mismo nivel que la histerotomía, a unos 4 cm a cada lado del borde uterino, donde empieza el ligamento ancho.
+La sutura que debe quedar a cierta tensión comprimiendo el útero, se deja a unos 4 cm del cuerno uterino para evitar un posible deslizamiento lateral de la misma.
+Esta técnica está recomendada en pacientes que desean preservar la fertilidad con una tasa de éxito del 91% y esta indicada en pacientes que responden a la compresión bimanual del útero (test de eficacia para la sutura de B-Lynch antes de realizarse), con adecuada perfusión, estabilidad hemodinámica y sin
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+Coagulopatías de lo contrario esta técnica no tendrá éxito. La cirugía de B-Lynch puede ser la primera opción cuando la HPP se presenta durante la cesárea LIGADURA HIPOGASTRICA La ligadura de las arterias uterinas o hipogástricas esta recomendada cuando falla la sutura de B-Lynch.
+133
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+HISTERECTOMIA
+Sin demorar excesivamente la decisión de realizarla ya que retrasos pueden llevar a la muerte de la paciente. La histerectomía puede ser una excelente alternativa en pacientes durante la cesárea y multíparas, en caso de ser el primer embarazo lo ideal es agotar todas las alternativas anteriormente citadas: balón hidrostático, técnica de B-Lynch, Ligadura hipogástrica
+Para el personal de salud
+134
+• En todos los casos, el personal de salud debería tener una preparación previa que incluya la asignación de tareas específicas para realizarlas en los casos de hemorragia postparto.
+• En la sala de partos, sólo debería estar presente el personal que desarrollará una tarea concreta; mayor número de personas sólo aumenta la confusión y bulla, incrementando insospechadamente la posibilidad de errores en la terapéutica.
+• Las órdenes médicas deben ser cortas y precisas, evitando los tonos subidos de voz
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+que en ocasiones son emitidos por el personal que apoya el procedimiento.
+• Sensibilizar para que la institución provea una caja de emergencia accesible para éste y otros casos, que contenga todos los insumos necesarios para sostener la vida en situaciones críticas, cuyo contenido debe ser repuesto inmediatamente después de su utilización.
+REFERENCIAS 1 International Confederation of Midwives, 135 International Federation of Gynecology and Obstetrics. Joint statement: Management of the Third Stage of Labour to Prevent Postpartum Haemorrhage. London: FIGO; 2003.
+2 International Confederation of Midwives, International Federation of Gynecology and Obstetrics. Prevention and Treatment of Postpartum Haemorrhage: New Advances for Low Resource Settings. Int J Gynecol Obstet 2007;97(2):160-3.
+3 Khan KS, Wojdyla D, Say L, Gulmezoglu AM, Van Look PF. WHO analysis of causes of maternal
+
+death: a review. Lancet 2006;367(9516):106674.
+4 United Nations. United Nations Millennium Development Goals 2000.
+h t t p : / / w w w. u n . o r g / m i l l e n n i u m g o a l s . Accessed September 15, 2011.
+5 Smith JR. Postpartum Hemorrhage. http:// www.emedicine.com/med/topic3568. htm. Actualizado el 30 de agosto de 2011.
+136
+6 POPPHI. Prevention of Postpartum Hemorrhage: Implementing Active Management of the Third Stage of Labor (AMTSL): a Reference Manual for Health Care Providers. Seattle: PATH; 2007.
+7 Prendiville W, Elbourne D, McDonald S. Active versus expectant management in the third stage of labour. Cochrane Database Syst Rev 2009(3):CD000007.
+8 Prendiville WJ, Harding JE, Elbourne DR, Stirrat GM. The Bristol third stage trial: active versus
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+physiological management of third stage of labour. BMJ 1988;297(6659):1295-300.
+
+9 Rogers J, Wood J, McCandlish R, Ayers S, Truesdale A, Elbourne D. Active versus expectant management of third stage of labour: the Hinchingbrooke randomised controlled trial. Lancet 1998;351(9104):693-9.
+
+10 Mousa HA, Alfirevic Z. Treatment for primary
+
+postpartum haemorrhage. Cochrane Database
+
+Syst Rev 2007(1):CD003249.
+
+137
+
+11 World Health Organization. Unedited Report of the 18th Expert Committee on the Selection and Use of Essential Medicines.
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+http://www.who.int/selection_medicines/ Complete_UNEDITED_TRS_18th.pdf Published 2011.
+
+12 Mobeen N, Durocher J, Zuberi N, Jahan N, Blum J, Wasim S, et al. Administration of misoprostol by trained traditional birth attendants to prevent postpartum haemorrhage in homebirths in Pakistan: a randomised placebocontrolled trial. BJOG 2011;118(3):353-61.
+
+13 Sanghvi H, Ansari N, Prata NJ, Gibson H, Ehsan AT, Smith JM. Prevention of postpartum hemorrhage at home birth in Afghanistan. Int J Gynecol Obstet 2010;108(3):276-81.
+14 Rajbhandari S, Hodgins S, Sanghvi H, McPherson R, Pradhan YV, Baqui AH. Expanding uterotonic protection following childbirth through community-based distribution of misoprostol: operations research study in Nepal. Int J Gynecol Obstet 2010;108(3):282-8.
+138 15 Rabe H, Reynolds G, Diaz-Rossello J. Early versus delayed umbilical cord clamping in preterm infants. Cochrane Database Syst Rev 2004(4):CD003248.
+16 Hutton EK, Hassan ES. Late vs early clamping of the umbilical cord in full-term neonates: systematic review and meta-analysis of controlled trials. JAMA 2007;297(11):1241-52.
+17 WHO, UNFPA, UNICEF, World Bank. Managing Complications in Pregnancy and Childbirth. http://www.who.int/reproductive-health/ impac/mcpc.pdf. Accessed on September 1, 2011.
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+18 Society of Obstetricians and Gynaecologists of Canada. ALARM International Program. 4th edition. Chapter6. http://www.sogc.org/cme/ alarm_e.asp.Accessed September 25,2011.
+19 Cunningham FG, Leveno KJ, Bloom SL, Hauth JC, Rouse DJ, Spong CY. Obstetrical Hemorrhage. Williams Obsterics. 23rd edition. New York: McGraw-Hill; 2010. p. 760.
+20 Sibley L, Buffington ST, Haileyesus D. The American College of Nurse-Midwives’ homebased lifesaving skills program: a review of 139 the Ethiopia field test. J Mid- wifery Womens Health 2004;49(4):320-8.
+21 United Nations Population Fund. Emergency Obstetric Care: Checklist for Planners. http:// www.unfpa.org-pload.lib_pub_file/150_ filename_checklist_MMU pdf. Accessed August 20,2011.
+22 Blum J, Winikoff B, Raghavan S, Dabash R, Ramadan MC, Dilbaz B, et al. Treatment of post-partum haemorrhage with sublingual misoprostol versus oxytocin in women receiving prophylactic oxytocin: a doubleblind, randomised, non- inferiority trial. Lancet 2010;375(9710):217-23.
+
+23 Winikoff B, Dabash R, Durocher J, Darwish E, Nguyen TN, Leon W, et al. Treatment of post-partum haemorrhage with sublingual misoprostol versus oxytocin in women not exposed to oxytocin during labour: a doubleblind, randomised, non- inferiority trial. Lancet 2010;375(9710):210-6.
+24 Prata N, Mbaruku G, Campbell M, Potts M, Vahidnia F. Controlling postpartum hemorrhage after home births inTanzania. Int J Gynecol Obstet 2005;90(1):51-5.
+140
+25 Chong YS, Chua S, Arulkumaran S. Severe hyperthermia following oral misopros¬tol in the immediate postpartum period. Obstet Gynecol 1997;90(4 Pt 2):703-4.
+25 Widmer M, Blum J, Hofmeyr GJ, Carroli G, AbdelAleem H, Lumbiganon P, et al. Misoprostol as an adjunct to standard uterotonics for treatment of post-partum haemorrhage: a multicentre, double-blind randomised trial. Lancet 2010;375(9728): 1808-13.
+27 World Health Organization. WHO Guidelines for the Management of Postpartum Haemorrhage and Retained Placenta. http://whqlibdoc.who.
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+int/publications/ 2009/9789241598514_eng. pdf. Published 2009.
+28 Crafter H. Intrapartum and Primary Postpartum Haemorrhage. In: Boyle M, editor. Emergencies around Childbirth: a Handbook for Midwives. Oxford: Radcliffe Medical Press; 2002. p. 14968.
+29 World Health Organization (WHO). Managing Eclampsia: Education Material for Teachers of Midwifery. http://whqlibdoc.who.int/ publications/2006/9241546662_ 5_eng.pdf. 141 Published 2006.
+30 Lalonde A, Daviss BA, Acosta A, Herschderfer K. Postpartum hemorrhage today: ICM/FIGO initiative 2004-2006. Int J Gynecol Obstet 2006;94(3):243-53.
+31 Georgiou C. Balloon tamponade in the management of postpartum haemorrhage: a review. BJOG 2009;116(6):748-57.
+32 Miller S, Fathalla MM, Ojengbede OA, Camlin C, Mourad-Youssif M, Morhason- Bello IO, et al. Obstetric hemorrhage and shock management: using the low tech¬nology Nonpneumatic Anti-Shock Garment in Nigerian and
+
+Egyptian tertiary care facilities. BMC Pregnancy Childbirth 2010;10:64.
+
+33 Lester F, Stenson A, Meyer C, Morris J, Vargas J, Miller S. Impact of the non- pneumatic antishock garment on pelvic blood flow in health postpartum women. Am J Obstet Gynecol 2011;204(5):409.e1-5.
+
+34 Miller S, Turan JM, Dau K, Fathalla M, Mourad
+
+M, Sutherland T, et al. Use of the non-
+
+pneumatic anti-shock garment (NASG) to
+
+142
+
+reduce blood loss and time to recovery from
+
+shock for women with obstetric haemorrhage
+
+in Egypt. Glob Public Health 2007;2(2):110-24.
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+35 Turan J, Ojengbede O, Fathalla M, MouradYoussif M, Morhason-Bello IO, Nsima D, et al. Positive effects of the non-pneumatic antishock garment on delays in acces- sing care for postpartum and postabortion hemorrhage in Egypt and Nigeria. J Womens Health (Larchmt) 2011;20(1):91-8.
+
+36 Miller S, Hensleigh P. Postpartum Hemorrhage: New Thoughts, New Approaches. In: B-Lynch C, Lalonde A, West L, editors. Non-pneumatic
+
+Anti-shock Garment for Obstetric Hemorrhage. London: Sapiens; 2006. p. 136-45.
+37 Miller S, Martin HB, Morris JL. Anti-shock garment in postpartum haemorrhage. Best Pract Res Clin Obstet Gynecol 2008;22(6):105774.
+38 B-Lynch C. Conservative Surgical Management. In: B-Lynch C, Lalonde A, West L, editors. A Textbook of Postpartum Haemorrhage. London: Sapiens; 2006. p. 287-98.
+143
+39 Tourné G, Collet F, Lasnier P, Seffert P. Usefulness of a collecting bag for the diagnosis of post-partum hemorrhage. J Gynecol Obstet Biol Reprod (Paris) 2004;33(3):229-34.
+40 Prata N, Mbaruku G, Campbell M. Using the kanga to measure postpartum blood loss. Int J Gynecol Obstet 2005;89(1):49-50.
+41 Tsu VD, Sutanto A, Vaidya K, Coffey P, Widjaya A. Oxytocin in prefilled Uniject injection devices for managing third-stage labor in Indonesia. Int J Gynecol Obstet 2003;83(1):103-11.
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+DESGARRO DEL CUELLO UTERINO
+DEFINICIÓN
+Es una solución de continuidad que se extiende uno o más centímetros desde el orificio cervical externo, y que puede llegar hasta la región ístmica o comisura del cuerpo uterino.
+CODIFICACIÓN CIE-10ª
+144
+O71 Otro trauma obstétrico O71.3 Desgarro obstétrico del cuello uterino
+DESCRIPCIÓN Los desgarros del cuello uterino no son muy comunes (1 por cada 8 desgarros perineales)(1) y generalmente se presentan:
+• Después de un parto muy laborioso en el que se hace pujar a la paciente antes de completar la dilatación.
+• Después de un parto precipitado. • Después de un parto instrumental
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+DIAGNÓSTICO
+• Hemorragia genital constante, roja, posterior al alumbramiento (en ocasiones puede escurrir sangre antes del nacimiento), con útero bien contraído (la hemorragia ocurre cuando el desgarro es de 2 a 3 centímetros o más).
+• Visualización del desgarro en cérvix al examen con valvas o especulo (puede ser necesaria la participación de un/a ayudante para que maneje las valvas).
+145
+• Para visualizar el desgarro se toma ambos labios del cuello uterino con pinzas aro.
+TRATAMIENTO
+Nivel I, y nivel II con capacidad limitada para transfusión de sangre
+El tratamiento debe poder ser realizado en los tres niveles de atención.
+• Si el desgarro no es muy extenso y se visualiza con facilidad, repararlo con suturas continuas de materiales absorvibles (catgut), comenzando con un punto por encima del
+
+ángulo superior del desgarro. De lo contrario, preparar a la paciente para referencia:
+
+33 Control de signos vitales
+
+33 Canalizar vena con catéter 16 y administrar solución Fisiológica o Ringer normal 500 cc, 60 gotas por minuto.
+
+33 Con una compresa estéril y húmeda,
+
+colocar un tapón que comprima el cuello
+
+del útero, mientras se realiza la referencia,
+
+146
+
+en caso de inestabilidad hemodinámica,
+
+no disponibilidad de sutura o dificultad
+
+por localización o tamaño de lesión.
+
+33 Antibiótico terapia profiláctica: Ampicilina 2 gr, ó Clindamicina 600mg. + Gentamicina 80mg. (en alergia a la penicilina)
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+33 Otramaneradeevitarlahemorragiacuando el ápice o punta no se puede observar, es colocar dos pinzas aro a nivel del desgarro y dejarlas durante 4 horas, luego se abren las pinzas solo parcialmente y se las deja por otras cuatro horas al término de las cuales se las retira.
+
+• Si el desgarro penetra más allá de la cúpula vaginal es necesaria una laparotomía para su correcta reparación.
+En desgarros que provocan inestabilidad hemodinámica : (3-5)
+• Reanimación con líquidos endovenosos cristaloides (Solución Salina Normal 0.9% o Hartman) preferentemente entibiadas a 39ºC, con bolos iniciales de 500mL cada 30 minutos, los cuales se repetirán hasta alcanzar PAS ≥ 90 mmHg, pulso radial presente y sensorio 147 normal.
+• Evalúe tempranamente la necesidad de paquete globular de emergencia
+Nivel II y nivel III
+• Choque moderado y Choque hemorrágico severo: Reanimación según protocolo (Cap. II).
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+ORIENTACIÓN EN SALUD
+En todos los niveles y para todos los tipos de desgarro, explicar a la paciente la situación y lo que se planea realizar. Durante el procedimiento de sutura, hablarle para trasmitirle tranquilidad, en especial si la utilización de las valvas vaginales causa incomodidad o dolor.
+
+REFERENCIAS
+
+1. De La Galvez Murillo Alberto. Atención
+
+148
+
+obstétrica y complicaciones del embarazo y
+
+parto en Bolivia. Cuadernos del Hospital de
+
+Clínicas 2009;54(2):100-107.
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+2. De La Galvez Murillo Alberto, Pando Miranda Ramiro, Padilla C Mario. Desgarro del cuello uterino. En: Médicos Consultores. Salud sexual y reproductiva. La Paz: Imprenta FACIL; 2011:226-229 (Temas de Ginecología y Obstetricia No.6).
+
+3. Murahata SA. Tercera etapa del trabajo del parto y hemorragia postparto. En: Frederickson HL, Wilkins-Haug L. Secretos de la GinecoObstetricia, 2ª ed. México: McGraw-Hill Interamericana; 1999:384-87.
+
+4. Organización Mundial de la Salud, Corporación JHPIEGO. Sangrado vaginal después del parto. En: Manejo de las complicaciones del embarazo y el parto. Guía para obstetrices y médicos. Washington: OMS; 2002.
+5. Escobar Maria Fernanda. Colapso materno. Hemorragia obstétrica (serie de diapositivas). Bogota: Ministerio de Salud y Bienestar Social; 2012.
+149
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+RETENCIÓN DE LA PLACENTA
+DEFINICIÓN
+Se denomina retención placentaria a la falta de expulsión, parcial o total, de la misma luego de transcurridos 30 minutos del parto. Dicha retención puede o no estar acompañada de hemorragia.
+150 La causa radica en la falla o insuficiencia de los mecanismos naturales que provocan el desprendimiento placentario (atonía uterina), anomalías de inserción de la placenta (acretismo placentario), o retención de la placenta desprendida.
+CODIFICACIÓN CIE 10ª O72 Hemorragia postparto.
+O72.0 Hemorragia del tercer periodo del parto. (Retención/adherencia de placenta).
+O73 Retención de la placenta o de las membranas, sin Hemorragia.
+O73.0 Retención de la placenta sin hemorragia.
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+DIAGNÓSTICO
+• Fondo uterino por encima del ombligo, indica falta de desprendimiento.
+• A la palpación el útero no presenta la dureza característica (porque hay hipotonía uterina).
+• Puede o no existir hemorragia.
+• En presencia de hemorragia, signos y síntomas de hipovolemia, (piel y mucosas pálidas, taquicardia, hipotensión).
+151
+• La retención parcial se la diagnostica al revisar la placenta (pueden faltar fragmentos de cotiledón o de membranas).
+TRATAMIENTO
+Hay varias alternativas antes de llegar a la extracción manual, que pueden ser utilizadas especialmente en el primer nivel de atención en función de la capacidad del equipo de salud y la condición clínica de la madre.
+Manejo preventivo Aplicar el manejo activo del alumbramiento(4-9), que consiste en la administración de 10 UI de oxitocina
+
+IM apenas se haya producido el parto (siempre y cuando no exista un segundo feto) en todos los partos, incluso en los atendidos a domicilio; tracción controlada del cordón; masaje del útero luego de expulsada la placenta. En algunas ocasiones el manejo activo puede no dar resultados y producirse retención, con o sin hemorragia.
+Placenta adherida
+• Si no se utilizó oxitocina para el manejo activo, administrar 10 UI por vía intramuscular.
+152 • Si se aplicó oxitocina como parte del manejo activo, el útero está contraído y han transcurrido varios minutos sin resultados, intentar otra vez la tracción controlada del cordón umbilical con la contratracción del útero.
+• Una vez que el útero se contraiga, continuar con la tracción controlada del cordón. Si pese a estos intentos la placenta permanece adherida, realizar extracción manual, o derivación a nivel II ó III.
+Extracción manual
+En ocasiones críticas cuando la referencia desde nivel I no es posible de inmediato y la condición clínica de
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+la madre demanda un procedimiento más rápido y efectivo, se debe realizar la extracción manual. Aunque se trata de un procedimiento invasivo, que incrementa el riesgo de infección postparto y que requiere sedación, el procedimiento puede ser realizado en el primer nivel de atención, incluso en partos a domicilio.
+Paciente estabilizada
+• Proporcionar sedación a la parturienta con diazepám o Midazolam 10 mg. endovenoso, 153 administrados lentamente.
+• Administrar una dosis única de antibióticos profilácticos, Ampicilina 2 gr más Metronidazol 500 mg IV. También se puede usar Amoxicilina, 1 gr IV.
+• Con manos enguantadas, con pinza en una mano, jalar el cordón umbilical hasta que quede paralelo el piso. Introducir la otra mano en la cavidad uterina hasta arriba, lenta y delicadamente, juntando los cinco dedos y siguiendo la dirección del cordón.
+
+• Una vez la mano dentro la cavidad, liberar la que sostiene la pinza y llevarla por encima del abdomen de la madre hasta el fondo del útero. Realizar contratracción del cuerpo del útero hacia arriba mientras se realiza el desprendimiento, para evitar que el útero se invierta.
+
+• Llevar la mano interna hasta uno de los bordes
+
+de la placenta, y comenzar a desprenderla de
+
+la pared, maniobrando con el borde cubital de
+
+154
+
+los dedos y no con los pulpejos.
+
+• Si el desprendimiento se hace dificultoso y exige mayor fuerza, es posible que se trate de una placenta acreta. Suspender la maniobra y referir la paciente al nivel correspondiente.
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+• Concluida la maniobra, continuar el goteo de oxitocina. Se puede utilizar como alternativa Metilergonovina, ampollas de 0.2 mg intramuscular.
+
+Si la hemorragia provoca inestabilidad hemodinámica(10):
+
+Nivel I, y nivel II con posibilidad limitada de realizar transfusión
+• Choque moderado y Choque hemorrágico severo: Reanimación según protocolo (Cap. II).
+
+Nivel II y nivel III
+• Choque moderado y Choque hemorrágico severo: Reanimación según protocolo (Cap. II).
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+ORIENTACIÓN EN SALUD
+
+155
+
+• Explicar a la parturienta el procedimiento y sus riesgos. Obtener Consentimiento Informado si las condiciones lo permiten
+
+• Indicarle que va a recibir sedación y posiblemente transfusión de sangre
+
+• Brindarle apoyo emocional en todo momento, para que sienta confianza.
+
+REFERENCIAS
+1. De La Galvez Murillo Alberto, Pando Miranda Ramiro, Padilla C Mario. Retención de la placenta. En: Médicos Consultores. Salud
+
+sexual y reproductiva. La Paz: Imprenta FACIL; 2011:230-236 (Temas de Ginecología y Obstetricia No.6).
+2. De La Galvez Murillo Alberto. Atención obstétrica y complicaciones del embarazo y parto en Bolivia. Cuadernos del Hospital de Clínicas 2009;54(2):100-107.
+3. De La Galvez Murillo Alberto. Pobreza y mortalidad materna en Chuquisaqa 19982010. La Paz: Apoyo Grafico; 2011.
+156
+4. Ministerio de Salud y Deportes. Guía operativa para aplicación en servicios de la Resolución Ministerial 0496 y su reglamentación sobre prácticas y tecnologías apropiadas en salud materna y neonatal. Bolivia: Ministerio de Salud y Deportes; agosto 2005 (Serie: Documentos Técnico Normativos).
+5. Maternal & Neonatal Health. Peventing Postpatum Hemorrhage. Active Management of the Third Stage of Labor.File://C:/ WINDOWS/TEMP/BestPrac.htm (Acceso el 10 de septiembre de 2011).
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+6. McCormick ML, Sanghvi HCG, Kinzie B, McIntosh N. Preventing postpartum hemorrhage in lowresource settings. International Journal of Gynecology & Obstetrics 2002;77:267-275.
+7. Organización Mundial de la Salud, Corporación JHPIEGO Sangrado vaginal después del parto. En: Manejo de las complicaciones del embarazo y el parto. Guía para obstetrices y médicos. Washington: OMS; 2002.
+8. Shane B. Preventing Postpartum Hemorrhage: Managing the Third Stage of Labor. Out Look 157 2001;19(3):1-8.
+9. Prendiville WJ, Elbourne D, McDonald S. Active versus expectant management in the third stage of labour (Cochrane Review). In: The Cochrfane Library, issue 3, 2011. Oxford: Update Software.
+10. Escobar Maria Fernanda. Colapso materno. Hemorragia obstétrica (serie de diapositivas). Bogota: Ministerio de Salud y Bienestar Social; 2012.
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+SEPSIS OBSTÉTRICA
+DEFINICIONES (1-5) Síndrome de respuesta inflamatoria sistémica (SIRS) Presencia de al menos dos de las siguientes situaciones: - Temperatura >38ºC o <36ºC. - Pulso >90 por minuto. - Taquipnea >20 por minuto. 158 - Glóbulos blancos >12.000 mm3 o <4.000 mm3. Sepsis Infección acompañada por SIRS. Sepsis severa Sepsis complicada por disfunción de uno o más órganos mayores (SNC, riñones, pulmón, hígado, corazón, coagulopatía, acidosis metabólica). Choque séptico Sepsis severa complicada por hipotensión persistente, refractaria al tratamiento temprano con fluidos. Aborto séptico Aborto asociado con infección y complicado con fiebre, endometritis y parametritis.
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+CODIFICACIÓN CIE-10ª O03 Aborto espontáneo
+O04 Aborto médico
+O05 Otro aborto
+O06 Aborto no especificado
+Pero con alguna de las dos siguientes subdivisiones de cuarto carácter:
+.0 Incompleto, complicado con infección genital y 159 pelviana
+.5 Completo o no especificado, complicado con infección genital y pelviana
+Además:
+O85 Sépsis puerperal (endometritis, fiebre, peritonitis, septicemia)
+DIAGNÓSTICO La sepsis, en su fase temprana, se acompaña de: signos de infección en el sitio, bacteriemia, rubicundez, extremidades calientes, confusión y taquipnea. Al progresar, la hipo perfusión ocasiona: acidosis
+
+láctica (>2 mmo/L en sesis severa y >4 mmo/L en choque séptico), oliguria, vasoconstricción periférica (extremidades frías), cianosis y disfunción orgánica terminal(1).
+Este proceso es semejante en la sepsis obstétrica, en la que ocurre en otros sistemas de la economía humana, y en la de origen no infeccioso (pancreatitis, trauma y quemaduras).
+Como el proceso es evolutivo, en una mujer embarazada en choque séptico, la progresión a la 160 muerte puede ser dramáticamente rápida(2). El reconocimiento temprano del proceso, la resucitación apropiada con fluidos y la terapia antibiótica inicial empírica, son la base para salvarle la vida.
+Si en una mujer embarazada hay un foco séptico identificado, no necesariamente en genitales, o cultivo positivo, el diagnóstico es sepsis. Seguidamente, habrá que establecer si se trata de una sepsis severa o de un choque séptico. Los parámetros para el diagnóstico están en las definiciones.
+El foco obstétrico puede ser:
+• Aborto.
+• Infección de vías urinarias.
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+• Corioamnionitis.
+
+• Endometritis.
+
+• Mastitis.
+
+• Infección de episiorrafia.
+
+El foco no obstétrico
+
+• Neumonía.
+
+• Apendicitis aguda.
+
+• Pancreatitis aguda.
+
+161
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+• Meningitis.
+
+• Infección de tejidos blandos y herida quirúrgica.
+
+TRATAMIENTO(6-14)
+Nivel I, y nivel II con capacidad resolutiva limitada
+En una embarazada o puerpera con sépsis, el objetivo es: (a) reconocer la sépsis y su gravedad, (b) estabilizar a la embarazada, (c) administrar tratamiento antibiótico inicial y, (d) remitir.
+
+Medidas generales:
+
+• Asegure permeabilidad de la vía aérea.
+
+• Suministre suplemento de oxigeno por cánula nasal, 3Lt/minuto.
+
+• Canalice 2 venas con catéter venoso Nº. 16 o 18.
+
+• Coloque sonda vesical a drenaje con bolsa
+
+de recolección (sonda Foley 14 o 16) para
+
+162
+
+vigilancia de gasto urinario.
+
+Medidas específicas:
+
+• Inicie manejo con líquidos endovenosos (Solución Salina Normal 0.9% o Hartman): bolos de 500mL cada 30 minutos para mantener, como metas, la presión arterial sistólica ≥ 65mmHg y sensorio normal.
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+• Continuar aporte de mantenimiento a 150200mL/h, de acuerdo a respuesta clínica y metas alcanzadas.
+
+• Inicie tratamiento antibiótico: Ampicilina/ sulbactam 3gr endovenosos en la primera hora, y continúe con:
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+• Ampicilina 1gr endovenoso cada 8 hrs + gentamicina 3-5 mg/kp día (en tres dosis).
+• Metamizol 1gr endovenoso, o paracetamol 500 mg VO cada 8 horas.
+• Proporcione protección gástrica: Ranitidina ampollas x 50mg 1 ampolla endovenosa cada 8 hrs u Omeprazol ampollas x 40mg 1 ampolla endovenosa cada 12hrs.
+Referencia:
+163
+• En ambulancia con médico, enfermera o paramédico entrenado que:
+• Asegure permeabilidad de la vía aérea y garantice el suministro de oxigeno suplementario durante el transporte, 3Lt/ minuto por cánula nasal.
+• Realice vigilancia continua de signos vitales (presión arterial, frecuencia cardíaca, frecuencia respiratoria) y sensorio cada 15 minutos, además de diuresis horaria.
+• Asegure y controle el manejo con cristaloides: bolos de 500mL cada 30 minutos para
+
+mantener presión arterial media ≥65 mmHg y sensorio normal.
+
+• Prosiga con infusión de mantenimiento 150200mL/h si estas metas son alcanzadas.
+
+• Realice vigilancia de frecuencia cardíaca fetal (si se trata de una embarazada) con fonendoscopio o doppler cada 15 minutos durante el transporte.
+
+• Esté atento a la presencia de ruidos
+
+164
+
+pulmonares sobre agregados (estertores)
+
+asociados a oliguria, lo cual indica congestión
+
+o edema agudo pulmonar: iniciar manejo con
+
+Furosemida 20mg endovenosos.
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+Nivel II, III y Terapia Intensiva
+Paciente con sepsis, igual que nivel I. En sepsis severa y choque séptico, realizar lo siguiente.
+
+Medidas generales:
+
+• Asegure permeabilidad de la vía aérea.
+
+• Suministre suplemento de oxigeno por cánula nasal, 3Lt/minuto.
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+• Canalice 2 venas con catéter venoso Nº 16 o 18.
+• Coloque sonda vesical a drenaje con bolsa de recolección (sonda Foley 14 o 16) para vigilancia de gasto urinario.
+Medidas específicas:
+• Inicie manejo con líquidos endovenosos (Solución Salina Normal 0.9% o Hartman): bolos de 500mL cada 30 minutos para mantener PVC entre 8-12mmHg, presión arterial media ≥ 165 65mmHg y sensorio normal.
+• Continuar aporte de mantenimiento a 150200mL/h de acuerdo a respuesta clínica y metas alcanzadas.
+• Si la presión arterial media persiste < 65mmHg después de un adecuado esquema de líquidos (1000mL en una hora) y PVC entre 8-12mmHg (si dispone de catéter central para PVC), inicie cuanto antes infusión de agentes vasoactivos: dopamina premezclada a 5mcg/kg/minuto ó norepinefrina a 0.1mcg/kg/minuto, que serán incrementadas cada 30 minutos hasta alcanzar la meta (presión arterial sistólica ≥ 65mmHg).
+
+• Tome gases venosos por el catéter venoso central y mida SatvcO2. Si ésta es < 70, inicie dobutamina a 5mcg/kg/minuto.
+
+• Inicie tratamiento antibiótico empírico
+
+en la primera hora de reconocimiento del
+
+diagnóstico de sepsis severa, con ampicilina/
+
+sulbactam 3 g endovenosos. Continuar
+
+manejo antibiótico según protocolos en
+
+el nivel superior con esquemas sugeridos
+
+como: Ceftriaxona 1 gramo endovenoso cada
+
+166
+
+12 horas más Metronidazol 500 miligramos
+
+endovenosos cada 8 horas, o
+
+• Penicilina sódica, IV 5.000.000 c/4 hrs, dosis de ataque y luego dosis de mantenimiento, + Gentamicina, 80 mgrs. IV c/8 hrs, + Metronidazol, 500 mgrs IV c/8 hrs, o
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+• Imipenem, 12 mgrs/kp c/24 hrs, + Vancomicina, 500 mgrs c/12 hrs.
+
+• Proporcione protección gástrica: ranitidina ampollas x 50mg 1 ampolla endovenosa cada 8Hrs u omeprazol ampollas x 40mg 1 ampolla endovenosa cada 12Hrs.
+
+• Tomar muestras para: hemograma, PCR, hemocultivos, cultivos locales según etiología del probable foco, pruebas hepáticas y renales, glucometrías cada 4hrs, gases arteriales y ácido láctico.
+
+• Manejo de terapia antitrombotica con heparina en el nivel de mayor complejidad.
+
+• Oxigenación adecuada mediante uso de
+
+máscara o catéter nasal, eventualmente puede
+
+requerir asistencia ventilatoria con saturación
+
+de 92 a 94 %.
+
+167
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+• En caso de shock séptico, intubación orotraqueal y asistencia ventilatoria.
+
+• Antitérmicos, según necesidad.
+
+• Proseguir antibióticoterapia hasta que la paciente este sin fiebre por 48 horas desde el ultimo pico febril.
+
+• La medición de la presión venosa central en caso de edema pulmonar, puede estar indicado el uso de diuréticos (furosemida 20 a 60 mg EV).
+
+• Identificación y remoción del foco infeccioso.
+• No terminar el embarazo antes de las 24 hrs de tratamiento, excepto en corioamnionitis.
+• En caso de sepsis obstétrica, 6 Hrs. de tratamiento agresivo antes de histerectomía (excepto en aborto).
+ORIENTACIÓN EN SALUD
+• Explicar a los familiares sobre el estado de la paciente, sus riesgos y la conducta a seguir.
+168
+• Si se planea histerectomía, obtener el Consentimiento Informado según protocolo y formularios del MSD.
+REFERENCIAS
+1. Sheffield S Jeanne. Sepsis and septic shock in pregnancy. Crit Care Clin. 2004;20:651-660.
+2. Mabie C William et al. Septic shock in pregnancy. Obstetrics & Gynecology. 1997;90(4):553-601.
+3. Tamussino Karl. Postoperative infection. Cliniucal Obstetrics and Gynecology. 2002;45(2):562-573.
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+4. Paruk Fathima. Infection in obstetric care. Best Practice & Research Clinuical Obstetgrics and Gynecology. 2008;22(5):865-883.
+
+5. Levy H Mitchell, et al. 2001SCCM/ESICM/ ACCP/ATS/SIS International Sepsis Definitions Conference. Crit Care Med. 2003;31(4):12501256.
+
+6. Cormak Caroline. Anaesthesia tutorial
+
+of the week. Disponible en: www.totw.
+
+anaesthesiologist.org (Acceso el 04 de agosto
+
+2013).
+
+169
+
+MORBILIDAD OBSTÉTRICA GRAVE MÁS FRECUENTE EN BOLIVIA
+
+7. Bataglia-Araujo Vicente, Rolon Rojas Gloria de, Ayala Jorge. Prevención y manejo de la infección puerperal. Rev Pen Ginecol Obstet 2006;52(3):154-158.
+
+8. Byrne J, Aagaard-Tillery K, Johnson J. Group A streptococcal puerperal sepsis: initial characterization of virulence factors in association with clinical parameters. Journal of Reproductive Immunology 2009;82 (1)
+
+9. Newton R. A clinical and microbial analysis of risk factors for puerperal endometritis. Obstet Gynecol 1990; 75:402.
+
+10. García-Rodríguez JA, Picazo JJ. Infección en la embarazada. En Microbiología Médica. Buenos Aires: Mosby; 1998.
+
+11. Fescina R, De Mucio B, Ortiz El, Jarkin D. Infecciones obstétricas graves. En: Guias para la atención de las principales emergencias obstétricas. Montevideo: OPS/CLAP; 2012 (Publicación Científica CLAP/SMR 1594).
+
+12. Organización Mundial de la Salud, Corporación
+
+JHPIEGO. Fiebre después del parto. En: Manejo
+
+170
+
+de las complicaciones del embarazo y el parto:
+
+Guía para obstetrices y médicos. Washington:
+
+OMS; 2002.
+
+SERIE: DOCUMENTOS TÉCNICO NORMATIVO
+
+13. Vélez G. MA, Cifuentes BR, Corioamnionitis. En: Ginecología y Obstetricia basadas en las nuevas evidencias. Bogotá: Distribuna Editorial; 2009:2003-2007.
+
+14. Ortiz Edgar Ivan, Escobar Maria Fernanda, Vasco Mauricio. Colapso materno. Sepsis Obstetrica.. (serie de diapositivas). Bogota: Ministerio de Salud y Proteccion Social; 2012.
+
+

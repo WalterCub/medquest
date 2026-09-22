@@ -101,12 +101,15 @@ medquest/
 │   ├── MI-021.json                 neumonia adquirida en la comunidad
 │   ├── TRA-011.json                fractura distal del radio
 │   ├── URG-016.json                intoxicacion por organofosforados
-│   └── PED-007.json                diarrea persistente
+│   ├── PED-007.json                diarrea persistente
+│   ├── GO-001.json                 preeclampsia grave
+│   └── GO-002.json                 hemorragia posparto
 ├── preguntas/
 │   ├── banco.json                  preguntas de opción múltiple, cada una con cita textual y página
 │   └── fuentes.json                catálogo de normas: PDF, texto extraído y desfase de páginas
 ├── fuentes/                        PDFs de respaldo (NO se publican, ~70 MB)
 │   ├── nnac/                       NNAC 2025: Medicina Interna, Traumatologia, Urgencias, Pediatria
+│   ├── go/                         guia de morbilidad obstetrica grave (pub. 336, 2013)
 │   ├── caracterizacion/            normas de caracterizacion de primer nivel (2013) y segundo nivel (2014)
 │   └── texto/                      texto de cada PDF, página por página (lo usa el validador)
 ├── revision/                       clave de respuestas (NO se publica)
@@ -174,7 +177,7 @@ validador busca la cita, sin importar tildes, mayúsculas ni puntuación, en el
 texto de esa página del PDF oficial. Si la cita no aparece o está en otra
 página, es error. Lo que la máquina no puede comprobar (que la cita respalde de
 verdad la opción marcada como correcta) queda para quien revise, que solo
-tiene que leer una frase. Las 54 preguntas actuales están en `BORRADOR` hasta esa
+tiene que leer una frase. Las 73 preguntas actuales están en `BORRADOR` hasta esa
 revisión.
 
 ## Decisiones arquitectónicas
@@ -244,6 +247,14 @@ las únicas que motivan de verdad porque tienen costo real.
 | TRA-011 Fractura distal del radio | BORRADOR | NNAC Traumatología, cap. 11 (pp. 58–61). Colles cerrada y desplazada; en nivel 1 no hay rayos X. |
 | URG-016 Intoxicación por organofosforados | BORRADOR | NNAC Urgencias y Emergencias, cap. 16 (pp. 142–153). Intento suicida con clorpirifos. |
 | PED-007 Diarrea persistente | BORRADOR | NNAC Pediatría, cap. 7 (pp. 59–61). Sin deshidratación, con antibiótico previo sin cultivo. |
+| GO-001 Preeclampsia grave | BORRADOR | Guía *Morbilidad obstétrica grave más frecuente en Bolivia* (pub. 336, 2013), pp. 60–79. 32 semanas, crisis hipertensiva y síntomas. |
+| GO-002 Hemorragia posparto | BORRADOR | Misma guía, pp. 114–134. Atonía en gran multípara, choque moderado. |
+
+**Gineco-obstetricia:** todavía no existe una NNAC del área; el Ministerio la
+está elaborando (taller de agosto de 2026). Mientras tanto la fuente es la guía
+oficial *Morbilidad obstétrica grave más frecuente en Bolivia* (Documentos
+Técnico Normativos N.º 336, 2013). Cuando se publique la NNAC, los casos GO y
+sus preguntas se revisan contra ella.
 
 Los cuatro casos nuevos están en BORRADOR: se jugan igual, pero falta que
 alguien confirme cada página contra el PDF impreso y la revisión por una segunda

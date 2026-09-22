@@ -1,0 +1,219 @@
+{
+  "id": "GO-002",
+  "titulo": "Sangrado abundante veinte minutos despues del parto",
+  "area": "GO",
+  "subarea": "Hemorragia posparto",
+  "dificultad": 3,
+  "estado": "BORRADOR",
+  "tipo": "medico",
+  "nivelesDisponibles": [1, 2, 3],
+  "tiempoSugeridoSeg": 1500,
+  "notaDeAutoria": "La vineta clinica y los resultados de estudios los redacto el autor del caso para que apliquen los criterios de la fuente; NO provienen de un paciente real ni de un caso publicado. Todo el contenido evaluable proviene del capitulo 'Hemorragias postparto' de la guia 'Morbilidad obstetrica grave mas frecuente en Bolivia' (Documentos Tecnico Normativos No. 336, 2013; fuente 0), con la pagina indicada en cada item. No existe todavia una Norma Nacional de Atencion Clinica de Gineco-obstetricia: cuando se publique, este caso debe revisarse contra ella. No se usaron datos del capitulo con errores o inconsistencias: la ergometrina figura como '0.2 mcg' en la p. 117 (en la p. 127 figura correctamente como 0,2 mg) y la frecuencia de la atonia figura como 80% (p. 119) y como 70% (p. 120). La transfusion se remite a un capitulo de choque hipovolemico que no se uso en este caso. Los nivelMinimo de los estudios se anclan a la norma de caracterizacion de primer nivel (fuente 1); en el juego, nivel 1 es el Centro de Salud con Internacion. Estado BORRADOR.",
+  "presentacionInicial": {
+    "texto": "Mujer de 34 anos, quinto parto, dio a luz por via vaginal hace 20 minutos a un bebe de 4.200 g, despues de un trabajo de parto largo. La placenta ya salio. La auxiliar de enfermeria avisa que 'sangra mucho': ya empapo tres compresas y hay sangre en el piso. La paciente dice que se marea.",
+    "signosVitales": {
+      "Presion arterial": "84/50 mmHg",
+      "Frecuencia cardiaca": "118 lpm",
+      "Frecuencia respiratoria": "24 por minuto",
+      "Temperatura": "36.2 C"
+    },
+    "contexto": "Puedes jugar este caso en primer, segundo o tercer nivel de atencion. El nivel cambia que estudios estan disponibles y cual es la conducta que la norma espera de ti."
+  },
+  "descubrimiento": {
+    "anamnesis": {
+      "etiqueta": "Interrogar a la paciente y al personal",
+      "exigeDeclaracionPrevia": true,
+      "items": [
+        { "clave": "tiempo", "texto": "El sangrado empezo poco despues de salir la placenta, hace unos 15 minutos, y no ha parado.", "critico": true },
+        { "clave": "alumbramiento", "texto": "La auxiliar aplico oxitocina 10 UI intramuscular al salir el hombro anterior, hizo traccion controlada del cordon y la placenta salio a los 10 minutos. La reviso: parecia completa.", "critico": true },
+        { "clave": "factores", "texto": "Quinto parto. Trabajo de parto de 16 horas. Bebe grande, de 4.200 g. Embarazo de un solo bebe.", "critico": true },
+        { "clave": "coagulacion_ant", "texto": "Nunca sangro de forma anormal en otros partos ni en extracciones dentales. No toma aspirina ni anticoagulantes.", "critico": true },
+        { "clave": "hipertension", "texto": "No tuvo presion alta en este embarazo. Controles prenatales normales." }
+      ]
+    },
+    "antecedentes": {
+      "etiqueta": "Antecedentes",
+      "exigeDeclaracionPrevia": true,
+      "items": [
+        { "clave": "obstetricos", "texto": "Cuatro partos vaginales previos, sin complicaciones. Nunca tuvo cesarea ni cirugia en el utero." },
+        { "clave": "alergias", "texto": "No tiene alergia a la penicilina ni a otros medicamentos." },
+        { "clave": "hemoglobina_previa", "texto": "Hemoglobina de 11.5 g/dl en el control del tercer trimestre." }
+      ]
+    },
+    "examenFisico": {
+      "etiqueta": "Examinar a la paciente",
+      "exigeDeclaracionPrevia": true,
+      "items": [
+        { "clave": "estado_general", "texto": "Agitada, palida, fria y sudorosa. Llenado capilar de 3 segundos.", "critico": true },
+        { "clave": "utero", "texto": "Utero blando, por encima del ombligo, que no se contrae a la palpacion. Al masajearlo salen coagulos y sangre.", "critico": true },
+        { "clave": "canal", "texto": "Revision del canal del parto: sin desgarros cervicales ni vaginales visibles; desgarro perineal de primer grado que no sangra activamente.", "critico": true },
+        { "clave": "placenta", "texto": "Placenta y membranas completas a la revision.", "critico": true }
+      ]
+    },
+    "laboratorio": {
+      "etiqueta": "Laboratorio",
+      "items": [
+        {
+          "clave": "hemograma",
+          "nombre": "Hemograma",
+          "resultado": "Hemoglobina 8.1 g/dl. Hematocrito 24%. Plaquetas 210.000/mm3.",
+          "nivelMinimo": 1,
+          "fuente": 0,
+          "nivelFuente": 1,
+          "nivelPagina": "37, 121",
+          "nivelNota": "La norma de primer nivel asigna laboratorio basico al Centro de Salud con Internacion, con analizador hematologico, contador diferencial y lector de hematocrito.",
+          "nivelAnclaje": "COMPLETO"
+        },
+        {
+          "clave": "coagulacion",
+          "nombre": "Pruebas de coagulacion y fibrinogeno",
+          "resultado": "TP y TTPa normales. Fibrinogeno 310 mg/dl.",
+          "nivelMinimo": 2,
+          "fuente": 0,
+          "nivelFuente": 1,
+          "nivelPagina": "121",
+          "nivelNota": "El laboratorio basico del Centro de Salud con Internacion no lista equipo para pruebas de coagulacion (norma de primer nivel, p. 121). La guia indica que, si no se pueden procesar, se envien los tubos con la paciente referida. Falta confirmar el detalle en la norma de segundo nivel (cap. XIII).",
+          "nivelAnclaje": "PARCIAL"
+        }
+      ]
+    }
+  },
+  "estudiosPlausiblesNoIncluidos": [
+    {
+      "nombre": "Grupo sanguineo, factor Rh y pruebas cruzadas",
+      "preguntaTribunal": "Pidio grupo y pruebas cruzadas. Que hace si en su establecimiento no hay sangre para transfundir?",
+      "comentarioFuente": "La fuente los lista en la toma de muestras inicial (p. 124) e indica referir si no dispone de sangre, una vez hechas las medidas iniciales (p. 126); el caso no contempla su resultado.",
+      "fuente": 0
+    },
+    {
+      "nombre": "Ecografia abdominal o pelvica",
+      "preguntaTribunal": "Pidio ecografia. Con el utero blando y la placenta completa, que esperaba que cambiara en su conducta inmediata?",
+      "comentarioFuente": "El esquema de diagnostico etiologico de la fuente se basa en el alumbramiento y la exploracion (p. 126); el caso no contempla su resultado.",
+      "fuente": 0
+    },
+    {
+      "nombre": "Creatinina y electrolitos",
+      "preguntaTribunal": "Pidio creatinina y electrolitos. Retrasaria alguna medida hasta tener el resultado?",
+      "comentarioFuente": "La fuente los lista en la toma de muestras inicial (pp. 124-125); el caso no contempla su resultado.",
+      "fuente": 0
+    }
+  ],
+  "rubrica": {
+    "diagnosticosEsperados": [
+      {
+        "clave": "dx_hpp",
+        "texto": "Hemorragia posparto primaria (primeras 24 horas): perdida de sangre con potencial de producir inestabilidad hemodinamica; tradicionalmente mas de 500 cc en parto vaginal",
+        "valoracion": "ESPERADO",
+        "fuente": 0,
+        "pagina": "114, 119",
+        "sinonimos": ["hemorragia posparto", "hemorragia postparto", "hpp", "hemorragia del puerperio", "hemorragia puerperal"],
+        "conceptoLigado": "c_definicion"
+      },
+      {
+        "clave": "dx_atonia",
+        "texto": "Atonia uterina, la causa mas comun de hemorragia posparto (el 'Tono' de las 4 T)",
+        "valoracion": "ESPERADO",
+        "fuente": 0,
+        "pagina": "115, 125-127",
+        "sinonimos": ["atonia uterina", "atonia", "utero atonico", "hipotonia uterina"],
+        "conceptoLigado": "c_4t"
+      },
+      {
+        "clave": "dx_choque",
+        "texto": "Choque hipovolemico moderado, clasificado con el parametro mas alterado: sensorio agitado, palidez, frialdad y sudoracion, pulso de 101-120 (perdida estimada de 26-35%, 1501-2000 ml)",
+        "valoracion": "ESPERADO",
+        "fuente": 0,
+        "pagina": "121-122",
+        "sinonimos": ["choque hipovolemico", "shock hipovolemico", "choque moderado", "shock moderado", "choque hemorragico"],
+        "conceptoLigado": "c_choque"
+      }
+    ],
+    "diagnosticosDiferenciales": [
+      { "clave": "dd_trauma", "texto": "Trauma: desgarros del tracto genital, ruptura o inversion uterina", "valoracion": "ESPERADO", "fuente": 0, "pagina": "120, 125", "sinonimos": ["trauma", "desgarro", "laceracion", "desgarro cervical", "desgarro vaginal", "ruptura uterina", "inversion uterina"], "conceptoLigado": "c_4t" },
+      { "clave": "dd_tejido", "texto": "Tejido: retencion de placenta, restos o coagulos; placenta acreta", "valoracion": "ESPERADO", "fuente": 0, "pagina": "121, 125", "sinonimos": ["tejido", "retencion de restos", "restos placentarios", "retencion placentaria", "acretismo", "placenta acreta"], "conceptoLigado": "c_4t" },
+      { "clave": "dd_trombina", "texto": "Trombina: alteraciones de la coagulacion", "valoracion": "ESPERADO", "fuente": 0, "pagina": "121, 125", "sinonimos": ["trombina", "coagulopatia", "trastorno de coagulacion", "cid"], "conceptoLigado": "c_4t" }
+    ],
+    "estudios": [
+      { "clave": "hemograma", "texto": "Hemograma, en la toma de muestras inicial", "valoracion": "ESPERADO", "fuente": 0, "pagina": "124" },
+      { "clave": "coagulacion", "texto": "Pruebas de coagulacion (PT, PTT, fibrinogeno); si no se pueden procesar, enviar los tubos con la paciente referida", "valoracion": "ESPERADO", "fuente": 0, "pagina": "124-125", "conceptoLigado": "c_4t" }
+    ],
+    "conductas": [
+      { "clave": "cx_codigo_rojo", "texto": "Activar el Codigo Rojo y pedir ayuda: movilizar a todo el personal disponible y alertar al banco de sangre y a la sala de cirugia", "valoracion": "ESPERADO", "fuente": 0, "pagina": "123", "nivel": [1, 2, 3], "sinonimos": ["codigo rojo", "pedir ayuda", "activar codigo rojo"], "conceptoLigado": "c_abordaje" },
+      { "clave": "cx_vias", "texto": "ABC y dos vias venosas perifericas calibre 16-18", "valoracion": "ESPERADO", "fuente": 0, "pagina": "123", "nivel": [1, 2, 3], "sinonimos": ["dos vias", "dos accesos venosos", "via venosa", "canalizar", "abc"], "conceptoLigado": "c_abordaje" },
+      { "clave": "cx_cristaloides", "texto": "Cristaloides (solucion salina 0.9% o Hartmann) preferentemente a 39 grados, en bolos de 500 ml cada 30 minutos hasta TAS mayor de 90, pulso radial presente y sensorio normal", "valoracion": "ESPERADO", "fuente": 0, "pagina": "125", "nivel": [1, 2, 3], "sinonimos": ["cristaloides", "solucion salina", "suero fisiologico", "hartmann", "ringer", "bolo de liquidos", "reposicion de volumen"], "conceptoLigado": "c_abordaje" },
+      { "clave": "cx_oxigeno", "texto": "Oxigeno suplementario para saturacion mayor de 95%, o por canula nasal a 3 L/min si no hay oximetria", "valoracion": "ACEPTABLE", "fuente": 0, "pagina": "124", "nivel": [1, 2, 3], "sinonimos": ["oxigeno", "o2"], "conceptoLigado": "c_abordaje" },
+      { "clave": "cx_sonda", "texto": "Sonda Foley 14 o 16 para drenaje vesical y diuresis horaria", "valoracion": "ACEPTABLE", "fuente": 0, "pagina": "124", "nivel": [1, 2, 3], "sinonimos": ["sonda vesical", "sonda foley", "diuresis horaria"], "conceptoLigado": "c_abordaje" },
+      { "clave": "cx_masaje", "texto": "Masaje uterino a traves de la pared abdominal", "valoracion": "ESPERADO", "fuente": 0, "pagina": "127", "nivel": [1, 2, 3], "sinonimos": ["masaje uterino", "masaje del utero", "masaje"], "conceptoLigado": "c_atonia" },
+      { "clave": "cx_oxitocina", "texto": "Oxitocina 40 UI en 1 litro de solucion salina a 60 gotas por minuto; al detenerse la hemorragia, 20 UI en 1 litro a 40 gotas por minuto", "valoracion": "ESPERADO", "fuente": 0, "pagina": "127", "nivel": [1, 2, 3], "sinonimos": ["oxitocina", "uterotonico", "pitocin"], "conceptoLigado": "c_atonia" },
+      { "clave": "cx_ergometrina", "texto": "Metilergometrina 0,2 mg IM, repetible cada 2 a 4 horas hasta 1 mg en 24 horas; la hipertension es contraindicacion relativa", "valoracion": "ACEPTABLE", "fuente": 0, "pagina": "127-128", "nivel": [1, 2, 3], "sinonimos": ["metergin", "metilergometrina", "ergometrina", "ergonovina"], "conceptoLigado": "c_atonia" },
+      { "clave": "cx_misoprostol", "texto": "Misoprostol 800 microgramos sublingual en dosis unica, si no hay oxitocina o no es factible administrarla", "valoracion": "ACEPTABLE", "fuente": 0, "pagina": "128", "nivel": [1, 2, 3], "sinonimos": ["misoprostol", "cytotec"], "conceptoLigado": "c_atonia" },
+      { "clave": "cx_bimanual", "texto": "Si persiste el sangrado: compresion bimanual del utero con compresion de la aorta abdominal, y antibiotico profilactico (ampicilina 2 g, o clindamicina mas gentamicina si hay alergia)", "valoracion": "ACEPTABLE", "fuente": 0, "pagina": "128-130", "nivel": [1, 2, 3], "sinonimos": ["compresion bimanual", "compresion aortica", "compresion de la aorta"], "conceptoLigado": "c_atonia" },
+      { "clave": "cx_balon", "texto": "Taponamiento con balon intrauterino hidrostatico (300 a 500 ml de solucion salina): junto con la estabilizacion y la oxitocina, es la triada esencial para transferir desde el nivel I", "valoracion": "ESPERADO", "fuente": 0, "pagina": "130-131", "nivel": [1], "sinonimos": ["balon intrauterino", "balon hidrostatico", "taponamiento con balon", "bakri", "condon", "taponamiento uterino"], "conceptoLigado": "c_referencia" },
+      { "clave": "cx_balon_hospital", "texto": "Taponamiento con balon intrauterino hidrostatico, antes de la cirugia", "valoracion": "ACEPTABLE", "fuente": 0, "pagina": "130-131, 134", "nivel": [2, 3], "sinonimos": ["balon intrauterino", "balon hidrostatico", "taponamiento con balon", "bakri"], "conceptoLigado": "c_escalonamiento" },
+      { "clave": "cx_tan", "texto": "Traje antishock no neumatico ante inestabilidad hemodinamica", "valoracion": "ACEPTABLE", "fuente": 0, "pagina": "124", "nivel": [1, 2, 3], "sinonimos": ["traje antishock", "traje antichoque", "traje no neumatico"], "conceptoLigado": "c_abordaje" },
+      { "clave": "cx_referir", "texto": "Referir si el nivel no tiene capacidad resolutiva o no dispone de sangre, una vez hechas las medidas iniciales de reanimacion", "valoracion": "ESPERADO", "fuente": 0, "pagina": "123, 126, 131", "nivel": [1], "sinonimos": ["referir", "referencia", "transferir", "derivar", "trasladar"], "conceptoLigado": "c_referencia" },
+      { "clave": "cx_histerectomia", "texto": "Histerectomia como primera medida. La fuente la plantea tras agotar los pasos previos (uterotonicos, compresion, balon, sutura B-Lynch, ligaduras), sin demorarla cuando esos fallan", "valoracion": "NO_CONTEMPLADO_POR_LA_FUENTE", "fuente": 0, "pagina": "131-134", "nivel": [2, 3], "sinonimos": ["histerectomia"], "conceptoLigado": "c_escalonamiento" }
+    ],
+    "informacionCritica": [
+      { "clave": "tiempo", "texto": "Momento de inicio: en las primeras 24 horas es hemorragia posparto primaria", "valoracion": "ESPERADO", "fuente": 0, "pagina": "119", "conceptoLigado": "c_definicion" },
+      { "clave": "alumbramiento", "texto": "Si se hizo manejo activo del tercer periodo: aun con uterotonicos profilacticos, una parte de las mujeres desarrolla hemorragia posparto", "valoracion": "ESPERADO", "fuente": 0, "pagina": "115-116", "conceptoLigado": "c_prevencion" },
+      { "clave": "factores", "texto": "Factores de riesgo de atonia: sobredistension (macrosomia), gran multipara, trabajo de parto prolongado", "valoracion": "ESPERADO", "fuente": 0, "pagina": "120", "conceptoLigado": "c_4t" },
+      { "clave": "coagulacion_ant", "texto": "Antecedentes de coagulopatia o uso de aspirina o heparina: la 'Trombina' de las 4 T", "valoracion": "ESPERADO", "fuente": 0, "pagina": "121", "conceptoLigado": "c_4t" },
+      { "clave": "estado_general", "texto": "Sensorio, perfusion, pulso y presion: se clasifica el choque con el parametro mas alterado", "valoracion": "ESPERADO", "fuente": 0, "pagina": "121-122", "conceptoLigado": "c_choque" },
+      { "clave": "utero", "texto": "Tono uterino: el utero blando y subinvolucionado orienta a atonia", "valoracion": "ESPERADO", "fuente": 0, "pagina": "126", "conceptoLigado": "c_4t" },
+      { "clave": "canal", "texto": "Revision del canal del parto: descarta laceracion cervicovaginal (Trauma)", "valoracion": "ESPERADO", "fuente": 0, "pagina": "125-126", "conceptoLigado": "c_4t" },
+      { "clave": "placenta", "texto": "Integridad de la placenta: descarta retencion de restos (Tejido)", "valoracion": "ESPERADO", "fuente": 0, "pagina": "126, 128", "conceptoLigado": "c_4t" }
+    ],
+    "conceptosClave": [
+      { "id": "c_definicion", "enunciado": "Hemorragia posparto: tradicionalmente mas de 500 cc en parto vaginal y 1.000 cc por cesarea; para fines clinicos, cualquier perdida con potencial de producir inestabilidad hemodinamica. Primaria en las primeras 24 horas; secundaria entre 24 horas y 6 a 12 semanas.", "fuente": 0, "pagina": "114, 119" },
+      { "id": "c_prevencion", "enunciado": "El manejo activo del tercer periodo es la medida mas eficiente para prevenir la hemorragia posparto: oxitocina 10 UI IM al salir el hombro anterior, traccion controlada del cordon y masaje uterino. Misoprostol 600 mcg VO donde no hay refrigeracion ni inyectables.", "fuente": 0, "pagina": "116-117" },
+      { "id": "c_4t", "enunciado": "Causas de hemorragia posparto por la nemotecnia de las 4 T: Tono (atonia uterina), Trauma (dano del tracto genital), Tejido (retencion de placenta o coagulos) y Trombina (alteracion de la coagulacion).", "fuente": 0, "pagina": "120-121, 125" },
+      { "id": "c_choque", "enunciado": "El grado de choque se clasifica con el parametro mas alterado entre sensorio, perfusion, pulso y presion sistolica: leve (16-25%), moderado (26-35%, agitada, pulso 101-120, PAS 70-79) y severo (mas de 35%).", "fuente": 0, "pagina": "121-122" },
+      { "id": "c_abordaje", "enunciado": "Abordaje inicial: Codigo Rojo y pedir ayuda, ABC, dos vias 16-18, oxigeno, sonda Foley, posicion con los pies elevados, traje antishock si hay inestabilidad, muestras de laboratorio y cristaloides a 39 grados en bolos de 500 ml cada 30 minutos hasta TAS mayor de 90.", "fuente": 0, "pagina": "123-125" },
+      { "id": "c_atonia", "enunciado": "Atonia: masaje uterino y uterotonico cuanto antes. Oxitocina 40 UI en 1 litro a 60 gotas por minuto; metilergometrina 0,2 mg IM (maximo 1 mg en 24 horas; la hipertension es contraindicacion relativa); misoprostol 800 mcg sublingual si no hay oxitocina. Si persiste: compresion bimanual y aortica.", "fuente": 0, "pagina": "127-130" },
+      { "id": "c_referencia", "enunciado": "Estabilizacion del choque, oxitocina y balon intrauterino hidrostatico son la triada esencial para transferir a la paciente desde el nivel I o un nivel II con capacidad resolutiva limitada. Si no se dispone de sangre, referir tras las medidas iniciales.", "fuente": 0, "pagina": "126, 131" },
+      { "id": "c_escalonamiento", "enunciado": "Si fallan las medidas previas: sutura hemostatica B-Lynch, luego ligadura de arterias uterinas o hipogastricas, y histerectomia sin demorarla excesivamente; en el primer embarazo, agotar antes las alternativas.", "fuente": 0, "pagina": "131-134" }
+    ]
+  },
+  "tribunal": [
+    { "id": "t01", "pregunta": "Diga su diagnostico completo: que tipo de hemorragia es, por que causa, y en que estado hemodinamico esta la paciente.", "disparador": { "tipo": "siempre" }, "loQueSeEsperaOir": ["Hemorragia posparto primaria, en las primeras 24 horas", "Por atonia uterina: utero blando por encima del ombligo, placenta completa, sin desgarros", "Choque hipovolemico"], "conceptoLigado": "c_definicion", "fuente": 0 },
+    { "id": "t02", "pregunta": "Clasifique el grado de choque. Que parametro usa y por que?", "disparador": { "tipo": "siempre" }, "loQueSeEsperaOir": ["Se usa el parametro mas alterado", "Sensorio agitado, palidez, frialdad y sudoracion, pulso 118: choque moderado", "Perdida estimada de 26 a 35%, 1.501 a 2.000 ml"], "conceptoLigado": "c_choque", "fuente": 0 },
+    { "id": "t03", "pregunta": "Recorra las 4 T en esta paciente y diga con que dato descarta o confirma cada una.", "disparador": { "tipo": "siempre" }, "loQueSeEsperaOir": ["Tono: utero blando que no se contrae, confirma atonia", "Trauma: sin desgarros cervicales ni vaginales", "Tejido: placenta y membranas completas", "Trombina: sin antecedentes de sangrado ni de aspirina o anticoagulantes"], "conceptoLigado": "c_4t", "fuente": 0 },
+    { "id": "t04", "pregunta": "Esta en un Centro de Salud con Internacion, sin banco de sangre. Diga en orden lo que hace en los primeros minutos y como la traslada.", "disparador": { "tipo": "siempre" }, "loQueSeEsperaOir": ["Codigo Rojo y pedir ayuda", "ABC, dos vias 16-18, oxigeno, cristaloides en bolos de 500 ml", "Masaje uterino y oxitocina 40 UI en 1 litro a 60 gotas", "Si persiste: compresion bimanual", "Balon intrauterino hidrostatico", "Referir: estabilizacion, oxitocina y balon son la triada para transferir"], "conceptoLigado": "c_referencia", "fuente": 0 },
+    { "id": "t05", "pregunta": "Indico oxitocina. Diga la dosis y la velocidad, y como sigue una vez que se detiene la hemorragia.", "disparador": { "tipo": "siConducta", "clave": "cx_oxitocina" }, "loQueSeEsperaOir": ["40 UI en 1 litro de solucion salina a 60 gotas por minuto", "Luego 20 UI en 1 litro a 40 gotas por minuto"], "conceptoLigado": "c_atonia", "fuente": 0 },
+    { "id": "t06", "pregunta": "La paciente tiene atonia y usted no indico oxitocina. Justifique.", "disparador": { "tipo": "siNoConducta", "clave": "cx_oxitocina" }, "loQueSeEsperaOir": ["La fuente indica administrar uterotonico cuanto antes", "Oxitocina 40 UI en 1 litro a 60 gotas por minuto"], "conceptoLigado": "c_atonia", "fuente": 0 },
+    { "id": "t07", "pregunta": "Indico metilergometrina. Cual es la dosis maxima en 24 horas y en que paciente la evitaria?", "disparador": { "tipo": "siConducta", "clave": "cx_ergometrina" }, "loQueSeEsperaOir": ["0,2 mg IM, repetible cada 2 a 4 horas", "Maximo 1 mg (5 dosis) en 24 horas", "Hipertension: contraindicacion relativa por riesgo de ACV o crisis hipertensiva"], "conceptoLigado": "c_atonia", "fuente": 0 },
+    { "id": "t08", "pregunta": "Indico cristaloides. Que volumen, a que temperatura, cada cuanto y hasta que meta?", "disparador": { "tipo": "siConducta", "clave": "cx_cristaloides" }, "loQueSeEsperaOir": ["Solucion salina 0.9% o Hartmann, preferentemente a 39 grados", "Bolos de 500 ml cada 30 minutos", "Hasta TAS mayor de 90, pulso radial presente y sensorio normal"], "conceptoLigado": "c_abordaje", "fuente": 0 },
+    { "id": "t09", "pregunta": "Esta en primer nivel y no coloco balon intrauterino. Para que sirve y por que la fuente lo considera clave antes del traslado?", "disparador": { "tipo": "siNoConducta", "clave": "cx_balon" }, "loQueSeEsperaOir": ["Contrapresion con 300 a 500 ml de solucion salina", "Detiene el sangrado en la mayoria de los casos sin cirugia", "Con la estabilizacion y la oxitocina es la triada esencial para transferir"], "conceptoLigado": "c_referencia", "fuente": 0 },
+    { "id": "t10", "pregunta": "Propuso histerectomia. En que momento de la secuencia la ubica la fuente?", "disparador": { "tipo": "siConducta", "clave": "cx_histerectomia" }, "loQueSeEsperaOir": ["Despues de agotar uterotonicos, compresion, balon, sutura B-Lynch y ligaduras", "Sin demorarla cuando esas medidas fallan", "En el primer embarazo, agotar antes todas las alternativas"], "conceptoLigado": "c_escalonamiento", "fuente": 0 },
+    { "id": "t11", "pregunta": "No propuso activar el Codigo Rojo ni pedir ayuda. Por que es lo primero en la lista de la fuente?", "disparador": { "tipo": "siNoConducta", "clave": "cx_codigo_rojo" }, "loQueSeEsperaOir": ["Moviliza a todo el personal disponible", "Alerta al banco de sangre y a la sala de cirugia", "El tiempo hasta el deceso en la hemorragia posparto es corto"], "conceptoLigado": "c_abordaje", "fuente": 0 },
+    { "id": "t12", "pregunta": "Estando en primer nivel no propuso referir. Que dice la fuente sobre cuando referir en la hemorragia posparto?", "disparador": { "tipo": "siNoConducta", "clave": "cx_referir" }, "loQueSeEsperaOir": ["Si el nivel no tiene capacidad resolutiva, prepararse para transferir", "Si no dispone de sangre, referir una vez hechas las medidas iniciales"], "conceptoLigado": "c_referencia", "fuente": 0 },
+    { "id": "t13", "pregunta": "No reviso el canal del parto. Que causa de las 4 T dejo sin descartar?", "disparador": { "tipo": "siOmitioInfo", "clave": "canal" }, "loQueSeEsperaOir": ["Trauma: laceraciones cervicovaginales o hematomas"], "conceptoLigado": "c_4t", "fuente": 0 },
+    { "id": "t14", "pregunta": "No verifico si la placenta estaba completa. Que causa quedo sin descartar y que habria cambiado?", "disparador": { "tipo": "siOmitioInfo", "clave": "placenta" }, "loQueSeEsperaOir": ["Tejido: retencion de placenta, restos o coagulos", "Antes de la compresion bimanual hay que verificar si la placenta esta integra"], "conceptoLigado": "c_4t", "fuente": 0 },
+    { "id": "t15", "pregunta": "No pregunto si se hizo manejo activo del alumbramiento. En que consiste y por que importa saberlo aqui?", "disparador": { "tipo": "siOmitioInfo", "clave": "alumbramiento" }, "loQueSeEsperaOir": ["Oxitocina 10 UI IM al salir el hombro anterior, traccion controlada del cordon y masaje uterino", "Es la medida mas eficiente para prevenir la hemorragia posparto", "Aun con uterotonico profilactico, una parte de las mujeres sangra"], "conceptoLigado": "c_prevencion", "fuente": 0 },
+    { "id": "t16", "pregunta": "Que factores de riesgo de atonia tenia esta paciente segun la tabla de la fuente?", "disparador": { "tipo": "siempre" }, "loQueSeEsperaOir": ["Sobredistension uterina por macrosomia", "Gran multipara", "Trabajo de parto prolongado"], "conceptoLigado": "c_4t", "fuente": 0 },
+    { "id": "t17", "pregunta": "En un hospital, si la atonia no responde a uterotonicos ni al balon, cual es la secuencia quirurgica que describe la fuente?", "disparador": { "tipo": "siempre" }, "loQueSeEsperaOir": ["Sutura hemostatica B-Lynch", "Ligadura de arterias uterinas o hipogastricas si falla", "Histerectomia sin demorarla excesivamente"], "conceptoLigado": "c_escalonamiento", "fuente": 0 }
+  ],
+  "fuentes": [
+    {
+      "institucion": "Estado Plurinacional de Bolivia. Ministerio de Salud y Deportes. Unidad de Servicios de Salud y Calidad; con apoyo tecnico de OPS/OMS Bolivia",
+      "documento": "Morbilidad obstetrica grave mas frecuente en Bolivia: guia de bolsillo para su diagnostico y tratamiento. Serie: Documentos Tecnico Normativos No. 336. La Paz: Sistemas Graficos Color. Deposito legal 4-1-339-13 P.O.",
+      "anio": "2013",
+      "publicacion": "336",
+      "capitulo": "Hemorragias postparto",
+      "pagina": "114-134",
+      "url": "https://www.minsalud.gob.bo/images/Libros/DGSS/ursc/continuo/dgss_acon_MORBILIDAD_OBSTETRICA_GRAVE.pdf",
+      "consultado": "2026-09-22"
+    },
+    {
+      "institucion": "Estado Plurinacional de Bolivia. Ministerio de Salud y Deportes. Direccion General de Servicios de Salud, Unidad de Redes de Servicios de Salud y Calidad",
+      "documento": "Norma Nacional de Caracterizacion de Establecimientos de Salud de Primer Nivel. 2da edicion. Serie: Documentos Tecnico Normativos No. 284. La Paz: Talleres Graficos Tupac Katari. 240 p.",
+      "anio": "2013",
+      "publicacion": "284",
+      "capitulo": "Cap. II, Cuadro No 5 (pp. 35-40); Cap. IV Centro de Salud con Internacion (pp. 119-121)",
+      "pagina": "35-40, 119-121",
+      "url": "https://www.minsalud.gob.bo/images/Documentacion/redes_salud/Inivelseguro.pdf",
+      "consultado": "2026-09-22"
+    }
+  ]
+}

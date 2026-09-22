@@ -47,5 +47,14 @@
     "pdf": "fuentes/caracterizacion/primer-nivel_pub284_2013.pdf",
     "texto": "fuentes/texto/carac-1.txt",
     "desfase": 2
+  },
+  "go-mog": {
+    "corto": "Morbilidad obstétrica grave",
+    "documento": "Morbilidad obstetrica grave mas frecuente en Bolivia: guia de bolsillo para su diagnostico y tratamiento. Serie: Documentos Tecnico Normativos No. 336",
+    "anio": "2013",
+    "url": "https://www.minsalud.gob.bo/images/Libros/DGSS/ursc/continuo/dgss_acon_MORBILIDAD_OBSTETRICA_GRAVE.pdf",
+    "pdf": "fuentes/go/morbilidad-obstetrica-grave.pdf",
+    "texto": "fuentes/texto/go-mog.txt",
+    "desfase": 2
   }
 }

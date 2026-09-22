@@ -1,0 +1,282 @@
+{
+  "id": "GO-001",
+  "titulo": "Primigesta de 32 semanas con dolor de cabeza y vision borrosa",
+  "area": "GO",
+  "subarea": "Preeclampsia grave",
+  "dificultad": 3,
+  "estado": "BORRADOR",
+  "tipo": "medico",
+  "nivelesDisponibles": [1, 2, 3],
+  "tiempoSugeridoSeg": 1800,
+  "notaDeAutoria": "La vineta clinica y los resultados de estudios los redacto el autor del caso para que apliquen los criterios de la fuente; NO provienen de un paciente real ni de un caso publicado. Todo el contenido evaluable proviene del capitulo 'Preeclampsia y eclampsia' de la guia 'Morbilidad obstetrica grave mas frecuente en Bolivia' (Documentos Tecnico Normativos No. 336, 2013; fuente 0), con la pagina indicada en cada item. No existe todavia una Norma Nacional de Atencion Clinica de Gineco-obstetricia: el Ministerio la esta elaborando (taller de agosto de 2026); cuando se publique, este caso debe revisarse contra ella. La fuente da dos esquemas distintos para el bolo de sulfato de magnesio ante una nueva convulsion (2 a 4 g en 5 minutos en la p. 71; 2 g en 20 minutos en la p. 79); el caso no evalua ese dato. Los nivelMinimo de los estudios se anclan a las normas de caracterizacion de primer nivel (fuente 1) y segundo nivel (fuente 2), salvo la proteinuria con tira, anclada a la frase de la fuente 0 que exige a todos los establecimientos poder diagnosticar la preeclampsia. En el juego, nivel 1 es el Centro de Salud con Internacion. Estado BORRADOR.",
+  "presentacionInicial": {
+    "texto": "Mujer de 19 anos, primer embarazo, llega acompanada por su pareja. Por la fecha de su ultima menstruacion cursa 32 semanas. Desde hace seis horas tiene dolor de cabeza fuerte en la frente que no cede con paracetamol, dice que 've lucecitas' y siente dolor en la boca del estomago. Esta asustada pero responde bien.",
+    "signosVitales": {
+      "Presion arterial": "168/112 mmHg (15 minutos despues: 164/110)",
+      "Frecuencia cardiaca": "96 lpm",
+      "Frecuencia respiratoria": "20 por minuto",
+      "Temperatura": "36.8 C"
+    },
+    "contexto": "Puedes jugar este caso en primer, segundo o tercer nivel de atencion. El nivel cambia que estudios estan disponibles y cual es la conducta que la norma espera de ti."
+  },
+  "descubrimiento": {
+    "anamnesis": {
+      "etiqueta": "Interrogar a la paciente",
+      "exigeDeclaracionPrevia": true,
+      "items": [
+        { "clave": "edad_gestacional", "texto": "Ultima menstruacion segura: 32 semanas. Una ecografia de las 12 semanas coincide.", "critico": true },
+        { "clave": "sintomas", "texto": "Cefalea frontal intensa desde hace 6 horas, vision borrosa con destellos y dolor en epigastrio desde hace 2 horas. Nauseas, sin vomitos.", "critico": true },
+        { "clave": "convulsion", "texto": "No tuvo convulsiones ni perdio el conocimiento. La pareja no noto que se pusiera rigida ni que se mordiera la lengua.", "critico": true },
+        { "clave": "movimientos_fetales", "texto": "Siente al bebe moverse como siempre. No tiene contracciones, no perdio liquido ni sangre." },
+        { "clave": "diuresis", "texto": "Dice que hoy orino poco." }
+      ]
+    },
+    "antecedentes": {
+      "etiqueta": "Antecedentes",
+      "exigeDeclaracionPrevia": true,
+      "items": [
+        { "clave": "hta_previa", "texto": "Nunca le dijeron que tuviera presion alta. En el primer control prenatal, a las 12 semanas, la presion fue 110/70.", "critico": true },
+        { "clave": "controles", "texto": "Dos controles prenatales; el ultimo a las 24 semanas, con presion 118/76. No recibio aspirina ni calcio." },
+        { "clave": "riesgo", "texto": "Primer embarazo. Sin diabetes, sin enfermedad renal, sin lupus. Su madre tuvo 'presion alta en el embarazo'.", "critico": true },
+        { "clave": "alergias", "texto": "No tiene alergias conocidas." }
+      ]
+    },
+    "examenFisico": {
+      "etiqueta": "Examinar a la paciente",
+      "exigeDeclaracionPrevia": true,
+      "items": [
+        { "clave": "conciencia", "texto": "Consciente, orientada, ansiosa. Sin deficit neurologico focal." },
+        { "clave": "reflejos", "texto": "Reflejos osteotendinosos patelares vivos, 3/4, sin clonus.", "critico": true },
+        { "clave": "abdomen", "texto": "Altura uterina de 29 cm. Utero relajado, sin contracciones. Dolor leve a la palpacion en epigastrio e hipocondrio derecho." },
+        { "clave": "edemas", "texto": "Edema de miembros inferiores hasta las rodillas y de manos." },
+        { "clave": "pulmones", "texto": "Murmullo vesicular normal, sin crepitantes." }
+      ]
+    },
+    "laboratorio": {
+      "etiqueta": "Laboratorio",
+      "items": [
+        {
+          "clave": "proteinuria_tira",
+          "nombre": "Proteinuria con tira reactiva",
+          "resultado": "Proteinas 3+ (+++).",
+          "nivelMinimo": 1,
+          "fuente": 0,
+          "nivelFuente": 0,
+          "nivelPagina": "61",
+          "nivelNota": "La guia exige que todos los establecimientos de salud puedan diagnosticar la preeclampsia antes de referir.",
+          "nivelAnclaje": "COMPLETO"
+        },
+        {
+          "clave": "hemograma",
+          "nombre": "Hemograma con recuento de plaquetas",
+          "resultado": "Hemoglobina 12.8 g/dl. Hematocrito 39%. Plaquetas 145.000/mm3.",
+          "nivelMinimo": 1,
+          "fuente": 0,
+          "nivelFuente": 1,
+          "nivelPagina": "37, 121",
+          "nivelNota": "La norma de primer nivel asigna laboratorio basico al Centro de Salud con Internacion, con analizador hematologico, contador diferencial y lector de hematocrito.",
+          "nivelAnclaje": "COMPLETO"
+        },
+        {
+          "clave": "bioquimica",
+          "nombre": "Creatinina, acido urico y pruebas de funcion hepatica",
+          "resultado": "Creatinina 0.8 mg/dl. Acido urico 6.2 mg/dl. TGO 38 U/L, TGP 34 U/L. Bilirrubina total 0.7 mg/dl. LDH 410 U/L.",
+          "nivelMinimo": 2,
+          "fuente": 0,
+          "nivelFuente": 1,
+          "nivelPagina": "121, 204",
+          "nivelNota": "El laboratorio basico del Centro de Salud con Internacion no lista equipo de bioquimica (norma de primer nivel, p. 121); la bioquimica aparece en el laboratorio completo del Centro de Salud Integral (p. 204). Falta confirmar el detalle en la norma de segundo nivel (cap. XIII).",
+          "nivelAnclaje": "PARCIAL"
+        },
+        {
+          "clave": "coagulacion",
+          "nombre": "Pruebas de coagulacion",
+          "resultado": "TP y TTPa dentro de lo normal. Fibrinogeno 380 mg/dl.",
+          "nivelMinimo": 2,
+          "fuente": 0,
+          "nivelFuente": 1,
+          "nivelPagina": "121",
+          "nivelNota": "El laboratorio basico del Centro de Salud con Internacion no lista equipo para pruebas de coagulacion (norma de primer nivel, p. 121). Falta confirmar el detalle en la norma de segundo nivel (cap. XIII).",
+          "nivelAnclaje": "PARCIAL"
+        }
+      ]
+    },
+    "gabinete": {
+      "etiqueta": "Gabinete",
+      "items": [
+        {
+          "clave": "fcf",
+          "nombre": "Frecuencia cardiaca fetal con detector ultrasonico",
+          "resultado": "140 latidos por minuto, regular.",
+          "nivelMinimo": 1,
+          "fuente": 0,
+          "nivelFuente": 1,
+          "nivelPagina": "119, 122",
+          "nivelNota": "La norma de primer nivel lista un detector ultrasonico de latido fetal en el consultorio y en la sala de partos del Centro de Salud con Internacion.",
+          "nivelAnclaje": "COMPLETO"
+        },
+        {
+          "clave": "ecografia",
+          "nombre": "Ecografia obstetrica",
+          "resultado": "Feto unico, vivo, cefalico. Biometria acorde a 31-32 semanas, peso estimado en percentil 25. Liquido amniotico normal. Placenta posterior, sin signos de desprendimiento.",
+          "nivelMinimo": 2,
+          "fuente": 0,
+          "nivelFuente": 2,
+          "nivelPagina": "102",
+          "nivelNota": "En primer nivel solo el Centro de Salud Integral tiene ecografia (norma de primer nivel, Cuadro No 5, p. 37); el hospital de segundo nivel cuenta con ambiente de ecografia (norma de segundo nivel, p. 102).",
+          "nivelAnclaje": "COMPLETO"
+        }
+      ]
+    }
+  },
+  "estudiosPlausiblesNoIncluidos": [
+    {
+      "nombre": "Proteinuria en orina de 24 horas",
+      "preguntaTribunal": "Pidio proteinuria de 24 horas. Con la presion y los sintomas que tiene, esperaria ese resultado para iniciar el tratamiento? Justifique.",
+      "comentarioFuente": "La fuente la lista entre los procedimientos de laboratorio segun las posibilidades de cada nivel (p. 77); el caso no contempla su resultado.",
+      "fuente": 0
+    },
+    {
+      "nombre": "Grupo sanguineo y factor Rh",
+      "preguntaTribunal": "Pidio grupo sanguineo y factor Rh. Para que lo necesita en esta paciente?",
+      "comentarioFuente": "La fuente lo lista entre los procedimientos de laboratorio (p. 77); el caso no contempla su resultado.",
+      "fuente": 0
+    },
+    {
+      "nombre": "Monitoreo fetal electronico (cardiotocografia)",
+      "preguntaTribunal": "Pidio monitoreo fetal electronico. Que decision cambiaria segun el resultado?",
+      "comentarioFuente": "El capitulo no lo menciona; el caso no contempla su resultado.",
+      "fuente": 0
+    }
+  ],
+  "rubrica": {
+    "diagnosticosEsperados": [
+      {
+        "clave": "dx_preeclampsia_grave",
+        "texto": "Preeclampsia grave (CIE-10 O14.1): embarazo de 20 o mas semanas, hipertension a partir de 140/90 verificada con una segunda medicion y proteinuria, con criterios de gravedad",
+        "valoracion": "ESPERADO",
+        "fuente": 0,
+        "pagina": "60, 62-63, 65",
+        "sinonimos": ["preeclampsia grave", "preeclampsia severa", "preeclampsia con criterios de gravedad", "preeclampsia"],
+        "conceptoLigado": "c_diagnostico"
+      },
+      {
+        "clave": "dx_crisis",
+        "texto": "Crisis hipertensiva: presion arterial sistolica de 160 mmHg o mas y/o diastolica de 110 mmHg o mas",
+        "valoracion": "ESPERADO",
+        "fuente": 0,
+        "pagina": "65, 69",
+        "sinonimos": ["crisis hipertensiva", "hipertension grave", "hipertension severa", "emergencia hipertensiva"],
+        "conceptoLigado": "c_gravedad"
+      },
+      {
+        "clave": "dx_pretermino",
+        "texto": "Embarazo de 32 semanas: entre 24 y 34 semanas, rango en que la fuente indica maduracion pulmonar fetal",
+        "valoracion": "ACEPTABLE",
+        "fuente": 0,
+        "pagina": "74",
+        "sinonimos": ["32 semanas", "pretermino", "embarazo pretermino", "prematuro"],
+        "conceptoLigado": "c_maduracion"
+      }
+    ],
+    "diagnosticosDiferenciales": [
+      { "clave": "dd_gestacional", "texto": "Hipertension gestacional: 20 o mas semanas, hipertension de 140/90 o mas y proteinuria negativa", "valoracion": "ESPERADO", "fuente": 0, "pagina": "64", "sinonimos": ["hipertension gestacional", "hipertension inducida por el embarazo"], "conceptoLigado": "c_clasificacion" },
+      { "clave": "dd_cronica", "texto": "Hipertension cronica: conocida antes del embarazo, diagnosticada antes de las 20 semanas o que persiste luego del puerperio", "valoracion": "ESPERADO", "fuente": 0, "pagina": "63", "sinonimos": ["hipertension cronica", "hipertension arterial cronica", "hta cronica"], "conceptoLigado": "c_clasificacion" },
+      { "clave": "dd_agregada", "texto": "Preeclampsia agregada a hipertension cronica", "valoracion": "ESPERADO", "fuente": 0, "pagina": "63-64", "sinonimos": ["preeclampsia agregada", "preeclampsia sobreagregada", "preeclampsia sobreanadida"], "conceptoLigado": "c_clasificacion" },
+      { "clave": "dd_eclampsia", "texto": "Eclampsia: convulsiones asociadas a un trastorno hipertensivo del embarazo (aun no presentes)", "valoracion": "ACEPTABLE", "fuente": 0, "pagina": "63", "sinonimos": ["eclampsia", "inminencia de eclampsia"], "conceptoLigado": "c_clasificacion" },
+      { "clave": "dd_hellp", "texto": "Sindrome HELLP: hemolisis microangiopatica, elevacion de enzimas hepaticas y disminucion de plaquetas", "valoracion": "ACEPTABLE", "fuente": 0, "pagina": "72", "sinonimos": ["hellp", "sindrome hellp"], "conceptoLigado": "c_gravedad" }
+    ],
+    "estudios": [
+      { "clave": "proteinuria_tira", "texto": "Proteinuria: 300 mg o mas en 24 horas, o en tira 1+ repetida; un resultado de 2+ no requiere repeticion", "valoracion": "ESPERADO", "fuente": 0, "pagina": "62-63", "conceptoLigado": "c_diagnostico" },
+      { "clave": "fcf", "texto": "Frecuencia cardiaca fetal, que la fuente indica controlar cada 30 minutos", "valoracion": "ESPERADO", "fuente": 0, "pagina": "77" },
+      { "clave": "hemograma", "texto": "Hemograma y recuento de plaquetas", "valoracion": "ESPERADO", "fuente": 0, "pagina": "77", "conceptoLigado": "c_gravedad" },
+      { "clave": "bioquimica", "texto": "Glucemia, nitrogeno ureico, creatinina, acido urico y pruebas de funcion hepatica", "valoracion": "ESPERADO", "fuente": 0, "pagina": "77", "conceptoLigado": "c_gravedad" },
+      { "clave": "coagulacion", "texto": "Pruebas de coagulacion", "valoracion": "ESPERADO", "fuente": 0, "pagina": "77", "conceptoLigado": "c_gravedad" },
+      { "clave": "ecografia", "texto": "Ecografia obstetrica: la restriccion del crecimiento fetal es criterio de gravedad y contraindica el manejo conservador", "valoracion": "ACEPTABLE", "fuente": 0, "pagina": "65, 74" }
+    ],
+    "conductas": [
+      { "clave": "cx_magnesio", "texto": "Sulfato de magnesio para prevenir la eclampsia: dosis de carga de 4 g IV lentamente en 5 a 20 minutos y dosis de mantenimiento, observando los reflejos osteotendinosos y con gluconato de calcio a mano", "valoracion": "ESPERADO", "fuente": 0, "pagina": "67, 70-71, 78", "nivel": [1, 2, 3], "sinonimos": ["sulfato de magnesio", "magnesio", "mgso4", "sulfato"], "conceptoLigado": "c_magnesio" },
+      { "clave": "cx_antihipertensivo", "texto": "Antihipertensivo en la crisis (160/110 o mas): hidralazina, labetalol o nifedipina segun el esquema de la fuente, empezando por el de mayor experiencia o disponible", "valoracion": "ESPERADO", "fuente": 0, "pagina": "69-70, 78", "nivel": [1, 2, 3], "sinonimos": ["nifedipino", "nifedipina", "hidralazina", "labetalol", "antihipertensivo"], "conceptoLigado": "c_antihipertensivo" },
+      { "clave": "cx_maduracion", "texto": "Maduracion pulmonar fetal entre 24 y 34 semanas: betametasona 12 mg IM y otra dosis a las 24 horas, o dexametasona 6 mg cada seis horas, 4 dosis", "valoracion": "ESPERADO", "fuente": 0, "pagina": "74, 78", "nivel": [1, 2, 3], "sinonimos": ["betametasona", "dexametasona", "maduracion pulmonar", "corticoide para maduracion"], "conceptoLigado": "c_maduracion" },
+      { "clave": "cx_vias", "texto": "Asegurar dos accesos venosos con cateter 16 o 18", "valoracion": "ESPERADO", "fuente": 0, "pagina": "78", "nivel": [1], "sinonimos": ["dos vias", "dos accesos venosos", "via venosa", "canalizar"], "conceptoLigado": "c_referencia" },
+      { "clave": "cx_medidas", "texto": "Medidas generales: decubito lateral izquierdo, no dejar sola a la embarazada, proteger de lesiones sin restringir movimientos, canula de Mayo, succion y oxigeno a mano", "valoracion": "ESPERADO", "fuente": 0, "pagina": "76", "nivel": [1, 2, 3], "sinonimos": ["decubito lateral izquierdo", "no dejarla sola", "canula de mayo", "posicion lateral"], "conceptoLigado": "c_medidas" },
+      { "clave": "cx_sonda", "texto": "Cateterizar la vejiga para medir diuresis y proteinuria; control de signos vitales, reflejos y frecuencia cardiaca fetal cada 30 minutos", "valoracion": "ACEPTABLE", "fuente": 0, "pagina": "77", "nivel": [1, 2, 3], "sinonimos": ["sonda vesical", "sonda foley", "diuresis horaria", "control de reflejos"], "conceptoLigado": "c_medidas" },
+      { "clave": "cx_referir", "texto": "Referir a un nivel de alta complejidad en ambulancia con personal que controle la PA cada 5 a 10 minutos, repita el antihipertensivo si sigue en 160/110 y administre un bolo de sulfato de magnesio si convulsiona", "valoracion": "ESPERADO", "fuente": 0, "pagina": "61, 78-79", "nivel": [1], "sinonimos": ["referir", "referencia", "transferir", "derivar", "trasladar"], "conceptoLigado": "c_referencia" },
+      { "clave": "cx_terminar", "texto": "Terminacion del embarazo: con trastorno hipertensivo grave entre 24 y 34 semanas, corticoides y luego interrupcion 24 horas despues de la ultima dosis; por cesarea o induccion segun corresponda", "valoracion": "ESPERADO", "fuente": 0, "pagina": "74, 79", "nivel": [2, 3], "sinonimos": ["terminar el embarazo", "interrupcion del embarazo", "terminacion del embarazo", "induccion", "interrumpir"], "conceptoLigado": "c_maduracion" },
+      { "clave": "cx_magnesio_24h", "texto": "Mantener el sulfato de magnesio hasta 24 horas despues del nacimiento", "valoracion": "ESPERADO", "fuente": 0, "pagina": "70, 79", "nivel": [2, 3], "sinonimos": ["24 horas despues del parto", "24 horas despues del nacimiento", "24 horas postparto", "24 horas posparto", "hasta 24 horas despues"], "conceptoLigado": "c_magnesio" },
+      { "clave": "cx_expansion", "texto": "Expansion del volumen plasmatico con cargas de liquidos. La fuente dice que no hay evidencia de beneficio, que no debe aplicarse y que puede producir edema agudo de pulmon", "valoracion": "NO_CONTEMPLADO_POR_LA_FUENTE", "fuente": 0, "pagina": "73", "nivel": [1, 2, 3], "sinonimos": ["carga de liquidos", "expansion de volumen", "bolo de cristaloides", "hidratacion abundante", "hiperhidratar"], "conceptoLigado": "c_medidas" },
+      { "clave": "cx_diazepam", "texto": "Diazepam u otro anticonvulsivante en lugar del sulfato de magnesio. La fuente dice que la mejor y unica droga para prevenir la eclampsia es el sulfato de magnesio", "valoracion": "NO_CONTEMPLADO_POR_LA_FUENTE", "fuente": 0, "pagina": "67", "nivel": [1, 2, 3], "sinonimos": ["diazepam", "fenitoina", "midazolam", "fenobarbital"], "conceptoLigado": "c_magnesio" },
+      { "clave": "cx_conservador", "texto": "Manejo conservador para prolongar el embarazo. La fuente lo admite solo sin crisis hipertensiva, sin sintomas y sin complicaciones; esta paciente tiene crisis y sintomas", "valoracion": "NO_CONTEMPLADO_POR_LA_FUENTE", "fuente": 0, "pagina": "74", "nivel": [2, 3], "sinonimos": ["manejo conservador", "prolongar el embarazo", "expectante", "conducta expectante"], "conceptoLigado": "c_maduracion" }
+    ],
+    "informacionCritica": [
+      { "clave": "edad_gestacional", "texto": "Edad gestacional: la preeclampsia aparece a partir de las 20 semanas, y entre 24 y 34 semanas corresponde maduracion pulmonar", "valoracion": "ESPERADO", "fuente": 0, "pagina": "60, 74", "conceptoLigado": "c_maduracion" },
+      { "clave": "sintomas", "texto": "Cefalea, alteraciones visuales, epigastralgia, nauseas: sintomas que son criterio de preeclampsia grave", "valoracion": "ESPERADO", "fuente": 0, "pagina": "65", "conceptoLigado": "c_gravedad" },
+      { "clave": "convulsion", "texto": "Convulsiones: su presencia define eclampsia", "valoracion": "ESPERADO", "fuente": 0, "pagina": "63", "conceptoLigado": "c_clasificacion" },
+      { "clave": "hta_previa", "texto": "Presion antes de las 20 semanas: distingue preeclampsia de hipertension cronica y de preeclampsia agregada", "valoracion": "ESPERADO", "fuente": 0, "pagina": "63", "conceptoLigado": "c_clasificacion" },
+      { "clave": "riesgo", "texto": "Factores de riesgo: primer embarazo e historia familiar de preeclampsia son de riesgo moderado", "valoracion": "ACEPTABLE", "fuente": 0, "pagina": "66" },
+      { "clave": "reflejos", "texto": "Reflejos osteotendinosos: se observan antes y durante la administracion de sulfato de magnesio", "valoracion": "ESPERADO", "fuente": 0, "pagina": "71", "conceptoLigado": "c_magnesio" }
+    ],
+    "conceptosClave": [
+      { "id": "c_diagnostico", "enunciado": "Preeclampsia: embarazo de 20 o mas semanas, hipertension a partir de 140/90 mmHg verificada con una segunda medicion en 4 horas a 7 dias, y proteinuria de 300 mg o mas en 24 horas (en tira 1+ repetida; 2+ no requiere repeticion).", "fuente": 0, "pagina": "62-63" },
+      { "id": "c_clasificacion", "enunciado": "Trastornos hipertensivos del embarazo: preeclampsia, eclampsia (convulsiones, hasta 8 semanas posparto), hipertension cronica (antes del embarazo o antes de las 20 semanas), preeclampsia agregada e hipertension gestacional (sin proteinuria).", "fuente": 0, "pagina": "62-64" },
+      { "id": "c_gravedad", "enunciado": "Criterios de preeclampsia grave: PAS de 160 o mas y/o PAD de 110 o mas; sintomas (cefalea, alteraciones visuales o auditivas, epigastralgia, nauseas); complicaciones como HELLP o edema pulmonar; examenes alterados; oliguria menor de 400 cc en 24 horas; proteinuria de 5 g o mas; restriccion del crecimiento fetal; obito.", "fuente": 0, "pagina": "65" },
+      { "id": "c_magnesio", "enunciado": "El sulfato de magnesio es la mejor y unica droga para prevenir la eclampsia. Carga de 4 g IV lentamente en 5 a 20 minutos y mantenimiento, que continua hasta 24 horas despues de concluido el embarazo. Observar los reflejos y tener gluconato de calcio como antidoto.", "fuente": 0, "pagina": "67, 70-71" },
+      { "id": "c_antihipertensivo", "enunciado": "Hipertension leve-moderada: no se recomiendan antihipertensivos. Hipertension grave (160/110 o mas): hidralazina, labetalol o nifedipina; si se agota la dosis total, usar otro de los tres.", "fuente": 0, "pagina": "68-70" },
+      { "id": "c_maduracion", "enunciado": "Entre 24 y 34 semanas: betametasona 12 mg IM y otra a las 24 horas, o dexametasona 6 mg cada 6 horas por 4 dosis. Con trastorno hipertensivo grave, interrupcion 24 horas despues de la ultima dosis. El manejo conservador solo sin crisis, sin sintomas y sin complicaciones.", "fuente": 0, "pagina": "74" },
+      { "id": "c_medidas", "enunciado": "Medidas generales en todos los niveles: equipo, succion y oxigeno a mano, proteger de lesiones, canula de Mayo, decubito lateral izquierdo, nunca dejarla sola, sonda vesical y control cada 30 minutos. No expandir volumen: solo el liquido de la infusion de magnesio.", "fuente": 0, "pagina": "73, 76-77" },
+      { "id": "c_referencia", "enunciado": "La preeclampsia se trata en hospital, pero todo establecimiento debe diagnosticarla y dar el anticonvulsivante antes de referir. En nivel I: dos vias 16 o 18, sulfato de magnesio, antihipertensivo en crisis, maduracion pulmonar y referencia con control de PA cada 5 a 10 minutos.", "fuente": 0, "pagina": "61, 78-79" }
+    ]
+  },
+  "tribunal": [
+    { "id": "t01", "pregunta": "Diga su diagnostico y los tres elementos con que la fuente diagnostica la preeclampsia. Cuales tiene esta paciente?", "disparador": { "tipo": "siempre" }, "loQueSeEsperaOir": ["Embarazo de 20 o mas semanas: tiene 32", "Hipertension a partir de 140/90 verificada con una segunda medicion", "Proteinuria: tira 3+"], "conceptoLigado": "c_diagnostico", "fuente": 0 },
+    { "id": "t02", "pregunta": "Por que es preeclampsia grave y no leve? Nombre cada criterio de gravedad que cumple.", "disparador": { "tipo": "siempre" }, "loQueSeEsperaOir": ["PAS de 160 o mas y PAD de 110 o mas: crisis hipertensiva", "Sintomas: cefalea, alteraciones visuales, epigastralgia, nauseas", "Proteinuria 3+ elevada"], "conceptoLigado": "c_gravedad", "fuente": 0 },
+    { "id": "t03", "pregunta": "Esta en un Centro de Salud con Internacion, a dos horas del hospital. Que hace, en que orden, y que indica para el traslado?", "disparador": { "tipo": "siempre" }, "loQueSeEsperaOir": ["Dos vias venosas 16 o 18", "Sulfato de magnesio: carga de 4 g IV lento", "Antihipertensivo porque esta en 160/110 o mas", "Maduracion pulmonar: 32 semanas", "Medidas generales y referencia en ambulancia con personal", "PA cada 5 a 10 minutos, repetir antihipertensivo, bolo de magnesio si convulsiona"], "conceptoLigado": "c_referencia", "fuente": 0 },
+    { "id": "t04", "pregunta": "Indico sulfato de magnesio. Diga la dosis de carga, como se administra, que vigila y que antidoto tiene a mano.", "disparador": { "tipo": "siConducta", "clave": "cx_magnesio" }, "loQueSeEsperaOir": ["4 g IV lentamente en 5 a 20 minutos", "Luego dosis de mantenimiento", "Reflejos osteotendinosos antes y durante", "Gluconato de calcio como antidoto"], "conceptoLigado": "c_magnesio", "fuente": 0 },
+    { "id": "t05", "pregunta": "No indico sulfato de magnesio. Justifique frente a la fuente.", "disparador": { "tipo": "siNoConducta", "clave": "cx_magnesio" }, "loQueSeEsperaOir": ["Toda paciente con trastorno hipertensivo grave debe recibir profilaxis con sulfato de magnesio", "Es la mejor y unica droga para prevenir la eclampsia"], "conceptoLigado": "c_magnesio", "fuente": 0 },
+    { "id": "t06", "pregunta": "Indico diazepam para prevenir la convulsion. Que dice la fuente?", "disparador": { "tipo": "siConducta", "clave": "cx_diazepam" }, "loQueSeEsperaOir": ["La mejor y unica droga para prevenir la eclampsia es el sulfato de magnesio"], "conceptoLigado": "c_magnesio", "fuente": 0 },
+    { "id": "t07", "pregunta": "Indico antihipertensivo. A partir de que cifras lo indica la fuente, con que opciones, y por que no lo daria con 150/95?", "disparador": { "tipo": "siConducta", "clave": "cx_antihipertensivo" }, "loQueSeEsperaOir": ["Hipertension grave: PAS de 160 o mas y/o PAD de 110 o mas", "Hidralazina, labetalol o nifedipina", "En hipertension leve-moderada no se recomiendan antihipertensivos"], "conceptoLigado": "c_antihipertensivo", "fuente": 0 },
+    { "id": "t08", "pregunta": "La paciente tiene 164/110 y usted no indico antihipertensivo. Justifique.", "disparador": { "tipo": "siNoConducta", "clave": "cx_antihipertensivo" }, "loQueSeEsperaOir": ["Esta en crisis hipertensiva", "La fuente indica tratarla con hidralazina, labetalol o nifedipina"], "conceptoLigado": "c_antihipertensivo", "fuente": 0 },
+    { "id": "t09", "pregunta": "Tiene 32 semanas. Que indica para el feto antes de interrumpir, con que dosis, y cuando se interrumpe despues?", "disparador": { "tipo": "siempre" }, "loQueSeEsperaOir": ["Maduracion pulmonar entre 24 y 34 semanas", "Betametasona 12 mg IM y otra a las 24 horas, o dexametasona 6 mg cada 6 horas por 4 dosis", "Con trastorno hipertensivo grave: interrupcion 24 horas despues de la ultima dosis"], "conceptoLigado": "c_maduracion", "fuente": 0 },
+    { "id": "t10", "pregunta": "Propuso manejo conservador para ganar semanas. En que pacientes lo admite la fuente, y esta es una de ellas?", "disparador": { "tipo": "siConducta", "clave": "cx_conservador" }, "loQueSeEsperaOir": ["Sin crisis hipertensiva, sin sintomas, sin complicaciones, sin restriccion del crecimiento y con consentimiento", "Esta paciente tiene crisis y sintomas: no corresponde"], "conceptoLigado": "c_maduracion", "fuente": 0 },
+    { "id": "t11", "pregunta": "Indico una carga de liquidos porque la vio hemoconcentrada. Que dice la fuente sobre expandir volumen en la preeclampsia?", "disparador": { "tipo": "siConducta", "clave": "cx_expansion" }, "loQueSeEsperaOir": ["No hay evidencia de beneficio y no debe aplicarse", "Puede causar edema agudo de pulmon", "Solo el liquido de la infusion de magnesio"], "conceptoLigado": "c_medidas", "fuente": 0 },
+    { "id": "t12", "pregunta": "Estando en primer nivel no propuso referir. Que dice la fuente sobre donde se trata la preeclampsia?", "disparador": { "tipo": "siNoConducta", "clave": "cx_referir" }, "loQueSeEsperaOir": ["La preeclampsia y la eclampsia tienen que ser tratadas en un hospital", "Todo establecimiento debe diagnosticarla y administrar el anticonvulsivante antes de referir"], "conceptoLigado": "c_referencia", "fuente": 0 },
+    { "id": "t13", "pregunta": "No pregunto por la presion antes de las 20 semanas. Que diagnosticos no puede distinguir sin ese dato?", "disparador": { "tipo": "siOmitioInfo", "clave": "hta_previa" }, "loQueSeEsperaOir": ["Hipertension cronica: antes del embarazo o antes de las 20 semanas", "Preeclampsia agregada a hipertension cronica"], "conceptoLigado": "c_clasificacion", "fuente": 0 },
+    { "id": "t14", "pregunta": "No pregunto por cefalea, vision ni dolor epigastrico. Por que esos sintomas cambian el manejo?", "disparador": { "tipo": "siOmitioInfo", "clave": "sintomas" }, "loQueSeEsperaOir": ["Son criterios de preeclampsia grave", "Impiden el manejo conservador"], "conceptoLigado": "c_gravedad", "fuente": 0 },
+    { "id": "t15", "pregunta": "No examino los reflejos. Por que son obligatorios en esta paciente?", "disparador": { "tipo": "siOmitioInfo", "clave": "reflejos" }, "loQueSeEsperaOir": ["Se observan antes y durante la administracion de sulfato de magnesio"], "conceptoLigado": "c_magnesio", "fuente": 0 },
+    { "id": "t16", "pregunta": "Hasta cuando mantiene el sulfato de magnesio, y hasta cuando despues del parto puede aparecer una eclampsia?", "disparador": { "tipo": "siempre" }, "loQueSeEsperaOir": ["Hasta 24 horas despues de concluido el embarazo", "La eclampsia puede ocurrir hasta ocho semanas despues del parto"], "conceptoLigado": "c_magnesio", "fuente": 0 },
+    { "id": "t17", "pregunta": "Que medidas generales aplica en cualquier nivel mientras la paciente esta con usted?", "disparador": { "tipo": "siempre" }, "loQueSeEsperaOir": ["Decubito lateral izquierdo", "Nunca dejarla sola", "Succion, mascara y oxigeno a mano; canula de Mayo", "Sonda vesical; signos vitales, reflejos y FCF cada 30 minutos"], "conceptoLigado": "c_medidas", "fuente": 0 },
+    { "id": "t18", "pregunta": "Pidio pruebas hepaticas y plaquetas. Que complicacion estaba buscando y cuales son sus tres componentes?", "disparador": { "tipo": "siPidio", "clave": "bioquimica" }, "loQueSeEsperaOir": ["Sindrome HELLP", "Hemolisis microangiopatica, enzimas hepaticas elevadas y plaquetas disminuidas"], "conceptoLigado": "c_gravedad", "fuente": 0 }
+  ],
+  "fuentes": [
+    {
+      "institucion": "Estado Plurinacional de Bolivia. Ministerio de Salud y Deportes. Unidad de Servicios de Salud y Calidad; con apoyo tecnico de OPS/OMS Bolivia",
+      "documento": "Morbilidad obstetrica grave mas frecuente en Bolivia: guia de bolsillo para su diagnostico y tratamiento. Serie: Documentos Tecnico Normativos No. 336. La Paz: Sistemas Graficos Color. Deposito legal 4-1-339-13 P.O.",
+      "anio": "2013",
+      "publicacion": "336",
+      "capitulo": "Preeclampsia y eclampsia",
+      "pagina": "60-79",
+      "url": "https://www.minsalud.gob.bo/images/Libros/DGSS/ursc/continuo/dgss_acon_MORBILIDAD_OBSTETRICA_GRAVE.pdf",
+      "consultado": "2026-09-22"
+    },
+    {
+      "institucion": "Estado Plurinacional de Bolivia. Ministerio de Salud y Deportes. Direccion General de Servicios de Salud, Unidad de Redes de Servicios de Salud y Calidad",
+      "documento": "Norma Nacional de Caracterizacion de Establecimientos de Salud de Primer Nivel. 2da edicion. Serie: Documentos Tecnico Normativos No. 284. La Paz: Talleres Graficos Tupac Katari. 240 p.",
+      "anio": "2013",
+      "publicacion": "284",
+      "capitulo": "Cap. II, Cuadro No 5 (pp. 35-40); Cap. IV Centro de Salud con Internacion (pp. 119-122); Cap. VI Centro de Salud Integral (p. 204)",
+      "pagina": "35-40, 119-122, 204",
+      "url": "https://www.minsalud.gob.bo/images/Documentacion/redes_salud/Inivelseguro.pdf",
+      "consultado": "2026-09-22"
+    },
+    {
+      "institucion": "Estado Plurinacional de Bolivia. Ministerio de Salud y Deportes. Unidad de Redes de Servicios de Salud y Calidad",
+      "documento": "Norma Nacional de Caracterizacion de Hospitales de Segundo Nivel. Serie: Documentos Tecnico Normativos No. 285. La Paz.",
+      "anio": "2014",
+      "publicacion": "285",
+      "capitulo": "Cap. IV Caracterizacion General del Hospital de Segundo Nivel",
+      "pagina": "77, 102",
+      "url": "https://www.minsalud.gob.bo/images/Documentacion/redes_salud/CAP-4.pdf",
+      "consultado": "2026-09-22"
+    }
+  ]
+}
