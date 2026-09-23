@@ -5,6 +5,7 @@ import { racha, nivel, misionesDeHoy, misionesCompletas, RECOMPENSA_MISIONES, PR
 import { conceptosPendientes } from '../engine/learningEngine.js';
 import { decoPregunta } from './quizUI.js';
 import { estadoCuenta } from '../services/sync.js';
+import { tarjetaAvatar } from './avatarUI.js';
 
 export function renderInicio(cont, { perfil, casos }, acc) {
   const ms = misionesDeHoy(perfil);
@@ -19,6 +20,8 @@ export function renderInicio(cont, { perfil, casos }, acc) {
     <h1>¿Qué jugamos hoy?</h1>
     <p class="sutil">${saludo}</p>
   </div>
+
+  ${tarjetaAvatar(perfil)}
 
   <div class="heroes">
     <button class="jugar" id="jugar">
@@ -95,6 +98,7 @@ export function renderInicio(cont, { perfil, casos }, acc) {
   $('#repaso', cont)?.addEventListener('click', () => acc.jugar({ soloRepaso: true }));
   $('#demo', cont).addEventListener('click', () => acc.jugar({ demo: true }));
   $('#preguntas', cont).addEventListener('click', () => acc.ir('preguntas'));
+  $('#ir-avatar', cont).addEventListener('click', () => acc.ir('avatar'));
   $('#cobrar', cont)?.addEventListener('click', () => acc.cobrarMisiones());
   on(cont, '[data-area]', el => acc.jugar({ area: el.dataset.area }));
   on(cont, '[data-nivel]', el => acc.fijarNivel(+el.dataset.nivel || null));

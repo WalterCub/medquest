@@ -30,8 +30,10 @@ const ORDEN = [
   'js/engine/learningEngine.js',
   'js/engine/rewardEngine.js',
   'js/engine/quizEngine.js',
+  'js/engine/avatarEngine.js',
   'js/ui/dom.js',
   'js/ui/reporteUI.js',
+  'js/ui/avatarUI.js',
   'js/ui/quizUI.js',
   'js/ui/screens.js',
   'js/ui/caseUI.js',
@@ -65,6 +67,7 @@ const NS = `
 const CE = { crearPartida, declarar, puedeRevelar, revelar, estudiosDisponibles, solicitarEstudio, solicitarEstudioLibre, proponer, quitar, cerrarCaso, normalizar, GRUPOS_INFO, GRUPOS_ESTUDIO };
 const TE = { construirInterrogatorio, responder, PESO_AUTOEVAL };
 const RE = { GANANCIAS, PREMIOS, nivel, racha, recompensar, recompensarRonda, misionesDeHoy, avanzarMisiones, misionesCompletas, RECOMPENSA_MISIONES };
+const AV = { equipar, equiparSet, revisarLogros, avatarInicial };
 const QZ = { crearRonda, responderPregunta, siguientePregunta, resumenRonda, preguntaActual, estadisticasBanco, pesoPregunta, PREGUNTAS_POR_RONDA };
 const QuizUI = { render: renderPreguntas };
 const Cuenta = { iniciarCuenta, haySesionGuardada, enviarCodigo, verificarCodigo, cerrarSesion, sincronizar, subirLuego, enviarReportes, estadoCuenta };
@@ -76,10 +79,11 @@ const ResultsUI = { render: renderResultados };
 
 let js = ORDEN.map(r => {
   let s = leer(r);
-  // los tres modulos de UI exportan "render": se renombran para no colisionar
+  // los modulos de UI exportan "render": se renombran para no colisionar
   if (r.endsWith('caseUI.js')) s = s.replace(/\bfunction render\b/, 'function renderCaso');
   if (r.endsWith('tribunalUI.js')) s = s.replace(/\bfunction render\b/, 'function renderTribunal');
   if (r.endsWith('resultsUI.js')) s = s.replace(/\bfunction render\b/, 'function renderResultados');
+  if (r.endsWith('quizUI.js')) s = s.replace(/\bfunction render\b/, 'function renderPreguntas');
   if (r.endsWith('app.js')) s = NS + s;
   return aplanar(s, r);
 }).join('\n');

@@ -26,6 +26,9 @@ const perfilVacio = () => ({
   canjes: [],               // { nombre, costo, fecha, estado }
   preguntas: {},            // preguntaId -> { aciertos, fallos, racha, ultima } (banco)
   reportes: [],             // { tipo, ref, detalle, fecha, enviado } errores reportados desde la app
+  contadores: {},           // rondas, rondasPerfectas, tribunales, misiones (para los logros)
+  logros: {},               // logroId -> fecha en que se consiguio
+  avatar: null,             // { nombre, piel, pelo, peinado, equipado: { ranura: piezaId } }
   actualizado: null,        // ISO; decide que copia gana al sincronizar con la nube
   ajustes: { nivelPreferido: null, tema: null }
 });

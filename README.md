@@ -86,13 +86,14 @@ medquest/
 │   │   ├── scoringEngine.js        rúbrica → 6 dimensiones + conceptos a repasar
 │   │   ├── learningEngine.js       selección ponderada, temas débiles, perfil
 │   │   ├── rewardEngine.js         Kamas, racha, misiones
+│   │   ├── avatarEngine.js         personaje, logros y sets cosméticos
 │   │   └── quizEngine.js           rondas del banco de preguntas, repetición de lo fallado
 │   ├── services/
 │   │   ├── storage.js              única puerta de datos persistentes
 │   │   ├── caseRepository.js       de dónde salen los casos
 │   │   ├── bancoRepository.js      de dónde salen las preguntas
 │   │   └── sync.js                 cuenta (enlace o código por correo) y sincronización con Supabase
-│   └── ui/                         render puro: dom, screens, caseUI, tribunalUI, resultsUI, quizUI
+│   └── ui/                         render puro: dom, screens, caseUI, tribunalUI, resultsUI, quizUI, avatarUI
 ├── cases/
 │   ├── schema.json
 │   ├── index.json                  lista de casos que carga la version modular
@@ -173,6 +174,22 @@ reclaman, no se agregan ni se borran. Precios pensados para 400–600 Kamas por
 día de estudio activo: elegir qué jugar 1.000, Kamas de Dofus 4.000, cena 8.000
 y skin de League of Legends 15.000. Para cambiarlos se edita esa lista.
 
+## Personaje y logros
+
+Pestaña **Personaje**: un personaje propio (dibujado en SVG por capas en
+`js/ui/avatarUI.js`) con piel, pelo y peinado a elección, y 16 piezas en cuatro
+sets: *Interno Madrugador*, *Médico Aventurero*, *Sabio de la Norma* y, el
+último y más sobrio, *Investidura del Médico Cirujano*. Con un set completo
+puesto, el personaje brilla.
+
+**Las piezas no se compran con Kamas.** Cada una se gana con un logro, y cada
+logro premia una conducta de estudio: racha de días, corregir conceptos
+fallados, jugar en primer nivel, rondas perfectas, acertar preguntas del banco.
+Así las Kamas siguen valiendo solo para las recompensas reales. Los logros se
+calculan desde el perfil, de modo que el progreso anterior también cuenta. El
+rango (Estudiante, Interno, Residente, Especialista) sale del nivel que ya
+existía. Catálogo en `js/engine/avatarEngine.js` (`SETS`, `PIEZAS`, `LOGROS`).
+
 ## Banco de preguntas
 
 Pestaña **Preguntas**: rondas de 10 preguntas de opción múltiple, por área o
@@ -239,10 +256,11 @@ función. El nivel se deriva de las Kamas ganadas acumuladas.
 detalle por ítem sigue disponible, plegado.
 
 **Cortado del alcance de la v0.1**, para que el tiempo vaya a contenido:
-cofres, rarezas, sets, avatares, marcos, títulos, mascotas, logros, tienda de
-cosméticos virtuales, mazmorra semanal, panel web de administración, Supabase,
-login y tribunal con IA. La tienda quedó solo con recompensas externas, que son
-las únicas que motivan de verdad porque tienen costo real.
+cofres, rarezas, marcos, tienda de cosméticos virtuales, mazmorra semanal,
+panel web de administración y tribunal con IA. La tienda quedó solo con
+recompensas externas, que son las únicas que motivan de verdad porque tienen
+costo real. Después se sumaron Supabase (cuenta y sincronización) y el
+personaje con logros y sets, que se ganan estudiando y no con Kamas.
 
 ---
 

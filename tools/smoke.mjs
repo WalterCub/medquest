@@ -7,6 +7,7 @@ import { evaluar } from '../js/engine/scoringEngine.js';
 import { elegirCaso, registrarResultado, conceptosPendientes } from '../js/engine/learningEngine.js';
 import * as RE from '../js/engine/rewardEngine.js';
 import * as QZ from '../js/engine/quizEngine.js';
+import * as AV from '../js/engine/avatarEngine.js';
 
 globalThis.localStorage = { getItem: () => null, setItem: () => {}, removeItem: () => {} };
 
@@ -102,5 +103,18 @@ chk.push(['una pregunta fallada pesa mas que una nunca vista, aunque sea de hoy'
 
 chk.push(['el perfil registro la partida', perfil.partidas.length === 2]);
 chk.push(['los conceptos fallados quedaron en el perfil', Object.keys(perfil.conceptos).length > 0]);
+// ---------- personaje y logros ----------
+perfil.contadores = { rondas: 1 };
+const nuevos = AV.revisarLogros(perfil);
+chk.push(['los logros salen del progreso ya hecho (caso + ronda)', ['primer-turno', 'bautizo'].every(id => nuevos.some(l => l.id === id))]);
+chk.push(['un logro se anuncia una sola vez', AV.revisarLogros(perfil).length === 0]);
+chk.push(['no se puede equipar una pieza bloqueada', AV.equipar(perfil, 'birrete') === false]);
+chk.push(['equipar una pieza desbloqueada la pone y tocarla de nuevo la quita',
+  AV.equipar(perfil, 'gorro') && perfil.avatar.equipado.cabeza === 'gorro' && AV.equipar(perfil, 'gorro') && !perfil.avatar.equipado.cabeza]);
+chk.push(['cada pieza tiene exactamente un logro que la desbloquea',
+  AV.PIEZAS.every(p => AV.LOGROS.filter(l => l.da === p.id).length === 1) && AV.LOGROS.every(l => AV.pieza(l.da))]);
+chk.push(['el caso de prueba no cuenta para los logros',
+  AV.medidas({ partidas: [{ area: 'DEMO', nivel: 1 }], casos: { 'DEMO-001': { mejorPuntaje: 100 } } }).casos === 0]);
+
 chk.forEach(([t, ok]) => console.log(ok ? '  ok   ' + t : '  FALLA ' + t));
 process.exit(chk.every(c => c[1]) ? 0 : 1);

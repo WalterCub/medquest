@@ -23,6 +23,8 @@ import * as ResultsUI from './ui/resultsUI.js';
 import { cargarBanco } from './services/bancoRepository.js';
 import * as QZ from './engine/quizEngine.js';
 import * as QuizUI from './ui/quizUI.js';
+import * as AV from './engine/avatarEngine.js';
+import { renderAvatar, mostrarLogros } from './ui/avatarUI.js';
 
 const S = {
   perfil: null, casos: [], caso: null, partida: null,
@@ -35,6 +37,9 @@ const S = {
 };
 
 const guardar = () => storage.guardar(S.perfil);
+const contar = (k, n = 1) => { S.perfil.contadores ||= {}; S.perfil.contadores[k] = (S.perfil.contadores[k] || 0) + n; };
+/** Registra logros nuevos y los anuncia. Llamar despues de cada cambio de progreso. */
+const anunciarLogros = () => mostrarLogros(AV.revisarLogros(S.perfil));
 
 // ---------------- render ----------------
 function pintarTop() {
@@ -62,6 +67,7 @@ function pintar() {
     case 'tribunal': TribunalUI.render(cont, S, acc); break;
     case 'resultado': ResultsUI.render(cont, S, acc); break;
     case 'preguntas': QuizUI.render(cont, S, acc); break;
+    case 'avatar':   renderAvatar(cont, S, acc); break;
   }
 }
 
@@ -146,13 +152,14 @@ const acc = {
     S.perfil.kamas += rec.total;
 
     RE.avanzarMisiones(S.perfil, { tipo: 'jugar' });
-    if (S.partida.tribunalRespuestas.length) RE.avanzarMisiones(S.perfil, { tipo: 'tribunal' });
+    if (S.partida.tribunalRespuestas.length) { RE.avanzarMisiones(S.perfil, { tipo: 'tribunal' }); contar('tribunales'); }
     RE.avanzarMisiones(S.perfil, { tipo: 'defender', cantidad: S.partida.tribunalRespuestas.filter(x => x.autoevaluacion === 'completa').length });
     if (rec.corregidos) RE.avanzarMisiones(S.perfil, { tipo: 'repaso', cantidad: rec.corregidos });
     if (S.partida.nivel === 1) RE.avanzarMisiones(S.perfil, { tipo: 'provincia' });
     RE.avanzarMisiones(S.perfil, { tipo: 'debil' });
 
     S.misiones = RE.misionesDeHoy(S.perfil);
+    anunciarLogros();
     guardar();
     ir('resultado');
   },
@@ -161,6 +168,7 @@ const acc = {
     const ms = RE.misionesDeHoy(S.perfil);
     if (!RE.misionesCompletas(ms) || ms.cobrada) return;
     ms.cobrada = true; S.perfil.kamas += RE.RECOMPENSA_MISIONES;
+    contar('misiones'); anunciarLogros();
     guardar(); pintar();
   },
 
@@ -204,6 +212,7 @@ const acc = {
   responderPregunta(i) {
     if (!S.ronda) return;
     QZ.responderPregunta(S.ronda, S.perfil, i);
+    anunciarLogros();
     guardar(); pintar();
   },
   siguientePregunta() {
@@ -213,6 +222,9 @@ const acc = {
       S.perfil.kamas += S.recompensaRonda.total;
       if (!S.perfil.dias.includes(hoy())) S.perfil.dias.push(hoy());
       RE.avanzarMisiones(S.perfil, { tipo: 'preguntas' });
+      contar('rondas');
+      if (res.total >= QZ.PREGUNTAS_POR_RONDA && res.aciertos === res.total) contar('rondasPerfectas');
+      anunciarLogros();
       guardar();
     }
     pintar();
@@ -260,6 +272,14 @@ const acc = {
     return 'enviado';
   },
 
+  // ---------- personaje ----------
+  equipar(id) { if (AV.equipar(S.perfil, id)) { guardar(); pintar(); } },
+  equiparSet(id) { AV.equiparSet(S.perfil, id); guardar(); pintar(); },
+  ajustarAvatar(campo, valor) {
+    S.perfil.avatar = { ...AV.avatarInicial(), ...(S.perfil.avatar || {}), [campo]: valor };
+    guardar(); if (campo !== 'nombre') pintar();
+  },
+
   otra() { acc.jugar({}); },
   inicio() { ir('inicio'); }
 };
@@ -290,7 +310,7 @@ async function aplicarSincronizacion() {
 }
 
 async function alCambiarUsuario(usuario) {
-  if (usuario) await aplicarSincronizacion();
+  if (usuario) { await aplicarSincronizacion(); anunciarLogros(); }
   pintar();
 }
 
@@ -301,6 +321,8 @@ async function iniciar() {
   S.casos = await cargarTodos();
   try { S.banco = await cargarBanco(); } catch { S.banco = { preguntas: [], fuentes: {} }; }
   S.misiones = RE.misionesDeHoy(S.perfil);
+  // logros que ya se cumplian (progreso anterior, otro dispositivo): se anuncian una vez
+  setTimeout(() => { anunciarLogros(); guardar(); }, 600);
   await guardar();
   alGuardar(p => Cuenta.subirLuego(p));
   if (Cuenta.haySesionGuardada()) {
