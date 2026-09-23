@@ -94,7 +94,7 @@ export const LOGROS = [
   { id: 'bautizo',        nombre: 'Bautizo de Preguntas',          texto: 'Completa tu primera ronda de preguntas',     med: 'rondas',          meta: 1,   da: 'pijama' },
   { id: 'tres-soles',     nombre: 'Tres Soles Seguidos',           texto: 'Estudia 3 días seguidos',                   med: 'racha',           meta: 3,   da: 'termo' },
   { id: 'explorador',     nombre: 'Explorador de Especialidades',  texto: 'Juega casos de 4 áreas distintas',          med: 'areas',           meta: 4,   da: 'bata' },
-  { id: 'oido-fino',      nombre: 'Oído Fino',                     texto: 'Acierta 50 preguntas del banco',            med: 'aciertos',        meta: 50,  da: 'esteto' },
+  { id: 'oido-fino',      nombre: 'Oído Fino',                     texto: 'Suma 50 respuestas correctas en Preguntas (repetir también cuenta)', med: 'aciertos',        meta: 50,  da: 'esteto' },
   { id: 'provincia',      nombre: 'Médico de Provincia',           texto: 'Juega 3 casos en primer nivel',             med: 'nivel1',          meta: 3,   da: 'maletin' },
   { id: 'semana',         nombre: 'La Semana Invicta',             texto: 'Estudia 7 días seguidos',                   med: 'racha',           meta: 7,   da: 'frontoscopio' },
   { id: 'defensor',       nombre: 'Defensor ante el Tribunal',     texto: 'Enfrenta 5 tribunales completos',           med: 'tribunales',      meta: 5,   da: 'hemito' },
@@ -103,7 +103,7 @@ export const LOGROS = [
   { id: 'lector',         nombre: 'Lector de la Norma',            texto: 'Responde 150 preguntas distintas del banco', med: 'vistas',         meta: 150, da: 'norma' },
   { id: 'misionero',      nombre: 'Guardián de las Misiones',      texto: 'Cobra las misiones diarias 10 veces',       med: 'misiones',        meta: 10,  da: 'buho' },
   { id: 'cien-batallas',  nombre: 'Veterano de Treinta Guardias',  texto: 'Completa 30 casos clínicos',                med: 'casos',           meta: 30,  da: 'batalarga' },
-  { id: 'maestro-banco',  nombre: 'Maestro del Banco',             texto: 'Acierta 400 preguntas del banco',           med: 'aciertos',        meta: 400, da: 'dobleesteto' },
+  { id: 'maestro-banco',  nombre: 'Maestro del Banco',             texto: 'Suma 400 respuestas correctas en Preguntas (repetir también cuenta)', med: 'aciertos',        meta: 400, da: 'dobleesteto' },
   { id: 'dominio',        nombre: 'Dominio Clínico',               texto: 'Saca 90% o más en 6 casos distintos',       med: 'casos90',         meta: 6,   da: 'titulo' },
   { id: 'juramento',      nombre: 'La Racha del Juramento',        texto: 'Estudia 21 días seguidos',                  med: 'racha',           meta: 21,  da: 'birrete' }
 ];

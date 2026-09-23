@@ -59,6 +59,17 @@ function pintar() {
   window.scrollTo(0, 0);
 
   const cont = $('#p-' + S.pantalla);
+  try { renderPantalla(cont); }
+  catch (e) {
+    // si una pantalla falla (p. ej. archivos de dos versiones mezclados tras publicar), que no quede en blanco
+    cont.innerHTML = `<div class="panel" style="margin-top:1rem"><h3>No se pudo mostrar esta pantalla</h3>
+      <p class="nota" style="margin:.4rem 0 .8rem">Suele pasar justo después de una actualización. Recargar lo resuelve; tu progreso sigue guardado.</p>
+      <button class="btn pri ancho" onclick="location.reload()">Recargar</button></div>`;
+    console.error(e);
+  }
+}
+
+function renderPantalla(cont) {
   switch (S.pantalla) {
     case 'inicio':   Screens.renderInicio(cont, S, acc); break;
     case 'perfil':   Screens.renderPerfil(cont, S, acc); break;
