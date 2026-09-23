@@ -104,7 +104,10 @@ medquest/
 │   ├── URG-016.json                intoxicacion por organofosforados
 │   ├── PED-007.json                diarrea persistente
 │   ├── GO-001.json                 preeclampsia grave
-│   └── GO-002.json                 hemorragia posparto
+│   ├── GO-002.json                 hemorragia posparto
+│   ├── MI-012.json                 fiebre tifoidea
+│   ├── URG-020.json                mordedura de serpiente (botropico)
+│   └── PED-005.json                dengue con signos de alarma
 ├── preguntas/
 │   ├── banco.json                  preguntas de opción múltiple, cada una con cita textual y página
 │   └── fuentes.json                catálogo de normas: PDF, texto extraído y desfase de páginas
@@ -292,6 +295,9 @@ personaje con logros y sets, que se ganan estudiando y no con Kamas.
 | PED-007 Diarrea persistente | BORRADOR | NNAC Pediatría, cap. 7 (pp. 59–61). Sin deshidratación, con antibiótico previo sin cultivo. |
 | GO-001 Preeclampsia grave | BORRADOR | Guía *Morbilidad obstétrica grave más frecuente en Bolivia* (pub. 336, 2013), pp. 60–79. 32 semanas, crisis hipertensiva y síntomas. |
 | GO-002 Hemorragia posparto | BORRADOR | Misma guía, pp. 114–134. Atonía en gran multípara, choque moderado. |
+| MI-012 Fiebre tifoidea | BORRADOR | NNAC Medicina Interna, cap. 12 (pp. 111–117). Segunda semana, disociación temperatura pulso; el Widal está como trampa. |
+| URG-020 Mordedura de serpiente | BORRADOR | NNAC Urgencias, cap. 20 (pp. 193–205). Botrópico moderado con torniquete y cortes previos; el suero se evalúa desde nivel 2. |
+| PED-005 Dengue con signos de alarma | BORRADOR | NNAC Pediatría, cap. 5 (pp. 47–56). Fase crítica, grupo B2. Los flujogramas de hidratación son imágenes en el PDF: no se evalúan volúmenes. |
 
 **Gineco-obstetricia:** todavía no existe una NNAC del área; el Ministerio la
 está elaborando (taller de agosto de 2026). Mientras tanto la fuente es la guía

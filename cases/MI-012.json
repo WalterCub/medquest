@@ -1,0 +1,323 @@
+{
+  "id": "MI-012",
+  "titulo": "Una semana de fiebre que no cede",
+  "area": "MI",
+  "subarea": "Infectologia: fiebre tifoidea",
+  "dificultad": 3,
+  "estado": "BORRADOR",
+  "tipo": "medico",
+  "nivelesDisponibles": [1, 2, 3],
+  "tiempoSugeridoSeg": 1500,
+  "notaDeAutoria": "La vineta clinica y los resultados de estudios los redacto el autor del caso para que apliquen los criterios de la fuente; NO provienen de un paciente real ni de un caso publicado. Todo el contenido evaluable proviene del capitulo 12 'Fiebre Tifoidea y Paratifoidea' de la Norma Nacional de Atencion Clinica de Medicina Interna (fuente 0), pp. 111-117. La norma lista la azitromicina y el TMP-SMX en primer nivel y la ceftriaxona en segundo nivel para pacientes hospitalizados (p. 115); este paciente tiene criterio de hospitalizacion (fiebre mayor de 39 C por mas de 72 horas, p. 116), por lo que en nivel 1 se aceptan tanto el tratamiento de primer nivel como la referencia. Los nivelMinimo se anclan a la norma de caracterizacion de primer nivel (fuente 1). Estado BORRADOR: falta verificar cada pagina contra el PDF y la revision por una segunda persona del area.",
+  "presentacionInicial": {
+    "texto": "Mujer de 24 anos, estudiante, vive en un barrio periurbano de Cochabamba. Consulta por fiebre desde hace ocho dias, que cada dia sube mas y no baja bien con paracetamol. Tiene dolor de cabeza y malestar general. Se la ve decaida.",
+    "signosVitales": {
+      "Temperatura": "39.4 C",
+      "Frecuencia cardiaca": "80 lpm",
+      "Presion arterial": "100/65 mmHg",
+      "Frecuencia respiratoria": "20 por minuto",
+      "Saturacion de oxigeno": "93% (aire ambiente, 2.560 msnm)"
+    },
+    "contexto": "Puedes jugar este caso en primer, segundo o tercer nivel de atencion. El nivel cambia que estudios estan disponibles y cual es la conducta que la norma espera de ti."
+  },
+  "descubrimiento": {
+    "anamnesis": {
+      "etiqueta": "Interrogar a la paciente",
+      "exigeDeclaracionPrevia": true,
+      "items": [
+        { "clave": "fiebre", "texto": "La fiebre empezo baja y fue subiendo cada dia; los ultimos cuatro dias pasa de 39 C. Con paracetamol baja poco y vuelve.", "critico": true },
+        { "clave": "digestivo", "texto": "Dolor abdominal difuso. La primera semana estuvo estrenida; desde ayer tiene deposiciones blandas, dos al dia, sin sangre.", "critico": true },
+        { "clave": "agua_alimentos", "texto": "En su barrio el agua llega en cisterna y la toma sin hervir. Almuerza en un puesto de comida de la calle.", "critico": true },
+        { "clave": "contacto", "texto": "Su hermano estuvo con 'tifoidea' hace un mes y vive con ella.", "critico": true },
+        { "clave": "cefalea_tos", "texto": "Cefalea que se intensifica. Tos seca desde hace unos dias.", "critico": true },
+        { "clave": "tratamiento_previo", "texto": "No tomo antibioticos. Solo paracetamol.", "critico": true }
+      ]
+    },
+    "antecedentes": {
+      "etiqueta": "Antecedentes",
+      "exigeDeclaracionPrevia": true,
+      "items": [
+        { "clave": "viajes", "texto": "No viajo al tropico ni a zonas de malaria en los ultimos meses. No tuvo contacto con animales de granja ni leche sin hervir.", "critico": true },
+        { "clave": "comorbilidad", "texto": "Sana. No tiene colelitiasis conocida. No esta embarazada (FUM hace dos semanas)." },
+        { "clave": "vacunas", "texto": "Nunca recibio vacuna antitifoidea." }
+      ]
+    },
+    "examenFisico": {
+      "etiqueta": "Examinar a la paciente",
+      "exigeDeclaracionPrevia": true,
+      "items": [
+        { "clave": "pulso", "texto": "Frecuencia cardiaca de 80 lpm con 39.4 C de temperatura.", "critico": true },
+        { "clave": "piel", "texto": "Maculas rosadas palidas de 2 a 4 mm en abdomen y parte baja del torax, que desaparecen a la presion.", "critico": true },
+        { "clave": "abdomen", "texto": "Abdomen blando, doloroso en forma difusa, sin defensa ni rebote. Borborigmos aumentados. Hepatoesplenomegalia no dolorosa.", "critico": true },
+        { "clave": "conciencia", "texto": "Despierta y orientada, algo somnolienta. Sin signos meningeos.", "critico": true },
+        { "clave": "hidratacion", "texto": "Mucosas algo secas. Tolera la via oral." }
+      ]
+    },
+    "laboratorio": {
+      "etiqueta": "Laboratorio",
+      "items": [
+        {
+          "clave": "hemograma",
+          "nombre": "Hemograma",
+          "resultado": "Hemoglobina 11.9 g/dl. Leucocitos 3.600/mm3. Plaquetas 142.000/mm3.",
+          "nivelMinimo": 1,
+          "fuente": 0,
+          "nivelFuente": 1,
+          "nivelPagina": "37, 121",
+          "nivelNota": "La norma de primer nivel asigna laboratorio basico al Centro de Salud con Internacion, con analizador hematologico, contador diferencial y lector de hematocrito.",
+          "nivelAnclaje": "COMPLETO"
+        },
+        {
+          "clave": "hemocultivo",
+          "nombre": "Hemocultivo (2-3 tomas de 20 ml)",
+          "resultado": "Desarrollo de Salmonella Typhi, sensible a ceftriaxona, azitromicina y ciprofloxacino.",
+          "nivelMinimo": 2,
+          "fuente": 0,
+          "nivelFuente": 1,
+          "nivelPagina": "121, 204",
+          "nivelNota": "La microbiologia figura en el laboratorio completo del Centro de Salud Integral (norma de primer nivel, p. 204), no en el laboratorio basico del Centro de Salud con Internacion (p. 121). Falta confirmar el detalle en la norma de segundo nivel (cap. XIII).",
+          "nivelAnclaje": "PARCIAL"
+        },
+        {
+          "clave": "coprocultivo",
+          "nombre": "Coprocultivo",
+          "resultado": "Sin desarrollo de enteropatogenos.",
+          "nivelMinimo": 2,
+          "fuente": 0,
+          "nivelFuente": 1,
+          "nivelPagina": "121, 204",
+          "nivelNota": "La microbiologia figura en el laboratorio completo del Centro de Salud Integral (norma de primer nivel, p. 204), no en el laboratorio basico del Centro de Salud con Internacion (p. 121). Falta confirmar el detalle en la norma de segundo nivel (cap. XIII).",
+          "nivelAnclaje": "PARCIAL"
+        },
+        {
+          "clave": "bioquimica",
+          "nombre": "Transaminasas y proteina C reactiva",
+          "resultado": "TGO 96 U/L. TGP 88 U/L. PCR elevada.",
+          "nivelMinimo": 2,
+          "fuente": 0,
+          "nivelFuente": 1,
+          "nivelPagina": "121, 204",
+          "nivelNota": "El laboratorio basico del Centro de Salud con Internacion no lista equipo de bioquimica (norma de primer nivel, p. 121); la bioquimica aparece en el laboratorio completo del Centro de Salud Integral (p. 204). Falta confirmar el detalle en la norma de segundo nivel (cap. XIII, aun no descargado).",
+          "nivelAnclaje": "PARCIAL"
+        },
+        {
+          "clave": "widal",
+          "nombre": "Reaccion de Widal",
+          "resultado": "Aglutininas O 1/160, H 1/80.",
+          "nivelMinimo": 1,
+          "fuente": 0,
+          "nivelFuente": 1,
+          "nivelPagina": "121",
+          "nivelNota": "El laboratorio basico del Centro de Salud con Internacion tiene rotador serologico (norma de primer nivel, p. 121), que permite pruebas de aglutinacion. La norma no nombra la prueba.",
+          "nivelAnclaje": "PARCIAL"
+        }
+      ]
+    }
+  },
+  "estudiosPlausiblesNoIncluidos": [
+    {
+      "nombre": "Gota gruesa",
+      "preguntaTribunal": "Pidio gota gruesa. Que diferencial buscaba, y que dato de la historia lo hace poco probable?",
+      "comentarioFuente": "El paludismo figura entre los diferenciales de la fuente (p. 114); la paciente no estuvo en zona de malaria. El caso no contempla su resultado.",
+      "fuente": 0
+    },
+    {
+      "nombre": "Mielocultivo",
+      "preguntaTribunal": "Pidio mielocultivo. Que ventaja tiene y por que la norma dice que no es de uso rutinario?",
+      "comentarioFuente": "La fuente lo menciona como posible pero poco frecuente, por ser invasivo (pp. 113-114); el caso no contempla su resultado.",
+      "fuente": 0
+    }
+  ],
+  "rubrica": {
+    "diagnosticosEsperados": [
+      {
+        "clave": "dx_tifoidea",
+        "texto": "Fiebre tifoidea (CIE-10 A01.0) por Salmonella Typhi, en la segunda semana de enfermedad",
+        "valoracion": "ESPERADO",
+        "fuente": 0,
+        "pagina": "111, 113",
+        "sinonimos": ["fiebre tifoidea", "tifoidea", "salmonella typhi", "fiebre enterica", "salmonelosis tifica", "tifus abdominal"],
+        "conceptoLigado": "c_clinica"
+      }
+    ],
+    "diagnosticosDiferenciales": [
+      { "clave": "dd_paludismo", "texto": "Paludismo", "valoracion": "ESPERADO", "fuente": 0, "pagina": "114", "sinonimos": ["paludismo", "malaria"], "conceptoLigado": "c_diferenciales" },
+      { "clave": "dd_dengue", "texto": "Dengue", "valoracion": "ESPERADO", "fuente": 0, "pagina": "114", "sinonimos": ["dengue"], "conceptoLigado": "c_diferenciales" },
+      { "clave": "dd_brucelosis", "texto": "Brucelosis", "valoracion": "ESPERADO", "fuente": 0, "pagina": "114", "sinonimos": ["brucelosis", "fiebre de malta"], "conceptoLigado": "c_diferenciales" },
+      { "clave": "dd_tb_miliar", "texto": "Tuberculosis miliar", "valoracion": "ESPERADO", "fuente": 0, "pagina": "114", "sinonimos": ["tuberculosis miliar", "tb miliar", "tuberculosis"], "conceptoLigado": "c_diferenciales" },
+      { "clave": "dd_rickettsiosis", "texto": "Rickettsiosis (tifus exantematico)", "valoracion": "ACEPTABLE", "fuente": 0, "pagina": "114", "sinonimos": ["rickettsiosis", "tifus exantematico", "rickettsia"] },
+      { "clave": "dd_leptospirosis", "texto": "Leptospirosis", "valoracion": "ACEPTABLE", "fuente": 0, "pagina": "114", "sinonimos": ["leptospirosis"] },
+      { "clave": "dd_hepatitis", "texto": "Hepatitis virales", "valoracion": "ACEPTABLE", "fuente": 0, "pagina": "114", "sinonimos": ["hepatitis viral", "hepatitis virales", "hepatitis"] },
+      { "clave": "dd_apendicitis", "texto": "Apendicitis aguda", "valoracion": "ACEPTABLE", "fuente": 0, "pagina": "114", "sinonimos": ["apendicitis"] }
+    ],
+    "estudios": [
+      { "clave": "hemocultivo", "texto": "Hemocultivos (2-3 tomas de 20 ml): decisivos en los primeros dias y durante el periodo de fiebre", "valoracion": "ESPERADO", "fuente": 0, "pagina": "113-114", "conceptoLigado": "c_diagnostico" },
+      { "clave": "hemograma", "texto": "Hemograma: a menudo anemia, leucocitosis o leucopenia", "valoracion": "ESPERADO", "fuente": 0, "pagina": "114", "conceptoLigado": "c_diagnostico" },
+      { "clave": "coprocultivo", "texto": "Coprocultivo: util en la segunda y tercera semana (positivo en 30-40%)", "valoracion": "ACEPTABLE", "fuente": 0, "pagina": "113-114", "conceptoLigado": "c_diagnostico" },
+      { "clave": "bioquimica", "texto": "Enzimas hepaticas y proteina C reactiva", "valoracion": "ACEPTABLE", "fuente": 0, "pagina": "114" },
+      { "clave": "widal", "texto": "Reaccion de Widal. La norma dice que no es una prueba recomendable: baja sensibilidad y especificidad, reacciones cruzadas y sobrediagnostico", "valoracion": "NO_CONTEMPLADO_POR_LA_FUENTE", "fuente": 0, "pagina": "114", "conceptoLigado": "c_diagnostico" }
+    ],
+    "conductas": [
+      { "clave": "cx_hospitalizar", "texto": "Hospitalizar: fiebre mayor de 39 C por mas de 72 horas es criterio de hospitalizacion", "valoracion": "ESPERADO", "fuente": 0, "pagina": "115-116", "nivel": [1, 2, 3], "sinonimos": ["hospitalizar", "internar", "internacion", "hospitalizacion"], "conceptoLigado": "c_hospitalizacion" },
+      { "clave": "cx_azitromicina", "texto": "Primer nivel: azitromicina VO 1 g la primera dosis y luego 500 mg cada 24 horas por 5-7 dias, o trimetoprim-sulfametoxazol", "valoracion": "ESPERADO", "fuente": 0, "pagina": "115", "nivel": [1], "sinonimos": ["azitromicina", "trimetoprim", "sulfametoxazol", "cotrimoxazol"], "conceptoLigado": "c_tratamiento" },
+      { "clave": "cx_ceftriaxona", "texto": "Ceftriaxona 2 g IV cada 24 horas por 7-14 dias en el paciente hospitalizado", "valoracion": "ESPERADO", "fuente": 0, "pagina": "115", "nivel": [2, 3], "sinonimos": ["ceftriaxona"], "conceptoLigado": "c_tratamiento" },
+      { "clave": "cx_cipro", "texto": "Ciprofloxacino 500-750 mg VO cada 12 horas (efectividad de 90-93%)", "valoracion": "ACEPTABLE", "fuente": 0, "pagina": "115", "nivel": [2, 3], "sinonimos": ["ciprofloxacino", "ciprofloxacina", "quinolona"], "conceptoLigado": "c_tratamiento" },
+      { "clave": "cx_referir", "texto": "Referir a segundo nivel para hospitalizacion y tratamiento IV", "valoracion": "ACEPTABLE", "fuente": 0, "pagina": "115-116", "nivel": [1], "sinonimos": ["referir", "referencia", "transferir", "derivar", "trasladar"], "conceptoLigado": "c_hospitalizacion" },
+      { "clave": "cx_hidratacion", "texto": "Hidratacion: la deshidratacion moderada o grave es criterio de hospitalizacion", "valoracion": "ACEPTABLE", "fuente": 0, "pagina": "116", "nivel": [1, 2, 3], "sinonimos": ["hidratacion", "hidratar", "liquidos", "sales de rehidratacion"], "conceptoLigado": "c_hospitalizacion" },
+      { "clave": "cx_prevencion", "texto": "Prevencion: no manipular alimentos para otros hasta confirmar que no es portadora, lavado de manos, agua hervida o embotellada, alimentos bien cocidos", "valoracion": "ESPERADO", "fuente": 0, "pagina": "116", "nivel": [1, 2, 3], "sinonimos": ["no manipular alimentos", "no preparar alimentos", "lavado de manos", "agua hervida", "hervir el agua", "portadora", "higiene"], "conceptoLigado": "c_prevencion" },
+      { "clave": "cx_dexametasona", "texto": "Dexametasona. La norma la reserva para casos graves y complicados en tercer nivel (trastornos de la conciencia, shock)", "valoracion": "NO_CONTEMPLADO_POR_LA_FUENTE", "fuente": 0, "pagina": "115", "nivel": [1, 2, 3], "sinonimos": ["dexametasona", "corticoide", "corticoides"], "conceptoLigado": "c_complicaciones" }
+    ],
+    "informacionCritica": [
+      { "clave": "fiebre", "texto": "Fiebre alta prolongada, de ascenso progresivo", "valoracion": "ESPERADO", "fuente": 0, "pagina": "113", "conceptoLigado": "c_clinica" },
+      { "clave": "digestivo", "texto": "Estrenimiento en la primera semana y diarrea al final de la segunda", "valoracion": "ESPERADO", "fuente": 0, "pagina": "113", "conceptoLigado": "c_clinica" },
+      { "clave": "agua_alimentos", "texto": "Agua o alimentos contaminados: principal via de transmision", "valoracion": "ESPERADO", "fuente": 0, "pagina": "111-112", "conceptoLigado": "c_transmision" },
+      { "clave": "contacto", "texto": "Contacto con una persona infectada, enferma o portadora", "valoracion": "ESPERADO", "fuente": 0, "pagina": "112", "conceptoLigado": "c_transmision" },
+      { "clave": "cefalea_tos", "texto": "Cefalea que se intensifica y tos seca durante la bacteriemia", "valoracion": "ESPERADO", "fuente": 0, "pagina": "113", "conceptoLigado": "c_clinica" },
+      { "clave": "tratamiento_previo", "texto": "Antibiotico previo: los hemocultivos son utiles incluso tras iniciar antibioticos, pero conviene tomarlos antes", "valoracion": "ACEPTABLE", "fuente": 0, "pagina": "114", "conceptoLigado": "c_diagnostico" },
+      { "clave": "viajes", "texto": "Viajes a zonas endemicas de otros diferenciales (paludismo, dengue) y exposicion a animales (brucelosis)", "valoracion": "ESPERADO", "fuente": 0, "pagina": "114", "conceptoLigado": "c_diferenciales" },
+      { "clave": "pulso", "texto": "Bradicardia relativa: disociacion temperatura pulso", "valoracion": "ESPERADO", "fuente": 0, "pagina": "113", "conceptoLigado": "c_clinica" },
+      { "clave": "piel", "texto": "Exantema maculopapular rosa claro en tronco", "valoracion": "ESPERADO", "fuente": 0, "pagina": "113", "conceptoLigado": "c_clinica" },
+      { "clave": "abdomen", "texto": "Dolor abdominal con borborigmos y hepatoesplenomegalia no dolorosa; buscar signos de perforacion", "valoracion": "ESPERADO", "fuente": 0, "pagina": "113, 115", "conceptoLigado": "c_complicaciones" },
+      { "clave": "conciencia", "texto": "Estado de conciencia: su alteracion define un caso grave", "valoracion": "ESPERADO", "fuente": 0, "pagina": "115-116", "conceptoLigado": "c_complicaciones" }
+    ],
+    "conceptosClave": [
+      { "id": "c_transmision", "enunciado": "Salmonella Typhi se transmite por agua y alimentos contaminados con heces de enfermos o portadores y por manos sucias. Reservorio: seres humanos. El 1 a 5% queda como portador cronico (mas de 12 meses), sobre todo con patologia biliar. Incubacion de 2 semanas (1 a 4).", "fuente": 0, "pagina": "111-112" },
+      { "id": "c_clinica", "enunciado": "Primera semana: fiebre, malestar, dolor abdominal y estrenimiento. Con la bacteriemia: tos seca, bradicardia relativa (disociacion temperatura pulso), cefalea, exantema rosa en tronco y hepatoesplenomegalia no dolorosa. Diarrea al final de la 2.a semana. Maxima gravedad en la 3.a; remision en la 4.a.", "fuente": 0, "pagina": "113" },
+      { "id": "c_diagnostico", "enunciado": "Son decisivos los hemocultivos (2-3 tomas de 20 ml) en los primeros dias y durante la fiebre; heces y orina se cultivan en la 2.a y 3.a semana. Hemocultivos positivos en 50-70%, coprocultivos en 30-40%. La reaccion de Widal no es recomendable: baja sensibilidad y especificidad y reacciones cruzadas.", "fuente": 0, "pagina": "113-114" },
+      { "id": "c_diferenciales", "enunciado": "Diferenciales: rickettsiosis, tuberculosis miliar, brucelosis, tularemia, leptospirosis, herpesvirus, paludismo, Coxiella, leishmaniosis, melioidosis, dengue, sepsis, linfomas, hepatitis virales, apendicitis, infeccion urinaria y enfermedad inflamatoria pelvica.", "fuente": 0, "pagina": "114" },
+      { "id": "c_tratamiento", "enunciado": "Primer nivel: TMP-SMX o azitromicina 1 g y luego 500 mg/24 h por 5-7 dias; amoxicilina 75-100 mg/kg/d por 4-6 semanas. Segundo nivel: ciprofloxacino 500-750 mg VO cada 12 h, o ceftriaxona 2 g IV cada 24 h por 7-14 dias en hospitalizados.", "fuente": 0, "pagina": "115" },
+      { "id": "c_complicaciones", "enunciado": "Complicaciones entre la 2.a y 4.a semana: sangrado gastrointestinal, perforacion intestinal (necrosis de placas de Peyer; indicacion quirurgica), ileo, shock septico y muerte. Casos graves (trastornos de conciencia, shock): dexametasona 3 mg/kg IV y luego 1 mg/kg cada 6 h por 48 h en tercer nivel.", "fuente": 0, "pagina": "115" },
+      { "id": "c_hospitalizacion", "enunciado": "Hospitalizacion: fiebre mayor de 39 C por mas de 72 horas, deshidratacion moderada o grave o rechazo de la via oral, complicaciones abdominales, falla del tratamiento ambulatorio, alteraciones neurologicas y anemia aguda severa. Alta: resolucion de sintomas y buena tolerancia oral.", "fuente": 0, "pagina": "116" },
+      { "id": "c_prevencion", "enunciado": "Prevencion: lavado de manos; quien tuvo fiebre tifoidea no prepara alimentos para otros hasta confirmar que no es portador; agua embotellada o hervida; alimentos bien cocidos y lacteos pasteurizados; vacunacion.", "fuente": 0, "pagina": "116" }
+    ]
+  },
+  "tribunal": [
+    {
+      "id": "t01",
+      "pregunta": "Diga su diagnostico y en que semana de la enfermedad esta la paciente. Que datos clinicos lo apoyan?",
+      "disparador": { "tipo": "siempre" },
+      "loQueSeEsperaOir": ["Fiebre tifoidea, segunda semana", "Fiebre alta prolongada y en ascenso", "Estrenimiento inicial y diarrea al final de la segunda semana", "Disociacion temperatura pulso", "Exantema rosa en tronco y hepatoesplenomegalia no dolorosa"],
+      "conceptoLigado": "c_clinica",
+      "fuente": 0
+    },
+    {
+      "id": "t02",
+      "pregunta": "Tiene 39.4 C y 80 lpm. Como se llama ese hallazgo y que significaria que de pronto aparezca taquicardia con hipotension?",
+      "disparador": { "tipo": "siempre" },
+      "loQueSeEsperaOir": ["Disociacion temperatura pulso (bradicardia relativa)", "Taquicardia con hipotension anuncia complicaciones: hemorragia o perforacion intestinal"],
+      "conceptoLigado": "c_clinica",
+      "fuente": 0
+    },
+    {
+      "id": "t03",
+      "pregunta": "Que examen es decisivo para confirmar el diagnostico, como lo toma y en que momento?",
+      "disparador": { "tipo": "siempre" },
+      "loQueSeEsperaOir": ["Hemocultivos", "2 a 3 tomas de 20 ml, pueden ser simultaneas", "En los primeros dias y durante el periodo de fiebre", "Heces y orina en la segunda y tercera semana"],
+      "conceptoLigado": "c_diagnostico",
+      "fuente": 0
+    },
+    {
+      "id": "t04",
+      "pregunta": "Pidio reaccion de Widal y salio O 1/160. Como lo interpreta segun la norma?",
+      "disparador": { "tipo": "siPidio", "clave": "widal" },
+      "loQueSeEsperaOir": ["La norma dice que no es una prueba recomendable", "Baja sensibilidad y especificidad, falsos positivos y negativos", "En region endemica no tiene significado diagnostico y sobrediagnostica"],
+      "conceptoLigado": "c_diagnostico",
+      "fuente": 0
+    },
+    {
+      "id": "t05",
+      "pregunta": "No pidio hemocultivo. Con que confirma entonces el diagnostico?",
+      "disparador": { "tipo": "siNoPidio", "clave": "hemocultivo" },
+      "loQueSeEsperaOir": ["Los hemocultivos son decisivos en el periodo de fiebre", "Widal no es recomendable"],
+      "conceptoLigado": "c_diagnostico",
+      "fuente": 0
+    },
+    {
+      "id": "t06",
+      "pregunta": "Cuales son los criterios de hospitalizacion de la fiebre tifoidea, y cual cumple esta paciente?",
+      "disparador": { "tipo": "siempre" },
+      "loQueSeEsperaOir": ["Fiebre mayor de 39 C por mas de 72 horas: la cumple", "Deshidratacion moderada o grave o rechazo de la via oral", "Complicaciones abdominales", "Falla del tratamiento ambulatorio", "Alteraciones neurologicas", "Anemia aguda severa"],
+      "conceptoLigado": "c_hospitalizacion",
+      "fuente": 0
+    },
+    {
+      "id": "t07",
+      "pregunta": "Que antibiotico indica, a que dosis y por cuanto tiempo?",
+      "disparador": { "tipo": "siempre" },
+      "loQueSeEsperaOir": ["Primer nivel: azitromicina 1 g y luego 500 mg cada 24 h por 5-7 dias, o TMP-SMX", "Hospitalizada: ceftriaxona 2 g IV cada 24 h por 7-14 dias", "Alternativa: ciprofloxacino 500-750 mg VO cada 12 h"],
+      "conceptoLigado": "c_tratamiento",
+      "fuente": 0
+    },
+    {
+      "id": "t08",
+      "pregunta": "Indico dexametasona. En que pacientes la reserva la norma y cual es la dosis?",
+      "disparador": { "tipo": "siConducta", "clave": "cx_dexametasona" },
+      "loQueSeEsperaOir": ["Casos graves y complicados: trastornos de la conciencia, shock", "3 mg/kg IV y luego 1 mg/kg cada 6 horas por 48 horas", "En tercer nivel; esta paciente no cumple"],
+      "conceptoLigado": "c_complicaciones",
+      "fuente": 0
+    },
+    {
+      "id": "t09",
+      "pregunta": "En la tercera semana la paciente presenta dolor abdominal intenso y subito, con defensa. Que sospecha y cual es la conducta?",
+      "disparador": { "tipo": "siempre" },
+      "loQueSeEsperaOir": ["Perforacion intestinal por necrosis de las placas de Peyer en el borde antimesenterico", "Es la indicacion quirurgica", "Las complicaciones aparecen entre la segunda y la cuarta semana"],
+      "conceptoLigado": "c_complicaciones",
+      "fuente": 0
+    },
+    {
+      "id": "t10",
+      "pregunta": "Nombre al menos cuatro diagnosticos diferenciales de la norma y diga que dato de la historia le ayuda a descartar el paludismo.",
+      "disparador": { "tipo": "siempre" },
+      "loQueSeEsperaOir": ["Paludismo, dengue, brucelosis, tuberculosis miliar, rickettsiosis, leptospirosis, hepatitis virales, apendicitis", "No viajo a zonas de malaria"],
+      "conceptoLigado": "c_diferenciales",
+      "fuente": 0
+    },
+    {
+      "id": "t11",
+      "pregunta": "No pregunto de donde toma el agua ni donde come. Por que era clave?",
+      "disparador": { "tipo": "siOmitioInfo", "clave": "agua_alimentos" },
+      "loQueSeEsperaOir": ["La transmision es por agua y alimentos contaminados con heces de enfermos o portadores", "Orienta el diagnostico y la prevencion en el hogar"],
+      "conceptoLigado": "c_transmision",
+      "fuente": 0
+    },
+    {
+      "id": "t12",
+      "pregunta": "Su hermano tuvo tifoidea hace un mes. Que concepto de la norma explica el contagio, y que le recomienda a ella al alta?",
+      "disparador": { "tipo": "siempre" },
+      "loQueSeEsperaOir": ["El 1 a 5% queda como portador cronico", "No preparar alimentos para otros hasta confirmar que no es portadora", "Lavado de manos, agua hervida o embotellada, alimentos bien cocidos"],
+      "conceptoLigado": "c_prevencion",
+      "fuente": 0
+    },
+    {
+      "id": "t13",
+      "pregunta": "No propuso hospitalizarla. Justifique frente a los criterios de la norma.",
+      "disparador": { "tipo": "siNoConducta", "clave": "cx_hospitalizar" },
+      "loQueSeEsperaOir": ["Fiebre mayor de 39 C por mas de 72 horas es criterio de hospitalizacion"],
+      "conceptoLigado": "c_hospitalizacion",
+      "fuente": 0
+    }
+  ],
+  "fuentes": [
+    {
+      "institucion": "Estado Plurinacional de Bolivia. Ministerio de Salud y Deportes. Direccion General de Redes de Servicios de Salud, Unidad de Redes de Servicios de Salud y Calidad, Area del Continuo",
+      "documento": "Norma Nacional de Atencion Clinica de Medicina Interna. Serie: Documentos Tecnico Normativos No. 540. La Paz: Industrias Graficas Platinium.",
+      "anio": "2025",
+      "publicacion": "540",
+      "resolucion": "RM 0456 de 30 de septiembre de 2025",
+      "capitulo": "12. Fiebre Tifoidea y Paratifoidea (CIE-10 A01). Nivel de atencion I - II - III",
+      "pagina": "111-117",
+      "url": "https://www.minsalud.gob.bo/8850-norma-nacional-de-atencion-clinica-nnac",
+      "consultado": "2026-09-23"
+    },
+    {
+      "institucion": "Estado Plurinacional de Bolivia. Ministerio de Salud y Deportes. Direccion General de Servicios de Salud, Unidad de Redes de Servicios de Salud y Calidad",
+      "documento": "Norma Nacional de Caracterizacion de Establecimientos de Salud de Primer Nivel. 2da edicion. Serie: Documentos Tecnico Normativos No. 284. La Paz: Talleres Graficos Tupac Katari. 240 p.",
+      "anio": "2013",
+      "publicacion": "284",
+      "capitulo": "Cap. II, Cuadro No 5 Caracteristicas generales (pp. 35-40); Cap. IV Centro de Salud con Internacion, equipamiento (pp. 119-121); Cap. VI Centro de Salud Integral (p. 204)",
+      "pagina": "35-40, 119-121, 204",
+      "url": "https://www.minsalud.gob.bo/images/Documentacion/redes_salud/Inivelseguro.pdf",
+      "consultado": "2026-09-23"
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "id": "PED-005",
+  "titulo": "Ya no tiene fiebre, pero le duele la barriga",
+  "area": "PED",
+  "subarea": "Dengue con signos de alarma",
+  "dificultad": 3,
+  "estado": "BORRADOR",
+  "tipo": "medico",
+  "nivelesDisponibles": [1, 2, 3],
+  "tiempoSugeridoSeg": 1500,
+  "notaDeAutoria": "La vineta clinica y los resultados de estudios los redacto el autor del caso para que apliquen los criterios de la fuente; NO provienen de un paciente real ni de un caso publicado. Todo el contenido evaluable proviene del capitulo 5 'Dengue' de la Norma Nacional de Atencion Clinica de Pediatria (fuente 0), pp. 47-56, y el diferencial con Oropouche del capitulo 11 de la misma norma (p. 71). Los flujogramas de tratamiento de la norma (tablas 14 a 17, pp. 52-55) son imagenes sin texto en el PDF: por eso la rubrica no evalua volumenes ni velocidades de infusion, solo lo que la norma dice en texto (grupo B2 requiere liquidos IV, internacion en hospital o unidad de dengue, monitoreo estricto). Los nivelMinimo se anclan a la norma de caracterizacion de primer nivel (fuente 1); en el juego, nivel 1 es el Centro de Salud con Internacion. Estado BORRADOR: falta verificar cada pagina contra el PDF y la revision por una segunda persona del area.",
+  "presentacionInicial": {
+    "texto": "Nino de 8 anos traido por su madre. Hace cuatro dias empezo con fiebre alta que casi no bajaba con paracetamol. Desde anoche ya no tiene fiebre, pero esta manana empezo con dolor de barriga fuerte y vomito varias veces. Viven en un barrio de Santa Cruz de la Sierra. El nino esta echado, quejumbroso y no quiere hablar.",
+    "signosVitales": {
+      "Frecuencia cardiaca": "118 lpm",
+      "Frecuencia respiratoria": "26 por minuto",
+      "Temperatura": "36.8 C",
+      "Presion arterial": "94/64 mmHg",
+      "Peso": "26 kg"
+    },
+    "contexto": "Puedes jugar este caso en primer, segundo o tercer nivel de atencion. El nivel cambia que estudios estan disponibles y cual es la conducta que la norma espera de ti."
+  },
+  "descubrimiento": {
+    "anamnesis": {
+      "etiqueta": "Interrogar a la madre y al nino",
+      "exigeDeclaracionPrevia": true,
+      "items": [
+        { "clave": "fiebre", "texto": "Fiebre de hasta 39.8 C durante cuatro dias, con cefalea, dolor detras de los ojos y dolor de piernas. Desde anoche esta sin fiebre y sin tomar paracetamol.", "critico": true },
+        { "clave": "dolor_abd", "texto": "Dolor abdominal intenso y continuo desde esta manana, sobre todo en el lado derecho, arriba.", "critico": true },
+        { "clave": "vomitos", "texto": "Vomito cinco veces desde la manana. Todo lo que toma lo devuelve.", "critico": true },
+        { "clave": "epidemiologia", "texto": "Viven en Santa Cruz. En la cuadra hay tres vecinos con dengue confirmado este mes. No viajaron.", "critico": true },
+        { "clave": "sangrado", "texto": "Hoy le sangraron las encias al cepillarse. No hubo sangre en vomitos ni en deposiciones.", "critico": true },
+        { "clave": "diuresis", "texto": "Orino solo dos veces desde anoche, poca cantidad.", "critico": true }
+      ]
+    },
+    "antecedentes": {
+      "etiqueta": "Antecedentes",
+      "exigeDeclaracionPrevia": true,
+      "items": [
+        { "clave": "comorbilidad", "texto": "Sano. Sin asma, sin enfermedad renal, hepatica ni cardiaca. No toma anticoagulantes. Peso adecuado para la edad.", "critico": true },
+        { "clave": "dengue_previo", "texto": "No tuvo dengue antes, segun la madre." },
+        { "clave": "social", "texto": "Vive con sus padres y dos hermanas. El centro de salud esta a 10 minutos; el hospital de segundo nivel, a 30 minutos en micro." }
+      ]
+    },
+    "examenFisico": {
+      "etiqueta": "Examinar al nino",
+      "exigeDeclaracionPrevia": true,
+      "items": [
+        { "clave": "conciencia", "texto": "Somnoliento e irritable al estimularlo. Responde con monosilabos.", "critico": true },
+        { "clave": "abdomen", "texto": "Dolor a la palpacion en hipocondrio derecho. Higado palpable a 3 cm del reborde costal, blando y doloroso.", "critico": true },
+        { "clave": "torax", "texto": "Murmullo vesicular disminuido en la base derecha, con matidez a la percusion.", "critico": true },
+        { "clave": "perfusion", "texto": "Pulsos perifericos presentes y llenos. Llenado capilar de 2 segundos. Extremidades tibias. Presion de pulso de 30 mmHg.", "critico": true },
+        { "clave": "piel", "texto": "Petequias aisladas en brazos y piernas. Sin exantema activo. Mucosa oral seca." }
+      ]
+    },
+    "laboratorio": {
+      "etiqueta": "Laboratorio",
+      "items": [
+        {
+          "clave": "hemograma",
+          "nombre": "Hemograma con plaquetas",
+          "resultado": "Hematocrito 46% (hace dos dias, en el centro de salud: 38%). Leucocitos 2.900/mm3. Plaquetas 58.000/mm3.",
+          "nivelMinimo": 1,
+          "fuente": 0,
+          "nivelFuente": 1,
+          "nivelPagina": "37, 121",
+          "nivelNota": "La norma de primer nivel asigna laboratorio basico al Centro de Salud con Internacion, con analizador hematologico, contador diferencial y lector de hematocrito.",
+          "nivelAnclaje": "COMPLETO"
+        },
+        {
+          "clave": "ns1",
+          "nombre": "Antigeno NS1 (prueba rapida)",
+          "resultado": "Positivo.",
+          "nivelMinimo": 1,
+          "fuente": 0
+        },
+        {
+          "clave": "transaminasas",
+          "nombre": "Transaminasas",
+          "resultado": "TGO 210 U/L. TGP 164 U/L.",
+          "nivelMinimo": 2,
+          "fuente": 0,
+          "nivelFuente": 1,
+          "nivelPagina": "121, 204",
+          "nivelNota": "El laboratorio basico del Centro de Salud con Internacion no lista equipo de bioquimica (norma de primer nivel, p. 121); la bioquimica aparece en el laboratorio completo del Centro de Salud Integral (p. 204). Falta confirmar el detalle en la norma de segundo nivel (cap. XIII, aun no descargado).",
+          "nivelAnclaje": "PARCIAL"
+        },
+        {
+          "clave": "creatinina",
+          "nombre": "Creatinina",
+          "resultado": "0.6 mg/dl.",
+          "nivelMinimo": 2,
+          "fuente": 0,
+          "nivelFuente": 1,
+          "nivelPagina": "121, 204",
+          "nivelNota": "El laboratorio basico del Centro de Salud con Internacion no lista equipo de bioquimica (norma de primer nivel, p. 121); la bioquimica aparece en el laboratorio completo del Centro de Salud Integral (p. 204). Falta confirmar el detalle en la norma de segundo nivel (cap. XIII, aun no descargado).",
+          "nivelAnclaje": "PARCIAL"
+        },
+        {
+          "clave": "serologia",
+          "nombre": "Serologia IgM para dengue",
+          "resultado": "IgM no reactiva (dia 4 de enfermedad).",
+          "nivelMinimo": 2,
+          "fuente": 0
+        }
+      ]
+    }
+  },
+  "estudiosPlausiblesNoIncluidos": [
+    {
+      "nombre": "Ecografia abdominal",
+      "preguntaTribunal": "Pidio ecografia. Que buscaba, y que signo de alarma de la norma ya tenia en el examen fisico sin necesidad de ella?",
+      "comentarioFuente": "El capitulo no la lista entre los examenes complementarios (p. 51). La acumulacion de liquidos es signo de alarma (p. 49) y aqui ya se sospecha por el examen del torax.",
+      "fuente": 0
+    },
+    {
+      "nombre": "Radiografia de torax",
+      "preguntaTribunal": "Pidio radiografia de torax. Que esperaba ver, y cambia la clasificacion del paciente?",
+      "comentarioFuente": "No figura entre los examenes complementarios del capitulo (p. 51); el caso no contempla su resultado.",
+      "fuente": 0
+    }
+  ],
+  "rubrica": {
+    "diagnosticosEsperados": [
+      {
+        "clave": "dx_dcsa",
+        "texto": "Dengue con signos de alarma (DCSA), grupo de intervencion B2",
+        "valoracion": "ESPERADO",
+        "fuente": 0,
+        "pagina": "49-50",
+        "sinonimos": ["dengue con signos de alarma", "dcsa", "dengue con alarma", "grupo b2", "dengue b2"],
+        "conceptoLigado": "c_alarma"
+      },
+      {
+        "clave": "dx_fase_critica",
+        "texto": "Fase critica del dengue: coincide con la defervescencia, entre el 3.er y 7.o dia",
+        "valoracion": "ESPERADO",
+        "fuente": 0,
+        "pagina": "48",
+        "sinonimos": ["fase critica", "defervescencia", "etapa critica"],
+        "conceptoLigado": "c_fases"
+      }
+    ],
+    "diagnosticosDiferenciales": [
+      { "clave": "dd_oropouche", "texto": "Fiebre de Oropouche: durante la primera semana su principal diferencial es el dengue", "valoracion": "ESPERADO", "fuente": 0, "pagina": "71", "sinonimos": ["oropouche", "fiebre de oropouche"], "conceptoLigado": "c_diagnostico" },
+      { "clave": "dd_sarampion", "texto": "Sarampion (la norma lista el dengue entre sus diferenciales)", "valoracion": "ACEPTABLE", "fuente": 0, "pagina": "120", "sinonimos": ["sarampion"] },
+      { "clave": "dd_grave", "texto": "Dengue grave. No cumple criterios: no hay choque ni dificultad respiratoria por extravasacion grave, ni sangrado grave, ni compromiso grave de organos", "valoracion": "NO_CONTEMPLADO_POR_LA_FUENTE", "fuente": 0, "pagina": "49-50", "sinonimos": ["dengue grave", "grupo c", "dengue hemorragico", "choque por dengue"], "conceptoLigado": "c_grupos" }
+    ],
+    "estudios": [
+      { "clave": "hemograma", "texto": "Hemograma y plaquetas: hematocrito en aumento, leucopenia y trombocitopenia", "valoracion": "ESPERADO", "fuente": 0, "pagina": "48, 51", "conceptoLigado": "c_alarma" },
+      { "clave": "ns1", "texto": "Antigeno NS1 o PCR antes del quinto dia de enfermedad", "valoracion": "ESPERADO", "fuente": 0, "pagina": "47", "conceptoLigado": "c_diagnostico" },
+      { "clave": "transaminasas", "texto": "Transaminasas", "valoracion": "ESPERADO", "fuente": 0, "pagina": "51" },
+      { "clave": "creatinina", "texto": "Creatinina", "valoracion": "ESPERADO", "fuente": 0, "pagina": "51" },
+      { "clave": "serologia", "texto": "Serologia IgM: es el metodo de eleccion despues del quinto dia; al dia 4 puede ser aun negativa", "valoracion": "OPCIONAL", "fuente": 0, "pagina": "47", "conceptoLigado": "c_diagnostico" }
+    ],
+    "conductas": [
+      { "clave": "cx_referir", "texto": "Referir a hospital o unidad de dengue: en primer nivel solo se maneja en el hogar el grupo A", "valoracion": "ESPERADO", "fuente": 0, "pagina": "49-50", "nivel": [1], "sinonimos": ["referir", "referencia", "transferir", "derivar", "trasladar"], "conceptoLigado": "c_grupos" },
+      { "clave": "cx_internar", "texto": "Internar en hospital o unidad de dengue (criterio de hospitalizacion: dengue con signos de alarma)", "valoracion": "ESPERADO", "fuente": 0, "pagina": "49-51", "nivel": [2, 3], "sinonimos": ["internar", "hospitalizar", "internacion", "hospitalizacion", "unidad de dengue"], "conceptoLigado": "c_hospitalizacion" },
+      { "clave": "cx_liquidos_iv", "texto": "Liquidos intravenosos: el grupo B2 requiere administracion de liquidos IV", "valoracion": "ESPERADO", "fuente": 0, "pagina": "50", "nivel": [1, 2, 3], "sinonimos": ["liquidos intravenosos", "liquidos iv", "hidratacion intravenosa", "hidratacion iv", "cristaloides", "solucion fisiologica", "via venosa", "canalizar"], "conceptoLigado": "c_grupos" },
+      { "clave": "cx_monitoreo", "texto": "Monitoreo estricto: los signos de alarma requieren monitoreo estricto e intervencion medica inmediata (signos vitales, diuresis, hematocrito)", "valoracion": "ESPERADO", "fuente": 0, "pagina": "49", "nivel": [1, 2, 3], "sinonimos": ["monitoreo", "monitorizar", "control de signos vitales", "vigilancia estricta", "control de diuresis", "hematocrito seriado", "balance hidrico"], "conceptoLigado": "c_alarma" },
+      { "clave": "cx_prevencion", "texto": "Orientar a la familia sobre control del vector: eliminar criaderos, repelente, mosquiteros, manga larga", "valoracion": "ACEPTABLE", "fuente": 0, "pagina": "56", "nivel": [1, 2, 3], "sinonimos": ["criaderos", "eliminar criaderos", "mosquitero", "repelente", "control del vector", "aedes"], "conceptoLigado": "c_prevencion" },
+      { "clave": "cx_domicilio", "texto": "Manejo ambulatorio en el hogar. La norma lo reserva para el grupo A (dengue sin signos de alarma, tolera la via oral, orina cada 6 horas, sin condiciones asociadas)", "valoracion": "NO_CONTEMPLADO_POR_LA_FUENTE", "fuente": 0, "pagina": "49-50", "nivel": [1, 2, 3], "sinonimos": ["manejo ambulatorio", "tratamiento en casa", "tratamiento en el hogar", "alta a domicilio", "control ambulatorio"], "conceptoLigado": "c_grupos" }
+    ],
+    "informacionCritica": [
+      { "clave": "fiebre", "texto": "Fiebre de 2 a 7 dias sin foco y su caida: la defervescencia marca la entrada a la fase critica", "valoracion": "ESPERADO", "fuente": 0, "pagina": "47-48", "conceptoLigado": "c_fases" },
+      { "clave": "dolor_abd", "texto": "Dolor abdominal intenso y continuo: signo de alarma", "valoracion": "ESPERADO", "fuente": 0, "pagina": "48-49", "conceptoLigado": "c_alarma" },
+      { "clave": "vomitos", "texto": "Vomitos persistentes e intolerancia a la via oral: signo de alarma y criterio de hospitalizacion", "valoracion": "ESPERADO", "fuente": 0, "pagina": "49, 51", "conceptoLigado": "c_alarma" },
+      { "clave": "epidemiologia", "texto": "Residencia o viaje en los ultimos 14 dias a zona con transmision de dengue", "valoracion": "ESPERADO", "fuente": 0, "pagina": "47", "conceptoLigado": "c_diagnostico" },
+      { "clave": "sangrado", "texto": "Sangrado de mucosas: signo de alarma", "valoracion": "ESPERADO", "fuente": 0, "pagina": "49", "conceptoLigado": "c_alarma" },
+      { "clave": "diuresis", "texto": "Diuresis: el grupo A exige orinar al menos una vez cada 6 horas", "valoracion": "ESPERADO", "fuente": 0, "pagina": "50", "conceptoLigado": "c_grupos" },
+      { "clave": "comorbilidad", "texto": "Condiciones asociadas (menor de un ano, obesidad, asma, enfermedad renal, hepatica o cardiaca, anticoagulantes, riesgo social): definen el grupo B1 y agravan el riesgo", "valoracion": "ESPERADO", "fuente": 0, "pagina": "48, 50", "conceptoLigado": "c_grupos" },
+      { "clave": "conciencia", "texto": "Letargo o irritabilidad: signo de alarma", "valoracion": "ESPERADO", "fuente": 0, "pagina": "49", "conceptoLigado": "c_alarma" },
+      { "clave": "abdomen", "texto": "Hepatomegalia mayor de 2 cm y dolor a la palpacion: signos de alarma", "valoracion": "ESPERADO", "fuente": 0, "pagina": "49", "conceptoLigado": "c_alarma" },
+      { "clave": "torax", "texto": "Acumulacion de liquidos (derrame pleural, ascitis): signo de alarma", "valoracion": "ESPERADO", "fuente": 0, "pagina": "49", "conceptoLigado": "c_alarma" },
+      { "clave": "perfusion", "texto": "Perfusion: presion de pulso, llenado capilar e hipotension distinguen el dengue con signos de alarma del dengue grave", "valoracion": "ESPERADO", "fuente": 0, "pagina": "49, 51", "conceptoLigado": "c_grupos" }
+    ],
+    "conceptosClave": [
+      { "id": "c_diagnostico", "enunciado": "Caso sospechoso: nino que reside o viajo en los ultimos 14 dias a zona con transmision, con fiebre aguda de 2 a 7 dias sin foco. Antes del quinto dia: PCR o antigeno NS1; despues, serologia (IgM desde los dias 3-5). En la primera semana, el principal diferencial de Oropouche es el dengue.", "fuente": 0, "pagina": "47, 71" },
+      { "id": "c_fases", "enunciado": "Tres fases: febril (2 a 7 dias), critica (2 a 3 dias, entre el 3.er y 7.o dia, coincide con la defervescencia; aparecen signos de alarma, leucopenia, trombocitopenia y riesgo de choque) y recuperacion (despues del 7.o dia).", "fuente": 0, "pagina": "48-49" },
+      { "id": "c_alarma", "enunciado": "Signos de alarma: dolor abdominal intenso, vomitos persistentes, acumulacion de liquidos, sangrado de mucosas, letargo o irritabilidad, hipotension postural, hepatomegalia mayor de 2 cm y aumento progresivo del hematocrito. Requieren monitoreo estricto e intervencion medica inmediata.", "fuente": 0, "pagina": "49" },
+      { "id": "c_grupos", "enunciado": "Grupos: A (sin alarma, tolera la via oral, orina cada 6 horas, sin condiciones asociadas; tratamiento en el hogar), B1 (sin alarma pero con condicion asociada o riesgo social; hospital), B2 (con signos de alarma; requiere liquidos IV en hospital o unidad de dengue), C (dengue grave; UCI).", "fuente": 0, "pagina": "50" },
+      { "id": "c_hospitalizacion", "enunciado": "Criterios de hospitalizacion: signos de alarma, dengue grave, intolerancia oral, dificultad respiratoria, presion de pulso acortada, llenado capilar mayor de 2 segundos, hipotension, insuficiencia renal aguda, embarazo y coagulopatia.", "fuente": 0, "pagina": "51" },
+      { "id": "c_alta", "enunciado": "Alta: 48 horas sin fiebre sin antipireticos, mejoria clinica (bienestar, apetito, hemodinamia y diuresis normales, sin dificultad respiratoria ni sangrado), plaquetas en ascenso y hematocrito estable sin liquidos IV.", "fuente": 0, "pagina": "56" },
+      { "id": "c_prevencion", "enunciado": "Prevencion: sin Aedes aegypti no hay dengue. Eliminar criaderos (envases, llantas, floreros), lavar recipientes porque los huevos sobreviven meses; repelente, manga larga, mosquiteros; mosquitero en cunas y coches de menores de 6 meses.", "fuente": 0, "pagina": "56" }
+    ]
+  },
+  "tribunal": [
+    {
+      "id": "t01",
+      "pregunta": "Diga su diagnostico completo, en que fase del dengue esta el nino y a que grupo de intervencion pertenece.",
+      "disparador": { "tipo": "siempre" },
+      "loQueSeEsperaOir": ["Dengue con signos de alarma", "Fase critica: coincide con la caida de la fiebre", "Grupo B2"],
+      "conceptoLigado": "c_grupos",
+      "fuente": 0
+    },
+    {
+      "id": "t02",
+      "pregunta": "Enumere todos los signos de alarma que encontro en este nino.",
+      "disparador": { "tipo": "siempre" },
+      "loQueSeEsperaOir": ["Dolor abdominal intenso y continuo, con dolor a la palpacion", "Vomitos persistentes", "Sangrado de mucosas (encias)", "Letargo o irritabilidad", "Hepatomegalia mayor de 2 cm", "Acumulacion de liquidos (base derecha)", "Aumento progresivo del hematocrito"],
+      "conceptoLigado": "c_alarma",
+      "fuente": 0
+    },
+    {
+      "id": "t03",
+      "pregunta": "La madre dice que ya esta mejor porque no tiene fiebre. Que le explica?",
+      "disparador": { "tipo": "siempre" },
+      "loQueSeEsperaOir": ["La fase critica coincide con la defervescencia", "Es cuando aparecen los signos de alarma y el riesgo de choque", "Por eso ahora necesita mas vigilancia, no menos"],
+      "conceptoLigado": "c_fases",
+      "fuente": 0
+    },
+    {
+      "id": "t04",
+      "pregunta": "Por que no lo clasifica como dengue grave? Que tendria que tener para serlo?",
+      "disparador": { "tipo": "siempre" },
+      "loQueSeEsperaOir": ["Choque o dificultad respiratoria por extravasacion grave de plasma", "Sangrado grave segun el medico tratante", "Compromiso grave de organos (higado, SNC, corazon)", "Este nino tiene pulsos llenos y llenado capilar de 2 segundos"],
+      "conceptoLigado": "c_grupos",
+      "fuente": 0
+    },
+    {
+      "id": "t05",
+      "pregunta": "Lo clasifico como dengue grave. Con que criterio de la norma?",
+      "disparador": { "tipo": "siDiagnostico", "clave": "dd_grave" },
+      "loQueSeEsperaOir": ["No cumple: no hay choque, sangrado grave ni compromiso grave de organos", "Es dengue con signos de alarma, grupo B2"],
+      "conceptoLigado": "c_grupos",
+      "fuente": 0
+    },
+    {
+      "id": "t06",
+      "pregunta": "Indico manejo en el hogar. Que requisitos exige la norma para eso, y cuales no cumple este nino?",
+      "disparador": { "tipo": "siConducta", "clave": "cx_domicilio" },
+      "loQueSeEsperaOir": ["Solo grupo A: sin signos de alarma", "Tolera volumenes adecuados por via oral", "Orina al menos una vez cada 6 horas", "Sin condiciones asociadas ni riesgo social", "Este nino vomita todo, orino dos veces y tiene signos de alarma"],
+      "conceptoLigado": "c_grupos",
+      "fuente": 0
+    },
+    {
+      "id": "t07",
+      "pregunta": "Esta en un Centro de Salud con Internacion. No propuso referir. Justifique.",
+      "disparador": { "tipo": "siNoConducta", "clave": "cx_referir" },
+      "loQueSeEsperaOir": ["El primer nivel maneja en el hogar solo el grupo A", "El grupo B2 va a hospital o unidad de dengue con liquidos IV"],
+      "conceptoLigado": "c_grupos",
+      "fuente": 0
+    },
+    {
+      "id": "t08",
+      "pregunta": "No indico liquidos intravenosos. Que dice la norma del grupo B2?",
+      "disparador": { "tipo": "siNoConducta", "clave": "cx_liquidos_iv" },
+      "loQueSeEsperaOir": ["El grupo B2 requiere administracion de liquidos IV", "Ademas no tolera la via oral"],
+      "conceptoLigado": "c_grupos",
+      "fuente": 0
+    },
+    {
+      "id": "t09",
+      "pregunta": "Interprete el hemograma. Que dato es por si solo un signo de alarma?",
+      "disparador": { "tipo": "siPidio", "clave": "hemograma" },
+      "loQueSeEsperaOir": ["Hematocrito de 38% a 46%: aumento progresivo, signo de alarma", "Leucopenia y trombocitopenia, propias de la fase critica"],
+      "conceptoLigado": "c_alarma",
+      "fuente": 0
+    },
+    {
+      "id": "t10",
+      "pregunta": "Es el dia 4 de enfermedad. Que prueba confirma el dengue ahora y cual despues del quinto dia?",
+      "disparador": { "tipo": "siempre" },
+      "loQueSeEsperaOir": ["Antes del quinto dia: PCR o antigeno NS1", "Despues del quinto dia: serologia, metodo de eleccion", "La IgM aparece entre los dias 3 y 5: puede salir negativa todavia"],
+      "conceptoLigado": "c_diagnostico",
+      "fuente": 0
+    },
+    {
+      "id": "t11",
+      "pregunta": "No pregunto si hay casos de dengue cerca o si viajo. Que parte de la definicion de caso se le escapo?",
+      "disparador": { "tipo": "siOmitioInfo", "clave": "epidemiologia" },
+      "loQueSeEsperaOir": ["Residir o haber viajado en los ultimos 14 dias a zona con transmision de dengue"],
+      "conceptoLigado": "c_diagnostico",
+      "fuente": 0
+    },
+    {
+      "id": "t12",
+      "pregunta": "No pregunto por enfermedades previas del nino. Por que importan para clasificarlo?",
+      "disparador": { "tipo": "siOmitioInfo", "clave": "comorbilidad" },
+      "loQueSeEsperaOir": ["Las condiciones asociadas definen el grupo B1 aun sin signos de alarma", "Menor de un ano, obesidad, asma, enfermedad renal, hepatica o cardiaca, anticoagulantes, riesgo social"],
+      "conceptoLigado": "c_grupos",
+      "fuente": 0
+    },
+    {
+      "id": "t13",
+      "pregunta": "En la primera semana, con que otra arbovirosis lo confunde la norma?",
+      "disparador": { "tipo": "siNoDiagnostico", "clave": "dd_oropouche" },
+      "loQueSeEsperaOir": ["Fiebre de Oropouche", "Su diagnostico es por RT-PCR en fase aguda"],
+      "conceptoLigado": "c_diagnostico",
+      "fuente": 0
+    },
+    {
+      "id": "t14",
+      "pregunta": "Cuando le daria el alta? Diga los criterios clinicos y de laboratorio.",
+      "disparador": { "tipo": "siempre" },
+      "loQueSeEsperaOir": ["48 horas sin fiebre sin antipireticos", "Mejoria clinica: bienestar, apetito, hemodinamia y diuresis normales, sin sangrado", "Plaquetas en ascenso", "Hematocrito estable sin liquidos IV"],
+      "conceptoLigado": "c_alta",
+      "fuente": 0
+    },
+    {
+      "id": "t15",
+      "pregunta": "Que le dice a la familia para que no se repita en la casa?",
+      "disparador": { "tipo": "siempre" },
+      "loQueSeEsperaOir": ["Sin Aedes aegypti no hay dengue: eliminar criaderos", "Lavar recipientes: los huevos sobreviven meses secos", "Repelente, manga larga, mosquiteros"],
+      "conceptoLigado": "c_prevencion",
+      "fuente": 0
+    }
+  ],
+  "fuentes": [
+    {
+      "institucion": "Estado Plurinacional de Bolivia. Ministerio de Salud y Deportes. Direccion General de Redes de Servicios de Salud, Unidad de Redes de Servicios de Salud y Calidad, Area del Continuo",
+      "documento": "Norma Nacional de Atencion Clinica de Pediatria. Serie: Documentos Tecnico Normativos No. 541. La Paz: Industrias Graficas Platinium. 166 p. Deposito legal 4-1-745-2025 P.O.",
+      "anio": "2025",
+      "publicacion": "541",
+      "resolucion": "RM 0456 de 30 de septiembre de 2025",
+      "capitulo": "5. Dengue (CIE-10 A90), pp. 47-56. Ademas: 11. Fiebre de Oropouche (p. 71) y 25. Sarampion (p. 120)",
+      "pagina": "47-56",
+      "url": "https://www.minsalud.gob.bo/8850-norma-nacional-de-atencion-clinica-nnac",
+      "consultado": "2026-09-23"
+    },
+    {
+      "institucion": "Estado Plurinacional de Bolivia. Ministerio de Salud y Deportes. Direccion General de Servicios de Salud, Unidad de Redes de Servicios de Salud y Calidad",
+      "documento": "Norma Nacional de Caracterizacion de Establecimientos de Salud de Primer Nivel. 2da edicion. Serie: Documentos Tecnico Normativos No. 284. La Paz: Talleres Graficos Tupac Katari. 240 p.",
+      "anio": "2013",
+      "publicacion": "284",
+      "capitulo": "Cap. II, Cuadro No 5 Caracteristicas generales (pp. 35-40); Cap. IV Centro de Salud con Internacion, equipamiento (pp. 119-121); Cap. VI Centro de Salud Integral (p. 204)",
+      "pagina": "35-40, 119-121, 204",
+      "url": "https://www.minsalud.gob.bo/images/Documentacion/redes_salud/Inivelseguro.pdf",
+      "consultado": "2026-09-23"
+    }
+  ]
+}

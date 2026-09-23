@@ -1,0 +1,327 @@
+{
+  "id": "URG-020",
+  "titulo": "Mordido por una vibora en el chaco",
+  "area": "MI",
+  "subarea": "Urgencias: mordedura de serpiente (accidente ofidico botropico)",
+  "dificultad": 3,
+  "estado": "BORRADOR",
+  "tipo": "medico",
+  "nivelesDisponibles": [1, 2, 3],
+  "tiempoSugeridoSeg": 1500,
+  "notaDeAutoria": "La vineta clinica y los resultados de estudios los redacto el autor del caso para que apliquen los criterios de la fuente; NO provienen de un paciente real ni de un caso publicado. Todo el contenido evaluable proviene del capitulo 20 'Mordedura de Serpiente' de la Norma Nacional de Atencion Clinica de Urgencias y Emergencias (fuente 0), pp. 193-205. La norma indica que, segun el Manual de accidentes ofidicos (pub. 273), el suero antiofidico se puede usar a partir de los centros integrales de atencion (p. 204); como el nivel 1 del juego es el Centro de Salud con Internacion, el suero se evalua en niveles 2 y 3 y en nivel 1 se espera la referencia. La tabla 54 (p. 201) y la tabla 55 (p. 204) coinciden en 6 a 8 viales para el botropico moderado, que es lo que usa la rubrica; difieren en el leve (4 a 6 viales frente a 2 a 4 ampollas), que no se evalua en este caso. Los nivelMinimo se anclan a la norma de caracterizacion de primer nivel (fuente 1). Estado BORRADOR: falta verificar cada pagina contra el PDF y la revision por una segunda persona del area.",
+  "presentacionInicial": {
+    "texto": "Varon de 42 anos, agricultor, traido en moto por su hermano desde el chaco. Hace unas tres horas, limpiando maleza, lo mordio una vibora en el pie derecho. Tiene un cinturon apretado debajo de la rodilla. El pie esta hinchado y morado, y la hinchazon sube. Se queja de mucho dolor.",
+    "signosVitales": {
+      "Presion arterial": "110/70 mmHg",
+      "Frecuencia cardiaca": "104 lpm",
+      "Frecuencia respiratoria": "20 por minuto",
+      "Temperatura": "37.2 C",
+      "Saturacion de oxigeno": "95% (aire ambiente)"
+    },
+    "contexto": "Puedes jugar este caso en primer, segundo o tercer nivel de atencion. El nivel cambia que estudios estan disponibles y cual es la conducta que la norma espera de ti."
+  },
+  "descubrimiento": {
+    "anamnesis": {
+      "etiqueta": "Interrogar al paciente y al hermano",
+      "exigeDeclaracionPrevia": true,
+      "items": [
+        { "clave": "serpiente", "texto": "No la mataron. La describen como una vibora parda con manchas oscuras en forma de triangulo, de cabeza triangular. En la zona le dicen yoperojobobo.", "critico": true },
+        { "clave": "tiempo", "texto": "Lo mordio hace unas tres horas. Tardaron en conseguir la moto.", "critico": true },
+        { "clave": "primeros_auxilios", "texto": "El hermano le hizo dos cortes con el cuchillo sobre la mordida, le chupo la herida y le amarro el cinturon debajo de la rodilla.", "critico": true },
+        { "clave": "sangrado", "texto": "En el camino le empezaron a sangrar las encias. La orina de hace una hora le parecio rojiza.", "critico": true },
+        { "clave": "neuro_sintomas", "texto": "No tiene vision doble, ni dificultad para tragar o respirar. No siente los parpados pesados.", "critico": true },
+        { "clave": "vacuna", "texto": "No recuerda cuando fue su ultima vacuna contra el tetanos.", "critico": true }
+      ]
+    },
+    "antecedentes": {
+      "etiqueta": "Antecedentes",
+      "exigeDeclaracionPrevia": true,
+      "items": [
+        { "clave": "comorbilidad", "texto": "Sano. No es hipertenso, diabetico ni renal. No toma medicamentos." },
+        { "clave": "alergias", "texto": "No tiene alergias conocidas. Nunca recibio suero antiofidico." }
+      ]
+    },
+    "examenFisico": {
+      "etiqueta": "Examinar al paciente",
+      "exigeDeclaracionPrevia": true,
+      "items": [
+        { "clave": "torniquete", "texto": "Cinturon muy ajustado debajo de la rodilla derecha. Por debajo, la pierna esta fria y tensa.", "critico": true },
+        { "clave": "miembro", "texto": "Edema duro desde el pie hasta la rodilla, que tiende a extenderse. Equimosis en el dorso del pie. Dos flictenas pequenas junto a la mordida. Dolor intenso.", "critico": true },
+        { "clave": "herida", "texto": "Dos orificios de colmillo en el dorso del pie, con dos cortes de cuchillo encima. Sangran de forma continua y lenta.", "critico": true },
+        { "clave": "neuro", "texto": "Consciente y orientado. Sin ptosis ni facies neurotoxica. Sin debilidad muscular.", "critico": true },
+        { "clave": "mucosas", "texto": "Gingivorragia leve. Sin epistaxis." },
+        { "clave": "pulsos", "texto": "Pulso pedio derecho debil pero presente con el cinturon puesto." }
+      ]
+    },
+    "laboratorio": {
+      "etiqueta": "Laboratorio",
+      "items": [
+        {
+          "clave": "tiempo_coag",
+          "nombre": "Tiempo de coagulacion en tubo (5 ml, 20 minutos)",
+          "resultado": "A los 20 minutos no se forma coagulo: sangre incoagulable.",
+          "nivelMinimo": 1,
+          "fuente": 0,
+          "nivelFuente": 1,
+          "nivelPagina": "121",
+          "nivelNota": "El laboratorio basico del Centro de Salud con Internacion tiene cronometro, reloj de intervalo y gradilla para tubos (norma de primer nivel, p. 121), que es lo que usa la prueba. La norma de caracterizacion no nombra la prueba.",
+          "nivelAnclaje": "PARCIAL"
+        },
+        {
+          "clave": "hemograma",
+          "nombre": "Hemograma con recuento de plaquetas",
+          "resultado": "Hemoglobina 13.8 g/dl. Leucocitos 14.600/mm3 con 82% de neutrofilos. Plaquetas 96.000/mm3.",
+          "nivelMinimo": 1,
+          "fuente": 0,
+          "nivelFuente": 1,
+          "nivelPagina": "37, 121",
+          "nivelNota": "La norma de primer nivel asigna laboratorio basico al Centro de Salud con Internacion, con analizador hematologico, contador diferencial y lector de hematocrito.",
+          "nivelAnclaje": "COMPLETO"
+        },
+        {
+          "clave": "ego",
+          "nombre": "Examen general de orina",
+          "resultado": "Proteinas ++. Sedimento con 25-30 hematies por campo.",
+          "nivelMinimo": 1,
+          "fuente": 0,
+          "nivelFuente": 1,
+          "nivelPagina": "121",
+          "nivelNota": "El laboratorio basico del Centro de Salud con Internacion tiene centrifuga y microscopio (norma de primer nivel, p. 121), que permiten el sedimento urinario. La norma no lista tiras reactivas.",
+          "nivelAnclaje": "PARCIAL"
+        },
+        {
+          "clave": "renal",
+          "nombre": "Urea y creatinina",
+          "resultado": "Urea 38 mg/dl. Creatinina 1.1 mg/dl.",
+          "nivelMinimo": 2,
+          "fuente": 0,
+          "nivelFuente": 1,
+          "nivelPagina": "121, 204",
+          "nivelNota": "El laboratorio basico del Centro de Salud con Internacion no lista equipo de bioquimica (norma de primer nivel, p. 121); la bioquimica aparece en el laboratorio completo del Centro de Salud Integral (p. 204). Falta confirmar el detalle en la norma de segundo nivel (cap. XIII, aun no descargado).",
+          "nivelAnclaje": "PARCIAL"
+        }
+      ]
+    }
+  },
+  "estudiosPlausiblesNoIncluidos": [
+    {
+      "nombre": "Cultivo y Gram de la herida",
+      "preguntaTribunal": "Pidio cultivo de la herida. Con que condicion lo indica la norma?",
+      "comentarioFuente": "La norma lo lista si hay disponibilidad y pertinencia (p. 200); el caso no contempla su resultado.",
+      "fuente": 0
+    },
+    {
+      "nombre": "Tiempo de protrombina",
+      "preguntaTribunal": "Pidio tiempo de protrombina. Que prueba de cabecera propone la norma para decidir el suero y seguir la respuesta?",
+      "comentarioFuente": "La norma usa el tiempo de coagulacion en tubo como indicador de gravedad y de respuesta (p. 200); el caso no contempla un TP.",
+      "fuente": 0
+    }
+  ],
+  "rubrica": {
+    "diagnosticosEsperados": [
+      {
+        "clave": "dx_botropico",
+        "texto": "Accidente ofidico botropico moderado (CIE-10 T63.0): tiempo de coagulacion incoagulable, leucocitosis con neutrofilia, edema que se extiende, equimosis, gingivorragia, proteinuria y hematuria",
+        "valoracion": "ESPERADO",
+        "fuente": 0,
+        "pagina": "194, 199",
+        "sinonimos": ["accidente botropico", "botropico", "bothrops", "yoperojobobo", "accidente ofidico", "ofidismo", "mordedura de serpiente", "mordedura de vibora", "envenenamiento por serpiente"],
+        "conceptoLigado": "c_severidad"
+      },
+      {
+        "clave": "dx_coagulopatia",
+        "texto": "Alteracion de la coagulacion por el veneno botropico (consumo de factores, incoagulabilidad, plaquetopenia)",
+        "valoracion": "ESPERADO",
+        "fuente": 0,
+        "pagina": "197",
+        "sinonimos": ["coagulopatia", "incoagulabilidad", "sangre incoagulable", "trastorno de la coagulacion", "alteracion de la coagulacion", "consumo de factores"],
+        "conceptoLigado": "c_veneno"
+      }
+    ],
+    "diagnosticosDiferenciales": [
+      { "clave": "dd_laquesico", "texto": "Accidente laquesico (pucarara): lesion local y coagulante semejante, con actividad neurotoxica vagal (hipotension, vomitos, diarrea)", "valoracion": "ESPERADO", "fuente": 0, "pagina": "198-199", "sinonimos": ["laquesico", "lachesis", "pucarara", "surucucu"], "conceptoLigado": "c_veneno" },
+      { "clave": "dd_colubrido", "texto": "Accidente por colubrido (serpiente opistoglifa no ponzonosa, p. ej. Philodryas): el tiempo de coagulacion es normal y no requiere suero", "valoracion": "ESPERADO", "fuente": 0, "pagina": "200", "sinonimos": ["colubrido", "philodryas", "no ponzonosa", "serpiente no venenosa"], "conceptoLigado": "c_tiempo_coag" },
+      { "clave": "dd_crotalico", "texto": "Accidente crotalico: predomina la neurotoxicidad (facies neurotoxica) y la mioglobinuria, con poca lesion local", "valoracion": "ACEPTABLE", "fuente": 0, "pagina": "197-199", "sinonimos": ["crotalico", "crotalus", "chonono"], "conceptoLigado": "c_veneno" },
+      { "clave": "dd_elapidico", "texto": "Accidente elapidico (coral): neurotoxicidad postsinaptica con facies neurotoxica y dificultad respiratoria", "valoracion": "ACEPTABLE", "fuente": 0, "pagina": "198-199", "sinonimos": ["elapidico", "micrurus", "coral"], "conceptoLigado": "c_veneno" }
+    ],
+    "estudios": [
+      { "clave": "tiempo_coag", "texto": "Tiempo de coagulacion en tubo: indicador de gravedad y de respuesta al suero; se repite a las 12 y 24 horas", "valoracion": "ESPERADO", "fuente": 0, "pagina": "200", "conceptoLigado": "c_tiempo_coag" },
+      { "clave": "hemograma", "texto": "Hemograma y recuento de plaquetas", "valoracion": "ESPERADO", "fuente": 0, "pagina": "200" },
+      { "clave": "ego", "texto": "Examen general de orina", "valoracion": "ESPERADO", "fuente": 0, "pagina": "200", "conceptoLigado": "c_severidad" },
+      { "clave": "renal", "texto": "Creatinina y urea", "valoracion": "ESPERADO", "fuente": 0, "pagina": "200", "conceptoLigado": "c_referencia" }
+    ],
+    "conductas": [
+      { "clave": "cx_torniquete", "texto": "Retirar el torniquete lentamente y en forma progresiva", "valoracion": "ESPERADO", "fuente": 0, "pagina": "201", "nivel": [1, 2, 3], "sinonimos": ["retirar el torniquete", "retirar torniquete", "quitar el torniquete", "quitar torniquete", "aflojar el torniquete", "sacar el cinturon", "retirar el cinturon"], "conceptoLigado": "c_medidas" },
+      { "clave": "cx_lavar", "texto": "Lavar la mordedura con agua y jabon y desinfectar con povidona", "valoracion": "ESPERADO", "fuente": 0, "pagina": "201", "nivel": [1, 2, 3], "sinonimos": ["agua y jabon", "povidona", "lavar la herida", "lavado de la herida", "desinfectar"], "conceptoLigado": "c_medidas" },
+      { "clave": "cx_elevar", "texto": "Mantener el miembro afectado elevado sobre almohadones", "valoracion": "ACEPTABLE", "fuente": 0, "pagina": "201", "nivel": [1, 2, 3], "sinonimos": ["elevar el miembro", "elevar la pierna", "elevacion del miembro", "almohadones"], "conceptoLigado": "c_medidas" },
+      { "clave": "cx_flictenas", "texto": "Aspirar las flictenas con jeringa, sin debridar", "valoracion": "ACEPTABLE", "fuente": 0, "pagina": "201", "nivel": [1, 2, 3], "sinonimos": ["aspirar flictenas", "aspirar las flictenas", "aspirar ampollas", "flictenas"], "conceptoLigado": "c_medidas" },
+      { "clave": "cx_hidrocortisona", "texto": "Premedicar con hidrocortisona 500 mg IV dosis unica antes del suero, sin test de sensibilidad", "valoracion": "ESPERADO", "fuente": 0, "pagina": "201", "nivel": [2, 3], "sinonimos": ["hidrocortisona", "premedicar", "premedicacion"], "conceptoLigado": "c_suero" },
+      { "clave": "cx_suero", "texto": "Suero antiofidico polivalente IV diluido en solucion salina: accidente botropico moderado, 6 a 8 viales", "valoracion": "ESPERADO", "fuente": 0, "pagina": "201, 204", "nivel": [2, 3], "sinonimos": ["suero antiofidico", "antiofidico", "antiveneno", "suero polivalente", "viales de suero", "sabc", "sabl"], "conceptoLigado": "c_suero" },
+      { "clave": "cx_repetir_tc", "texto": "Repetir el tiempo de coagulacion a las 12 y 24 horas de iniciado el suero", "valoracion": "ESPERADO", "fuente": 0, "pagina": "200", "nivel": [2, 3], "sinonimos": ["repetir el tiempo de coagulacion", "repetir tiempo de coagulacion", "control del tiempo de coagulacion", "tiempo de coagulacion a las 12"], "conceptoLigado": "c_tiempo_coag" },
+      { "clave": "cx_analgesia", "texto": "Analgesia con metamizol 1 g EV diluido y lento", "valoracion": "ACEPTABLE", "fuente": 0, "pagina": "202", "nivel": [1, 2, 3], "sinonimos": ["metamizol", "dipirona", "analgesia", "analgesico"], "conceptoLigado": "c_complementarias" },
+      { "clave": "cx_toxoide", "texto": "Una dosis de toxoide tetanico una vez normalizado el tiempo de coagulacion", "valoracion": "ESPERADO", "fuente": 0, "pagina": "203", "nivel": [2, 3], "sinonimos": ["toxoide tetanico", "antitetanica", "vacuna antitetanica", "vacuna contra el tetanos"], "conceptoLigado": "c_complementarias" },
+      { "clave": "cx_referir", "texto": "Referir al nivel que cuente con suero antiofidico, tras las medidas generales", "valoracion": "ESPERADO", "fuente": 0, "pagina": "203-205", "nivel": [1], "sinonimos": ["referir", "referencia", "transferir", "derivar", "trasladar"], "conceptoLigado": "c_referencia" },
+      { "clave": "cx_test", "texto": "Test de sensibilidad antes del suero. La norma lo prohibe expresamente", "valoracion": "NO_CONTEMPLADO_POR_LA_FUENTE", "fuente": 0, "pagina": "201", "nivel": [1, 2, 3], "sinonimos": ["test de sensibilidad", "prueba de sensibilidad", "prueba cutanea", "test cutaneo"], "conceptoLigado": "c_suero" },
+      { "clave": "cx_maniobras", "texto": "Nuevas incisiones, succion, ligaduras o cauterizacion de la herida. La norma las prohibe como maniobras heroicas", "valoracion": "NO_CONTEMPLADO_POR_LA_FUENTE", "fuente": 0, "pagina": "200", "nivel": [1, 2, 3], "sinonimos": ["incision", "incisiones", "succionar", "succion", "ligadura", "cauterizar", "cauterizacion"], "conceptoLigado": "c_primeros_auxilios" }
+    ],
+    "informacionCritica": [
+      { "clave": "serpiente", "texto": "Descripcion o nombre local de la serpiente: orienta el genero (Bothrops: yoperojobobo, yarara, jergon)", "valoracion": "ESPERADO", "fuente": 0, "pagina": "194", "conceptoLigado": "c_veneno" },
+      { "clave": "tiempo", "texto": "Tiempo desde la mordedura: la gravedad se evalua tras horas de observacion", "valoracion": "ESPERADO", "fuente": 0, "pagina": "199", "conceptoLigado": "c_severidad" },
+      { "clave": "primeros_auxilios", "texto": "Maniobras previas (cortes, succion, torniquete): prohibidas por la norma", "valoracion": "ESPERADO", "fuente": 0, "pagina": "200-201", "conceptoLigado": "c_primeros_auxilios" },
+      { "clave": "sangrado", "texto": "Gingivorragia y hematuria: manifestaciones del envenenamiento botropico moderado", "valoracion": "ESPERADO", "fuente": 0, "pagina": "199", "conceptoLigado": "c_severidad" },
+      { "clave": "neuro_sintomas", "texto": "Sintomas neurotoxicos (vision doble, disfagia, disnea): orientan a accidente crotalico o elapidico", "valoracion": "ESPERADO", "fuente": 0, "pagina": "199", "conceptoLigado": "c_veneno" },
+      { "clave": "vacuna", "texto": "Estado de vacunacion antitetanica", "valoracion": "ESPERADO", "fuente": 0, "pagina": "203", "conceptoLigado": "c_complementarias" },
+      { "clave": "torniquete", "texto": "Torniquete colocado: se retira lenta y progresivamente", "valoracion": "ESPERADO", "fuente": 0, "pagina": "201", "conceptoLigado": "c_medidas" },
+      { "clave": "miembro", "texto": "Edema que se extiende, equimosis y flictenas: reaccion local del veneno botropico", "valoracion": "ESPERADO", "fuente": 0, "pagina": "197, 199", "conceptoLigado": "c_severidad" },
+      { "clave": "herida", "texto": "Estado de la herida: se lava y desinfecta, sin maniobras cruentas", "valoracion": "ESPERADO", "fuente": 0, "pagina": "201", "conceptoLigado": "c_medidas" },
+      { "clave": "neuro", "texto": "Ausencia de facies neurotoxica: descarta la gravedad neurotoxica crotalica o elapidica", "valoracion": "ESPERADO", "fuente": 0, "pagina": "199", "conceptoLigado": "c_veneno" }
+    ],
+    "conceptosClave": [
+      { "id": "c_veneno", "enunciado": "Generos ponzonosos en Bolivia: Bothrops (yoperojobobo, yarara, jergon), Lachesis (pucarara, surucucu), Crotalus y Micrurus (coral). Botropico: inflamacion local, coagulante y hemorragico. Crotalico: neurotoxico presinaptico, miotoxico y coagulante. Laquesico: como el botropico mas estimulacion vagal. Elapidico: neurotoxico postsinaptico (curarizante).", "fuente": 0, "pagina": "194, 197-198" },
+      { "id": "c_severidad", "enunciado": "Botropico leve: tras 6 horas, reaccion local leve sin compromiso sistemico. Moderado: tiempo de coagulacion prolongado o incoagulable, leucocitosis con neutrofilia, edema que se extiende, equimosis; puede haber gingivorragia, proteinuria y hematuria. Severo: incoagulable pese al tratamiento, edema progresivo, flictenas, oliguria o anuria, sangrados, riesgo de choque y necrosis.", "fuente": 0, "pagina": "199" },
+      { "id": "c_tiempo_coag", "enunciado": "Tiempo de coagulacion: 5 ml en tubo de tapa roja, esperar 20 minutos. Si coagula, no se da suero; si no coagula o hay sangrado, se inicia tratamiento. Se repite a las 12 y 24 horas. En el accidente por colubrido coagula y no requiere suero.", "fuente": 0, "pagina": "200" },
+      { "id": "c_primeros_auxilios", "enunciado": "Primeros auxilios: ninguna maniobra heroica (cortes, succion, ligaduras, vendajes, cauterizacion); reposo, aflojar ropa y anillos, miembro levemente elevado; no perder tiempo averiguando si la serpiente es venenosa ni esperar sintomas.", "fuente": 0, "pagina": "200-201" },
+      { "id": "c_medidas", "enunciado": "Medidas generales: retirar el torniquete lenta y progresivamente, lavar con agua y jabon y desinfectar con povidona, aspirar flictenas con jeringa sin debridar y elevar el miembro sobre almohadones.", "fuente": 0, "pagina": "201" },
+      { "id": "c_suero", "enunciado": "No hacer test de sensibilidad. Premedicar con hidrocortisona (500 mg IV en adultos, 10 mg/kg en ninos, dosis unica). Suero botropico: leve 4 a 6 viales, moderado 6 a 8, grave 8 a 20. INLASA produce suero polivalente botropico/laquesico y botropico/crotalico.", "fuente": 0, "pagina": "201, 204" },
+      { "id": "c_complementarias", "enunciado": "Analgesia con metamizol; antibiotico solo si se decide (ampicilina-clavulanico, cloxacilina, metronidazol); toxoide tetanico cuando se normaliza el tiempo de coagulacion. En embarazadas no se modifica el esquema.", "fuente": 0, "pagina": "202-203" },
+      { "id": "c_referencia", "enunciado": "Criterios de referencia: hemorragia que no cede con el antidoto, sindrome compartimental o fascitis necrosante, choque o sospecha de sepsis, sospecha de insuficiencia renal, insuficiencia respiratoria (elapidico), rabdomiolisis, sospecha de hemorragia en SNC y necesidad de amputacion o injertos.", "fuente": 0, "pagina": "205" }
+    ]
+  },
+  "tribunal": [
+    {
+      "id": "t01",
+      "pregunta": "Diga su diagnostico, que genero de serpiente sospecha y con que gravedad lo clasifica. Justifique la gravedad.",
+      "disparador": { "tipo": "siempre" },
+      "loQueSeEsperaOir": ["Accidente ofidico botropico (Bothrops, yoperojobobo)", "Moderado", "Sangre incoagulable, leucocitosis con neutrofilia, edema que se extiende, equimosis", "Gingivorragia, proteinuria y hematuria moderadas"],
+      "conceptoLigado": "c_severidad",
+      "fuente": 0
+    },
+    {
+      "id": "t02",
+      "pregunta": "Describa como se hace la prueba del tiempo de coagulacion y que decide con ella.",
+      "disparador": { "tipo": "siempre" },
+      "loQueSeEsperaOir": ["5 ml de sangre en tubo de tapa roja, esperar 20 minutos", "Si coagula no se administra suero", "Si no coagula o hay sangrado, iniciar tratamiento", "Repetir a las 12 y 24 horas"],
+      "conceptoLigado": "c_tiempo_coag",
+      "fuente": 0
+    },
+    {
+      "id": "t03",
+      "pregunta": "El hermano le hizo cortes, le chupo la herida y le puso un cinturon. Que dice la norma de cada cosa, y que hace usted con el cinturon?",
+      "disparador": { "tipo": "siempre" },
+      "loQueSeEsperaOir": ["Son maniobras heroicas que la norma prohibe", "El torniquete se retira lentamente y en forma progresiva", "Lavar con agua y jabon y desinfectar con povidona"],
+      "conceptoLigado": "c_primeros_auxilios",
+      "fuente": 0
+    },
+    {
+      "id": "t04",
+      "pregunta": "No retiro el cinturon. Justifique.",
+      "disparador": { "tipo": "siNoConducta", "clave": "cx_torniquete" },
+      "loQueSeEsperaOir": ["La norma indica retirarlo lentamente y en forma progresiva", "La pierna esta fria y tensa por debajo"],
+      "conceptoLigado": "c_medidas",
+      "fuente": 0
+    },
+    {
+      "id": "t05",
+      "pregunta": "Hizo una prueba de sensibilidad antes del suero. Que dice la norma?",
+      "disparador": { "tipo": "siConducta", "clave": "cx_test" },
+      "loQueSeEsperaOir": ["No realizar test de sensibilidad", "Premedicar con hidrocortisona para evitar reacciones"],
+      "conceptoLigado": "c_suero",
+      "fuente": 0
+    },
+    {
+      "id": "t06",
+      "pregunta": "Propuso incisiones, succion o ligaduras. Por que la norma las prohibe?",
+      "disparador": { "tipo": "siConducta", "clave": "cx_maniobras" },
+      "loQueSeEsperaOir": ["Son maniobras heroicas que no se deben efectuar", "La herida se lava y desinfecta, sin maniobras cruentas"],
+      "conceptoLigado": "c_primeros_auxilios",
+      "fuente": 0
+    },
+    {
+      "id": "t07",
+      "pregunta": "Cuantos viales de suero antiofidico le indica y con que premedicacion?",
+      "disparador": { "tipo": "siConducta", "clave": "cx_suero" },
+      "loQueSeEsperaOir": ["Botropico moderado: 6 a 8 viales", "IV diluido en solucion salina", "Hidrocortisona 500 mg IV dosis unica antes, sin test de sensibilidad"],
+      "conceptoLigado": "c_suero",
+      "fuente": 0
+    },
+    {
+      "id": "t08",
+      "pregunta": "Esta en segundo nivel, la sangre no coagula y no indico suero antiofidico. Justifique.",
+      "disparador": { "tipo": "siNoConducta", "clave": "cx_suero" },
+      "loQueSeEsperaOir": ["Prueba de coagulacion negativa o sangrado: iniciar tratamiento", "El suero es el tratamiento especifico del accidente botropico"],
+      "conceptoLigado": "c_tiempo_coag",
+      "fuente": 0
+    },
+    {
+      "id": "t09",
+      "pregunta": "Esta en un Centro de Salud con Internacion sin suero antiofidico. Que hace antes de que el paciente salga en la ambulancia?",
+      "disparador": { "tipo": "siempre" },
+      "loQueSeEsperaOir": ["Retirar el torniquete lenta y progresivamente", "Lavar con agua y jabon y povidona", "Elevar el miembro", "Analgesia", "Tiempo de coagulacion si es posible", "Referir al nivel que tenga suero"],
+      "conceptoLigado": "c_medidas",
+      "fuente": 0
+    },
+    {
+      "id": "t10",
+      "pregunta": "Como distingue este accidente de uno por colubrido, que no es ponzonoso?",
+      "disparador": { "tipo": "siempre" },
+      "loQueSeEsperaOir": ["Con el tiempo de coagulacion: en el colubrido la sangre coagula", "El accidente por colubrido no requiere suero antiofidico"],
+      "conceptoLigado": "c_tiempo_coag",
+      "fuente": 0
+    },
+    {
+      "id": "t11",
+      "pregunta": "No pregunto si tenia vision doble, disfagia o dificultad para respirar. Que otros generos le habrian hecho pensar esos sintomas?",
+      "disparador": { "tipo": "siOmitioInfo", "clave": "neuro_sintomas" },
+      "loQueSeEsperaOir": ["Crotalico: neurotoxico presinaptico, facies neurotoxica", "Elapidico (coral): neurotoxico postsinaptico, puede causar paro respiratorio", "El laquesico tiene actividad vagal"],
+      "conceptoLigado": "c_veneno",
+      "fuente": 0
+    },
+    {
+      "id": "t12",
+      "pregunta": "Cuando le pone la vacuna antitetanica, y por que no antes?",
+      "disparador": { "tipo": "siempre" },
+      "loQueSeEsperaOir": ["Una dosis de toxoide tetanico", "Una vez normalizado el tiempo de coagulacion"],
+      "conceptoLigado": "c_complementarias",
+      "fuente": 0
+    },
+    {
+      "id": "t13",
+      "pregunta": "Que complicaciones vigila, y cuales de ellas son criterio de referencia a un nivel mayor?",
+      "disparador": { "tipo": "siempre" },
+      "loQueSeEsperaOir": ["Hemorragia que no cede con el antidoto", "Sindrome compartimental o fascitis necrosante", "Choque o sospecha de sepsis", "Sospecha de insuficiencia renal", "Necesidad de amputacion, injertos o rehabilitacion"],
+      "conceptoLigado": "c_referencia",
+      "fuente": 0
+    },
+    {
+      "id": "t14",
+      "pregunta": "Pidio urea y creatinina. Por que son importantes en este accidente?",
+      "disparador": { "tipo": "siPidio", "clave": "renal" },
+      "loQueSeEsperaOir": ["La sospecha de insuficiencia renal es criterio de referencia en el accidente botropico, laquesico y crotalico", "Para el alta se verifica la funcion renal"],
+      "conceptoLigado": "c_referencia",
+      "fuente": 0
+    }
+  ],
+  "fuentes": [
+    {
+      "institucion": "Estado Plurinacional de Bolivia. Ministerio de Salud y Deportes. Direccion General de Redes de Servicios de Salud, Unidad de Redes de Servicios de Salud y Calidad, Area del Continuo",
+      "documento": "Norma Nacional de Atencion Clinica de Urgencias y Emergencias. Serie: Documentos Tecnico Normativos No. 543. La Paz: Industrias Graficas Platinium. 300 p. Deposito legal 4-1-743-2025 P.O.",
+      "anio": "2025",
+      "publicacion": "543",
+      "resolucion": "RM 0456 de 30 de septiembre de 2025",
+      "capitulo": "20. Mordedura de Serpiente (CIE-10 T63.0). Nivel de atencion I - II - III",
+      "pagina": "193-205",
+      "url": "https://www.minsalud.gob.bo/8850-norma-nacional-de-atencion-clinica-nnac",
+      "consultado": "2026-09-23"
+    },
+    {
+      "institucion": "Estado Plurinacional de Bolivia. Ministerio de Salud y Deportes. Direccion General de Servicios de Salud, Unidad de Redes de Servicios de Salud y Calidad",
+      "documento": "Norma Nacional de Caracterizacion de Establecimientos de Salud de Primer Nivel. 2da edicion. Serie: Documentos Tecnico Normativos No. 284. La Paz: Talleres Graficos Tupac Katari. 240 p.",
+      "anio": "2013",
+      "publicacion": "284",
+      "capitulo": "Cap. II, Cuadro No 5 Caracteristicas generales (pp. 35-40); Cap. IV Centro de Salud con Internacion, equipamiento (pp. 119-121); Cap. VI Centro de Salud Integral (p. 204)",
+      "pagina": "35-40, 119-121, 204",
+      "url": "https://www.minsalud.gob.bo/images/Documentacion/redes_salud/Inivelseguro.pdf",
+      "consultado": "2026-09-23"
+    }
+  ]
+}
