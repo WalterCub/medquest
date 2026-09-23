@@ -1461,6 +1461,2746 @@
         "cita": "la colocación del balón intrauterino hidrostático son la tríade esencial para transferir a la paciente"
       },
       "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-DM-01",
+      "area": "MI",
+      "tema": "Diabetes mellitus",
+      "enunciado": "¿Qué valor de hemoglobina glicosilada (HbA1c) es criterio diagnóstico de diabetes según la norma?",
+      "opciones": [
+        "Mayor a 5,7%",
+        "Mayor a 6,5%",
+        "Mayor a 7,5%",
+        "Mayor a 8,5%"
+      ],
+      "correcta": 1,
+      "explicacion": "HbA1c mayor a 6,5%, en laboratorio certificado. Entre 5,7 y 6,4% corresponde a prediabetes.",
+      "fuente": {
+        "id": "nnac-mi",
+        "pagina": 63,
+        "cita": "Hemoglobina glicosilada HbA1c mayor a 6,5%"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-DM-02",
+      "area": "MI",
+      "tema": "Diabetes mellitus",
+      "enunciado": "Glucemia en ayunas de 112 mg/dL. ¿Cómo la clasifica la norma?",
+      "opciones": [
+        "Normal",
+        "Glucemia de ayuno alterada (prediabetes)",
+        "Diabetes mellitus",
+        "Hipoglucemia"
+      ],
+      "correcta": 1,
+      "explicacion": "La glucemia de ayuno alterada va de 100 a 125 mg/dL (HbA1c 5,7–6,4%). Diabetes es más de 126 mg/dL en ayunas.",
+      "fuente": {
+        "id": "nnac-mi",
+        "pagina": 63,
+        "cita": "Glucemia de ayuno alterada (GAA) 100 a 125 mg/dL. HbA1c 5,7-6,4%"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-DM-03",
+      "area": "MI",
+      "tema": "Diabetes mellitus",
+      "enunciado": "¿Por debajo de qué valor de glucemia define la norma la hipoglicemia?",
+      "opciones": [
+        "54 mg/dl",
+        "60 mg/dl",
+        "70 mg/dl",
+        "80 mg/dl"
+      ],
+      "correcta": 2,
+      "explicacion": "Descenso por debajo de 70 mg/dl, independientemente de la severidad de los síntomas. Es la complicación más frecuente y temida del tratamiento.",
+      "fuente": {
+        "id": "nnac-mi",
+        "pagina": 66,
+        "cita": "Hipoglicemia: Descenso de la glucemia por debajo de 70 mg/dl, independientemente de la severidad de los síntomas"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-DM-04",
+      "area": "MI",
+      "tema": "Diabetes mellitus",
+      "enunciado": "¿Qué meta de HbA1c propone la norma para una persona con diabetes tipo 2 mayor de 65 años?",
+      "opciones": [
+        "Menor a 6%",
+        "Menor a 7%",
+        "Menor a 8%",
+        "Menor a 9%"
+      ],
+      "correcta": 2,
+      "explicacion": "En jóvenes la meta es menor a 7%; en mayores de 65 años, menor a 8%. Lo más importante es evitar la hipoglucemia.",
+      "fuente": {
+        "id": "nnac-mi",
+        "pagina": 65,
+        "cita": "En adultos mayor de 65 años menor 8%. Lo más importante es evitar la hipoglucemia"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-DM-05",
+      "area": "MI",
+      "tema": "Diabetes mellitus",
+      "enunciado": "Si se usa insulina NPH como basal, ¿cómo se reparte la dosis total calculada?",
+      "opciones": [
+        "Todo en una dosis nocturna",
+        "Mitad en la mañana y mitad en la noche",
+        "2/3 en la mañana y 1/3 en la noche",
+        "1/3 en la mañana y 2/3 en la noche"
+      ],
+      "correcta": 2,
+      "explicacion": "Dosis de 0,5 a 1 UI/kg/día; con NPH, 2/3 en la mañana y 1/3 en la noche.",
+      "fuente": {
+        "id": "nnac-mi",
+        "pagina": 66,
+        "cita": "2/3 de la dosis calculada se administran en la mañana y 1/3 en la noche"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-DM-06",
+      "area": "MI",
+      "tema": "Diabetes mellitus",
+      "enunciado": "¿Qué fármacos plantea la norma como tratamiento inicial de la neuropatía diabética dolorosa?",
+      "opciones": [
+        "Tramadol o morfina",
+        "Amitriptilina, duloxetina o pregabalina",
+        "Paracetamol o ibuprofeno",
+        "Carbamazepina en todos los casos"
+      ],
+      "correcta": 1,
+      "explicacion": "Amitriptilina, duloxetina o pregabalina; si uno falla, se cambia a otro. El tramadol queda solo para rescates de episodios agudos.",
+      "fuente": {
+        "id": "nnac-mi",
+        "pagina": 67,
+        "cita": "se debería plantear amitriptilina, duloxetina o pregabalina como tratamiento inicial para el dolor neuropático"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-DM-07",
+      "area": "MI",
+      "tema": "Diabetes mellitus",
+      "enunciado": "Diabetes tipo 2 con relación albúmina-creatinina de 3 mg/mmol o más. ¿Qué indica la norma?",
+      "opciones": [
+        "Un ARA o un IECA",
+        "Solo dieta hiposódica",
+        "Diurético de asa",
+        "Suspender la metformina de inmediato"
+      ],
+      "correcta": 0,
+      "explicacion": "En la enfermedad renal diabética con RAC de 3 mg/mmol o más se indica un ARA o un IECA, según el filtrado glomerular.",
+      "fuente": {
+        "id": "nnac-mi",
+        "pagina": 67,
+        "cita": "con una relación albumina-creatinina (RAC) de 3 mg/mmol o más: indicar un bloqueante del receptor de angiotensina (ARA) o un inhibidor de la enzima convertidora de angiotensina (IECA)"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-DM-08",
+      "area": "MI",
+      "tema": "Diabetes mellitus",
+      "enunciado": "¿Cuánto peso recomienda la norma que baje y mantenga una persona con prediabetes?",
+      "opciones": [
+        "2%",
+        "5%",
+        "7%",
+        "15%"
+      ],
+      "correcta": 2,
+      "explicacion": "Intervenciones en el estilo de vida para lograr y sostener un descenso de peso del 7%, con al menos 150 minutos semanales de actividad moderada.",
+      "fuente": {
+        "id": "nnac-mi",
+        "pagina": 69,
+        "cita": "lograr y sostener un descenso de peso del 7%"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-DM-09",
+      "area": "MI",
+      "tema": "Diabetes mellitus",
+      "enunciado": "¿Cada cuánto recomienda la norma controlar la hemoglobina glicosilada en una persona con diabetes?",
+      "opciones": [
+        "Cada mes",
+        "Cada 3 meses",
+        "Cada año",
+        "Solo al diagnóstico"
+      ],
+      "correcta": 1,
+      "explicacion": "Control de HbA1c cada 3 meses, revisión de pies en cada control y función renal anual.",
+      "fuente": {
+        "id": "nnac-mi",
+        "pagina": 69,
+        "cita": "Control de Hemoglobina glicosilada cada 3 meses"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-IU-01",
+      "area": "MI",
+      "tema": "Infección del tracto urinario",
+      "enunciado": "Según la clasificación de la norma, una ITU en un hombre se considera:",
+      "opciones": [
+        "No complicada si es el primer episodio",
+        "Siempre complicada",
+        "Complicada solo si hay fiebre",
+        "Recurrente"
+      ],
+      "correcta": 1,
+      "explicacion": "Toda ITU en hombres es complicada, igual que la ITU en mujeres con alteraciones anatómicas o funcionales y la causada por agentes atípicos.",
+      "fuente": {
+        "id": "nnac-mi",
+        "pagina": 177,
+        "cita": "Toda ITU en hombres. ITU complicada"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-IU-02",
+      "area": "MI",
+      "tema": "Infección del tracto urinario",
+      "enunciado": "¿Con qué examen dice la norma que se debe intentar siempre confirmar una ITU?",
+      "opciones": [
+        "Examen general de orina",
+        "Urocultivo",
+        "Ecografía renal",
+        "Hemograma con PCR"
+      ],
+      "correcta": 1,
+      "explicacion": "La ITU se diagnostica por la clínica y se debe intentar siempre confirmarla con urocultivo; la bacteriuria significativa la confirma en pacientes sintomáticos.",
+      "fuente": {
+        "id": "nnac-mi",
+        "pagina": 178,
+        "cita": "Se debe intentar siempre confirmarla mediante el urocultivo"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-IU-03",
+      "area": "MI",
+      "tema": "Infección del tracto urinario",
+      "enunciado": "Según los criterios de Kass, ¿cómo se interpreta un urocultivo con menos de 10.000 UFC/ml?",
+      "opciones": [
+        "Bacteriuria significativa",
+        "Bacteriuria dudosa",
+        "Contaminación",
+        "ITU complicada"
+      ],
+      "correcta": 2,
+      "explicacion": "100.000 UFC/ml o más: bacteriuria significativa. De 10.000 a 100.000: dudosa. Menos de 10.000: contaminación.",
+      "fuente": {
+        "id": "nnac-mi",
+        "pagina": 179,
+        "cita": "Con menos de 10.000 UFC/ml Contaminación"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-IU-04",
+      "area": "MI",
+      "tema": "Infección del tracto urinario",
+      "enunciado": "Bacteriuria asintomática en una embarazada. ¿Qué antibióticos se deben evitar según la norma?",
+      "opciones": [
+        "Amoxicilina y cefalexina",
+        "Nitrofurantoína",
+        "Tetraciclinas y fluoroquinolonas",
+        "Ninguno: no se trata"
+      ],
+      "correcta": 2,
+      "explicacion": "Se trata con amoxicilina, nitrofurantoína o cefalexina por 3 a 7 días, evitando tetraciclinas y fluoroquinolonas.",
+      "fuente": {
+        "id": "nnac-mi",
+        "pagina": 181,
+        "cita": "Amoxicilina Nitrofurantoina Cefalexina Evitar tetraciclinas y fluoroquinolonas"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-IU-05",
+      "area": "MI",
+      "tema": "Infección del tracto urinario",
+      "enunciado": "¿Cuál de estos es criterio de hospitalización por ITU según la norma?",
+      "opciones": [
+        "Primer episodio de cistitis en mujer joven",
+        "Paciente con diabetes",
+        "Leucocituria sin síntomas",
+        "Disuria de un día de evolución"
+      ],
+      "correcta": 1,
+      "explicacion": "Criterios de hospitalización: comorbilidades, diabetes, insuficiencia renal, terapia inmunosupresora, ITU recidivante y fracaso terapéutico.",
+      "fuente": {
+        "id": "nnac-mi",
+        "pagina": 183,
+        "cita": "Paciente con diabetes. Paciente con insuficiencia renal. Terapia Inmunosupresora"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-CH-01",
+      "area": "MI",
+      "tema": "Enfermedad de Chagas",
+      "enunciado": "¿Qué porcentaje de la población de Bolivia se presume infectada por Trypanosoma cruzi según la norma?",
+      "opciones": [
+        "1%",
+        "5%",
+        "20%",
+        "50%"
+      ],
+      "correcta": 2,
+      "explicacion": "Se presume infectado el 20% de la población boliviana; en otros países de la región las cifras van del 1 al 10%.",
+      "fuente": {
+        "id": "nnac-mi",
+        "pagina": 86,
+        "cita": "En Bolivia, se presume que está infectada el 20 % de la población"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-CH-02",
+      "area": "MI",
+      "tema": "Enfermedad de Chagas",
+      "enunciado": "¿Qué caracteriza a la fase crónica indeterminada de la enfermedad de Chagas?",
+      "opciones": [
+        "Fiebre y chagoma",
+        "Sin síntomas, pero con serología positiva",
+        "Megaesófago",
+        "Bloqueo auriculoventricular completo"
+      ],
+      "correcta": 1,
+      "explicacion": "Tres etapas: aguda, crónica indeterminada (sin síntomas, serología positiva) y crónica con compromiso cardiaco o digestivo.",
+      "fuente": {
+        "id": "nnac-mi",
+        "pagina": 86,
+        "cita": "Crónica Indeterminada. Sin síntomas, pero serología positiva"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-CH-03",
+      "area": "MI",
+      "tema": "Enfermedad de Chagas",
+      "enunciado": "¿Qué trastornos de conducción describe la norma en la miocardiopatía chagásica crónica?",
+      "opciones": [
+        "Bloqueo de rama izquierda aislado",
+        "Bloqueo de rama derecha o del fascículo anterior izquierdo",
+        "Síndrome de Wolff-Parkinson-White",
+        "QT corto"
+      ],
+      "correcta": 1,
+      "explicacion": "Bloqueo de rama derecha o del fascículo anterior izquierdo, y bloqueos AV de 1.er, 2.º grado o completo.",
+      "fuente": {
+        "id": "nnac-mi",
+        "pagina": 87,
+        "cita": "bloqueo de rama derecha o bloqueo del fascículo anterior izquierdo"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-CH-04",
+      "area": "MI",
+      "tema": "Enfermedad de Chagas",
+      "enunciado": "¿Cómo se diagnostica la enfermedad de Chagas crónica según la norma?",
+      "opciones": [
+        "Gota gruesa",
+        "Prueba serológica de cribado confirmada por una segunda prueba",
+        "Solo con electrocardiograma",
+        "Biopsia de ganglio"
+      ],
+      "correcta": 1,
+      "explicacion": "En la fase aguda la parasitemia es alta y se ve en frotis o gota gruesa. En la crónica: serología de cribado confirmada por una segunda prueba.",
+      "fuente": {
+        "id": "nnac-mi",
+        "pagina": 88,
+        "cita": "Prueba serológica de cribado confirmada por una segunda prueba"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-CH-05",
+      "area": "MI",
+      "tema": "Enfermedad de Chagas",
+      "enunciado": "¿Cuál es la dosis y duración del benznidazol en adultos según la norma?",
+      "opciones": [
+        "5 mg/kg/día por 10 días",
+        "2,5 a 3,5 mg/kg VO 2 veces al día por 60 días",
+        "10 mg/kg dosis única",
+        "2 mg/kg 4 veces al día por 90 días"
+      ],
+      "correcta": 1,
+      "explicacion": "Benznidazol 2,5 a 3,5 mg/kg VO dos veces al día por 60 días. El nifurtimox (≥17 años) es 4 veces al día por 90 días.",
+      "fuente": {
+        "id": "nnac-mi",
+        "pagina": 89,
+        "cita": "Benznidazol: en adultos entre 2,5 y 3,5 mg/kg por vía oral 2 veces al día durante 60 días"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-CH-06",
+      "area": "MI",
+      "tema": "Enfermedad de Chagas",
+      "enunciado": "¿Qué recomienda la norma sobre el tamizaje de Chagas en el embarazo?",
+      "opciones": [
+        "Solo si hay síntomas",
+        "Tamizaje universal para las embarazadas",
+        "Solo en zonas endémicas y con vinchuca en casa",
+        "No se hace durante el embarazo"
+      ],
+      "correcta": 1,
+      "explicacion": "Tamizaje universal de Chagas para las embarazadas; además, cribado y tratamiento antes del embarazo en mujeres en riesgo.",
+      "fuente": {
+        "id": "nnac-mi",
+        "pagina": 91,
+        "cita": "Tamizaje universal de Chagas para las embarazadas"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-AF-01",
+      "area": "MI",
+      "tema": "Anemia ferropénica",
+      "enunciado": "Mujer adulta a nivel del mar con Hb de 9 g/dl. ¿Cómo clasifica la norma la gravedad de la anemia (OMS 2022)?",
+      "opciones": [
+        "Leve",
+        "Moderada",
+        "Grave",
+        "Potencialmente mortal"
+      ],
+      "correcta": 1,
+      "explicacion": "Leve 10–12 g/dl; moderada 8–9,9; grave 6,5–7,9; potencialmente mortal menos de 6,5. En la altura se ajustan los valores.",
+      "fuente": {
+        "id": "nnac-mi",
+        "pagina": 24,
+        "cita": "2. Moderada: Hb 8-9,9 g/dl 3. Grave: Hb 6,5-7,9 g/dl"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-AF-02",
+      "area": "MI",
+      "tema": "Anemia ferropénica",
+      "enunciado": "En un hombre adulto con anemia ferropénica, ¿cuál es la causa más frecuente según la norma?",
+      "opciones": [
+        "Dieta vegetariana",
+        "Pérdida crónica de sangre por el tracto digestivo",
+        "Enfermedad celíaca",
+        "Donación de sangre"
+      ],
+      "correcta": 1,
+      "explicacion": "En mujeres premenopáusicas predomina la menstruación abundante; en hombres y posmenopáusicas, la pérdida crónica de sangre digestiva. Por eso se busca la causa.",
+      "fuente": {
+        "id": "nnac-mi",
+        "pagina": 26,
+        "cita": "mientras que en hombres y en mujeres posmenopáusicas es la pérdida crónica de sangre por el tracto digestivo"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-AF-03",
+      "area": "MI",
+      "tema": "Anemia ferropénica",
+      "enunciado": "¿Qué dosis diaria de hierro elemental por vía oral recomienda la norma en adultos?",
+      "opciones": [
+        "30 mg",
+        "60 mg",
+        "150-200 mg",
+        "600 mg"
+      ],
+      "correcta": 2,
+      "explicacion": "150–200 mg de hierro elemental al día, preferentemente en ayunas o entre comidas. 30 mg/día es la dosis preventiva en el embarazo.",
+      "fuente": {
+        "id": "nnac-mi",
+        "pagina": 30,
+        "cita": "La dosis diaria recomendada en adultos es de 150-200 mg de hierro elemental"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-AF-04",
+      "area": "MI",
+      "tema": "Anemia ferropénica",
+      "enunciado": "Ya se normalizaron la hemoglobina y la ferritina con hierro oral. ¿Qué indica la norma?",
+      "opciones": [
+        "Suspender el hierro",
+        "Continuar otros 3 meses para reponer reservas",
+        "Pasar a hierro IV",
+        "Continuar solo 1 semana"
+      ],
+      "correcta": 1,
+      "explicacion": "El tratamiento se continúa otros 3 meses hasta reponer las reservas de hierro.",
+      "fuente": {
+        "id": "nnac-mi",
+        "pagina": 30,
+        "cita": "el tratamiento se debe continuar durante otros 3 meses hasta reponer las reservas de hierro"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-AF-05",
+      "area": "MI",
+      "tema": "Anemia ferropénica",
+      "enunciado": "¿Qué se recomienda tomar junto con el hierro oral para mejorar su absorción?",
+      "opciones": [
+        "Leche",
+        "Un inhibidor de la bomba de protones",
+        "Ácido ascórbico",
+        "Té o café"
+      ],
+      "correcta": 2,
+      "explicacion": "El hierro se absorbe mejor en un medio ligeramente ácido: ácido ascórbico junto con el preparado, y evitar IBP. Lácteos, té y café reducen la absorción.",
+      "fuente": {
+        "id": "nnac-mi",
+        "pagina": 30,
+        "cita": "por eso se recomienda tomar ácido ascórbico junto con el preparado de hierro"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-AF-06",
+      "area": "MI",
+      "tema": "Anemia ferropénica",
+      "enunciado": "¿Cómo define la norma la resistencia al tratamiento con hierro oral?",
+      "opciones": [
+        "Ferritina que no sube en 1 semana",
+        "Hb que no aumenta al menos 1 g/dl después de 4-6 semanas",
+        "Heces oscuras",
+        "Hb menor de 6,5 g/dl"
+      ],
+      "correcta": 1,
+      "explicacion": "Falta de incremento de Hb de 1 g/dl o más tras 4–6 semanas de hierro oral. Puede deberse a sangrado persistente, mala absorción, mal cumplimiento o diagnóstico erróneo.",
+      "fuente": {
+        "id": "nnac-mi",
+        "pagina": 30,
+        "cita": "falta de incremento de la concentración de Hb ≥1 g/dl después de 4-6 semanas de tratamiento con hierro VO"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-AF-07",
+      "area": "MI",
+      "tema": "Anemia ferropénica",
+      "enunciado": "¿En qué momento del embarazo NO se debe administrar hierro intravenoso?",
+      "opciones": [
+        "Primer trimestre",
+        "Segundo trimestre",
+        "Tercer trimestre",
+        "Durante la lactancia"
+      ],
+      "correcta": 0,
+      "explicacion": "No se da hierro IV en el primer trimestre; en el segundo y tercero, solo en casos justificados. La prevención es con 30 mg/d por vía oral.",
+      "fuente": {
+        "id": "nnac-mi",
+        "pagina": 31,
+        "cita": "No se debe administrar hierro IV. en el primer trimestre de embarazo"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-FT-01",
+      "area": "MI",
+      "tema": "Fiebre tifoidea",
+      "enunciado": "Fiebre alta con frecuencia cardiaca baja en fiebre tifoidea. ¿Cómo se llama este signo?",
+      "opciones": [
+        "Pulso paradójico",
+        "Disociación temperatura pulso",
+        "Signo de Murphy",
+        "Tríada de Cushing"
+      ],
+      "correcta": 1,
+      "explicacion": "Bradicardia relativa con fiebre en aumento: disociación temperatura pulso. Si aparece taquicardia con hipotensión, anuncia complicaciones.",
+      "fuente": {
+        "id": "nnac-mi",
+        "pagina": 113,
+        "cita": "lo que se conoce como disociación temperatura pulso"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-FT-02",
+      "area": "MI",
+      "tema": "Fiebre tifoidea",
+      "enunciado": "¿Qué dice la norma sobre la reacción de Widal para diagnosticar fiebre tifoidea?",
+      "opciones": [
+        "Es la prueba de elección",
+        "No es recomendable: baja sensibilidad y especificidad",
+        "Solo sirve en la primera semana",
+        "Es confirmatoria si es positiva"
+      ],
+      "correcta": 1,
+      "explicacion": "Widal tiene baja sensibilidad y especificidad, reacciones cruzadas y sobrediagnostica; no es recomendable. Lo decisivo son los hemocultivos en los primeros días de fiebre.",
+      "fuente": {
+        "id": "nnac-mi",
+        "pagina": 114,
+        "cita": "la reacción de Widal no es una prueba recomendable para el diagnóstico de fiebre tifoidea"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-FT-03",
+      "area": "MI",
+      "tema": "Fiebre tifoidea",
+      "enunciado": "¿Qué cultivo es decisivo en los primeros días de fiebre tifoidea?",
+      "opciones": [
+        "Coprocultivo",
+        "Urocultivo",
+        "Hemocultivo",
+        "Cultivo de esputo"
+      ],
+      "correcta": 2,
+      "explicacion": "Hemocultivos (2–3 tomas de 20 ml) en los primeros días; heces y orina se cultivan en la segunda y tercera semana.",
+      "fuente": {
+        "id": "nnac-mi",
+        "pagina": 114,
+        "cita": "Son decisivos los resultados de los hemocultivos (sobre todo en el período de fiebre) realizados en los primeros días"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-FT-04",
+      "area": "MI",
+      "tema": "Fiebre tifoidea",
+      "enunciado": "En primer nivel, ¿cómo se administra la azitromicina para fiebre tifoidea según la norma?",
+      "opciones": [
+        "500 mg dosis única",
+        "1 g la primera dosis y luego 500 mg cada 24 h por 5-7 días",
+        "250 mg cada 8 h por 14 días",
+        "1 g semanal por 4 semanas"
+      ],
+      "correcta": 1,
+      "explicacion": "Primer nivel: TMP-SMX o azitromicina 1 g y luego 500 mg/24 h por 5–7 días. En hospitalizados, ceftriaxona 2 g IV/24 h por 7–14 días.",
+      "fuente": {
+        "id": "nnac-mi",
+        "pagina": 115,
+        "cita": "Azitromicina VO. 1ra dosis de 1.0 g, a continuación 500 mg cada 24 h durante 5-7 días"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-FT-05",
+      "area": "MI",
+      "tema": "Fiebre tifoidea",
+      "enunciado": "¿Cuál es la indicación quirúrgica en la fiebre tifoidea?",
+      "opciones": [
+        "Hepatoesplenomegalia",
+        "Perforación intestinal",
+        "Diarrea de la tercera semana",
+        "Bradicardia relativa"
+      ],
+      "correcta": 1,
+      "explicacion": "La perforación intestinal, por necrosis de las placas de Peyer en el borde antimesentérico.",
+      "fuente": {
+        "id": "nnac-mi",
+        "pagina": 115,
+        "cita": "La perforación intestinal puede surgir a partir de la necrosis de las placas de Peyer en el borde antimesentérico"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-FT-06",
+      "area": "MI",
+      "tema": "Fiebre tifoidea",
+      "enunciado": "Fiebre tifoidea con trastornos de conciencia y shock. ¿Qué agrega la norma en tercer nivel?",
+      "opciones": [
+        "Dexametasona 3 mg/kg IV y luego 1 mg/kg cada 6 h por 48 h",
+        "Paracetamol IV",
+        "Hierro IV",
+        "Metronidazol"
+      ],
+      "correcta": 0,
+      "explicacion": "En casos graves y complicados: dexametasona 3 mg/kg IV STAT, luego 1 mg/kg cada 6 horas por 48 horas.",
+      "fuente": {
+        "id": "nnac-mi",
+        "pagina": 115,
+        "cita": "En casos graves y complicados (trastornos de la conciencia, shock) administrar Dexametasona 3 mg/kg IV STAT"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "PED-BQ-01",
+      "area": "PED",
+      "tema": "Bronquiolitis",
+      "enunciado": "¿Cuál es la causa más frecuente de bronquiolitis según la norma?",
+      "opciones": [
+        "Rinovirus",
+        "Virus sincitial respiratorio",
+        "Streptococcus pneumoniae",
+        "Mycoplasma pneumoniae"
+      ],
+      "correcta": 1,
+      "explicacion": "El VSR se detecta en hasta el 80% de los casos, seguido de rinovirus, parainfluenza 3, metapneumovirus y coronavirus. Es casi siempre viral.",
+      "fuente": {
+        "id": "nnac-ped",
+        "pagina": 43,
+        "cita": "El Virus Sincitial Respiratorio (VSR) es, con mucho, la etiología más frecuente detectado en hasta el 80% de los pacientes"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "PED-BQ-02",
+      "area": "PED",
+      "tema": "Bronquiolitis",
+      "enunciado": "Lactante con bronquiolitis en El Alto (más de 2.500 msnm). ¿Qué saturación es criterio importante para internar?",
+      "opciones": [
+        "Menor de 95%",
+        "Menor de 90%",
+        "85% o menos",
+        "Menor de 75%"
+      ],
+      "correcta": 2,
+      "explicacion": "Por debajo de 2.500 msnm, saturación menor de 90%; a 2.500 msnm o más, 85% o menos.",
+      "fuente": {
+        "id": "nnac-ped",
+        "pagina": 44,
+        "cita": "Alturas menores a 2.500 msnm saturación < 90% y alturas de 2.500 y más cuando la saturación es de 85% o menos"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "PED-BQ-03",
+      "area": "PED",
+      "tema": "Bronquiolitis",
+      "enunciado": "¿Qué dice la norma sobre la radiografía de tórax en la bronquiolitis?",
+      "opciones": [
+        "Siempre al diagnóstico",
+        "No de rutina: puede simular neumonía y llevar a antibióticos innecesarios",
+        "Solo si hay fiebre",
+        "Es el estándar para el diagnóstico"
+      ],
+      "correcta": 1,
+      "explicacion": "No se hace de rutina; se considera ante la posibilidad de internación. Tampoco análisis de sangre de rutina.",
+      "fuente": {
+        "id": "nnac-ped",
+        "pagina": 44,
+        "cita": "No realice rutinariamente una radiografía de tórax, porque los cambios en la radiografía pueden simular una neumonía"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "PED-BQ-04",
+      "area": "PED",
+      "tema": "Bronquiolitis",
+      "enunciado": "Sospecha clínica de bronquiolitis en un centro de primer nivel. ¿Qué indica la norma?",
+      "opciones": [
+        "Salbutamol y alta",
+        "Asegurar vía aérea y referir de inmediato a segundo o tercer nivel",
+        "Amoxicilina y control en 48 horas",
+        "Corticoide oral"
+      ],
+      "correcta": 1,
+      "explicacion": "Vía aérea permeable (sentado, evitar el decúbito) y referencia inmediata acompañada por personal capacitado.",
+      "fuente": {
+        "id": "nnac-ped",
+        "pagina": 44,
+        "cita": "Referencia inmediata al segundo o tercer nivel, con acompañamiento de personal de salud capacitado"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "PED-BQ-05",
+      "area": "PED",
+      "tema": "Bronquiolitis",
+      "enunciado": "¿Qué NO se debe administrar de rutina en la bronquiolitis según la norma?",
+      "opciones": [
+        "Oxígeno según saturación",
+        "Líquidos por sonda si no toma lo suficiente",
+        "Salbutamol",
+        "Antipiréticos"
+      ],
+      "correcta": 2,
+      "explicacion": "No salbutamol de rutina ni epinefrina, antibióticos, montelukast, ipratropio ni corticoides.",
+      "fuente": {
+        "id": "nnac-ped",
+        "pagina": 45,
+        "cita": "No administrar salbutamol de manera rutinaria"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "PED-BQ-06",
+      "area": "PED",
+      "tema": "Bronquiolitis",
+      "enunciado": "¿Dónde admite la norma la nebulización con solución salina hipertónica en bronquiolitis?",
+      "opciones": [
+        "En el servicio de urgencias",
+        "En pacientes hospitalizados",
+        "En el domicilio",
+        "En ningún caso"
+      ],
+      "correcta": 1,
+      "explicacion": "No en urgencias; sí en pacientes hospitalizados por bronquiolitis.",
+      "fuente": {
+        "id": "nnac-ped",
+        "pagina": 45,
+        "cita": "Nebulizar con solución salina hipertónica en pacientes hospitalizados por bronquiolitis"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "PED-BQ-07",
+      "area": "PED",
+      "tema": "Bronquiolitis",
+      "enunciado": "¿Qué frecuencia respiratoria es criterio de referencia u hospitalización en la bronquiolitis?",
+      "opciones": [
+        "Más de 40 por minuto",
+        "Más de 50 por minuto",
+        "Más de 70 por minuto",
+        "Más de 100 por minuto"
+      ],
+      "correcta": 2,
+      "explicacion": "Dificultad respiratoria grave: quejido, marcada retracción o FR de más de 70 por minuto. También apnea, cianosis central y deshidratación moderada.",
+      "fuente": {
+        "id": "nnac-ped",
+        "pagina": 45,
+        "cita": "marcada retracción torácica o una frecuencia respiratoria de más de 70 /minuto"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "PED-BQ-08",
+      "area": "PED",
+      "tema": "Bronquiolitis",
+      "enunciado": "¿Qué forma de presentación advierte la norma en lactantes menores de 6 semanas?",
+      "opciones": [
+        "Fiebre mayor de 40 °C",
+        "Apnea sin otros signos clínicos",
+        "Exantema",
+        "Estridor"
+      ],
+      "correcta": 1,
+      "explicacion": "Los menores de 6 semanas pueden presentar apnea sin otros signos; la apnea es criterio de referencia.",
+      "fuente": {
+        "id": "nnac-ped",
+        "pagina": 43,
+        "cita": "pueden presentar apnea sin otros signos clínicos"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "PED-DG-01",
+      "area": "PED",
+      "tema": "Dengue",
+      "enunciado": "¿Qué define a un caso sospechoso de dengue en un niño según la norma?",
+      "opciones": [
+        "Fiebre con foco respiratorio",
+        "Reside o viajó en los últimos 14 días a zona con transmisión y tiene fiebre aguda sin foco",
+        "Fiebre de más de 15 días",
+        "Cualquier exantema"
+      ],
+      "correcta": 1,
+      "explicacion": "Niño que reside o viajó en los últimos 14 días a zona con transmisión, con cuadro febril agudo de 2 a 7 días sin foco aparente.",
+      "fuente": {
+        "id": "nnac-ped",
+        "pagina": 47,
+        "cita": "todo niño que reside o haya viajado en los últimos 14 días a una zona con transmisión de dengue"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "PED-DG-02",
+      "area": "PED",
+      "tema": "Dengue",
+      "enunciado": "Niño con 3 días de fiebre por sospecha de dengue. ¿Qué prueba sirve según la norma?",
+      "opciones": [
+        "Serología IgG",
+        "PCR o antígeno NS1",
+        "Hemocultivo",
+        "Solo esperar 10 días"
+      ],
+      "correcta": 1,
+      "explicacion": "Antes del quinto día: PCR o antígeno NS1 (prueba rápida). Después del quinto día, la serología es el método de elección.",
+      "fuente": {
+        "id": "nnac-ped",
+        "pagina": 47,
+        "cita": "Antes del quinto día de enfermedad la infección por dengue puede ser diagnosticada por detección de RNA por PCR"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "PED-DG-03",
+      "area": "PED",
+      "tema": "Dengue",
+      "enunciado": "¿Con qué coincide la fase crítica del dengue?",
+      "opciones": [
+        "Con el inicio de la fiebre",
+        "Con el descenso de la temperatura (defervescencia)",
+        "Con la aparición del exantema pruriginoso",
+        "Con el día 14"
+      ],
+      "correcta": 1,
+      "explicacion": "La fase crítica, entre el 3.º y 7.º día, coincide con la defervescencia: aparecen signos de alarma, leucopenia, trombocitopenia y riesgo de choque.",
+      "fuente": {
+        "id": "nnac-ped",
+        "pagina": 48,
+        "cita": "coincide con el descenso de la temperatura llamada defervescencia"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "PED-DG-04",
+      "area": "PED",
+      "tema": "Dengue",
+      "enunciado": "¿Cuál de estos es un signo de alarma de dengue?",
+      "opciones": [
+        "Exantema que blanquea",
+        "Cefalea",
+        "Hepatomegalia mayor de 2 cm",
+        "Mialgias"
+      ],
+      "correcta": 2,
+      "explicacion": "Signos de alarma: dolor abdominal intenso, vómitos persistentes, acumulación de líquidos, sangrado de mucosas, letargo, hipotensión postural, hepatomegalia >2 cm y hematocrito en aumento.",
+      "fuente": {
+        "id": "nnac-ped",
+        "pagina": 49,
+        "cita": "7. Hepatomegalia >2 cm 8. Aumento progresivo del"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "PED-DG-05",
+      "area": "PED",
+      "tema": "Dengue",
+      "enunciado": "¿Cuál es criterio de hospitalización en dengue según la norma?",
+      "opciones": [
+        "Fiebre de 38,5 °C",
+        "Llenado capilar prolongado (más de 2 segundos)",
+        "Cefalea",
+        "Exantema"
+      ],
+      "correcta": 1,
+      "explicacion": "Criterios: signos de alarma, dengue grave, intolerancia oral, dificultad respiratoria, presión de pulso acortada, llenado capilar >2 s, hipotensión, IRA, embarazo y coagulopatía.",
+      "fuente": {
+        "id": "nnac-ped",
+        "pagina": 51,
+        "cita": "Acortamiento de la presión de pulso • Prolongación del llenado capilar (>2 segundos)"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "PED-DG-06",
+      "area": "PED",
+      "tema": "Dengue",
+      "enunciado": "¿Cuánto tiempo sin fiebre (sin antipiréticos) exige la norma para dar el alta por dengue?",
+      "opciones": [
+        "12 horas",
+        "24 horas",
+        "48 horas",
+        "7 días"
+      ],
+      "correcta": 2,
+      "explicacion": "Ausencia de fiebre por 48 horas sin antipiréticos, mejoría clínica, plaquetas en ascenso y hematocrito estable sin líquidos IV.",
+      "fuente": {
+        "id": "nnac-ped",
+        "pagina": 56,
+        "cita": "Ausencia de fiebre por 48 horas sin la administración de antipiréticos"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "PED-EL-01",
+      "area": "PED",
+      "tema": "Líquidos y electrolitos",
+      "enunciado": "¿Qué valores de glucemia definen hipoglucemia en neonatos y en niños según la norma?",
+      "opciones": [
+        "Menor de 40 mg/dl en neonatos y menor de 70 mg/dl en niños",
+        "Menor de 60 en ambos",
+        "Menor de 20 en neonatos y menor de 40 en niños",
+        "Menor de 100 en ambos"
+      ],
+      "correcta": 0,
+      "explicacion": "Menos de 40 mg/dl en neonatos, menos de 70 en niños y 54 mg/dl en el desnutrido agudo grave.",
+      "fuente": {
+        "id": "nnac-ped",
+        "pagina": 141,
+        "cita": "glucemia < 40 mg/dl en neonatos y < 70 mg/dl en niños"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "PED-EL-02",
+      "area": "PED",
+      "tema": "Líquidos y electrolitos",
+      "enunciado": "Niño con hipoglucemia. ¿Qué bolo indica la norma por vía IV?",
+      "opciones": [
+        "2 ml/kg de dextrosa al 10%",
+        "5 ml/kg de dextrosa al 50%",
+        "10 ml/kg de solución fisiológica",
+        "1 ml/kg de dextrosa al 5%"
+      ],
+      "correcta": 0,
+      "explicacion": "Bolo de 200 mg/kg (2 ml/kg de dextrosa al 10%) y luego infusión de 4–8 mg/kg/min, con control en 30 a 60 minutos.",
+      "fuente": {
+        "id": "nnac-ped",
+        "pagina": 143,
+        "cita": "Bolo de 200 mg/Kg. (2 ml/Kg. de solución glucosada al 10%) IV"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "PED-EL-03",
+      "area": "PED",
+      "tema": "Líquidos y electrolitos",
+      "enunciado": "Niño con hiperkalemia y cambios en el ECG. ¿Qué se hace para estabilizar el miocardio?",
+      "opciones": [
+        "Furosemida",
+        "Gluconato de calcio 1-2 ml/kg IV lento",
+        "Insulina sola",
+        "Potasio oral"
+      ],
+      "correcta": 1,
+      "explicacion": "Se suspende el aporte de potasio y se estabiliza el miocardio con gluconato de calcio; luego insulina con glucosa, salbutamol, bicarbonato si hay acidosis, diuréticos o diálisis.",
+      "fuente": {
+        "id": "nnac-ped",
+        "pagina": 143,
+        "cita": "Estabilización eléctrica del miocardio, gluconato de calcio 1-2 ml/Kg. EV lento"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "PED-EL-04",
+      "area": "PED",
+      "tema": "Líquidos y electrolitos",
+      "enunciado": "¿Qué hallazgos del ECG describe la norma en la hipokalemia?",
+      "opciones": [
+        "Ondas T picudas y QRS ancho",
+        "Onda T deprimida, ondas U y QT prolongado",
+        "Elevación del ST",
+        "PR corto"
+      ],
+      "correcta": 1,
+      "explicacion": "Hipokalemia (K <3,5): T deprimida, ondas U y QT prolongado. Las T picudas y el QRS ancho son de la hiperkalemia.",
+      "fuente": {
+        "id": "nnac-ped",
+        "pagina": 140,
+        "cita": "ECG onda T deprimida, aparición de ondas U y prolongación del intervalo Q-T"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "PED-EL-05",
+      "area": "PED",
+      "tema": "Líquidos y electrolitos",
+      "enunciado": "Hiponatremia con signos neurológicos y sodio menor de 120 mEq/l. ¿Qué indica la norma?",
+      "opciones": [
+        "Restricción de agua sola",
+        "2 a 3 ml/kg de solución salina al 3% en una hora",
+        "Furosemida",
+        "Dextrosa al 5%"
+      ],
+      "correcta": 1,
+      "explicacion": "Salino al 3%, 2–3 ml/kg en una hora; luego corrección sin subir más de 8 mEq/L en 24 horas.",
+      "fuente": {
+        "id": "nnac-ped",
+        "pagina": 144,
+        "cita": "restituir con 2 a 3 ml/Kg. de suero salino al 3%"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "PED-EL-06",
+      "area": "PED",
+      "tema": "Líquidos y electrolitos",
+      "enunciado": "¿Cuánto puede subir como máximo el sodio en 24 horas al corregir una hiponatremia?",
+      "opciones": [
+        "4 mEq/L",
+        "8 mEq/L",
+        "15 mEq/L",
+        "20 mEq/L"
+      ],
+      "correcta": 1,
+      "explicacion": "No más de 8 mEq/L en 24 horas: la mitad del déficit en 8 horas y el resto en 16.",
+      "fuente": {
+        "id": "nnac-ped",
+        "pagina": 144,
+        "cita": "No subir más de 8 mEq/L en 24 horas"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "PED-EL-07",
+      "area": "PED",
+      "tema": "Líquidos y electrolitos",
+      "enunciado": "Hipernatremia hipovolémica. ¿En cuánto tiempo, como mínimo, se lleva el sodio a lo normal?",
+      "opciones": [
+        "En 6 horas",
+        "En 12 horas",
+        "En no menos de 48 horas",
+        "En 7 días"
+      ],
+      "correcta": 2,
+      "explicacion": "Primero isotónicos para la hipovolemia; luego hipotónicos hasta natremia normal en no menos de 48 horas (10–12 mEq/día).",
+      "fuente": {
+        "id": "nnac-ped",
+        "pagina": 144,
+        "cita": "hasta llegar a una natremia normal en no menos de 48 horas"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "PED-EL-08",
+      "area": "PED",
+      "tema": "Líquidos y electrolitos",
+      "enunciado": "¿Qué tipo de solución recomienda la norma para iniciar líquidos IV de mantenimiento en niños?",
+      "opciones": [
+        "Hipotónica sin sodio",
+        "Isotónica con potasio y dextrosa",
+        "Dextrosa al 5% sola",
+        "Coloides"
+      ],
+      "correcta": 1,
+      "explicacion": "Soluciones isotónicas con cloruro de potasio y dextrosa para reducir el riesgo de hiponatremia.",
+      "fuente": {
+        "id": "nnac-ped",
+        "pagina": 142,
+        "cita": "Inicie líquidos endovenosos con soluciones isotónicas, con cloruro de potasio y dextrosa adecuados para reducir el riesgo de hiponatremia"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "PED-FA-01",
+      "area": "PED",
+      "tema": "Faringitis estreptocócica",
+      "enunciado": "¿Qué hallazgo orienta a faringitis estreptocócica y no viral?",
+      "opciones": [
+        "Tos y rinorrea",
+        "Ausencia de tos, rinorrea y estornudos",
+        "Úlceras y vesículas",
+        "Inicio lento"
+      ],
+      "correcta": 1,
+      "explicacion": "La estreptocócica es de 5 a 15 años, de inicio súbito, con exudados, ganglios dolorosos y sin tos, rinorrea ni estornudos.",
+      "fuente": {
+        "id": "nnac-ped",
+        "pagina": 67,
+        "cita": "Ausencia de tos, rinorrea, estornudos"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "PED-FA-02",
+      "area": "PED",
+      "tema": "Faringitis estreptocócica",
+      "enunciado": "Niño de 20 kg con faringitis estreptocócica. ¿Qué dosis de penicilina benzatínica indica la norma?",
+      "opciones": [
+        "600.000 UI IM dosis única",
+        "1.200.000 UI IM dosis única",
+        "2.400.000 UI IM semanal",
+        "50.000 UI/kg diario"
+      ],
+      "correcta": 0,
+      "explicacion": "Menos de 27 kg: 600.000 UI IM dosis única; más de 27 kg: 1.200.000 UI. Es la primera opción.",
+      "fuente": {
+        "id": "nnac-ped",
+        "pagina": 68,
+        "cita": "niños con peso menor a 27 Kg. 600.000 UI IM dosis única"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "PED-FA-03",
+      "area": "PED",
+      "tema": "Faringitis estreptocócica",
+      "enunciado": "¿En qué niños NO se debe usar penicilina benzatínica según la norma?",
+      "opciones": [
+        "Mayores de 10 años",
+        "Menores de tres años",
+        "Con fiebre",
+        "Con exudado"
+      ],
+      "correcta": 1,
+      "explicacion": "No en menores de tres años, por el riesgo de síndrome de Nicolau; la alternativa es amoxicilina por 10 días.",
+      "fuente": {
+        "id": "nnac-ped",
+        "pagina": 68,
+        "cita": "Penicilina Benzatínica (no utilizar en menores de tres años"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "PED-FA-04",
+      "area": "PED",
+      "tema": "Faringitis estreptocócica",
+      "enunciado": "¿Por qué insiste la norma en completar 10 días de tratamiento en la faringitis estreptocócica?",
+      "opciones": [
+        "Para evitar la cardiopatía reumática",
+        "Porque la fiebre dura 10 días",
+        "Para evitar la otitis",
+        "Por costo"
+      ],
+      "correcta": 0,
+      "explicacion": "Aunque el contagio termina tras 24 horas de antibiótico eficaz, se continúa 10 días para evitar la cardiopatía reumática.",
+      "fuente": {
+        "id": "nnac-ped",
+        "pagina": 69,
+        "cita": "hay que continuar con el tratamiento durante 10 días para evitar la cardiopatía reumática"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "PED-OM-01",
+      "area": "PED",
+      "tema": "Otitis media aguda",
+      "enunciado": "¿Qué exámenes complementarios exige la norma para diagnosticar otitis media aguda?",
+      "opciones": [
+        "Hemograma y PCR",
+        "Cultivo de secreción",
+        "Ninguno: es clínico y otoscópico",
+        "Tomografía de oídos"
+      ],
+      "correcta": 2,
+      "explicacion": "El diagnóstico es clínico y por otoscopía; no se requieren exámenes para el diagnóstico ni para decidir el manejo.",
+      "fuente": {
+        "id": "nnac-ped",
+        "pagina": 108,
+        "cita": "No se requiere exámenes complementarios para hacer el diagnóstico de otitis media aguda"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "PED-OM-02",
+      "area": "PED",
+      "tema": "Otitis media aguda",
+      "enunciado": "Cuando está indicado antibiótico en otitis media aguda, ¿cuál es la primera línea?",
+      "opciones": [
+        "Amoxicilina 75-90 mg/kg/día por 7 días",
+        "Ciprofloxacino",
+        "Azitromicina 3 días",
+        "Ceftriaxona IM de entrada"
+      ],
+      "correcta": 0,
+      "explicacion": "Amoxicilina 75–90 mg/kg/día por 7 días; si fracasa, amoxicilina-clavulánico o ceftriaxona; con alergia a penicilina, claritromicina.",
+      "fuente": {
+        "id": "nnac-ped",
+        "pagina": 109,
+        "cita": "La amoxicilina es primera línea de tratamiento (75–90 mg/kg/día) por 7 días"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "PED-OM-03",
+      "area": "PED",
+      "tema": "Otitis media aguda",
+      "enunciado": "Niño de 18 meses con otitis media aguda bilateral, sin signos graves. ¿Qué dice la norma?",
+      "opciones": [
+        "Nunca antibiótico",
+        "Considerar antibiótico oral",
+        "Referir a tercer nivel",
+        "Gotas de lidocaína"
+      ],
+      "correcta": 1,
+      "explicacion": "Se considera antibiótico oral en niños de 6 meses a 2 años con otitis bilateral. Siempre analgésico en dosis suficientes.",
+      "fuente": {
+        "id": "nnac-ped",
+        "pagina": 109,
+        "cita": "Considere un antibiótico oral en niños de 6 meses a 2 años con una otitis media aguda bilateral"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "PED-OM-04",
+      "area": "PED",
+      "tema": "Otitis media aguda",
+      "enunciado": "¿Qué dice la norma sobre las gotas óticas con lidocaína en la otitis media aguda?",
+      "opciones": [
+        "Son el analgésico de elección",
+        "No se recomiendan",
+        "Solo con perforación",
+        "Se combinan con antihistamínicos"
+      ],
+      "correcta": 1,
+      "explicacion": "No se recomiendan; tampoco antihistamínicos. Primero paracetamol y, si no alcanza, ibuprofeno en mayores de un año.",
+      "fuente": {
+        "id": "nnac-ped",
+        "pagina": 109,
+        "cita": "No se recomiendan las gotas para los oídos con lidocaína como analgésico"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "PED-OM-05",
+      "area": "PED",
+      "tema": "Otitis media aguda",
+      "enunciado": "¿Qué edad es criterio de referencia por otitis media aguda?",
+      "opciones": [
+        "Menor de 3 meses",
+        "Menor de 2 años",
+        "Menor de 5 años",
+        "Cualquier edad con fiebre"
+      ],
+      "correcta": 0,
+      "explicacion": "Se refiere a menores de 3 meses, con signos graves, sospecha de infección sistémica o complicaciones como meningitis o mastoiditis.",
+      "fuente": {
+        "id": "nnac-ped",
+        "pagina": 109,
+        "cita": "Paciente Menor de 3 meses. Signos graves de enfermedad"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "PED-SA-01",
+      "area": "PED",
+      "tema": "Sarampión",
+      "enunciado": "¿Qué son las manchas de Koplik?",
+      "opciones": [
+        "Placas blancas adherentes en amígdalas",
+        "Puntos grises sobre un área eritematosa en la mucosa oral",
+        "Vesículas en palmas y plantas",
+        "Petequias en el paladar"
+      ],
+      "correcta": 1,
+      "explicacion": "Lesiones puntiformes grises sobre fondo eritematoso en la mucosa oral, del período prodrómico.",
+      "fuente": {
+        "id": "nnac-ped",
+        "pagina": 120,
+        "cita": "las manchas de Koplik que son puntiformes y grises sobre un área eritematosa en la mucosa oral"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "PED-SA-02",
+      "area": "PED",
+      "tema": "Sarampión",
+      "enunciado": "¿Dónde comienza el exantema del sarampión?",
+      "opciones": [
+        "En el tronco",
+        "En la cara, generalmente detrás de las orejas",
+        "En palmas y plantas",
+        "En las extremidades"
+      ],
+      "correcta": 1,
+      "explicacion": "Maculopapular, no vesicular: empieza en la cara detrás de las orejas y baja hasta los pies en 2 o 3 días; respeta palmas y plantas.",
+      "fuente": {
+        "id": "nnac-ped",
+        "pagina": 120,
+        "cita": "que se inicia en la cara, generalmente detrás de las orejas"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "PED-SA-03",
+      "area": "PED",
+      "tema": "Sarampión",
+      "enunciado": "¿Cuál es la complicación grave más frecuente del sarampión según la norma?",
+      "opciones": [
+        "Encefalitis",
+        "Neumonía",
+        "Ceguera",
+        "Otitis media"
+      ],
+      "correcta": 1,
+      "explicacion": "La neumonía es la complicación grave más frecuente y puede sobreinfectarse con bacterias o adenovirus.",
+      "fuente": {
+        "id": "nnac-ped",
+        "pagina": 120,
+        "cita": "Neumonía (la complicación grave más frecuente"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "PED-SA-04",
+      "area": "PED",
+      "tema": "Sarampión",
+      "enunciado": "Niño de 3 años con sarampión. ¿Qué dosis de vitamina A indica la norma?",
+      "opciones": [
+        "50.000 UI",
+        "100.000 UI",
+        "200.000 UI",
+        "400.000 UI"
+      ],
+      "correcta": 2,
+      "explicacion": "De 6 a 11 meses, 100.000 UI; de 12 meses a menores de 5 años, 200.000 UI.",
+      "fuente": {
+        "id": "nnac-ped",
+        "pagina": 121,
+        "cita": "En mayores de 12 meses a menores de cinco años; 200.000 UI (una perla) cada seis meses"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "PED-SA-05",
+      "area": "PED",
+      "tema": "Sarampión",
+      "enunciado": "¿En qué plazo se notifica un caso de sarampión según la norma?",
+      "opciones": [
+        "Antes de las 48 horas",
+        "En una semana",
+        "Al mes",
+        "Solo si se confirma"
+      ],
+      "correcta": 0,
+      "explicacion": "Notificación obligatoria del caso antes de las 48 horas, con vigilancia epidemiológica comunitaria.",
+      "fuente": {
+        "id": "nnac-ped",
+        "pagina": 121,
+        "cita": "NOTIFICACIÓN OBLIGATORIA DEL CASO, ANTES DE LAS 48 HORAS"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "PED-SA-06",
+      "area": "PED",
+      "tema": "Sarampión",
+      "enunciado": "¿Cuántos días después de la aparición del exantema no debe ir a la escuela un niño con sarampión?",
+      "opciones": [
+        "2 días",
+        "5 días",
+        "10 días",
+        "21 días"
+      ],
+      "correcta": 1,
+      "explicacion": "Cinco días después de la aparición del exantema.",
+      "fuente": {
+        "id": "nnac-ped",
+        "pagina": 121,
+        "cita": "Los niños con sarampión no deben asistir a la escuela durante cinco días después de la aparición del exantema"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "PED-AC-01",
+      "area": "PED",
+      "tema": "Alimentación complementaria",
+      "enunciado": "¿Desde qué edad indica la norma iniciar la alimentación complementaria?",
+      "opciones": [
+        "Desde los 4 meses",
+        "Desde los 6 meses; antes no se recomienda",
+        "Desde el año",
+        "Cuando salgan los dientes"
+      ],
+      "correcta": 1,
+      "explicacion": "Lactancia exclusiva hasta los 6 meses y continuada al menos hasta los 2 años; no se introducen otros alimentos antes de los 6 meses.",
+      "fuente": {
+        "id": "nnac-ped",
+        "pagina": 21,
+        "cita": "No es recomendado introducir otros alimentos antes de los 6 meses"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "PED-AC-02",
+      "area": "PED",
+      "tema": "Alimentación complementaria",
+      "enunciado": "¿Cuántas veces en 24 horas, como mínimo, recomienda la norma dar el pecho a un menor de 6 meses?",
+      "opciones": [
+        "4 veces",
+        "6 veces",
+        "8 veces",
+        "12 veces"
+      ],
+      "correcta": 3,
+      "explicacion": "Las veces que el niño quiera, por lo menos 12 en 24 horas, de día y de noche, vaciando los pechos.",
+      "fuente": {
+        "id": "nnac-ped",
+        "pagina": 22,
+        "cita": "Dar el pecho las veces que el niño/a quiera por lo menos 12 veces durante 24 horas"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "PED-AC-03",
+      "area": "PED",
+      "tema": "Alimentación complementaria",
+      "enunciado": "¿Desde qué edad permite la norma añadir sal a la comida del niño y cuánto?",
+      "opciones": [
+        "Desde los 6 meses, sin límite",
+        "Desde el año, 1 g al día",
+        "Desde los 2 años, 5 g al día",
+        "Nunca antes de los 5 años"
+      ],
+      "correcta": 1,
+      "explicacion": "Evitar azúcar y sal en menores de 2 años; desde el año se permite 1 g/día. Siempre sal yodada.",
+      "fuente": {
+        "id": "nnac-ped",
+        "pagina": 22,
+        "cita": "a partir del año de vida se permite la adición de 1 g/dia de sal"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "PED-AC-04",
+      "area": "PED",
+      "tema": "Alimentación complementaria",
+      "enunciado": "Niño de 7 meses. ¿Cuántas cucharadas rasas debe recibir en cada comida principal?",
+      "opciones": [
+        "3",
+        "Por lo menos 7, y una más por cada mes cumplido",
+        "15",
+        "Las que quiera, sin cantidad"
+      ],
+      "correcta": 1,
+      "explicacion": "A los 7 meses, al menos 7 cucharadas rasas por comida principal, aumentando una por mes hasta 11 o más a los 11 meses.",
+      "fuente": {
+        "id": "nnac-ped",
+        "pagina": 24,
+        "cita": "En cada comida principal, debe recibir por lo menos 7 cucharadas rasas (a los 7 meses) e ir aumentando una cuchara por cada mes cumplido"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "PED-AC-05",
+      "area": "PED",
+      "tema": "Alimentación complementaria",
+      "enunciado": "Según la norma, ¿qué provoca retrasar hasta el año la introducción de huevo, pescado o maní?",
+      "opciones": [
+        "Nada",
+        "Más bien provoca alergias",
+        "Previene la anemia",
+        "Mejora el peso"
+      ],
+      "correcta": 1,
+      "explicacion": "Desde los 6 meses se dan huevo, queso, pescado, frutilla, maní, carne, hígado; la introducción tardía, más bien, provoca alergias.",
+      "fuente": {
+        "id": "nnac-ped",
+        "pagina": 27,
+        "cita": "La introducción tardía de estos alimentos (al año), más bien, provoca alergias"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "PED-AC-06",
+      "area": "PED",
+      "tema": "Alimentación complementaria",
+      "enunciado": "¿Qué dice la norma sobre el Nutribebé?",
+      "opciones": [
+        "Reemplaza a la comida",
+        "No reemplaza una alimentación complementaria adecuada; la enriquece",
+        "Se da en biberón",
+        "Es para mayores de 5 años"
+      ],
+      "correcta": 1,
+      "explicacion": "Enriquece con micronutrientes y energía; de 6 a 23 meses, dos veces al día en entrecomidas, con cucharilla y no en biberón.",
+      "fuente": {
+        "id": "nnac-ped",
+        "pagina": 27,
+        "cita": "El Nutribebé no reemplaza una alimentación complementaria adecuada"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "PED-AC-07",
+      "area": "PED",
+      "tema": "Alimentación complementaria",
+      "enunciado": "¿Cómo se toman las Chispitas nutricionales según la norma?",
+      "opciones": [
+        "Un sobre semanal todo el año",
+        "Un sobre por día durante 60 días seguidos cada año",
+        "Tres sobres al día por una semana",
+        "Solo si hay anemia"
+      ],
+      "correcta": 1,
+      "explicacion": "De 6 a 23 meses: un sobre diario durante 60 días seguidos cada año, mezclado con una porción pequeña de comida sólida.",
+      "fuente": {
+        "id": "nnac-ped",
+        "pagina": 31,
+        "cita": "Las Chispitas nutricionales deben ser tomadas durante 60 días seguidos cada año, cada día un sobre"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "PED-AC-08",
+      "area": "PED",
+      "tema": "Alimentación complementaria",
+      "enunciado": "Niño con desnutrición aguda grave que recibió vitamina A hace 2 meses. ¿Qué indica la norma?",
+      "opciones": [
+        "No dar otra dosis",
+        "Administrar vitamina A igual, aunque haya recibido una dosis en los últimos 6 meses",
+        "Esperar 6 meses",
+        "Dar solo hierro"
+      ],
+      "correcta": 1,
+      "explicacion": "Con desnutrición aguda grave, diarrea persistente o sospecha de sarampión se da vitamina A aunque haya recibido una dosis en los últimos 6 meses.",
+      "fuente": {
+        "id": "nnac-ped",
+        "pagina": 31,
+        "cita": "Si el niño o niña tiene desnutrición aguda grave, diarrea persistente o sospecha de sarampión, administrar vitamina “A”, incluso si recibió una dosis en los últimos 6 meses"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "PED-AC-09",
+      "area": "PED",
+      "tema": "Alimentación complementaria",
+      "enunciado": "¿En qué casos NO se debe dar hierro según la norma?",
+      "opciones": [
+        "Anemia leve",
+        "Malaria o desnutrición aguda severa al inicio del tratamiento",
+        "Niños prematuros",
+        "Lactancia materna"
+      ],
+      "correcta": 1,
+      "explicacion": "No administrar hierro en caso de malaria ni al inicio del tratamiento de la desnutrición aguda severa.",
+      "fuente": {
+        "id": "nnac-ped",
+        "pagina": 31,
+        "cita": "No administrar hierro en caso de malaria ni en caso de desnutrición aguda severa"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "PED-AC-10",
+      "area": "PED",
+      "tema": "Alimentación complementaria",
+      "enunciado": "¿Qué dosis de hierro elemental indica la norma para suplementación y para tratamiento de anemia en niños?",
+      "opciones": [
+        "1-3 mg/kg/día y 3-6 mg/kg/día",
+        "10 mg/kg/día en ambos casos",
+        "0,5 mg/kg/día y 1 mg/kg/día",
+        "30 mg/día fijos"
+      ],
+      "correcta": 0,
+      "explicacion": "Suplementación 1–3 mg/kg/día; tratamiento de anemia 3–6 mg/kg/día, en 1 a 3 tomas, alejado de las comidas.",
+      "fuente": {
+        "id": "nnac-ped",
+        "pagina": 31,
+        "cita": "es de 1 a 3 mg/kg/dia en caso de suplementación y de 3-6 mg/kg/día en caso de tratamiento de anemia"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-PT-01",
+      "area": "MI",
+      "tema": "Politraumatismo",
+      "enunciado": "En el XABCDE del trauma, ¿qué significa la X?",
+      "opciones": [
+        "Examen de rayos X",
+        "Control de hemorragias exanguinantes",
+        "Exposición",
+        "Extricación"
+      ],
+      "correcta": 1,
+      "explicacion": "X: control de hemorragias exanguinantes; luego vía aérea con restricción cervical, respiración, circulación, déficit neurológico y exposición.",
+      "fuente": {
+        "id": "nnac-urg",
+        "pagina": 229,
+        "cita": "X Control de hemorragias exanguinantes"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-PT-02",
+      "area": "MI",
+      "tema": "Politraumatismo",
+      "enunciado": "¿Qué puntuación del Trauma Score Revisado define trauma severo y traslado a hospital de trauma?",
+      "opciones": [
+        "15 o menos",
+        "Igual o inferior a 11",
+        "Igual o inferior a 5",
+        "Mayor de 11"
+      ],
+      "correcta": 1,
+      "explicacion": "Si el total es igual o inferior a 11, es trauma severo y se traslada a un hospital de trauma.",
+      "fuente": {
+        "id": "nnac-urg",
+        "pagina": 227,
+        "cita": "si la puntuación total es igual o inferior a 11 considerado un trauma severo"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-PT-03",
+      "area": "MI",
+      "tema": "Politraumatismo",
+      "enunciado": "¿Hasta cuándo se puede usar ácido tranexámico IV en trauma mayor con hemorragia?",
+      "opciones": [
+        "Hasta 3 horas después de la lesión",
+        "Hasta 24 horas",
+        "Solo después de 6 horas",
+        "Nunca en trauma"
+      ],
+      "correcta": 0,
+      "explicacion": "Lo antes posible; no más de 3 horas después de la lesión, salvo evidencia de hiperfibrinólisis.",
+      "fuente": {
+        "id": "nnac-urg",
+        "pagina": 233,
+        "cita": "No use ácido tranexámico intravenoso más de 3 horas después de la lesión"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-PT-04",
+      "area": "MI",
+      "tema": "Politraumatismo",
+      "enunciado": "Paciente con sangrado activo en el hospital. ¿Qué dice la norma sobre los cristaloides?",
+      "opciones": [
+        "Dar 2 litros rápidos",
+        "No usarlos: reponer con hemoderivados",
+        "Usar solo coloides",
+        "Dar dextrosa"
+      ],
+      "correcta": 1,
+      "explicacion": "En el hospital no se usan cristaloides en sangrado activo; en adultos, plasma y glóbulos rojos 1:1. En el prehospitalario, solo si no hay componentes sanguíneos.",
+      "fuente": {
+        "id": "nnac-urg",
+        "pagina": 234,
+        "cita": "En entornos hospitalarios, no use cristaloides para pacientes con sangrado activo"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-PT-05",
+      "area": "MI",
+      "tema": "Politraumatismo",
+      "enunciado": "Adulto con trauma y sangrado activo. ¿Qué proporción de plasma y glóbulos rojos indica la norma?",
+      "opciones": [
+        "1:1",
+        "1:3",
+        "3:1",
+        "Solo glóbulos rojos"
+      ],
+      "correcta": 0,
+      "explicacion": "1 unidad de plasma por 1 de glóbulos rojos; en niños, la misma proporción según el peso.",
+      "fuente": {
+        "id": "nnac-urg",
+        "pagina": 234,
+        "cita": "use una proporción de 1 unidad de plasma por 1 unidad de glóbulos rojos"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-PT-06",
+      "area": "MI",
+      "tema": "Politraumatismo",
+      "enunciado": "Herida con neumotórax abierto en un centro de primer nivel. ¿Qué indica la norma?",
+      "opciones": [
+        "Cerrar con sutura",
+        "Cubrir con un vendaje oclusivo simple y vigilar un neumotórax a tensión",
+        "Dejar la herida abierta",
+        "Punción con aguja inmediata"
+      ],
+      "correcta": 1,
+      "explicacion": "Vendaje oclusivo simple y observar el desarrollo de neumotórax a tensión.",
+      "fuente": {
+        "id": "nnac-urg",
+        "pagina": 232,
+        "cita": "cubrir el neumotórax abierto con un vendaje oclusivo simple"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-PT-07",
+      "area": "MI",
+      "tema": "Politraumatismo",
+      "enunciado": "¿Qué dice la norma sobre un eFAST de tórax negativo?",
+      "opciones": [
+        "Descarta neumotórax",
+        "No excluye un neumotórax",
+        "Obliga a toracotomía",
+        "Reemplaza la clínica"
+      ],
+      "correcta": 1,
+      "explicacion": "Un eFAST negativo no excluye neumotórax; el diagnóstico es clínico y el eFAST solo complementa si no retrasa el traslado.",
+      "fuente": {
+        "id": "nnac-urg",
+        "pagina": 232,
+        "cita": "un eFAST negativo del tórax no excluye un neumotórax"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-PT-08",
+      "area": "MI",
+      "tema": "Politraumatismo",
+      "enunciado": "En el ámbito prehospitalario, ¿cómo se titula la reanimación con volumen en un paciente que sangra?",
+      "opciones": [
+        "Hasta presión normal",
+        "Para mantener un pulso central palpable",
+        "Dos litros fijos",
+        "No se da volumen"
+      ],
+      "correcta": 1,
+      "explicacion": "Enfoque restrictivo: titular para mantener un pulso central palpable (carotídeo o femoral) hasta controlar el sangrado.",
+      "fuente": {
+        "id": "nnac-urg",
+        "pagina": 233,
+        "cita": "titule la reanimación con volumen para mantener un pulso central palpable"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "CX-DD-01",
+      "area": "CX",
+      "tema": "Displasia del desarrollo de cadera",
+      "enunciado": "¿Qué proporción de los niños con displasia del desarrollo de cadera es de sexo femenino según la norma?",
+      "opciones": [
+        "20%",
+        "50%",
+        "80%",
+        "100%"
+      ],
+      "correcta": 2,
+      "explicacion": "El 80% es de sexo femenino, por la sensibilidad a estrógenos y la relaxina. Otros factores: presentación podálica y antecedentes familiares.",
+      "fuente": {
+        "id": "nnac-tra",
+        "pagina": 25,
+        "cita": "El 80% de los niños afectados es del sexo femenino"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "CX-DD-02",
+      "area": "CX",
+      "tema": "Displasia del desarrollo de cadera",
+      "enunciado": "¿Qué significa un signo de Barlow positivo?",
+      "opciones": [
+        "Cadera luxada que se reduce",
+        "Cadera luxable: la cabeza femoral sale del acetábulo",
+        "Rodilla más baja del lado afectado",
+        "Marcha de Trendelenburg"
+      ],
+      "correcta": 1,
+      "explicacion": "Barlow: al presionar, la cabeza femoral sale del acetábulo (cadera luxable). Ortolani: la cadera luxada se reduce con un clic. Galeazzi: rodilla más baja del lado afectado.",
+      "fuente": {
+        "id": "nnac-tra",
+        "pagina": 25,
+        "cita": "Significa cadera luxable. Un chasquido indica que la cabeza del fémur está saliendo del acetábulo"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "CX-DD-03",
+      "area": "CX",
+      "tema": "Displasia del desarrollo de cadera",
+      "enunciado": "¿Qué ocurre en un signo de Ortolani positivo?",
+      "opciones": [
+        "La cabeza femoral sale del acetábulo",
+        "El fémur se desliza hacia el interior del acetábulo con un clic",
+        "La rodilla del lado afectado queda más baja",
+        "Hay dolor a la abducción"
+      ],
+      "correcta": 1,
+      "explicacion": "Ortolani positivo: la cadera luxada o subluxada se reubica en el acetábulo con un clic audible o palpable.",
+      "fuente": {
+        "id": "nnac-tra",
+        "pagina": 25,
+        "cita": "el fémur se desliza hacia el interior de la cavidad acetabular con un “clic” audible o palpable"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "CX-DD-04",
+      "area": "CX",
+      "tema": "Displasia del desarrollo de cadera",
+      "enunciado": "¿Desde qué edad es la radiografía de pelvis el método de elección para la displasia de cadera?",
+      "opciones": [
+        "Desde el nacimiento",
+        "Desde los 3 meses",
+        "Desde el año",
+        "Desde que camina"
+      ],
+      "correcta": 1,
+      "explicacion": "Desde los 3 meses, porque antes no se ve el núcleo de osificación femoral. Antes de los 3 meses, idealmente ecografía.",
+      "fuente": {
+        "id": "nnac-tra",
+        "pagina": 25,
+        "cita": "Es el método de elección a partir de los 3 meses de edad, ya que el núcleo de osificación femoral no es visible"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "CX-DD-05",
+      "area": "CX",
+      "tema": "Displasia del desarrollo de cadera",
+      "enunciado": "¿Qué ángulo acetabular se considera normal a los 3 meses de edad?",
+      "opciones": [
+        "Menor de 30°",
+        "Menor de 45°",
+        "Mayor de 30°",
+        "Menor de 10°"
+      ],
+      "correcta": 0,
+      "explicacion": "Menor de 30° a los 3 meses e idealmente menor de 22° al año. Un ángulo mayor de 30° es criterio de referencia.",
+      "fuente": {
+        "id": "nnac-tra",
+        "pagina": 25,
+        "cita": "Se consideran normal un ángulo menor de 30° a los 3 meses de edad"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "CX-DD-06",
+      "area": "CX",
+      "tema": "Displasia del desarrollo de cadera",
+      "enunciado": "¿Cómo se usa el arnés de Pavlik según la norma?",
+      "opciones": [
+        "Solo de noche",
+        "Flexión de cadera de 90°, abducción de 45 a 60°, las 24 horas del día",
+        "Extensión de caderas y rodillas",
+        "Una hora al día"
+      ],
+      "correcta": 1,
+      "explicacion": "90° de flexión y 45–60° de abducción, las 24 horas; solo se retira para el baño. Si no reduce en 6 semanas, reducción en quirófano y yeso en espiga.",
+      "fuente": {
+        "id": "nnac-tra",
+        "pagina": 26,
+        "cita": "Debemos mantener una flexión de cadera de 90° y una abducción entre 45 a 60°, se debe utilizar el arnés 24 horas del día"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "CX-DD-07",
+      "area": "CX",
+      "tema": "Displasia del desarrollo de cadera",
+      "enunciado": "¿Qué dice la norma sobre el doble o triple pañal para tratar la displasia de cadera?",
+      "opciones": [
+        "Es el tratamiento de primera línea",
+        "No es eficaz y no debe usarse",
+        "Se usa hasta los 6 meses",
+        "Reemplaza al arnés de Pavlik"
+      ],
+      "correcta": 1,
+      "explicacion": "Los pañales almohadillados, el doble y el triple pañal no son eficaces y no deben usarse.",
+      "fuente": {
+        "id": "nnac-tra",
+        "pagina": 26,
+        "cita": "Los pañales almohadillados, el doble y/o triple pañal, no son eficaces"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "CX-DD-08",
+      "area": "CX",
+      "tema": "Displasia del desarrollo de cadera",
+      "enunciado": "¿Qué práctica de crianza recomienda evitar la norma para prevenir la displasia de cadera?",
+      "opciones": [
+        "La lactancia materna",
+        "El fajado (envoltura de miembros inferiores)",
+        "Cargar al bebé",
+        "El baño diario"
+      ],
+      "correcta": 1,
+      "explicacion": "Se recomienda evitar el fajado, que mantiene caderas y rodillas en extensión.",
+      "fuente": {
+        "id": "nnac-tra",
+        "pagina": 27,
+        "cita": "Evitar el fajado (envoltura de miembros inferiores)"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "CX-FR-01",
+      "area": "CX",
+      "tema": "Fracturas",
+      "enunciado": "Además de la zona fracturada, ¿qué debe incluir el examen físico según la norma?",
+      "opciones": [
+        "Solo la piel",
+        "Las articulaciones por encima y por debajo de la lesión",
+        "El abdomen siempre",
+        "Nada más"
+      ],
+      "correcta": 1,
+      "explicacion": "Evaluación vascular y neurológica distal, inspección, palpación y examen de las articulaciones por encima y por debajo de la lesión.",
+      "fuente": {
+        "id": "nnac-tra",
+        "pagina": 30,
+        "cita": "Examen de las articulaciones por encima y por debajo de la zona lesionada"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "CX-FR-02",
+      "area": "CX",
+      "tema": "Fracturas",
+      "enunciado": "Fractura en un niño. ¿Qué radiografías indica la norma?",
+      "opciones": [
+        "Solo AP",
+        "Comparativas con la extremidad no lesionada",
+        "Solo tomografía",
+        "No se hacen radiografías en niños"
+      ],
+      "correcta": 1,
+      "explicacion": "En pediatría, radiografías comparativas con la extremidad sana, incluyendo las articulaciones proximal y distal.",
+      "fuente": {
+        "id": "nnac-tra",
+        "pagina": 30,
+        "cita": "en pediatría Rx comparativas con la extremidad no lesionada"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "CX-FR-03",
+      "area": "CX",
+      "tema": "Fracturas",
+      "enunciado": "Fractura expuesta en un centro de primer nivel. ¿Qué indica la norma?",
+      "opciones": [
+        "Cerrar la herida con sutura",
+        "Cubrir con apósito estéril, inmovilizar y referir, con analgésico y antibiótico",
+        "Reducir en el lugar",
+        "Solo referir sin tocar"
+      ],
+      "correcta": 1,
+      "explicacion": "Apósito estéril, inmovilización provisional y referencia a segundo o tercer nivel, previa analgesia y antibiótico (cefazolina o cefotaxima).",
+      "fuente": {
+        "id": "nnac-tra",
+        "pagina": 30,
+        "cita": "En fracturas expuestas cubrir con apósito estéril, inmovilización provisional de la extremidad"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "CX-FR-04",
+      "area": "CX",
+      "tema": "Fracturas",
+      "enunciado": "En fracturas expuestas grado III, ¿qué se añade a la cefazolina?",
+      "opciones": [
+        "Nada",
+        "Un aminoglucósido o metronidazol",
+        "Vancomicina siempre",
+        "Corticoide"
+      ],
+      "correcta": 1,
+      "explicacion": "Grados I y II: cefalosporina de primera generación. Grado III: añadir aminoglucósido o metronidazol. Además, toxoide tetánico.",
+      "fuente": {
+        "id": "nnac-tra",
+        "pagina": 32,
+        "cita": "en fracturas expuestas grado III añadir algún aminoglucósido, o metronidazol"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "CX-TI-01",
+      "area": "CX",
+      "tema": "Fractura de diáfisis tibial",
+      "enunciado": "¿Qué dice la norma sobre la fractura de diáfisis tibial?",
+      "opciones": [
+        "Es rara",
+        "Es la fractura de huesos largos más frecuente y la expuesta más frecuente",
+        "Nunca se expone",
+        "Siempre es de baja energía"
+      ],
+      "correcta": 1,
+      "explicacion": "Es la fractura de huesos largos más frecuente; hasta el 25% son expuestas, porque la cara anterointerna es subcutánea.",
+      "fuente": {
+        "id": "nnac-tra",
+        "pagina": 45,
+        "cita": "Fractura expuesta más frecuente hasta el 25% de las fracturas de tibia"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "CX-TI-02",
+      "area": "CX",
+      "tema": "Fractura de diáfisis tibial",
+      "enunciado": "En la clasificación de Gustilo y Anderson, ¿qué define al tipo IIIC?",
+      "opciones": [
+        "Herida menor de 1 cm",
+        "Contaminación moderada",
+        "Cualquier fractura expuesta con lesión vascular asociada",
+        "Despegamiento perióstico"
+      ],
+      "correcta": 2,
+      "explicacion": "IIIC es cualquier fractura expuesta con lesión vascular asociada. IIIB tiene despegamiento perióstico que requiere reconstrucción.",
+      "fuente": {
+        "id": "nnac-tra",
+        "pagina": 46,
+        "cita": "Cualquier fractura expuesta con lesión vascular asociada"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "CX-TI-03",
+      "area": "CX",
+      "tema": "Fractura de diáfisis tibial",
+      "enunciado": "¿Cuál es un signo de síndrome compartimental según la norma?",
+      "opciones": [
+        "Dolor al estiramiento pasivo de los dedos",
+        "Pulso saltón",
+        "Mejoría del dolor con el yeso",
+        "Hipotermia central"
+      ],
+      "correcta": 0,
+      "explicacion": "Edema leñoso, dolor intenso y progresivo, parestesias, parálisis y dolor al estiramiento pasivo o a la extensión de los dedos.",
+      "fuente": {
+        "id": "nnac-tra",
+        "pagina": 47,
+        "cita": "Dolor al estiramiento pasivo o a la extensión de los dedos"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "CX-TI-04",
+      "area": "CX",
+      "tema": "Fractura de diáfisis tibial",
+      "enunciado": "Fractura cerrada de tibia en primer nivel. ¿Cómo se inmoviliza?",
+      "opciones": [
+        "Férula muslo podálica",
+        "Vendaje elástico",
+        "Férula corta bajo rodilla",
+        "No se inmoviliza"
+      ],
+      "correcta": 0,
+      "explicacion": "Férula muslo podálica, paracetamol 1 g VO dosis única y referencia a segundo o tercer nivel.",
+      "fuente": {
+        "id": "nnac-tra",
+        "pagina": 47,
+        "cita": "Inmovilización con férula muslo podálica"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "CX-TI-05",
+      "area": "CX",
+      "tema": "Fractura de diáfisis tibial",
+      "enunciado": "En el tratamiento incruento de la fractura de tibia no desplazada, ¿qué se debe cuidar más?",
+      "opciones": [
+        "El acortamiento",
+        "La alineación",
+        "La rotación del pie",
+        "La movilidad de la rodilla"
+      ],
+      "correcta": 1,
+      "explicacion": "Se debe cuidar la alineación más que el acortamiento, y luego colocar yeso.",
+      "fuente": {
+        "id": "nnac-tra",
+        "pagina": 48,
+        "cita": "se debe cuidar la alineación más que el acortamiento"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-CR-01",
+      "area": "MI",
+      "tema": "Crisis hipertensiva",
+      "enunciado": "¿Qué diferencia una emergencia hipertensiva de una urgencia hipertensiva según la norma?",
+      "opciones": [
+        "La cifra de presión: más de 200/120",
+        "La evidencia de daño de órgano diana nuevo o que empeora",
+        "La edad del paciente",
+        "Que tenga cefalea"
+      ],
+      "correcta": 1,
+      "explicacion": "La urgencia es la elevación súbita (PAS ≥180 y/o PAD ≥110) sin daño agudo de órgano diana; la emergencia tiene daño de órgano diana nuevo o que empeora.",
+      "fuente": {
+        "id": "nnac-urg",
+        "pagina": 63,
+        "cita": "Emergencia hipertensiva: Elevación súbita de la PA asociadas con evidencia de daño de órgano diana (DOD) nuevo o que empeora"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-CR-02",
+      "area": "MI",
+      "tema": "Crisis hipertensiva",
+      "enunciado": "Urgencia hipertensiva sin daño de órgano. ¿Cuál es el primer paso que indica la norma antes de dar antihipertensivos?",
+      "opciones": [
+        "Nifedipino sublingual",
+        "Reposo de 30 minutos y volver a controlar la presión",
+        "Labetalol IV",
+        "Internar en terapia intensiva"
+      ],
+      "correcta": 1,
+      "explicacion": "Un período de descanso de 30 minutos y nuevo control: así se resuelve hasta un tercio de los pacientes. Si sigue elevada, antihipertensivo oral y control ambulatorio en 1 semana.",
+      "fuente": {
+        "id": "nnac-urg",
+        "pagina": 67,
+        "cita": "Permita un período de descanso (30 min) y vuelva a controlar la presión arterial"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-CR-03",
+      "area": "MI",
+      "tema": "Crisis hipertensiva",
+      "enunciado": "En una emergencia hipertensiva (sin disección aórtica), ¿cuánto se debe bajar la presión arterial media en la primera hora?",
+      "opciones": [
+        "Normalizarla de inmediato",
+        "10-20%",
+        "50%",
+        "Nada: solo observar"
+      ],
+      "correcta": 1,
+      "explicacion": "Casi nunca debe reducirse rápidamente: 10–20% de la PAM en la primera hora y 5–15% más en las 23 horas siguientes.",
+      "fuente": {
+        "id": "nnac-urg",
+        "pagina": 67,
+        "cita": "La meta es de 10-20% de reducción de la presión arterial media, en la primera hora"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-CR-04",
+      "area": "MI",
+      "tema": "Crisis hipertensiva",
+      "enunciado": "¿Cuál es la excepción que exige bajar la presión sistólica a menos de 120 mmHg en 20 minutos?",
+      "opciones": [
+        "Ictus isquémico candidato a trombólisis",
+        "Disección aórtica aguda",
+        "Encefalopatía hipertensiva",
+        "Urgencia hipertensiva"
+      ],
+      "correcta": 1,
+      "explicacion": "En la disección aórtica aguda se busca PAS menor de 120 en 20 minutos (y FC menor de 60). En el ictus candidato a trombólisis, menos de 185/110.",
+      "fuente": {
+        "id": "nnac-urg",
+        "pagina": 67,
+        "cita": "Disección aórtica aguda (PAS < 120 en 20 minutos)"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-CR-05",
+      "area": "MI",
+      "tema": "Crisis hipertensiva",
+      "enunciado": "¿Qué fármaco parenteral está desplazando a los vasodilatadores IV en la emergencia hipertensiva según la norma?",
+      "opciones": [
+        "Furosemida",
+        "Labetalol",
+        "Enalapril",
+        "Nifedipino"
+      ],
+      "correcta": 1,
+      "explicacion": "El labetalol IV desplaza a nitroglicerina y nitroprusiato por la relación eficiencia/eficacia y seguridad.",
+      "fuente": {
+        "id": "nnac-urg",
+        "pagina": 68,
+        "cita": "están siendo desplazados por el labetalol por la relación eficiencia/eficacia y seguridad"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-CR-06",
+      "area": "MI",
+      "tema": "Crisis hipertensiva",
+      "enunciado": "Urgencia hipertensiva manejada en primer nivel. ¿Qué dice la norma sobre la internación?",
+      "opciones": [
+        "Siempre se interna 24 horas",
+        "No requiere internación; control por consulta externa",
+        "Se refiere a tercer nivel",
+        "Se interna si la PAS pasa de 180"
+      ],
+      "correcta": 1,
+      "explicacion": "Reposo, control cada 30 min, antihipertensivo oral y seguimiento por consulta externa. La emergencia hipertensiva sí se refiere a segundo nivel.",
+      "fuente": {
+        "id": "nnac-urg",
+        "pagina": 69,
+        "cita": "Los pacientes no requieren internación, deben realizar control por consulta externa"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-RC-01",
+      "area": "MI",
+      "tema": "Paro cardiorrespiratorio",
+      "enunciado": "¿Cuánto tiempo como máximo debe verificar el pulso el personal de salud antes de asumir un paro?",
+      "opciones": [
+        "5 segundos",
+        "10 segundos",
+        "30 segundos",
+        "1 minuto"
+      ],
+      "correcta": 1,
+      "explicacion": "Se verifica el pulso no más de 10 segundos; si no hay pulso, se asume PCR y se inician compresiones.",
+      "fuente": {
+        "id": "nnac-urg",
+        "pagina": 219,
+        "cita": "El personal de salud debe verificar el pulso 10 segundos y si no encuentra pulso debe asumir PCR"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-RC-02",
+      "area": "MI",
+      "tema": "Paro cardiorrespiratorio",
+      "enunciado": "Paciente en paro con sospecha de lesión cervical. ¿Qué maniobra se usa para abrir la vía aérea?",
+      "opciones": [
+        "Frente-mentón",
+        "Tracción mandibular",
+        "Hiperextensión del cuello",
+        "Presión cricoidea"
+      ],
+      "correcta": 1,
+      "explicacion": "Frente-mentón por defecto; con sospecha de lesión cervical, tracción mandibular. La presión cricoidea no se recomienda.",
+      "fuente": {
+        "id": "nnac-urg",
+        "pagina": 221,
+        "cita": "Si hay sospecha de lesión de columna cervical se utiliza la maniobra de tracción mandibular"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-RC-03",
+      "area": "MI",
+      "tema": "Paro cardiorrespiratorio",
+      "enunciado": "¿A qué frecuencia deben hacerse las compresiones torácicas en un adulto?",
+      "opciones": [
+        "60 a 80 por minuto",
+        "80 a 100 por minuto",
+        "100 a 120 por minuto",
+        "Más de 140 por minuto"
+      ],
+      "correcta": 2,
+      "explicacion": "100 a 120 por minuto, con profundidad de al menos 5 cm y no más de 6 cm, dejando que el tórax se reexpanda.",
+      "fuente": {
+        "id": "nnac-urg",
+        "pagina": 222,
+        "cita": "es razonable que los reanimadores realicen compresiones torácicas a una velocidad de 100 a 120/min"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-RC-04",
+      "area": "MI",
+      "tema": "Paro cardiorrespiratorio",
+      "enunciado": "¿Qué profundidad de compresión indica la norma en un adulto promedio?",
+      "opciones": [
+        "Al menos 2 cm",
+        "Al menos 5 cm, sin pasar de 6 cm",
+        "Al menos 8 cm",
+        "La que se pueda, sin límite"
+      ],
+      "correcta": 1,
+      "explicacion": "Al menos 5 cm (2 pulgadas), evitando compresiones de más de 6 cm.",
+      "fuente": {
+        "id": "nnac-urg",
+        "pagina": 222,
+        "cita": "a una profundidad de al menos 2 pulgadas o 5 cm para un adulto promedio"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-RC-05",
+      "area": "MI",
+      "tema": "Paro cardiorrespiratorio",
+      "enunciado": "Sin vía aérea avanzada, ¿qué relación compresiones:ventilaciones indica la norma?",
+      "opciones": [
+        "15:2",
+        "30:2",
+        "5:1",
+        "Solo compresiones siempre"
+      ],
+      "correcta": 1,
+      "explicacion": "Ciclos de 30 compresiones y 2 respiraciones. Con vía aérea avanzada: 1 respiración cada 6 s con compresiones continuas.",
+      "fuente": {
+        "id": "nnac-urg",
+        "pagina": 223,
+        "cita": "es razonable que los proveedores de atención médica realicen RCCP con ciclos de 30 compresiones y 2 respiraciones"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-RC-06",
+      "area": "MI",
+      "tema": "Paro cardiorrespiratorio",
+      "enunciado": "¿Qué dosis de epinefrina indica la norma en el paro cardiaco?",
+      "opciones": [
+        "0,1 mg cada 10 min",
+        "1 mg cada 3 a 5 minutos",
+        "5 mg dosis única",
+        "Dosis altas repetidas"
+      ],
+      "correcta": 1,
+      "explicacion": "1 mg cada 3 a 5 minutos. No se recomiendan dosis altas de rutina. En ritmo no desfibrilable, lo antes posible.",
+      "fuente": {
+        "id": "nnac-urg",
+        "pagina": 223,
+        "cita": "es razonable administrar 1 mg de epinefrina cada 3 a 5 min en caso de paro cardíaco"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-RC-07",
+      "area": "MI",
+      "tema": "Paro cardiorrespiratorio",
+      "enunciado": "Paro en asistolia (ritmo no desfibrilable). ¿Cuándo se administra la epinefrina?",
+      "opciones": [
+        "Tan pronto como sea posible",
+        "Después de tres descargas",
+        "Solo si hay acidosis",
+        "Nunca"
+      ],
+      "correcta": 0,
+      "explicacion": "En ritmo no desfibrilable, epinefrina tan pronto como sea posible; en ritmo desfibrilable, después de que fallen las primeras descargas.",
+      "fuente": {
+        "id": "nnac-urg",
+        "pagina": 224,
+        "cita": "para un paro cardíaco con un ritmo no desfibrilable, es razonable administrar epinefrina tan pronto como sea posible"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-RC-08",
+      "area": "MI",
+      "tema": "Paro cardiorrespiratorio",
+      "enunciado": "Fibrilación ventricular que no responde a la desfibrilación. ¿Qué fármacos no vasopresores puede considerar la norma?",
+      "opciones": [
+        "Amiodarona o lidocaína",
+        "Bicarbonato de sodio",
+        "Calcio",
+        "Magnesio de rutina"
+      ],
+      "correcta": 0,
+      "explicacion": "Amiodarona o lidocaína en FV/TVSP refractaria. No se recomiendan de rutina calcio, bicarbonato ni magnesio.",
+      "fuente": {
+        "id": "nnac-urg",
+        "pagina": 224,
+        "cita": "Amiodarona o lidocaína puede ser considerado en pacientes con FV/TVSP que no responden a la desfibrilación"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-RC-09",
+      "area": "MI",
+      "tema": "Paro cardiorrespiratorio",
+      "enunciado": "¿Qué dice la norma sobre el bicarbonato de sodio en el paro cardiorrespiratorio?",
+      "opciones": [
+        "Se da siempre al inicio",
+        "No se recomienda su administración rutinaria",
+        "Se da cada 5 minutos",
+        "Reemplaza a la epinefrina"
+      ],
+      "correcta": 1,
+      "explicacion": "La administración rutinaria de bicarbonato no está recomendada; tampoco la de calcio ni magnesio.",
+      "fuente": {
+        "id": "nnac-urg",
+        "pagina": 224,
+        "cita": "La administración rutinaria de bicarbonato de sodio no está recomendado en el PCR"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-SE-01",
+      "area": "MI",
+      "tema": "Mordedura de serpiente",
+      "enunciado": "¿Qué primeros auxilios prohíbe la norma ante una mordedura de serpiente?",
+      "opciones": [
+        "Mantener en reposo",
+        "Cortes, succión, ligaduras, vendajes o cauterización",
+        "Aflojar la ropa y retirar anillos",
+        "Elevar levemente el miembro"
+      ],
+      "correcta": 1,
+      "explicacion": "No se hace ninguna maniobra heroica. Se mantiene en reposo, se aflojan ropas y anillos, se eleva levemente el miembro y se acude al centro de salud sin esperar síntomas.",
+      "fuente": {
+        "id": "nnac-urg",
+        "pagina": 200,
+        "cita": "No efectuar ninguna maniobra heroica (cortes, succión, ligaduras, Vendajes, cauterización)"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-SE-02",
+      "area": "MI",
+      "tema": "Mordedura de serpiente",
+      "enunciado": "Prueba del tiempo de coagulación (5 ml en tubo de tapa roja, 20 minutos) tras mordedura botrópica: no se forma coágulo. ¿Qué indica la norma?",
+      "opciones": [
+        "Observar 24 horas sin tratar",
+        "Iniciar tratamiento con suero antiofídico",
+        "Es un colúbrido: dar de alta",
+        "Repetir la prueba en 1 semana"
+      ],
+      "correcta": 1,
+      "explicacion": "Prueba negativa (no coagula) o cuadro hemorrágico: se inicia suero antiofídico. Si coagula, no se administra. Se repite a las 12 y 24 horas.",
+      "fuente": {
+        "id": "nnac-urg",
+        "pagina": 200,
+        "cita": "Prueba NEGATIVA (no se forma coagulo) o el paciente presenta cuadro hemorrágico diverso, inicie tratamiento"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-SE-03",
+      "area": "MI",
+      "tema": "Mordedura de serpiente",
+      "enunciado": "El paciente llega con un torniquete en el miembro mordido. ¿Qué indica la norma?",
+      "opciones": [
+        "Dejarlo hasta tener el suero",
+        "Retirarlo lentamente y en forma progresiva",
+        "Retirarlo de golpe",
+        "Ajustarlo más"
+      ],
+      "correcta": 1,
+      "explicacion": "Si tiene torniquete, se retira lentamente y en forma progresiva; luego lavado con agua y jabón y povidona.",
+      "fuente": {
+        "id": "nnac-urg",
+        "pagina": 201,
+        "cita": "Si el paciente tiene torniquete retirara lentamente y en forma progresiva"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-SE-04",
+      "area": "MI",
+      "tema": "Mordedura de serpiente",
+      "enunciado": "Antes de administrar el suero antiofídico, ¿qué indica la norma?",
+      "opciones": [
+        "Hacer test de sensibilidad cutánea",
+        "No hacer test de sensibilidad y premedicar, por ejemplo con hidrocortisona",
+        "Dar atropina",
+        "Esperar a que aparezca sangrado"
+      ],
+      "correcta": 1,
+      "explicacion": "No se realiza test de sensibilidad. Se premedica para evitar reacciones: hidrocortisona 500 mg IV en adultos o 10 mg/kg en niños.",
+      "fuente": {
+        "id": "nnac-urg",
+        "pagina": 201,
+        "cita": "NO REALIZAR TEST DE SENSIBILIDAD!! HIDROCORTIZONA"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-SE-05",
+      "area": "MI",
+      "tema": "Mordedura de serpiente",
+      "enunciado": "Mordedura de coral (Micrurus, accidente elapídico). ¿Cómo lo maneja la norma?",
+      "opciones": [
+        "Como leve: solo observación",
+        "Siempre como grave, con suero antiofídico directo",
+        "Solo antibióticos",
+        "Solo si no coagula la sangre"
+      ],
+      "correcta": 1,
+      "explicacion": "El accidente elapídico se considera grave y se administra directamente el suero (10 a 15 ampollas en 250 cc en 1 hora). La neurotoxicidad puede matar en 4 a 6 horas.",
+      "fuente": {
+        "id": "nnac-urg",
+        "pagina": 202,
+        "cita": "Se considera de manera grave, y se administra directamente el suero antiofídico"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-SE-06",
+      "area": "MI",
+      "tema": "Mordedura de serpiente",
+      "enunciado": "¿Qué mecanismo tiene la crotoxina del veneno de cascabel (crotálico)?",
+      "opciones": [
+        "Neurotoxina de acción presináptica",
+        "Anticoagulante puro sin efecto neurológico",
+        "Solo inflamación local",
+        "Hemolisina"
+      ],
+      "correcta": 0,
+      "explicacion": "Neurotoxina presináptica que inhibe la liberación de acetilcolina y causa parálisis; además tiene actividad miotóxica (rabdomiólisis) y coagulante.",
+      "fuente": {
+        "id": "nnac-urg",
+        "pagina": 197,
+        "cita": "Producida principalmente por la crotoxina, una neurotoxina de acción pre-sináptica"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-SE-07",
+      "area": "MI",
+      "tema": "Mordedura de serpiente",
+      "enunciado": "Embarazada con accidente ofídico. ¿Qué dice la norma sobre el esquema de suero?",
+      "opciones": [
+        "Se reduce a la mitad",
+        "No se modifica en ningún periodo del embarazo",
+        "Está contraindicado",
+        "Solo en el tercer trimestre"
+      ],
+      "correcta": 1,
+      "explicacion": "El esquema no se modifica en el embarazo. En renales crónicos, hipertensos o cardiópatas se usa el mismo esquema diluido en dextrosa al 5% con infusión más lenta.",
+      "fuente": {
+        "id": "nnac-urg",
+        "pagina": 203,
+        "cita": "Embarazadas: No se modifica el esquema de tratamiento en ningún periodo del embarazo"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-SE-08",
+      "area": "MI",
+      "tema": "Mordedura de serpiente",
+      "enunciado": "¿Cuándo se administra el toxoide tetánico en el accidente ofídico?",
+      "opciones": [
+        "Antes del suero",
+        "Una vez normalizado el tiempo de coagulación",
+        "Nunca",
+        "Al alta, un mes después"
+      ],
+      "correcta": 1,
+      "explicacion": "Una dosis de toxoide tetánico una vez normalizado el tiempo de coagulación.",
+      "fuente": {
+        "id": "nnac-urg",
+        "pagina": 203,
+        "cita": "Administración 1 dosis toxoide tetánico una vez normalizado el tiempo de coagulación"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-QU-01",
+      "area": "MI",
+      "tema": "Quemaduras",
+      "enunciado": "En el método palmar, ¿qué porcentaje de superficie corporal representa la palma del paciente con los dedos?",
+      "opciones": [
+        "0,5%",
+        "1%",
+        "5%",
+        "9%"
+      ],
+      "correcta": 1,
+      "explicacion": "La palma con los dedos equivale a cerca del 1% de la superficie corporal; sirve para quemaduras dispersas. Para grandes áreas, regla de los nueve.",
+      "fuente": {
+        "id": "nnac-urg",
+        "pagina": 237,
+        "cita": "La superficie palmar (incluyendo los dedos) de la mano del paciente representa aproximadamente 1% de su superficie corporal"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-QU-02",
+      "area": "MI",
+      "tema": "Quemaduras",
+      "enunciado": "¿Qué tipo de quemadura NO se suma al calcular el área total de superficie quemada (ATSQ)?",
+      "opciones": [
+        "Superficial (primer grado)",
+        "Espesor parcial superficial",
+        "Espesor parcial profundo",
+        "Espesor total"
+      ],
+      "correcta": 0,
+      "explicacion": "La superficial (primer grado, como la quemadura de sol) no se calcula en el ATSQ; sí las de espesor parcial y total.",
+      "fuente": {
+        "id": "nnac-urg",
+        "pagina": 236,
+        "cita": "Ejemplo: Quemadura de sol. NO se calcula el área total de superficie quemada"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-QU-03",
+      "area": "MI",
+      "tema": "Quemaduras",
+      "enunciado": "Antes de calcular el ATSQ, ¿qué ritmo inicial de Ringer lactato indica la norma para un paciente de 14 años o más con quemadura visiblemente grande?",
+      "opciones": [
+        "125 ml por hora",
+        "250 ml por hora",
+        "500 ml por hora",
+        "1.000 ml por hora"
+      ],
+      "correcta": 2,
+      "explicacion": "Por edad: 5 años o menos, 125 ml/h; 6 a 13 años, 250 ml/h; 14 años o más, 500 ml/h.",
+      "fuente": {
+        "id": "nnac-urg",
+        "pagina": 241,
+        "cita": "A partir de 14 años: 500 ml LR por hora"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-QU-04",
+      "area": "MI",
+      "tema": "Quemaduras",
+      "enunciado": "Según la fórmula de hidratación de la norma, ¿cuánto del total de 24 horas se pasa en las primeras 8 horas?",
+      "opciones": [
+        "Un cuarto",
+        "Un tercio",
+        "La mitad",
+        "Todo"
+      ],
+      "correcta": 2,
+      "explicacion": "2 ml de Ringer lactato por kg por cada 1% de SCQ; la mitad en las primeras 8 horas y 25% en cada uno de los dos períodos de 8 horas siguientes.",
+      "fuente": {
+        "id": "nnac-urg",
+        "pagina": 243,
+        "cita": "2 ml de Ringer Lactato por peso corporal por cada 1% de la superficie corporal quemada, en las primeras 8 horas administrar la mitad"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-QU-05",
+      "area": "MI",
+      "tema": "Quemaduras",
+      "enunciado": "¿Por qué vía recomienda la norma la morfina para el dolor del gran quemado?",
+      "opciones": [
+        "Intramuscular",
+        "Subcutánea",
+        "Intravenosa",
+        "Oral"
+      ],
+      "correcta": 2,
+      "explicacion": "Intravenosa. Por vía IM o subcutánea no actúa bien porque el líquido extracelular está aumentado.",
+      "fuente": {
+        "id": "nnac-urg",
+        "pagina": 243,
+        "cita": "La morfina por vía intravenosa es lo recomendable. No administrar por vía intramuscular"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-QU-06",
+      "area": "MI",
+      "tema": "Quemaduras",
+      "enunciado": "¿Qué dice la norma sobre aplicar hielo en una quemadura?",
+      "opciones": [
+        "Es el tratamiento de elección",
+        "No se aplica directo: profundiza la quemadura",
+        "Se aplica 30 minutos",
+        "Solo en quemaduras eléctricas"
+      ],
+      "correcta": 1,
+      "explicacion": "El hielo profundiza la quemadura. El agua fría solo en quemaduras pequeñas: sobre más del 10% hay riesgo de hipotermia.",
+      "fuente": {
+        "id": "nnac-urg",
+        "pagina": 244,
+        "cita": "El hielo no se debe aplicar en forma directa sobre la lesión, porque profundiza la quemadura"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-QU-07",
+      "area": "MI",
+      "tema": "Quemaduras",
+      "enunciado": "Quemadura eléctrica con heridas de entrada y salida pequeñas. ¿Qué exige la norma?",
+      "opciones": [
+        "Alta inmediata",
+        "Monitoreo cardiaco continuo al menos 24 horas",
+        "Solo curación local",
+        "Radiografía de tórax y alta"
+      ],
+      "correcta": 1,
+      "explicacion": "La corriente puede causar arritmias y un daño interno mayor que lo visible: monitoreo cardiaco continuo las primeras 24 horas; ECG obligatorio.",
+      "fuente": {
+        "id": "nnac-urg",
+        "pagina": 244,
+        "cita": "Un monitoreo cardíaco continuo debe efectuarse por lo menos las primeras 24 horas pos descarga"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-QU-08",
+      "area": "MI",
+      "tema": "Quemaduras",
+      "enunciado": "Quemadura profunda circunferencial en un miembro. ¿Qué y cuándo indica la norma?",
+      "opciones": [
+        "Escarotomía antes de las 3 horas",
+        "Vendaje compresivo",
+        "Amputación",
+        "Esperar 72 horas"
+      ],
+      "correcta": 0,
+      "explicacion": "Las quemaduras circunferenciales profundas requieren escarotomía a la brevedad, antes de las 3 horas; en el tórax, de inmediato.",
+      "fuente": {
+        "id": "nnac-urg",
+        "pagina": 240,
+        "cita": "En caso de quemaduras circunferenciales profundas se requieren escarotomía a la brevedad (antes de las 3 horas)"
+      },
+      "estado": "BORRADOR"
+    },
+    {
+      "id": "MI-QU-09",
+      "area": "MI",
+      "tema": "Quemaduras",
+      "enunciado": "Quemadura de segundo grado profundo y tercer grado en más del 20% de la superficie. ¿Adónde se refiere?",
+      "opciones": [
+        "Se maneja en primer nivel",
+        "A un centro de gran quemado o de tercer nivel",
+        "A consulta externa",
+        "A segundo nivel solo si hay fiebre"
+      ],
+      "correcta": 1,
+      "explicacion": "Menos del 10% superficial: primer nivel. Entre 10 y 20%: segundo nivel. Más de 20% profundo: centro de gran quemado o tercer nivel.",
+      "fuente": {
+        "id": "nnac-urg",
+        "pagina": 245,
+        "cita": "con compromiso de mas de 20% de superficie corporal quemada, deben ser referidos a centros de atención de paciente gran quemado"
+      },
+      "estado": "BORRADOR"
     }
   ]
 }

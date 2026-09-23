@@ -203,8 +203,24 @@ validador busca la cita, sin importar tildes, mayúsculas ni puntuación, en el
 texto de esa página del PDF oficial. Si la cita no aparece o está en otra
 página, es error. Lo que la máquina no puede comprobar (que la cita respalde de
 verdad la opción marcada como correcta) queda para quien revise, que solo
-tiene que leer una frase. Las 73 preguntas actuales están en `BORRADOR` hasta esa
+tiene que leer una frase. Las 210 preguntas actuales están en `BORRADOR` hasta esa
 revisión.
+
+**Qué cubre (31 temas).**
+
+| Fuente | Temas |
+|---|---|
+| NNAC Medicina Interna | Asma, neumonía, hipertensión, diabetes, infección urinaria, Chagas, anemia ferropénica, fiebre tifoidea |
+| NNAC Urgencias | Organofosforados, choque anafiláctico, crisis hipertensiva, paro cardiorrespiratorio, mordedura de serpiente, quemaduras, politraumatismo |
+| NNAC Pediatría | Diarrea persistente, neumonía grave, bronquiolitis, dengue, líquidos y electrolitos, faringitis estreptocócica, otitis media, sarampión, alimentación complementaria y suplementación |
+| NNAC Traumatología | Fractura distal del radio, displasia del desarrollo de cadera, fracturas y fracturas expuestas, fractura de diáfisis tibial |
+| Morbilidad obstétrica grave | Preeclampsia y eclampsia, hemorragia posparto |
+| Caracterización de primer nivel | Qué tiene cada establecimiento |
+
+Para sumar un capítulo: leer las páginas en `fuentes/texto/`, escribir cada
+pregunta con una frase textual de la página como `cita` y correr
+`node tools/validate.mjs`. Si la cita no está, textual, en esa página, el
+validador lo marca como error.
 
 ## Decisiones arquitectónicas
 
