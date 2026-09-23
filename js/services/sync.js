@@ -14,9 +14,10 @@
  *    es "implicit" para que el enlace funcione aunque se abra en otro navegador.
  *
  * 3. GANA EL MAS RECIENTE. Si el perfil local y el de la nube difieren, se queda
- *    el que se guardo ultimo (campo actualizado). Excepcion: un perfil local
- *    vacio nunca pisa uno de la nube. Jugar en dos dispositivos a la vez sin
- *    conexion puede perder la partida de uno; es el costo de no tener servidor.
+ *    el que se guardo ultimo (campo actualizado). Excepcion: un perfil vacio
+ *    nunca pisa uno con progreso, ni el local al de la nube ni al reves. Jugar
+ *    en dos dispositivos a la vez sin conexion puede perder la partida de uno;
+ *    es el costo de no tener servidor.
  *
  * 4. La libreria de Supabase se carga recien cuando hace falta (import dinamico
  *    desde el CDN): quien juega sin cuenta no la descarga.
@@ -93,8 +94,10 @@ export async function sincronizar(local) {
   const { data: remoto, error } = await c.from('perfiles').select('datos, actualizado').eq('user_id', uid).maybeSingle();
   if (error) { estadoCuenta.error = error.message; return local; }
 
+  // gana el mas reciente, pero un perfil vacio nunca pisa uno con progreso, en ninguna direccion:
+  // la nube vacia creada al iniciar sesion no debe borrar lo jugado antes en el telefono
   let elegido = local;
-  if (remoto && (vacio(local) || (remoto.datos.actualizado || '') > (local.actualizado || ''))) elegido = remoto.datos;
+  if (remoto && !vacio(remoto.datos) && (vacio(local) || (remoto.datos.actualizado || '') > (local.actualizado || ''))) elegido = remoto.datos;
   if (elegido === local) await subir(local);
   else estadoCuenta.sincronizado = new Date();
   await enviarReportes(elegido);
